@@ -64,6 +64,14 @@ const posts = [
     excerpt: 'How Baidu built the most widely used AI assistant in China through ecosystem integration and first-mover advantage.',
     date: 'April 2, 2026',
     readTime: '14 min read'
+  },
+  {
+    slug: 'doubao-bytedance',
+    title: 'ByteDance Doubao: The 200 Million User AI Assistant Reshaping Content Creation',
+    category: 'AI Chatbots',
+    excerpt: 'How ByteDance built the go-to AI assistant for China\'s content creator generation with deep TikTok and CapCut integration.',
+    date: 'April 3, 2026',
+    readTime: '15 min read'
   }
 ]
 
