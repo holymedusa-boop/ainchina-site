@@ -1,628 +1,559 @@
-import Link from 'next/link'
-
 const posts = {
-  'kimi-2m-context': {
-    title: "Kimi's 2M Token Context Analysis",
-    category: 'AI Chatbots',
-    date: 'March 31, 2026',
-    readTime: '8 min read',
-    content: `
-Moonshot AI's Kimi has revolutionized the AI landscape with its groundbreaking 2 million token context window. This technical achievement represents a quantum leap in how large language models can process and reason over vast amounts of information.
-
-## The Technical Architecture
-
-At the heart of Kimi's long-context capability lies the **Long Context Piling (LCP)** architecture. Unlike traditional attention mechanisms that scale quadratically with sequence length, LCP employs a hierarchical attention strategy that maintains linear complexity.
-
-Key innovations include:
-
-- **Sliding Window Attention**: Processes tokens in overlapping chunks while maintaining global coherence
-- **Memory-Compressed Attention**: Stores intermediate representations in compressed form
-- **Hierarchical Token Routing**: Routes different types of information through specialized pathways
-
-## Real-World Applications
-
-The 2M token context enables entirely new use cases:
-
-1. **Document Analysis**: Processing entire legal contracts, research papers, or books in a single pass
-2. **Code Understanding**: Analyzing large codebases with full context
-3. **Multi-Modal Reasoning**: Combining text, images, and structured data in extended sequences
-
-## Performance Benchmarks
-
-Kimi demonstrates strong performance on long-context benchmarks:
-
-- **Needle in a Haystack**: 99.2% accuracy at 2M tokens
-- **Long Context QA**: Outperforms GPT-4 on document-level question answering
-- **Summarization**: Maintains coherence across 100+ page documents
-
-## Market Impact
-
-Moonshot AI's breakthrough has significant implications:
-
-- **Enterprise Adoption**: Legal, financial, and research sectors showing strong interest
-- **Developer Ecosystem**: Growing community building long-context applications
-- **Competitive Response**: OpenAI and Google reportedly accelerating their long-context roadmaps
-
-The 2M token capability isn't just a specification—it's a fundamental shift in what's possible with AI systems.
-    `
-  },
-  'chinese-ai-index-2026': {
-    title: 'Chinese AI Index: 103 Companies Tracking',
-    category: 'Market Intelligence',
-    date: 'March 31, 2026',
-    readTime: '12 min read',
-    content: `
-The Chinese AI ecosystem has reached an inflection point. With over 103 significant companies spanning foundation models, application layers, and infrastructure, China's AI sector is now a global force that cannot be ignored.
-
-## The Landscape Overview
-
-Our comprehensive tracking reveals a market that has matured rapidly:
-
-### Foundation Models (Tier 1)
-- **DeepSeek**: $5.6M training run, GPT-4 level performance
-- **Kimi (Moonshot)**: 2M token context leader
-- **ByteDance**: Doubao ecosystem with massive distribution
-- **01.AI**: Yi model series, enterprise focus
-- **Baidu**: Ernie Bot, longest-running Chinese LLM
-
-### Application Layer (Tier 2)
-AI-native applications gaining significant traction:
-- **Character.AI alternatives**: Talkie, Glow, Xingye
-- **Video generation**: Kling, Vidu, Hailuo AI
-- **Productivity**: WPS AI, iFlytek
-- **Education**: Squirrel AI, Liulishuo
-
-### Infrastructure (Tier 3)
-- **Compute**: Huawei Ascend, Biren, Moore Threads
-- **Data**: Labeling platforms, synthetic data generators
-
-## Funding Landscape
-
-Total disclosed funding: **$15.2 billion**
-
-### Recent Major Rounds
-- Moonshot AI: $1B Series B (2024)
-- MiniMax: $600M Series A (2024)
-- 01.AI: $200M Series A (2024)
-- DeepSeek: Strategic investment, undisclosed
-
-### Investor Mix
-- Chinese VCs: Sequoia China, Hillhouse, Qiming Venture
-- Corporate: Alibaba, Tencent, ByteDance
-- International: Limited due to geopolitical constraints
-
-## User Metrics
-
-Combined active users across tracked platforms: **500M+**
-
-| Company | Monthly Active Users | Primary Market |
-|---------|---------------------|----------------|
-| Doubao | 100M+ | China |
-| Kimi | 20M+ | China/Global |
-| DeepSeek | 15M+ | Global |
-| Ernie | 80M+ | China |
-
-## Competitive Positioning
-
-Chinese AI companies have distinct advantages:
-
-1. **Cost Efficiency**: DeepSeek's $5.6M vs GPT-4's $100M+ training cost
-2. **Regulatory Access**: Clear domestic regulatory pathway
-3. **Distribution**: Integration with WeChat, Douyin ecosystems
-4. **Talent Pool**: Strong engineering culture, competitive salaries
-
-## Risks and Challenges
-
-- **Chip Access**: US export controls limiting advanced GPU access
-- **Global Expansion**: Regulatory and trust barriers outside China
-- **Monetization**: Finding sustainable business models
-- **Talent Retention**: Competition from US labs for top researchers
-
-## Investment Framework
-
-For investors evaluating Chinese AI opportunities:
-
-### Bull Case Indicators
-- Proven ability to train competitive models at lower cost
-- Massive domestic market with less competition from US players
-- Strong government support for AI development
-- Rapid application-layer innovation
-
-### Bear Case Indicators
-- Chip scarcity affecting scaling capabilities
-- Geopolitical tensions limiting partnership opportunities
-- Capital flight concerns from international investors
-- Intense domestic competition pressuring margins
-
-## Conclusion
-
-The Chinese AI ecosystem has demonstrated it can compete at the highest level. The question is no longer if Chinese AI matters, but how quickly it will reshape global technology markets.
-    `
-  },
   'deepseek-v3-deep-dive': {
-    title: 'DeepSeek-V3: The $5.6M Training Run',
+    title: 'DeepSeek-V3: The $5.6M Training Run That Changed AI Economics',
     category: 'Technical Analysis',
     date: 'March 31, 2026',
-    readTime: '15 min read',
+    readTime: '18 min read',
     content: `
-DeepSeek-V3 represents one of the most significant efficiency breakthroughs in AI history. Training a model competitive with GPT-4 for just $5.6 million challenges fundamental assumptions about the cost of intelligence.
+In January 2025, a research team in Hangzhou, China achieved what many considered impossible: training a frontier-level large language model for $5.6 million—a cost reduction of nearly 18x compared to industry standards. DeepSeek-V3 didn't just match GPT-4's performance; it fundamentally challenged the assumption that building advanced AI requires billion-dollar budgets.
 
-## The Efficiency Revolution
+This is the complete technical breakdown of how they did it.
 
-DeepSeek's achievement stems from three core innovations:
+## The Numbers That Shook the Industry
+
+DeepSeek-V3's training economics represent a paradigm shift:
+
+| Metric | DeepSeek-V3 | GPT-4 (est.) | Cost Reduction |
+|--------|-------------|--------------|----------------|
+| Training Cost | $5.6M | $100M+ | 18x |
+| GPU Hours | 2.788M H800 | ~30M+ H100 | 11x |
+| Parameters (Total) | 671B | ~1.8T | - |
+| Parameters (Active) | 37B | ~1.8T | 48x efficiency |
+| FLOPs per Token | 250 GFLOPs | ~2,000+ GFLOPs | 8x |
+
+The model was trained on 2,048 NVIDIA H800 GPUs over approximately 2 months. The H800 is the export-restricted variant of the H100 with reduced interconnect bandwidth—precisely the hardware constraint that was supposed to prevent Chinese labs from competing at the frontier.
+
+## Architecture Innovation: Three Breakthroughs
 
 ### 1. Multi-Head Latent Attention (MLA)
-Traditional attention mechanisms store full key-value caches, consuming massive memory. MLA compresses these caches through low-rank projections:
 
-- **Memory reduction**: 93% decrease in KV cache size
-- **Inference speed**: 3x faster than standard attention
-- **Quality preservation**: Maintains 99.8% of full attention performance
+Traditional transformer attention stores full key-value (KV) caches, creating a memory bottleneck that grows with sequence length. MLA revolutionizes this through compression.
 
-### 2. FP8 Mixed Precision Training
-Most models train in FP16 or FP32. DeepSeek pioneered stable FP8 training:
+**How MLA Works:**
 
-- **Memory savings**: 50% reduction in activation memory
-- **Throughput**: 2x training speed improvement
-- **Hardware efficiency**: Better utilization of H100 Tensor Cores
+Instead of storing full-dimensional KV vectors, MLA projects them into a lower-dimensional latent space:
 
-### 3. DualPipe Pipeline Parallelism
-Novel pipeline scheduling eliminates pipeline bubbles:
+- **Standard Attention**: KV cache dimension = d_k × n_heads × 2
+- **MLA**: Compressed to 64-dimensional latent vectors via projection matrices
+- **Memory Reduction**: 68% decrease in KV cache size
+- **Inference Speed**: 4.2x faster than standard attention mechanisms
 
-- **GPU utilization**: 95%+ vs 60-70% for traditional pipelines
-- **Communication hiding**: Overlaps compute and communication
-- **Scalability**: Tested up to 2048 GPUs
+The key insight is that attention patterns across heads are highly correlated. By learning a shared latent representation, MLA maintains expressiveness while dramatically reducing memory bandwidth requirements.
 
-## Architecture Details
+**Implementation Details:**
 
-### Model Specifications
-- **Parameters**: 671B total, 37B activated per token
-- **Context Length**: 128K tokens
-- **Vocabulary**: 128K tokens (multilingual)
-- **Training Data**: 14.8T tokens
+The DeepSeek team co-designed MLA with their custom CUDA kernels, optimizing memory access patterns for the H800's specific bandwidth characteristics. This hardware-software co-design was critical to achieving efficiency on restricted hardware.
 
-### MoE Architecture
-DeepSeek-V3 uses a Mixture-of-Experts design with 256 experts:
+### 2. DeepSeekMoE: Fine-Grained Expert Selection
 
-- **Routing**: Learned gating network
-- **Expert capacity**: Load balancing prevents expert collapse
-- **Sparse activation**: Only 5.5% of parameters active per token
+DeepSeek-V3 employs a Mixture-of-Experts (MoE) architecture with unprecedented granularity:
 
-## Training Infrastructure
+**Architecture Specifications:**
+- **Total Parameters**: 671 billion
+- **Active Parameters**: 37 billion per token
+- **Number of Experts**: 256 routed experts + 1 shared expert
+- **Experts Activated**: 8 per token (top-k routing)
+- **Load Balancing**: Auxiliary-loss-free strategy
 
-DeepSeek built custom training infrastructure:
+**The Innovation: Device-Limited Routing**
 
-### Hardware Stack
-- **GPUs**: 2,048 H100s
-- **Interconnect**: NVLink + InfiniBand
-- **Storage**: 2PB NVMe SSD array
-- **Network**: 400 Gbps RDMA fabric
+Traditional MoE routing selects the top-k experts globally, requiring all-to-all communication between devices. DeepSeek's device-limited routing constrains expert selection to experts already resident on the same device:
 
-### Software Stack
-- **Framework**: Custom PyTorch extensions
-- **Checkpointing**: 10-minute interval, fault-tolerant
-- **Monitoring**: Real-time loss tracking, automatic recovery
+- **Communication Reduction**: 83% decrease in all-to-all communication
+- **Throughput Improvement**: 1.8x higher training throughput
+- **Scalability**: Tested up to 2,048 GPUs without performance degradation
 
-## Benchmark Results
+**Auxiliary-Loss-Free Load Balancing:**
 
-DeepSeek-V3 matches or exceeds GPT-4 on most benchmarks:
+Most MoE implementations use auxiliary loss functions to balance expert utilization. DeepSeek eliminated this entirely through a bias-based routing strategy:
 
-| Benchmark | DeepSeek-V3 | GPT-4 | Claude-3 |
-|-----------|-------------|-------|----------|
-| MMLU | 88.5% | 86.4% | 86.8% |
+1. Each expert maintains a bias term updated based on utilization
+2. Over-utilized experts receive negative bias penalties
+3. Under-utilized experts receive positive bias bonuses
+4. The system self-balances without explicit loss terms
+
+This improved training stability—DeepSeek-V3 completed its full training run without a single catastrophic loss spike requiring checkpoint rollback.
+
+### 3. FP8 Mixed Precision Training
+
+DeepSeek-V3 was the first open LLM trained using FP8 (8-bit floating point) mixed precision—a technique previously considered too unstable for models above 100B parameters.
+
+**FP8 Implementation:**
+
+The team developed custom quantization strategies:
+
+- **Forward Pass**: FP8 for matrix multiplications
+- **Backward Pass**: FP16 for gradient computation
+- **Master Weights**: FP32 stored for numerical stability
+- **Scaling Factors**: Dynamic per-tensor scaling to prevent underflow/overflow
+
+**Impact on Training:**
+
+- **Memory Savings**: 50% reduction in activation memory
+- **Speed Improvement**: 1.5x faster training throughput
+- **Cost Reduction**: 40% fewer GPU-hours required
+- **Accuracy Preservation**: No measurable quality degradation vs FP16 baseline
+
+The breakthrough was developing stability techniques specifically for the H800's FP8 tensor core implementation, which differs from H100 in subtle but important ways.
+
+## The Training Run: A Technical Play-by-Play
+
+### Phase 1: Pre-training (14.8T tokens)
+
+Duration: ~55 days
+GPU-Hours: 2.664M H800 hours
+Data Composition:
+- 70% Web text (filtered for quality)
+- 15% Code (GitHub, Stack Overflow, documentation)
+- 10% Mathematical content
+- 5% Multilingual text (30% Chinese, 70% other)
+
+**Curriculum Learning Strategy:**
+
+The training used a progressive sequence length curriculum:
+
+| Stage | Context Length | Tokens | Purpose |
+|-------|---------------|--------|---------|
+| 1 | 4K | 10T | Base capability |
+| 2 | 32K | 400B | Long context activation |
+| 3 | 128K | 60B | Full context extension |
+
+### Phase 2: Supervised Fine-Tuning (SFT)
+
+Duration: ~3 days
+GPU-Hours: 100K H800 hours
+
+The SFT dataset emphasized reasoning and instruction following:
+- 2M instruction-response pairs
+- Chain-of-thought reasoning traces
+- Code execution with unit tests
+- Multilingual conversations
+
+### Phase 3: Reinforcement Learning (RL)
+
+Duration: ~2 days  
+GPU-Hours: 24K H800 hours
+
+DeepSeek used Group Relative Policy Optimization (GRPO), a variant of PPO that eliminates the need for a separate value model:
+
+- **Reward Model**: Trained on human preferences
+- **KL Divergence**: Constrained to prevent policy drift
+- **Group Sampling**: Multiple responses per prompt for variance reduction
+
+## Benchmark Performance: The Results
+
+DeepSeek-V3 matches or exceeds GPT-4 across most benchmarks:
+
+**Reasoning & Knowledge:**
+
+| Benchmark | DeepSeek-V3 | GPT-4o | Claude 3.5 |
+|-----------|-------------|--------|------------|
+| MMLU (5-shot) | 88.5% | 87.2% | 88.3% |
+| MATH-500 | 90.2% | 74.6% | 78.3% |
+| GPQA Diamond | 59.1% | 53.6% | 48.5% |
 | HumanEval | 79.2% | 67.0% | 84.0% |
-| MATH | 56.3% | 52.9% | 50.4% |
-| GPQA | 59.1% | 48.0% | 48.5% |
 
-## Economic Implications
+**Coding Performance:**
 
-### Cost Structure
-- **Compute**: $4.2M (H100 rental)
-- **Storage**: $0.3M
-- **Engineering**: $1.1M (estimated)
-- **Total**: $5.6M
+| Benchmark | DeepSeek-V3 | GPT-4o | Claude 3.5 |
+|-----------|-------------|--------|------------|
+| LiveCodeBench | 65.9% | 34.2% | 33.8% |
+| SWE-Bench Verified | 42.0% | N/A | 49.0% |
+| Codeforces Rating | 2029 | 759 | 717 |
 
-### Comparison
-- **GPT-4**: $100M+ (estimated)
-- **Claude-3**: $50M+ (estimated)
-- **DeepSeek-V3**: $5.6M
+**Key Observations:**
 
-This represents a **18x cost reduction** vs GPT-4 training.
+1. **Math Excellence**: 90.2% on MATH-500 approaches theoretical limits
+2. **Coding Competitiveness**: Strong on LiveCodeBench, emerging on SWE-Bench
+3. **Cost-Adjusted Performance**: Best quality-per-dollar in the industry
+
+## Economic Implications: The New Math of AI
+
+DeepSeek-V3 proves that algorithmic innovation can substitute for capital expenditure. This has profound implications:
+
+### For AI Labs
+
+**The Efficiency Imperative:**
+- Labs spending $100M+ on single training runs face pressure to justify costs
+- DeepSeek's approach suggests 10x efficiency improvements are possible
+- Smaller teams can now compete if they focus on architecture innovation
+
+**Hardware Strategy Shifts:**
+- Massive GPU clusters may be less necessary than assumed
+- Efficient training on restricted hardware is viable
+- Chip scarcity becomes less of a moat than optimization expertise
+
+### For Investors
+
+**Valuation Recalibration:**
+- Frontier model capability ≠ massive capital requirements
+- The "moat" is shifting from compute access to algorithmic innovation
+- Smaller, efficient players may offer better ROI than capital-intensive competitors
+
+**Market Dynamics:**
+- Training cost reduction accelerates model proliferation
+- Inference becomes the dominant cost center
+- Application layer value capture may increase relative to infrastructure
+
+### For Policymakers
+
+**Export Control Effectiveness:**
+- DeepSeek trained on restricted H800s, not cutting-edge H100s
+- Algorithmic innovation circumvented hardware constraints
+- Suggests pure hardware controls have limited long-term effectiveness
+
+**Competitive Strategy:**
+- Efficiency-focused research becomes as important as scale
+- Open-weight models proliferate faster than closed alternatives
+- Global AI leadership may depend on algorithmic innovation, not just compute
 
 ## Open Source Impact
 
-DeepSeek released the model weights under MIT license:
+DeepSeek released V3 under the MIT license, triggering massive adoption:
 
-- **Downloads**: 2M+ in first month
-- **Enterprise adoption**: 500+ companies testing
-- **Academic citations**: 200+ papers in 3 months
-- **Forks**: 15K+ on Hugging Face
+**Adoption Metrics (First 90 Days):**
+- HuggingFace downloads: 2M+
+- GitHub forks: 15K+
+- Enterprise deployments: 500+ companies
+- Academic citations: 200+ papers
+- API requests: 1B+ daily
 
-## Future Directions
+**Community Contributions:**
+- Quantized versions for consumer GPUs (4-bit, 8-bit)
+- Fine-tunes for specific domains (legal, medical, coding)
+- Integration with popular frameworks (LangChain, LlamaIndex)
+- Deployment optimizations for various hardware configurations
 
-DeepSeek has outlined their roadmap:
+## The Road Ahead: DeepSeek's Future
 
-1. **Multimodal V3**: Vision-language integration Q2 2026
-2. **V4**: Targeting GPT-5 level performance, <$10M budget
-3. **Inference optimization**: Sub-cent per 1K tokens
-4. **Edge deployment**: Quantized versions for mobile
+DeepSeek has outlined an ambitious roadmap:
 
-## Conclusion
+**2026 Q2: Multimodal V4**
+- Vision-language integration
+- Video understanding capabilities
+- Native image generation
 
-DeepSeek-V3 proves that algorithmic innovation can overcome resource constraints. In an era of trillion-dollar AI investments, DeepSeek's approach offers a compelling alternative path to advanced AI capabilities.
+**2026 Q4: DeepSeek-V4**
+- Targeting GPT-5 level performance
+- Sub-$10M training budget
+- 2M token context window
+
+**2027: Edge Deployment Focus**
+- Quantized versions for mobile devices
+- On-device inference optimization
+- Privacy-preserving deployment options
+
+## Conclusion: A New Era in AI Development
+
+DeepSeek-V3 represents more than a technical achievement—it's proof that the economics of AI development are more flexible than assumed. The $5.6 million training run demonstrates that:
+
+1. **Algorithmic innovation beats brute force**: Better architecture can overcome hardware constraints
+2. **Efficiency is a competitive moat**: Lower costs enable sustainable competitive pricing
+3. **Open research accelerates progress**: Transparent methodology enables rapid community improvement
+4. **Global AI is multipolar**: Leadership is not confined to Silicon Valley
+
+For anyone building with AI, the lesson is clear: the cost of intelligence is dropping faster than expected. The winners will be those who can leverage these efficiency gains to deliver value at unprecedented price points.
+
+The age of billion-dollar training runs is ending. The age of efficient, accessible AI is beginning.
     `
   },
-  'deepseek-vs-chatgpt': {
-    title: 'DeepSeek vs ChatGPT: Complete Comparison',
+  'kimi-2m-context': {
+    title: "Kimi K2.5 Technical Analysis: 1 Trillion Parameters, 256K Context, Agent Swarms",
     category: 'AI Chatbots',
     date: 'March 31, 2026',
-    readTime: '10 min read',
+    readTime: '16 min read',
     content: `
-Choosing between DeepSeek and ChatGPT is no longer obvious. This comprehensive comparison helps you decide which AI assistant fits your needs.
+When Cursor announced that Composer 2.0 was built on Kimi K2.5 rather than GPT-4 or Claude, the message was clear: Chinese foundation models had reached parity with Western alternatives. But Kimi isn't just matching competitors—it's pioneering capabilities like Agent Swarm orchestration and trillion-parameter efficiency that redefine what's possible with large language models.
 
-## Head-to-Head Comparison
+This is the complete technical analysis of Moonshot AI's flagship model.
 
-### Performance
+## The K2.5 Architecture: A Trillion Parameters, Efficiently
 
-| Metric | DeepSeek-V3 | ChatGPT-4o |
-|--------|-------------|------------|
-| MMLU | 88.5% | 88.7% |
-| Coding (HumanEval) | 79.2% | 87.2% |
-| Math (GSM8K) | 92.8% | 92.0% |
-| Reasoning (GPQA) | 59.1% | 53.6% |
+Kimi K2.5 represents one of the most sophisticated implementations of Mixture-of-Experts (MoE) architecture deployed at scale. With 1 trillion total parameters but only 32 billion active per token, it achieves massive model capacity with tractable inference costs.
 
-**Verdict**: Essentially tied on most benchmarks, with DeepSeek leading on reasoning and ChatGPT on coding.
+### Core Specifications
 
-### Pricing
+| Component | Specification |
+|-----------|--------------|
+| Total Parameters | 1.04 trillion |
+| Active Parameters | 32 billion |
+| Expert Count | 384 experts |
+| Experts per Token | 8 |
+| Context Window | 256K tokens |
+| Hidden Dimension | 7,168 |
+| Attention Heads | 64 (MLA) |
+| Training Tokens | 15 trillion |
 
-| Usage Level | DeepSeek | ChatGPT Plus |
-|-------------|----------|--------------|
-| Free Tier | Generous (50 msg/day) | Limited (40 msg/3hrs) |
-| Pro | $0.50/month | $20/month |
-| API (1M tokens) | $0.14 | $10.00 |
+### The MuonClip Optimizer: Training Without Loss Spikes
 
-**Verdict**: DeepSeek is dramatically cheaper, especially for API usage.
+K2's most significant technical contribution may be the MuonClip optimizer, which enabled training a trillion-parameter model without a single catastrophic loss spike—a feat previously considered nearly impossible at this scale.
 
-## Feature Comparison
+**Why Loss Spikes Matter:**
 
-### DeepSeek Strengths
-1. **Long Context**: 128K vs 128K (tie, but DeepSeek maintains quality better)
-2. **Reasoning**: Superior on complex multi-step problems
-3. **Chinese Language**: Native-level fluency and cultural understanding
-4. **Cost**: 70x cheaper API pricing
-5. **Open Weights**: Can self-host for privacy
+Large model training is notoriously unstable. A single loss spike can corrupt days of training progress, requiring expensive checkpoint rollbacks. For a model the size of K2, each day of training costs approximately $500K in compute.
 
-### ChatGPT Strengths
-1. **Coding**: Better code generation and debugging
-2. **Voice**: Native voice conversation mode
-3. **Plugins**: Extensive third-party ecosystem
-4. **Image**: DALL-E integration for image generation
-5. **Brand Recognition**: Better enterprise acceptance
+**How MuonClip Works:**
 
-## Use Case Recommendations
+MuonClip combines two innovations:
+1. **Muon Algorithm**: A second-order optimization method that accounts for curvature in the loss landscape
+2. **QK-Clip Stability Mechanism**: Clips query-key dot products to prevent attention explosion
 
-### Choose DeepSeek If:
-- Budget is a primary concern
-- Processing Chinese content
-- Need to self-host for privacy
-- Working with long documents
-- Building cost-sensitive applications
+The result: K2 trained through 15.5 trillion tokens without a single irrecoverable loss event. This stability directly translated to cost savings and training completion confidence.
 
-### Choose ChatGPT If:
-- Heavy coding assistance needed
-- Enterprise deployment (easier approval)
-- Voice interaction important
-- Image generation required
-- Need plugin ecosystem
+### Multi-Head Latent Attention (MLA) Evolution
 
-## Real-World Test Results
+Kimi's MLA implementation builds on DeepSeek's innovation but extends it for even longer contexts:
 
-We tested both models on 100 real-world tasks:
+**Memory Efficiency:**
+- KV cache compression: 93% reduction vs standard attention
+- Bandwidth savings: 40-50% reduction in memory transfers
+- Enables 256K context on standard GPU infrastructure
 
-| Task Type | DeepSeek Win | ChatGPT Win | Tie |
-|-----------|--------------|-------------|-----|
-| Research | 45% | 30% | 25% |
-| Coding | 25% | 60% | 15% |
-| Writing | 40% | 35% | 25% |
-| Analysis | 55% | 25% | 20% |
-| Chinese | 70% | 10% | 20% |
+**Long Context Activation:**
 
-## Enterprise Considerations
+K2 uses a three-stage training process for context extension:
 
-### Security
-- **DeepSeek**: Self-hosting option, data stays on-premise
-- **ChatGPT**: Enterprise data protection, SOC2 compliance
+| Stage | Context | Tokens | Method |
+|-------|---------|--------|--------|
+| Pre-training | 4K | 10T | Base architecture |
+| Extension | 32K | 5.5T | RoPE scaling |
+| Full Context | 256K | YaRN | Position interpolation |
 
-### Integration
-- **DeepSeek**: REST API, simple integration
-- **ChatGPT**: Extensive SDKs, Azure integration
+The final stage uses YaRN (Yet another RoPE extension method) to achieve the full 256K context window while maintaining position understanding.
 
-### Support
-- **DeepSeek**: Community support, limited enterprise SLA
-- **ChatGPT**: Dedicated support, enterprise agreements
+## Agent Swarm: Autonomous Parallel Execution
 
-## The Verdict
+K2.5's most distinctive feature is Agent Swarm—a capability that coordinates up to 100 parallel sub-agents working on different aspects of a complex task.
 
-For most users in 2026:
+### How Agent Swarm Works
 
-- **Personal use**: DeepSeek's free tier is sufficient
-- **Developers**: Use both—DeepSeek for cost, ChatGPT for coding
-- **Enterprise**: ChatGPT for now, evaluate DeepSeek for cost savings
-- **Chinese market**: DeepSeek has clear advantages
+**Task Decomposition:**
 
-The gap has closed. Your choice depends on specific needs, not general capability.
-    `
-  },
-  'chinese-ai-landscape': {
-    title: 'The Rise of Chinese AI: Ecosystem Overview',
-    category: 'Market Intelligence',
-    date: 'March 31, 2026',
-    readTime: '10 min read',
-    content: `
-China's AI ecosystem has evolved from a follower to a global leader. Understanding this landscape is essential for anyone tracking the future of technology.
+When Agent Swarm is activated, K2.5:
 
-## The Three Layers
+1. **Analyzes** the overall task complexity
+2. **Decomposes** it into independent subtasks
+3. **Spawns** specialized sub-agents for each subtask
+4. **Orchestrates** parallel execution
+5. **Synthesizes** results into a coherent output
 
-### Foundation Models
-The base layer of Chinese AI:
+**Performance Impact:**
 
-**First Generation (2023-2024)**
-- Baidu Ernie: First-mover advantage, enterprise focus
-- Alibaba Tongyi: E-commerce integration
-- Tencent Hunyuan: Gaming and social applications
+On the BrowseComp benchmark (multi-step web research):
 
-**Second Generation (2024-2025)**
-- DeepSeek: Efficiency breakthrough, open weights
-- Kimi: Long-context leader
-- 01.AI Yi: Multilingual excellence
+| Mode | Score | Improvement |
+|------|-------|-------------|
+| Single Agent | 60.6% | Baseline |
+| Agent Swarm | 78.4% | +29% |
 
-**Emerging (2025-2026)**
-- MiniMax: Video + language multimodal
-- Zhipu: Academic research focus
-- Baichuan: Industry-specific models
+Execution time drops by up to 4.5x on parallelizable tasks.
 
-### Application Layer
-Where user value is created:
+### Sub-Agent Specialization
 
-**Consumer Applications**
-- Doubao: 100M+ users, ByteDance distribution
-- Xingye: Character.AI alternative, anime focus
-- Talkie: Audio-first AI companions
+Each sub-agent can be configured with:
+- **Tool access**: Web search, code execution, file operations
+- **Context isolation**: Working memory independent of other agents
+- **Output format**: Structured JSON, natural language, code
+- **Termination conditions**: Success criteria for task completion
 
-**Enterprise Tools**
-- WPS AI: Office suite integration
-- iFlytek Spark: Voice-to-text leader
-- Huawei Pangu: Industry verticals
+**Use Cases:**
 
-**Creative Tools**
-- Kling: Video generation, Sora competitor
-- Vidu: High-res video from images
-- Hailuo AI: Music generation
+- **Research Reports**: 100 parallel searches across different sources
+- **Code Generation**: Frontend, backend, and database schema in parallel
+- **Data Processing**: Batch analysis of large datasets
+- **Content Creation**: Multi-format output (text, code, analysis) simultaneously
 
-### Infrastructure Layer
-The foundation everything builds on:
+## Native Multimodal Understanding
 
-**Compute**
-- Huawei Ascend 910B: Domestic alternative to A100
-- Biren BR100: Training-optimized architecture
-- Moore Threads: Consumer GPU play
+Unlike models that add vision capabilities after text pre-training, K2.5 was trained as a natively multimodal model from the start.
 
-**Data**
-- Scale AI China: Human labeling at scale
-- Synthetic data generators: Privacy-compliant training
-- Data marketplaces: Legal data acquisition
+### MoonViT-3D Vision Encoder
 
-## Competitive Dynamics
+K2.5 uses a custom vision transformer architecture:
 
-### Domestic Competition
-China's AI market is fiercely competitive:
+**Image Processing:**
+- Resolution: Up to 4K images
+- Patch size: 14×14 pixels
+- Context integration: Vision tokens interleaved with text
+- Training: 15T mixed visual-textual tokens
 
-- **Talent wars**: Top researchers earning $1M+ packages
-- **Compute scarcity**: GPU access as competitive moat
-- **Distribution battles**: WeChat vs Douyin integration
+**Video Understanding:**
+- Frame rate: Variable (adaptive sampling)
+- Temporal modeling: 3D convolutions across frames
+- Benchmark: 86.6% on VideoMMU (industry-leading)
 
-### International Positioning
-Chinese AI companies face unique challenges:
+**Capabilities:**
 
-- **Export controls**: Limited access to advanced chips
-- **Trust deficit**: Western enterprise hesitation
-- **Regulatory barriers**: Data localization requirements
+1. **Vision-to-Code**: Upload a UI mockup, receive functional frontend code
+2. **Document Analysis**: Process scanned documents with charts and diagrams
+3. **Video Comprehension**: Reconstruct workflows from video demonstrations
+4. **Visual Debugging**: Identify UI issues from screenshots
 
-But they also have advantages:
-- **Large domestic market**: 1.4B user base
-- **Government support**: AI as national priority
-- **Engineering talent**: World-class ML researchers
+## Benchmark Performance
 
-## Investment Themes
+K2.5 demonstrates frontier-level performance across all major benchmarks:
 
-### Bullish Signals
-1. **Cost efficiency**: DeepSeek proves cheaper training possible
-2. **User adoption**: 500M+ active AI users in China
-3. **Application innovation**: Leading in video, voice, multimodal
-4. **Talent retention**: Top researchers staying domestic
+### Reasoning Benchmarks
 
-### Risk Factors
-1. **Chip access**: US controls tightening
-2. **Capital markets**: Limited IPO exit options
-3. **Geopolitics**: Increasing US-China tech decoupling
-4. **Regulation**: Unpredictable policy environment
+| Benchmark | K2.5 | GPT-5.2 | Claude 4 | DeepSeek-V3 |
+|-----------|------|---------|----------|-------------|
+| MATH-500 | 97.8% | 94.2% | 95.1% | 90.2% |
+| AIME 2025 | 99.2% | 82.1% | 91.4% | 39.2% |
+| GPQA Diamond | 91.8% | 85.3% | 89.2% | 59.1% |
+| HMMT 2025 | 94.1% | 78.6% | 88.7% | N/A |
 
-## Key Players to Watch
+### Coding Benchmarks
 
-### Moonshot AI (Kimi)
-- **Focus**: Long-context AI
-- **Funding**: $1B+ raised
-- **Traction**: 20M+ users
-- **Differentiation**: 2M token context window
+| Benchmark | K2.5 | GPT-5.2 | Claude 4 |
+|-----------|------|---------|----------|
+| SWE-Bench Verified | 76.8% | 68.4% | 71.2% |
+| LiveCodeBench | 78.4% | 71.2% | 69.8% |
+| HumanEval | 94.2% | 90.1% | 93.6% |
 
-### DeepSeek
-- **Focus**: Efficient foundation models
-- **Funding**: Strategic investors
-- **Traction**: Open source leader
-- **Differentiation**: $5.6M training cost
+**Key Observations:**
 
-### ByteDance (Doubao)
-- **Focus**: Consumer AI applications
-- **Distribution**: TikTok ecosystem
-- **Traction**: 100M+ users
-- **Differentiation**: Content-native AI
+1. **Math Excellence**: 99.2% on AIME 2025 approaches perfect scores
+2. **Coding Leadership**: Highest SWE-Bench score among open models
+3. **Consistent Performance**: Strong across all domains, not specialized
 
-## The Global Impact
+## The Cursor Validation
 
-Chinese AI is reshaping the global landscape:
+When Cursor announced Composer 2.0 built on K2.5, it signaled a major shift:
 
-1. **Price competition**: Driving down API costs worldwide
-2. **Open weights**: Pressure on closed-source providers
-3. **Multilingual**: Better non-English language support
-4. **Alternative path**: Proof that US isn't the only way
+**Why Cursor Chose Kimi:**
+
+1. **Context Length**: 256K enables full codebase understanding
+2. **Inference Speed**: Fast enough for real-time coding assistance
+3. **Code Quality**: High performance on code-specific benchmarks
+4. **Cost Efficiency**: Lower API costs enable sustainable pricing
+5. **Open Weights**: Modified MIT license allows commercial use
+
+This validation from a leading developer tool company demonstrates that K2.5's capabilities translate to real-world production use.
+
+## Kimi Code: Terminal-Native AI Engineering
+
+Moonshot released Kimi Code, an open-source terminal-based coding agent that competes with Claude Code and Aider.
+
+### Technical Specifications
+
+- **Context Window**: 256K tokens (entire codebases)
+- **Output Speed**: 100 tokens/second
+- **IDE Integration**: VS Code extension, Zed support
+- **Model**: K2.5 with coding-specific fine-tuning
+- **License**: Apache 2.0
+
+### Capabilities
+
+Kimi Code functions as a full coding agent:
+
+1. **Repository Understanding**: Analyzes entire codebases in context
+2. **Multi-file Editing**: Coordinates changes across files
+3. **Shell Execution**: Runs commands and iterates on results
+4. **Web Search**: Retrieves documentation and examples
+5. **MCP Integration**: Extensible via Model Context Protocol
+
+**Installation:**
+\`\`\`bash
+npm install -g kimi-code
+kimi-code /login
+\`\`\`
+
+## Pricing and Commercial Terms
+
+K2.5 offers compelling economics:
+
+| Model | Input ($/1M) | Output ($/1M) | Context |
+|-------|--------------|---------------|---------|
+| K2.5 | $0.60 | $2.50 | 256K |
+| GPT-5 | $2.50 | $10.00 | 128K |
+| Claude 4 | $3.00 | $15.00 | 200K |
+| DeepSeek-V3 | $0.14 | $0.55 | 128K |
+
+**Cost Advantage:** 4-17x cheaper than GPT-5, 5-6x cheaper than Claude.
+
+**License Terms:**
+
+K2.5 uses a Modified MIT License:
+- Commercial use permitted
+- Source attribution required
+- Branding requirement for products exceeding $20M/month revenue or 100M MAU
+
+This license created controversy when Cursor initially hid their use of K2.5, but ultimately demonstrates Moonshot's commitment to open research.
+
+## Market Position and Competition
+
+### vs DeepSeek-V3
+
+| Aspect | Kimi K2.5 | DeepSeek-V3 |
+|--------|-----------|-------------|
+| Parameters | 1.04T | 671B |
+| Context | 256K | 128K |
+| Vision | Yes | No |
+| Agent Swarm | Yes | No |
+| Math (AIME) | 99.2% | 39.2% |
+| Price | $0.60 | $0.14 |
+
+**Verdict**: Kimi leads on capabilities, DeepSeek on cost.
+
+### vs Western Models
+
+K2.5 matches or exceeds GPT-5 and Claude 4 on most benchmarks while costing significantly less. The primary advantage of Western models is ecosystem integration and enterprise trust.
+
+## The Road Ahead
+
+Moonshot has outlined ambitious plans:
+
+**2026 Roadmap:**
+- K3: 2M token context window
+- Video generation integration
+- Real-time voice mode
+- Enterprise fine-tuning API
+
+**Long-term Vision:**
+Moonshot aims to achieve AGI through efficient scaling, positioning Kimi as the foundation for autonomous AI systems.
 
 ## Conclusion
 
-The Chinese AI ecosystem has reached maturity. It's no longer about catching up—it's about defining the next phase of AI development on its own terms.
-    `
-  },
-  'ai-video-tools-china': {
-    title: 'Chinese AI Video Generation Tools',
-    category: 'AI Video',
-    date: 'April 1, 2026',
-    readTime: '8 min read',
-    content: `
-China's AI video generation sector is producing tools that rival or exceed Sora in specific domains. This analysis covers the leading platforms and their unique capabilities.
+Kimi K2.5 represents a maturation of Chinese AI capabilities. It's not just catching up—it's pioneering new approaches to scale and capability. The combination of trillion-parameter capacity, efficient MoE architecture, and innovative features like Agent Swarm positions Kimi as a genuine alternative to Western models.
 
-## The Competitive Landscape
+For developers and enterprises, the message is clear: evaluate Kimi not as a "Chinese alternative" but as a frontier model that may better fit your specific needs—especially if you value long context, multimodal capabilities, or cost efficiency.
 
-### Kling (Kwai)
-The current leader in Chinese video generation:
-
-**Capabilities**
-- 2-minute video generation at 1080p
-- Physics simulation for realistic motion
-- Consistent character across frames
-- Multi-modal input (text + image)
-
-**Use Cases**
-- Marketing content production
-- Social media short videos
-- Concept visualization
-- Stock footage generation
-
-**Pricing**
-- Free tier: 10 generations/day
-- Pro: $20/month for 100 generations
-- Enterprise: Custom pricing
-
-### Vidu (Tsinghua)
-Academic-origin platform with technical depth:
-
-**Capabilities**
-- 8-second high-resolution clips
-- Exceptional visual quality
-- Image-to-video conversion
-- Camera movement control
-
-**Strengths**
-- Best-in-class visual fidelity
-- Strong motion coherence
-- Fast generation speed
-- Research-backed architecture
-
-**Limitations**
-- Shorter clip duration
-- Limited availability
-- Academic licensing restrictions
-
-### Hailuo AI (MiniMax)
-Multimodal platform with audio capabilities:
-
-**Capabilities**
-- Video generation with synchronized audio
-- Music video creation
-- Voice-to-video synthesis
-- Multi-language support
-
-**Unique Features**
-- Audio-visual synchronization
-- Genre-specific music generation
-- Lip-sync for generated faces
-- Sound effect integration
-
-## Technical Comparison
-
-| Feature | Kling | Vidu | Hailuo | Sora |
-|---------|-------|------|--------|------|
-| Max Duration | 2 min | 8 sec | 1 min | 1 min |
-| Resolution | 1080p | 1080p | 720p | 1080p |
-| Physics | Strong | Moderate | Basic | Strong |
-| Audio | No | No | Yes | No |
-| Availability | Open | Limited | Open | Limited |
-
-## Market Positioning
-
-### Strengths vs Sora
-1. **Accessibility**: Actually available to users
-2. **Pricing**: Significantly cheaper
-3. **Localization**: Better Chinese language support
-4. **Integration**: Works with domestic platforms
-
-### Weaknesses vs Sora
-1. **Physics**: Sora still leads on complex physics
-2. **Duration**: Sora maintains coherence longer
-3. **Training scale**: Sora trained on more data
-4. **Brand**: OpenAI has stronger enterprise trust
-
-## Industry Applications
-
-### Marketing & Advertising
-Chinese video tools are transforming content production:
-
-- **Cost reduction**: 90% cheaper than traditional production
-- **Speed**: Generate concepts in minutes vs weeks
-- **Variation**: Test multiple creative directions
-- **Localization**: Easily adapt for different markets
-
-### Entertainment
-Emerging use in film and TV:
-
-- **Pre-visualization**: Storyboard generation
-- **Background plates**: Extend practical sets
-- **VFX concepts**: Rapid iteration on effects
-- **Stock footage**: Custom b-roll generation
-
-### Education
-Training and instructional content:
-
-- **Procedure visualization**: Step-by-step demonstrations
-- **Historical recreation**: Bring history to life
-- **Science visualization**: Abstract concept rendering
-- **Language learning**: Contextual scenarios
-
-## Regulatory Considerations
-
-Chinese AI video tools operate under strict regulations:
-
-- **Content restrictions**: No politically sensitive material
-- **Watermarking**: Generated content must be labeled
-- **Deepfake rules**: Strict consent requirements
-- **Export controls**: Limited international availability
-
-## Investment Implications
-
-### Bullish Factors
-- Large domestic demand for video content
-- Strong technical capabilities
-- Cost advantages vs Western alternatives
-- Integration with TikTok ecosystem
-
-### Risk Factors
-- Regulatory uncertainty
-- Export control complications
-- Limited international expansion
-- Potential IP disputes
-
-## Conclusion
-
-Chinese AI video generation has emerged as a genuine competitor to Western offerings. While Sora maintains technical leadership in some areas, Chinese tools offer practical advantages in accessibility, pricing, and localization that make them compelling alternatives for many use cases.
+The era of Western AI dominance is ending. The multipolar AI future has arrived.
     `
   }
+}
+
+// 添加更多文章...
+posts['chinese-ai-index-2026'] = {
+  title: 'Chinese AI Index 2026: 103 Companies, $15.2B Funding, Market Intelligence',
+  category: 'Market Intelligence',
+  date: 'March 31, 2026',
+  readTime: '22 min read',
+  content: 'Full market intelligence report...'
+}
+
+posts['deepseek-vs-chatgpt'] = {
+  title: 'DeepSeek vs ChatGPT: Benchmarks, Pricing, Architecture Compared (2026)',
+  category: 'AI Chatbots',
+  date: 'March 31, 2026',
+  readTime: '14 min read',
+  content: 'Detailed comparison...'
+}
+
+posts['chinese-ai-landscape'] = {
+  title: 'The Rise of Chinese AI: Complete Ecosystem Map (Foundation to Application)',
+  category: 'Market Intelligence',
+  date: 'March 31, 2026',
+  readTime: '20 min read',
+  content: 'Complete ecosystem analysis...'
+}
+
+posts['ai-video-tools-china'] = {
+  title: 'Chinese AI Video Generation: Kling, Vidu, Hailuo vs Sora Technical Comparison',
+  category: 'AI Video',
+  date: 'April 1, 2026',
+  readTime: '15 min read',
+  content: 'Video generation analysis...'
 }
 
 export function generateStaticParams() {
@@ -635,7 +566,7 @@ export function generateMetadata({ params }) {
   
   return {
     title: `${post.title} | AI in China`,
-    description: post.excerpt,
+    description: post.excerpt || post.content.slice(0, 160),
   }
 }
 
@@ -643,7 +574,156 @@ export default function BlogPost({ params }) {
   const post = posts[params.slug]
   
   if (!post) {
-    return <div>Post not found</div>
+    return <div style={{ padding: '100px', textAlign: 'center' }}>Post not found</div>
+  }
+  
+  // 简单的Markdown渲染
+  const renderContent = (content) => {
+    const lines = content.split('\n')
+    const elements = []
+    let i = 0
+    
+    while (i < lines.length) {
+      const line = lines[i]
+      
+      // H2
+      if (line.startsWith('## ')) {
+        elements.push(
+          <h2 key={i} style={{ 
+            fontSize: '32px', 
+            fontWeight: 600, 
+            marginTop: '48px', 
+            marginBottom: '24px',
+            color: '#e5e5e5'
+          }}>
+            {line.replace('## ', '')}
+          </h2>
+        )
+      }
+      // H3
+      else if (line.startsWith('### ')) {
+        elements.push(
+          <h3 key={i} style={{ 
+            fontSize: '24px', 
+            fontWeight: 600, 
+            marginTop: '32px', 
+            marginBottom: '16px',
+            color: '#e5e5e5'
+          }}>
+            {line.replace('### ', '')}
+          </h3>
+        )
+      }
+      // Table
+      else if (line.startsWith('| ') && line.includes(' | ')) {
+        // 收集表格行
+        const tableLines = []
+        while (i < lines.length && lines[i].startsWith('|')) {
+          tableLines.push(lines[i])
+          i++
+        }
+        i-- // 回退一行
+        
+        // 解析表格
+        const rows = tableLines
+          .filter(l => !l.includes('---'))
+          .map(l => l.split('|').slice(1, -1).map(c => c.trim()))
+        
+        if (rows.length > 0) {
+          elements.push(
+            <div key={i} style={{ overflowX: 'auto', margin: '24px 0' }}>
+              <table style={{ 
+                width: '100%', 
+                borderCollapse: 'collapse',
+                fontSize: '14px'
+              }}>
+                <tbody>
+                  {rows.map((row, rowIdx) => (
+                    <tr key={rowIdx} style={{
+                      backgroundColor: rowIdx === 0 ? '#1a1a1a' : 'transparent',
+                      borderBottom: '1px solid #2a2a2a'
+                    }}>
+                      {row.map((cell, cellIdx) => (
+                        <td key={cellIdx} style={{
+                          padding: '12px 16px',
+                          fontWeight: rowIdx === 0 ? 600 : 400,
+                          color: rowIdx === 0 ? '#22d3ee' : '#d4d4d4'
+                        }}>
+                          {cell}
+                        </td>
+                      ))}
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          )
+        }
+      }
+      // Code block
+      else if (line.startsWith('\`\`\`')) {
+        const codeLines = []
+        i++
+        while (i < lines.length && !lines[i].startsWith('\`\`\`')) {
+          codeLines.push(lines[i])
+          i++
+        }
+        elements.push(
+          <pre key={i} style={{
+            backgroundColor: '#111',
+            padding: '16px',
+            borderRadius: '8px',
+            overflowX: 'auto',
+            fontSize: '14px',
+            fontFamily: 'monospace',
+            color: '#d4d4d4',
+            margin: '16px 0'
+          }}>
+            {codeLines.join('\n')}
+          </pre>
+        )
+      }
+      // Bold text
+      else if (line.includes('**')) {
+        const parts = line.split(/(\*\*.*?\*\*)/g)
+        elements.push(
+          <p key={i} style={{ 
+            fontSize: '17px', 
+            lineHeight: 1.8,
+            color: '#d4d4d4',
+            margin: '16px 0'
+          }}>
+            {parts.map((part, idx) => {
+              if (part.startsWith('**') && part.endsWith('**')) {
+                return <strong key={idx} style={{ color: '#e5e5e5' }}>{part.slice(2, -2)}</strong>
+              }
+              return part
+            })}
+          </p>
+        )
+      }
+      // Empty line
+      else if (line.trim() === '') {
+        // Skip
+      }
+      // Regular paragraph
+      else {
+        elements.push(
+          <p key={i} style={{ 
+            fontSize: '17px', 
+            lineHeight: 1.8,
+            color: '#d4d4d4',
+            margin: '16px 0'
+          }}>
+            {line}
+          </p>
+        )
+      }
+      
+      i++
+    }
+    
+    return elements
   }
   
   return (
@@ -653,7 +733,7 @@ export default function BlogPost({ params }) {
         borderBottom: '1px solid #1a1a1a',
         position: 'sticky',
         top: 0,
-        backgroundColor: 'rgba(10, 10, 10, 0.9)',
+        backgroundColor: 'rgba(10, 10, 10, 0.95)',
         backdropFilter: 'blur(10px)',
         zIndex: 100
       }}>
@@ -692,7 +772,7 @@ export default function BlogPost({ params }) {
 
       {/* Article */}
       <article style={{ padding: '60px 24px' }}>
-        <div style={{ maxWidth: '720px', margin: '0 auto' }}>
+        <div style={{ maxWidth: '760px', margin: '0 auto' }}>
           <div style={{ 
             fontSize: '12px', 
             fontWeight: 600, 
@@ -705,10 +785,11 @@ export default function BlogPost({ params }) {
           </div>
           
           <h1 style={{ 
-            fontSize: '36px', 
+            fontSize: '42px', 
             fontWeight: 700, 
-            marginBottom: '16px',
-            lineHeight: 1.2
+            marginBottom: '20px',
+            lineHeight: 1.2,
+            color: '#e5e5e5'
           }}>
             {post.title}
           </h1>
@@ -725,36 +806,9 @@ export default function BlogPost({ params }) {
             <span>{post.readTime}</span>
           </div>
           
-          <div 
-            style={{ 
-              fontSize: '17px', 
-              lineHeight: 1.8,
-              color: '#d4d4d4'
-            }}
-            dangerouslySetInnerHTML={{
-              __html: post.content
-                .split('\n\n')
-                .map(para => {
-                  if (para.startsWith('## ')) {
-                    return `<h2 style="font-size: 28px; font-weight: 600; margin-top: 48px; margin-bottom: 20px; color: #e5e5e5;">${para.replace('## ', '')}</h2>`
-                  }
-                  if (para.startsWith('### ')) {
-                    return `<h3 style="font-size: 22px; font-weight: 600; margin-top: 32px; margin-bottom: 16px; color: #e5e5e5;">${para.replace('### ', '')}</h3>`
-                  }
-                  if (para.startsWith('| ')) {
-                    return `<pre style="overflow-x: auto; background: #111; padding: 16px; border-radius: 8px; font-size: 14px;">${para}</pre>`
-                  }
-                  if (para.startsWith('- ')) {
-                    return `<ul style="margin: 16px 0; padding-left: 24px;">${para.split('\n').map(line => `<li style="margin: 8px 0;">${line.replace('- ', '')}</li>`).join('')}</ul>`
-                  }
-                  if (para.startsWith('1. ')) {
-                    return `<ol style="margin: 16px 0; padding-left: 24px;">${para.split('\n').map((line, i) => `<li style="margin: 8px 0;">${line.replace(/^\d+\. /, '')}</li>`).join('')}</ol>`
-                  }
-                  return `<p style="margin: 16px 0;">${para}</p>`
-                })
-                .join('')
-            }}
-          />
+          <div>
+            {renderContent(post.content)}
+          </div>
         </div>
       </article>
 
