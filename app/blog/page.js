@@ -2,6 +2,14 @@ import Link from 'next/link'
 
 const posts = [
   {
+    slug: 'qwen3-technical-analysis',
+    title: "Qwen3 Technical Analysis: Alibaba's 235B MoE Model",
+    category: 'Technical Analysis',
+    excerpt: "How Alibaba's latest model achieves GPT-4 level performance with dynamic fast/deep reasoning modes, 22B active parameters, and 70% cost reduction.",
+    date: 'March 31, 2026',
+    readTime: '18 min read'
+  },
+  {
     slug: 'kimi-2m-context',
     title: "Kimi's 2M Token Context Analysis",
     category: 'AI Chatbots',
