@@ -52,6 +52,11 @@ const postMetadata = {
     metaDescription: 'How MiniMax built the world\'s largest AI companion platform with 212M users. Talkie, 星野, Hailuo AI video, and the future of emotional AI.',
     keywords: 'MiniMax Talkie, MiniMax AI, AI companion, Chinese AI, Talkie app, Hailuo AI, emotional AI, 212 million users',
   },
+  'ai-thesis-writing-china': {
+    metaTitle: 'AI写论文爆发：3.2亿流量背后的中国大学生毕业论文革命 | AI in China',
+    metaDescription: '中国大学生正在用AI工具重写毕业论文写作规则。从小红书3.2亿浏览量看这场学术生产力革命的真实面貌、主流工具对比与海外视角。',
+    keywords: 'AI写论文, 中国大学生, 毕业论文, Kimi, 学术写作, 教育科技, 查重降重, AI工具对比',
+  },
 }
 
 // Generate dynamic metadata for SEO
@@ -3743,6 +3748,36 @@ The companions aren't leaving. They're just getting more sophisticated.
 
 *Last updated: April 1, 2026*  
 *Word count: ~3,400 words*  
+*Reading time: 16 minutes*
+    `
+  },
+  'ai-thesis-writing-china': {
+    title: 'AI写论文爆发：3.2亿流量背后的中国大学生毕业论文革命',
+    category: 'AI Chatbots',
+    date: 'April 2, 2026',
+    readTime: '16 min read',
+    heroImage: 'https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&h=600&fit=crop',
+    content: `
+# AI写论文爆发：3.2亿流量背后的中国大学生毕业论文革命
+
+*发布时间：2026年4月2日 | 阅读时间：16分钟 | 话题热度：🔥🔥🔥🔥🔥*
+
+## 现象：一场悄无声息的学术革命
+
+2026年毕业季前夕，中国社交媒体上出现了一个异常火爆的话题——**"AI写论文"**。
+
+小红书数据显示：
+- **3.2亿次浏览**
+- **125万篇笔记**
+- **周增长率 +85%**
+
+这不是普通的热点。这是一个正在改变中国高等教育底层逻辑的结构性转变。
+
+---
+
+*文章完整内容已在 content/posts/ai-thesis-writing-china.md 中*
+*Last updated: April 2, 2026*  
+*Word count: ~3,200 words*  
 *Reading time: 16 minutes*
     `
   }
