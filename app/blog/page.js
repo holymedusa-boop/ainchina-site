@@ -91,9 +91,9 @@ const posts = [
   },
   {
     slug: 'ai-thesis-writing-china',
-    title: 'AI写论文爆发：3.2亿流量背后的中国大学生毕业论文革命',
+    title: 'AI Thesis Writing Explodes: How 12 Million Chinese Students Are Rewriting Academic Rules',
     category: 'AI Chatbots',
-    excerpt: '中国大学生正在用AI工具重写毕业论文写作规则。从小红书3.2亿浏览量看这场学术生产力革命的真实面貌、主流工具对比与海外视角。',
+    excerpt: 'With 320 million views on Xiaohongshu, AI-assisted thesis writing has become a phenomenon reshaping China\'s higher education. A deep dive into the tools, workflows, and global implications.',
     date: 'April 2, 2026',
     readTime: '16 min read'
   }
