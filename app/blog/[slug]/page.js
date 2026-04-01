@@ -1,5 +1,116 @@
 import Link from 'next/link'
 
+// SEO Metadata for each article
+const postMetadata = {
+  'deepseek-v3-deep-dive': {
+    metaTitle: 'DeepSeek-V3: The $5.6M Training Run That Changed AI Economics',
+    metaDescription: 'How DeepSeek trained a frontier-level LLM for $5.6M—18x cheaper than GPT-4. Technical breakdown of MLA, MoE architecture, and FP8 training.',
+    keywords: 'DeepSeek-V3, DeepSeek, Chinese AI, LLM training, MoE architecture, MLA attention, FP8 training, AI economics',
+  },
+  'kimi-k2-5-analysis': {
+    metaTitle: 'Kimi K2.5: Moonshot AI\'s 1M Context Window Powerhouse',
+    metaDescription: 'Complete analysis of Kimi K2.5 with 1 million token context window. How Moonshot AI challenges OpenAI with long-context capabilities.',
+    keywords: 'Kimi K2.5, Moonshot AI, long context LLM, Chinese AI, 1M tokens, context window, AI assistant',
+  },
+  'chinese-ai-index-2026': {
+    metaTitle: 'Chinese AI Index 2026: The Complete Market Landscape',
+    metaDescription: 'Comprehensive index of 103+ Chinese AI companies, $15B+ in funding, and the ecosystem reshaping global AI. Market intelligence report.',
+    keywords: 'Chinese AI Index, AI market China, Chinese AI companies, AI funding, AI ecosystem, market intelligence',
+  },
+  'deepseek-vs-chatgpt': {
+    metaTitle: 'DeepSeek vs ChatGPT: Can China\'s $5.6M Model Compete?',
+    metaDescription: 'Head-to-head comparison: DeepSeek-V3 vs GPT-4o. Cost efficiency, performance benchmarks, and the future of open-weight AI.',
+    keywords: 'DeepSeek vs ChatGPT, DeepSeek-V3 comparison, GPT-4 alternative, Chinese AI vs OpenAI, LLM benchmarks',
+  },
+  'chinese-ai-landscape': {
+    metaTitle: 'The Rise of Chinese AI: Ecosystem Overview 2026',
+    metaDescription: 'Deep dive into China\'s AI ecosystem: from DeepSeek to ByteDance, how Chinese companies are reshaping global AI competition.',
+    keywords: 'Chinese AI ecosystem, China AI landscape, DeepSeek, ByteDance AI, Baidu AI, Alibaba AI',
+  },
+  'ai-video-tools-china': {
+    metaTitle: 'Chinese AI Video Generation: Kling, Hailuo & the Creative Revolution',
+    metaDescription: 'Analysis of China\'s leading AI video generators: Kling, Hailuo MiniMax, and Zhipu\'s CogVideo. How they compare to Sora and Runway.',
+    keywords: 'Chinese AI video, Kling AI, Hailuo MiniMax, CogVideo, AI video generation, China video AI, Sora alternative',
+  },
+  'tongyi-qianwen-alibaba': {
+    metaTitle: 'Alibaba Tongyi Qianwen: The E-commerce Giant\'s AI Play',
+    metaDescription: 'Comprehensive analysis of Alibaba\'s Tongyi Qianwen models, from Qwen-72B to Qwen2-VL. How Alibaba leverages its ecosystem for AI dominance.',
+    keywords: 'Tongyi Qianwen, Alibaba AI, Qwen model, Chinese LLM, Alibaba cloud AI, Qwen-72B, Qwen2-VL',
+  },
+  'wenxin-yiyan-baidu': {
+    metaTitle: 'Baidu Wenxin Yiyan: 300 Million Users and Counting',
+    metaDescription: 'Inside Baidu\'s Wenxin Yiyan: How the 300M-user AI assistant built China\'s largest AI ecosystem with Ernie Bot and PaddlePaddle.',
+    keywords: 'Wenxin Yiyan, Baidu AI, Ernie Bot, Chinese chatbot, Baidu AI assistant, 300 million users',
+  },
+  'doubao-bytedance': {
+    metaTitle: 'ByteDance Doubao: 200M Users Reshaping Content Creation',
+    metaDescription: 'ByteDance\'s Doubao AI assistant: How 200 million users leverage TikTok integration, CapCut workflow, and creator tools for content production.',
+    keywords: 'ByteDance Doubao, Doubao AI, TikTok AI, CapCut AI, Chinese AI assistant, content creator AI, 200 million users',
+  },
+  'minimax-talkie': {
+    metaTitle: 'MiniMax Talkie: 212M User AI Companion Empire',
+    metaDescription: 'How MiniMax built the world\'s largest AI companion platform with 212M users. Talkie, 星野, Hailuo AI video, and the future of emotional AI.',
+    keywords: 'MiniMax Talkie, MiniMax AI, AI companion, Chinese AI, Talkie app, Hailuo AI, emotional AI, 212 million users',
+  },
+}
+
+// Generate dynamic metadata for SEO
+export async function generateMetadata({ params }) {
+  const { slug } = params
+  const post = posts[slug]
+  const meta = postMetadata[slug]
+  
+  if (!post || !meta) {
+    return {
+      title: 'Article Not Found | AI in China',
+    }
+  }
+  
+  return {
+    title: meta.metaTitle,
+    description: meta.metaDescription,
+    keywords: meta.keywords,
+    authors: [{ name: 'AI in China' }],
+    openGraph: {
+      title: meta.metaTitle,
+      description: meta.metaDescription,
+      url: `https://www.ainchina.com/blog/${slug}/`,
+      siteName: 'AI in China',
+      locale: 'en_US',
+      type: 'article',
+      publishedTime: new Date(post.date).toISOString(),
+      modifiedTime: new Date(post.date).toISOString(),
+      authors: ['AI in China'],
+      section: post.category,
+      tags: meta.keywords.split(', '),
+      images: [
+        {
+          url: post.heroImage,
+          width: 1200,
+          height: 600,
+          alt: post.title,
+        },
+      ],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: meta.metaTitle,
+      description: meta.metaDescription,
+      creator: '@ainchina',
+      images: [post.heroImage],
+    },
+    alternates: {
+      canonical: `https://www.ainchina.com/blog/${slug}/`,
+    },
+    robots: {
+      index: true,
+      follow: true,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
+  }
+}
+
 const posts = {
   'deepseek-v3-deep-dive': {
     title: 'DeepSeek-V3: The $5.6M Training Run That Changed AI Economics',
@@ -3639,16 +3750,6 @@ The companions aren't leaving. They're just getting more sophisticated.
 
 export function generateStaticParams() {
   return Object.keys(posts).map((slug) => ({ slug }))
-}
-
-export function generateMetadata({ params }) {
-  const post = posts[params.slug]
-  if (!post) return { title: 'Not Found' }
-  
-  return {
-    title: `${post.title} | AI in China`,
-    description: post.content.slice(0, 160).replace(/\n/g, ' '),
-  }
 }
 
 export default function BlogPost({ params }) {

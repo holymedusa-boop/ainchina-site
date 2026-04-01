@@ -1,7 +1,14 @@
 export const metadata = {
-  title: 'AI in China | Tracking Chinese AI Companies & Products',
+  title: {
+    template: '%s | AI in China',
+    default: 'AI in China | Tracking Chinese AI Companies & Products',
+  },
   description: 'Comprehensive analysis of Chinese AI companies, products, and market intelligence for global investors and builders.',
-  keywords: 'Chinese AI, DeepSeek, Kimi, Moonshot, ByteDance, AI technology, artificial intelligence',
+  keywords: 'Chinese AI, DeepSeek, Kimi, Moonshot, ByteDance, AI technology, artificial intelligence, MiniMax, Qwen, Tongyi',
+  authors: [{ name: 'AI in China' }],
+  creator: 'AI in China',
+  publisher: 'AI in China',
+  metadataBase: new URL('https://www.ainchina.com'),
   openGraph: {
     title: 'AI in China',
     description: 'Tracking 103+ Chinese AI companies reshaping global tech',
@@ -9,14 +16,35 @@ export const metadata = {
     siteName: 'AI in China',
     locale: 'en_US',
     type: 'website',
+    images: [
+      {
+        url: 'https://www.ainchina.com/og-image.jpg',
+        width: 1200,
+        height: 630,
+        alt: 'AI in China - Tracking Chinese AI Companies',
+      },
+    ],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'AI in China',
     description: 'Tracking 103+ Chinese AI companies reshaping global tech',
+    creator: '@ainchina',
+    images: ['https://www.ainchina.com/og-image.jpg'],
   },
   alternates: {
     canonical: 'https://www.ainchina.com',
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
   },
 }
 
