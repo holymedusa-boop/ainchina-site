@@ -53,9 +53,9 @@ const postMetadata = {
     keywords: 'MiniMax Talkie, MiniMax AI, AI companion, Chinese AI, Talkie app, Hailuo AI, emotional AI, 212 million users',
   },
   'ai-thesis-writing-china': {
-    metaTitle: 'AI写论文爆发：3.2亿流量背后的中国大学生毕业论文革命 | AI in China',
-    metaDescription: '中国大学生正在用AI工具重写毕业论文写作规则。从小红书3.2亿浏览量看这场学术生产力革命的真实面貌、主流工具对比与海外视角。',
-    keywords: 'AI写论文, 中国大学生, 毕业论文, Kimi, 学术写作, 教育科技, 查重降重, AI工具对比',
+    metaTitle: 'AI Thesis Writing Explodes: How 12 Million Chinese Students Are Rewriting Academic Rules | AI in China',
+    metaDescription: 'With 320 million views on Xiaohongshu, AI-assisted thesis writing has become a phenomenon reshaping China\'s higher education. A deep dive into the tools, workflows, and global implications.',
+    keywords: 'AI thesis writing, Chinese students, academic writing, education technology, Kimi, thesis tools, plagiarism detection, China AI',
   },
 }
 
