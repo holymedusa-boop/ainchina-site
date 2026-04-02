@@ -156,11 +156,17 @@ The numbers were staggering:
 
 This wasn't just another funding announcement. It signaled a fundamental strategic pivot—from competing in the increasingly crowded cloud model market to dominating the physical terminal ecosystem.
 
+![StepFun AI Terminal Strategy](https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&h=400&fit=crop)
+*StepFun's terminal-first strategy brings AI from data centers to physical devices*
+
 ---
 
 ## Who Is StepFun? The Quiet Overachiever
 
 Founded in April 2023 by Dr. Jiang Daxin (姜大昕)—a former Microsoft Research Asia veteran—StepFun emerged during China's "Hundred Models War" (百模大战) period. While competitors chased flashy consumer products and chatbot interfaces, StepFun took a different path.
+
+![AI Research Lab](https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=800&h=400&fit=crop)
+*StepFun's world-class research team combines expertise from Microsoft, Megvii, and Alibaba*
 
 ### The Technical Foundation
 
@@ -215,6 +221,9 @@ StepFun's terminal strategy isn't theoretical—it's already producing impressiv
 | **Robotics** | R&D partnerships | N/A | Embodied AI companies |
 
 *Source: Company data, industry reports, January 2026*
+
+![Smartphone AI](https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800&h=400&fit=crop)
+*StepFun's on-device AI powers intelligent features across 42 million smartphones*
 
 ### Why Terminals? The Physics of AI Economics
 
@@ -274,6 +283,9 @@ Step-Audio 2 uses a **single neural network** that processes raw audio directly:
 
 *Technical comparison: Pipeline vs. end-to-end voice models*
 
+![AI Voice Technology](https://images.unsplash.com/photo-1589254065878-42c9da997008?w=800&h=400&fit=crop)
+*Step-Audio 2's end-to-end architecture delivers human-like voice interactions*
+
 ### Real-World Application: The Smart Cockpit
 
 At CES 2026, StepFun demonstrated Step-Audio 2 integrated into a **mass-produced vehicle cockpit**—not a concept car, but a real vehicle already on Chinese roads.
@@ -285,6 +297,9 @@ At CES 2026, StepFun demonstrated Step-Audio 2 integrated into a **mass-produced
 - Near-instantaneous responses even with road noise
 
 The vehicle sold **nearly 40,000 units in its first 3 months**—proving that consumers will pay for AI differentiation.
+
+![Smart Car Interior](https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&h=400&fit=crop)
+*StepFun's voice AI powering next-generation vehicle cockpits with natural conversations*
 
 ---
 
@@ -311,6 +326,9 @@ Yin Qi has been vocal about what he calls **"Physical AI"**—AI systems that in
 In a recent speech, he outlined the convergence he sees coming:
 
 > "AI 1.0 was about perception—seeing and understanding the world. AI 2.0 is about action—controlling vehicles, robots, and devices. The companies that master physical AI will define the next decade."
+
+![AI and Robotics](https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&h=400&fit=crop)
+*Yin Qi's "Physical AI" vision bridges perception and action in the real world*
 
 ### Strategic Synergies: StepFun × Qianli Technology
 
@@ -360,6 +378,9 @@ Shanghai's AI industry has grown to **over $80 billion (¥550 billion)** in 2025
 
 *Shanghai AI industry development*
 
+![Shanghai Skyline](https://images.unsplash.com/photo-1538428494232-9c0d8a3ab403?w=800&h=400&fit=crop)
+*Shanghai's AI ecosystem represents over $80 billion in annual output with 10,000+ companies*
+
 ---
 
 ## Competitive Landscape: The Terminal Wars
@@ -379,6 +400,9 @@ StepFun isn't the only player betting on terminal AI. The competitive landscape 
 
 *China terminal AI competitive map*
 
+![Competition](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=400&fit=crop)
+*China's AI landscape: From cloud APIs to terminal-first deployment strategies*
+
 ### Differentiation Strategy
 
 StepFun's moat rests on three pillars:
@@ -395,6 +419,9 @@ StepFun's moat rests on three pillars:
 | **Talent** | World-class research team | High (competitive compensation) |
 
 *StepFun competitive advantages analysis*
+
+![AI Chip](https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=400&fit=crop)
+*China's sovereign AI stack spans chips, models, platforms, and applications*
 
 ---
 
@@ -416,6 +443,9 @@ This could create a fundamental divergence in AI architecture:
 | **User Lock-in** | Subscription loyalty | Device ecosystem loyalty |
 
 *Potential divergence in AI development paradigms*
+
+![Global AI](https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=400&fit=crop)
+*The global AI landscape is diverging: Western cloud-first vs. Chinese terminal-first approaches*
 
 ### 2. The Sovereign AI Stack
 
@@ -490,6 +520,9 @@ StepFun's terminal-first approach may actually travel better than cloud APIs:
 
 ---
 
+![Future Technology](https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800&h=400&fit=crop)
+*The road ahead: StepFun's terminal-first strategy faces both challenges and opportunities*
+
 ## The Road Ahead: Challenges and Opportunities
 
 StepFun's ambitious strategy faces significant hurdles alongside its opportunities.
@@ -518,6 +551,9 @@ StepFun's ambitious strategy faces significant hurdles alongside its opportuniti
 *Key milestones to monitor*
 
 ---
+
+![AI Future](https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=400&fit=crop)
+*The terminal-first thesis: AI's future lies at the edge, where intelligence meets the physical world*
 
 ## Conclusion: The Terminal-First Thesis
 
