@@ -87,13 +87,42 @@ Agent 1/2 已完成:
 ✅ traffic-report-$DATE.json
 ✅ market-brief-$DATE.json
 
-⚠️ CRITICAL - Language Standard:
+═══════════════════════════════════════════
+⚠️  CRITICAL: LANGUAGE STANDARD
+═══════════════════════════════════════════
 📝 ALL articles MUST be written in ENGLISH
 📝 Source data is Chinese → Translate concepts to ENGLISH
-📝 Match MiniMax/Doubao benchmark quality
-📝 Run language checklist before git commit
+📝 Check: Title, body, tables, excerpt ALL in English
 
-等待 4:15 AM Kimi Claw 自动唤醒...
+═══════════════════════════════════════════
+📊 BENCHMARK QUALITY CHECK (vs MiniMax/Doubao)
+═══════════════════════════════════════════
+Word Count:     2,800 - 3,500 words ✅
+Sections:       8-9 deep-dive sections ✅
+Data Tables:    6-8 structured tables ✅
+Social Comments: 6 bilingual (Chinese+English) ✅
+Images:         3+ (hero + 2-3 inline) ✅
+Reading Time:   14-18 minutes ✅
+
+SEO Requirements:
+- Meta title: <60 chars
+- Meta description: 150-160 chars  
+- Keywords: 8-10 terms
+- JSON-LD structured data
+- 4 related article links
+
+═══════════════════════════════════════════
+📚 REFERENCE BENCHMARK ARTICLES:
+═══════════════════════════════════════════
+- MiniMax Talkie: ~3,400 words, 9 sections, 8 tables
+- Doubao: ~3,200 words, 8 sections, 8 tables  
+- AI Thesis: ~3,400 words, 9 sections, 9 tables
+
+Match their depth, structure, and quality.
+
+═══════════════════════════════════════════
+⏰ 等待 4:15 AM Kimi Claw 自动唤醒...
+═══════════════════════════════════════════
 
 如果 Kimi Claw 未自动唤醒，请手动发送消息触发。
 EOF
