@@ -42,6 +42,14 @@ const posts = [
     readTime: '16 min read'
   },
   {
+    slug: 'doubao-12-trillion-token-explosion',
+    title: "Doubao's 12 Trillion Token Explosion: How ByteDance Is Quietly Winning the Global AI Race",
+    category: 'AI Infrastructure',
+    excerpt: 'ByteDance\'s Doubao model just hit 12 trillion daily tokens—a 1000x growth in under two years. With China capturing 30% of global AI market share and challenging the US tech oligopoly.',
+    date: 'April 4, 2026',
+    readTime: '16 min read'
+  },
+  {
     slug: 'ai-video-tools-china',
     title: 'Chinese AI Video Generation Tools',
     category: 'AI Video',
