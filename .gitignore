@@ -1,3 +1,11 @@
 node_modules/
 .next/
 out/
+
+# Daily agent reports - do not commit to main branch
+ainchina-agents/reports/
+*.log
+.kimi/downloads/
+
+# WeChat push drafts
+wechat-push-*.md

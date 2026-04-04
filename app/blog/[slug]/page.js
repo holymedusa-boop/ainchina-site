@@ -4791,6 +4791,9 @@ When Doubao processes 12 trillion tokens daily, it means:
 - Enterprises have moved beyond experimentation to production deployment
 - China's AI ecosystem has achieved genuine scale
 
+![Data Center Infrastructure](https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800)
+*ByteDance's massive data center infrastructure powers the 12 trillion token daily processing*
+
 ---
 
 ## Global Market Shock: China's 421% Share Explosion
@@ -4817,6 +4820,9 @@ The numbers tell a dramatic story:
 **This represents a 421% growth in Chinese AI market share** over the past year.
 
 The "US duopoly" of Anthropic and Google—once seemingly unassailable—has fractured. We're witnessing the emergence of a **tripolar AI world**: United States, China, and a competitive middle tier.
+
+![Global AI Competition](https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800)
+*The global AI landscape is shifting from US dominance to a tripolar competition structure*
 
 ---
 
@@ -4891,6 +4897,9 @@ Tan Dai explained the three pillars of enterprise agent adoption:
 3. **Skills** (the hands and feet)—ecosystem breadth determines execution boundaries
 
 The announcement that **ClawHub China Mirror** would launch in partnership with OpenClaw founder Peter Steinberger signals ByteDance's commitment to building a comprehensive agent ecosystem.
+
+![AI Agent Ecosystem](https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800)
+*AI agents represent the next frontier, with ArkClaw platform enabling complex multi-step task automation*
 
 ---
 
