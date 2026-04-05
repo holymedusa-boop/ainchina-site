@@ -2,6 +2,14 @@ import Link from 'next/link'
 
 const posts = [
   {
+    slug: 'china-ai-avatar-revolution-2025',
+    title: "China's AI Avatar Revolution: How 410 Million Views Transformed Content Creation Forever",
+    category: 'AI Trends',
+    excerpt: 'China\'s AI avatar market exploded to 410 million views in one week (+200% growth). From Xiaohongshu creators to IPO-bound giants like Guiji AI, discover how digital humans are reshaping content creation.',
+    date: 'April 5, 2026',
+    readTime: '16 min read'
+  },
+  {
     slug: 'china-ai-digital-human-revolution',
     title: "China's AI Digital Human Revolution: How 80,000 Virtual Avatars Are Reshaping the Creator Economy",
     category: 'AI Applications',
