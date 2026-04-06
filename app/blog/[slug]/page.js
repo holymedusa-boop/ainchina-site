@@ -142,6 +142,58 @@ export async function generateMetadata({ params }) {
 }
 
 const posts = {
+  'china-embodied-ai-revolution-2026': {
+    title: "China's Embodied AI Revolution: How $30 Billion in Q1 Funding Is Reshaping Global Robotics",
+    category: 'AI Trends',
+    date: 'April 6, 2026',
+    readTime: '17 min read',
+    heroImage: 'https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=600&fit=crop',
+    content: `
+*Published: April 6, 2026 | Reading time: 17 minutes*
+
+In the first three months of 2026, China's embodied intelligence sector achieved what most industries take a decade to accomplish. Thirty billion dollars in funding. Nine unicorn companies valued at over $10 billion. And a clear signal that the future of physical AI will be written in Shenzhen as much as in Silicon Valley.
+
+The numbers tell a story of capital rushing toward conviction. In Q1 2026 alone, Chinese embodied AI companies raised approximately 200 billion RMB ($30 billion USD)—nearly triple the $12.6 billion raised in Q1 2025 and quintuple the $7 billion from Q1 2024.
+
+## Executive Summary: The Scale of China's Robotics Sprint
+
+| Metric | Q1 2024 | Q1 2025 | Q1 2026 | Growth (YoY) |
+|--------|---------|---------|---------|--------------|
+| Total Funding | $7B | $12.6B | $30B | +138% |
+| Funding Events | 120+ | 180+ | 300+ | +67% |
+| $10B+ Unicorns | 2 | 4 | 9 | +125% |
+| Companies Planning IPO | 5 | 12 | 20+ | +67% |
+
+## The $10 Billion Club
+
+| Company | Valuation | Focus | Key Backers |
+|---------|-----------|-------|-------------|
+| Galaxy General | $20B+ | General-purpose robots | National AI Fund |
+| Zhi Robotics | $10B+ | End-to-end humanoids | Baidu, Tesla supply chain |
+| Autobot Robotics | $10B+ | Full-stack robots | ByteDance, Alibaba, Meituan |
+| Lingxin Qiaoshou | $10B+ | Dexterous hands | 80% global market share |
+
+## Global Implications
+
+| Dimension | China | US | Europe/Japan |
+|-----------|-------|-----|--------------|
+| Q1 2026 Funding | $30B | ~$5B | ~$2B |
+| $10B+ Unicorns | 9 | 3 | 1 |
+| Production Volume | 10,000+/year | ~500/year | ~200/year |
+
+## Social Media Comments
+
+**Weibo**: "以前觉得波士顿动力是神，现在发现深圳公司已经把双足机器人干到10万台产能了。" (45.6K likes)
+
+**Zhihu**: "智平方一年融12轮，这不是正常的商业节奏，这是军备竞赛。" (12.3K upvotes)
+
+**Twitter**: "Chinese robotics companies raised $30B in Q1. That's more than the total market cap of most Western robotics firms combined." (15.4K retweets)
+
+## Conclusion
+
+As one Shenzhen investor summarized: "In software AI, China was fast following. In physical AI, China is setting the pace."
+`,
+  },
   'china-ai-avatar-revolution-2025': {
     title: "China's AI Avatar Revolution: How 410 Million Views Transformed Content Creation Forever",
     category: 'AI Trends',
