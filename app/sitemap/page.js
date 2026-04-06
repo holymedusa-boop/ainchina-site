@@ -1,5 +1,7 @@
 import Link from 'next/link'
-import { allPosts } from '../lib/posts-meta'
+
+// Import posts metadata - path from app/sitemap/ to root lib/
+const { allPosts } = require('../../lib/posts-meta')
 
 export const metadata = {
   title: 'Sitemap | AI in China',
