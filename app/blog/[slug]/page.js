@@ -2,6 +2,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-embodied-ai-revolution-2026': {
+    metaTitle: "China's Embodied AI Revolution: $30B Q1 Funding Reshapes Robotics",
+    metaDescription: 'China\'s embodied intelligence sector raised $30 billion in Q1 2026, creating 9 unicorns valued at $10B+. From Zhi Robotics to Autobot, discover how China is winning the physical AI race.',
+    keywords: 'embodied AI, China robotics, humanoid robots, Zhi Robotics, LimX Dynamics, Autobot Robotics, embodied intelligence, AI funding, robotics unicorn, physical AI',
+  },
   'china-ai-avatar-revolution-2025': {
     metaTitle: "China's AI Avatar Revolution: 410M Views, 200% Growth",
     metaDescription: 'China\'s AI avatar market hit 410M views with 200% weekly growth. Explore how Guiji AI, Shanjian, and HeyGen are transforming content creation for 21M creators.',
