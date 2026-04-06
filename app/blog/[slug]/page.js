@@ -263,36 +263,26 @@ The token surge signals a structural shift in global AI competition with four ma
 
 ## Social Media Reactions
 
-> **Zhihu (知乎)** — @科技观察员
-> 
+> Zhihu (知乎) — @科技观察员
 > "看到31%增长数据时我都震惊了，这意味着我们的AI正在真正用起来，而不只是概念炒作。"
-> 
-> *"Seeing that 31% growth figure shocked me. It means our AI is actually being used, not just hype and concepts."* 👍 2,847
+> "Seeing that 31% growth figure shocked me. It means our AI is actually being used, not just hype and concepts." 👍 2,847
 
-> **Xiaohongshu (小红书)** — @AI产品经理阿文
-> 
+> Xiaohongshu (小红书) — @AI产品经理阿文
 > "DeepSeek的API价格让我能够做以前不敢想的项目。这不是简单的便宜，是生态级别的改变。"
-> 
-> *"DeepSeek's API pricing lets me build projects I never dared imagine before. This isn't just being cheap—it's ecosystem-level change."* ❤️ 4,231
+> "DeepSeek's API pricing lets me build projects I never dared imagine before. This isn't just being cheap—it's ecosystem-level change." ❤️ 4,231
 
-> **Twitter/X** — @ai_researcher_guy
-> 
+> Twitter/X — @ai_researcher_guy
 > Chinese models went from "cheap alternatives" to "default choice" in my pipeline in about 6 months. The price/perf ratio is just unbeatable now. 🔁 892
 
-> **V2EX** — @独立开发者
-> 
+> V2EX — @独立开发者
 > "以前用GPT-4做实验心疼得要死，现在DeepSeek随便跑，还能微调。这才是AI民主化。"
-> 
-> *"I used to wince at every GPT-4 experiment. Now with DeepSeek, I can iterate freely and even fine-tune. This is what AI democratization actually looks like."* ⭐ 1,156
+> "I used to wince at every GPT-4 experiment. Now with DeepSeek, I can iterate freely and even fine-tune. This is what AI democratization actually looks like." ⭐ 1,156
 
-> **Weibo (微博)** — @互联网老炮儿
-> 
+> Weibo (微博) — @互联网老炮儿
 > "洪乐潼这种创始人太可怕了——顶级智商+顶级执行力+顶级资源调动能力。she's built different."
-> 
-> *"Founders like Carina Hong are terrifying—top-tier IQ + execution + resource mobilization. She's built different."* 👍 8,942
+> "Founders like Carina Hong are terrifying—top-tier IQ + execution + resource mobilization. She's built different." 👍 8,942
 
-> **GitHub Discussions** — @ml_engineer
-> 
+> GitHub Discussions — @ml_engineer
 > Just migrated our entire inference stack from GPT-4 to DeepSeek V3.2. Cost dropped 98%, latency improved 40%, and quality is comparable for our use case (code generation). Should have done this months ago. ⭐ 2,341
 
 ## Challenges and Counterarguments
@@ -337,10 +327,10 @@ The 12.96 trillion token week isn't an endpoint. It's an early indicator of how 
 
 ## Related Articles
 
-- [China's Embodied AI Revolution: $30B Q1 Funding Reshapes Robotics](./china-embodied-ai-revolution-2026)
-- [MiniMax: The 212 Million User AI Companion Empire](./minimax-talkie)
-- [ByteDance Doubao: The 200 Million User AI Assistant](./doubao-bytedance)
-- [DeepSeek-V3: The $5.6M Training Run](./deepseek-v3-deep-dive)
+- China's Embodied AI Revolution: $30B Q1 Funding Reshapes Robotics (./china-embodied-ai-revolution-2026)
+- MiniMax: The 212 Million User AI Companion Empire (./minimax-talkie)
+- ByteDance Doubao: The 200 Million User AI Assistant (./doubao-bytedance)
+- DeepSeek-V3: The $5.6M Training Run (./deepseek-v3-deep-dive)
     `,
   },
   'china-embodied-ai-revolution-2026': {
