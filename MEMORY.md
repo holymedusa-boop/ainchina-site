@@ -215,6 +215,62 @@ If issues found, execute without asking:
 
 ---
 
+## Sitemap Auto-Generation (IMPLEMENTED - April 6, 2026)
+
+**CRITICAL: Sitemap must be updated for every new article**
+
+### Background (Why This Exists)
+- April 6, 2026: Discovered sitemap.xml was **6 days outdated**
+- Only 9 URLs in sitemap vs 14+ actual articles
+- Google couldn't discover new content → zero organic traffic
+- **This was why traffic dropped after launch**
+
+### Implementation
+**Automated script created:**
+- Script: `scripts/generate-sitemap.js`
+- Reads from: `lib/posts-meta.js`
+- Outputs to: `public/sitemap.xml`
+- Auto-runs: Before every `npm run build` (prebuild hook)
+
+### Usage
+
+**Automatic (Default):**
+```bash
+# Sitemap auto-generates before build
+npm run build
+```
+
+**Manual (if needed):**
+```bash
+cd /root/.openclaw/workspace/ainchina-hello
+npm run sitemap
+```
+
+### Current Workflow (After Publishing Article)
+1. Write article → Save to `content/posts/`
+2. Update `lib/posts-meta.js` with new article
+3. **Run `npm run sitemap`** to regenerate sitemap
+4. Git add, commit, push
+5. Sitemap automatically deployed with site
+
+### Verification
+```bash
+cd /root/.openclaw/workspace/ainchina-hello
+npm run sitemap
+# Should output:
+# 📚 找到 X 篇文章
+# ✅ Sitemap 生成成功!
+```
+
+### Current Sitemaps
+
+| Type | URL | Status |
+|------|-----|--------|
+| XML Sitemap | `https://www.ainchina.com/sitemap.xml` | ✅ Auto-generated |
+| HTML Sitemap | `https://www.ainchina.com/sitemap` | ✅ User-friendly page |
+
+---
+
 ## Daily Workflow (Cron at 4:15 AM)
 
 When woken by cron:
@@ -225,8 +281,10 @@ When woken by cron:
 5. Write article in ENGLISH following ALL checklists above
 6. **RUN FULL QUALITY CHECKLIST** (length, depth, images, SEO)
 7. Save to `content/posts/`
-8. Git add, commit, push
-9. Verify deployment
+8. Update `lib/posts-meta.js`
+9. **RUN `npm run sitemap`** (auto-generates sitemap.xml)
+10. Git add, commit, push
+11. Verify deployment
 
 ---
 

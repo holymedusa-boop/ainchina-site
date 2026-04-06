@@ -44,9 +44,25 @@ When woken by cron at 4:15 AM for content generation:
 Run command: `wc -w < article.md>` to check word count
 
 ### Phase 4: Deployment
+- [ ] **Generate sitemap**: `npm run sitemap` (auto-updates from posts-meta.js)
 - [ ] Git add, commit, push
 - [ ] Verify URL accessible
 - [ ] Report completion
+
+---
+
+## Sitemap Auto-Generation
+
+**New articles automatically included** via `npm run sitemap`:
+- Script reads from `lib/posts-meta.js`
+- Generates `public/sitemap.xml`
+- Runs automatically before `npm run build`
+
+**Manual run if needed:**
+```bash
+cd /root/.openclaw/workspace/ainchina-hello
+npm run sitemap
+```
 
 ---
 
