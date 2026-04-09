@@ -4,7 +4,7 @@ description: "Inside China's AI interview coaching boom: How millions of graduat
 date: "2026-04-08"
 author: "AI in China Research Team"
 readTime: "16 min"
-image: "/images/ai-interview-coach-china.png"
+image: "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=1200&h=600&fit=crop"
 keywords: ["AI interview coaching", "China AI job market", "Kimi AI", "Doubao", "Tongyi Qianwen", "Chinese graduates employment", "AI career tools"]
 ---
 
@@ -338,5 +338,7 @@ Below are authentic comments from Chinese social media platforms, translated for
 - [The Rise of AI Thesis Writing in Chinese Universities](/posts/ai-thesis-writing-china)
 
 ---
+
+*This article was published on April 8, 2026. For corrections or inquiries, contact research@ain-china.com*
 
 *This article was published on April 8, 2026. For corrections or inquiries, contact research@ain-china.com*

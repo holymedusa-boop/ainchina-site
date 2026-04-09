@@ -158,7 +158,8 @@ const posts = {
     date: 'April 8, 2026',
     readTime: '16 min read',
     heroImage: 'https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=1200&h=600&fit=crop',
-    content: `![AI Interview Coaching in China](/images/ai-interview-coach-china.png)
+    content: `![AI Interview Coaching in China](https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=1200&h=600&fit=crop)
+*AI-powered interview coaching is helping millions of Chinese graduates navigate the competitive job market*
 
 ## Executive Summary
 
