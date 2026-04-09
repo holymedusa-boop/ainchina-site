@@ -2,6 +2,14 @@ import Link from 'next/link'
 
 const posts = [
   {
+    slug: 'ai-interview-coaching-china-2025',
+    title: 'The AI Interview Coach Phenomenon: How Chinese Graduates Are Using AI to Crack the Job Market',
+    category: 'AI Applications',
+    excerpt: 'Inside China\'s AI interview coaching boom: How millions of graduates are using Kimi, Doubao, and Tongyi Qianwen to prepare for interviews, with usage surging 120% in one week.',
+    date: 'April 8, 2026',
+    readTime: '16 min read'
+  },
+  {
     slug: 'china-ai-token-surge-gen-z',
     title: "China's AI Overtake: 31% Surge in Token Usage Signals Global Power Shift",
     category: 'AI Trends',
