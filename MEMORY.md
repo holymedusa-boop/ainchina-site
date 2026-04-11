@@ -319,6 +319,42 @@ When woken by cron:
 
 ---
 
+## Publishing Workflow (UPDATED April 9, 2026)
+
+### New Requirement: Follow Checklist for Every Publish
+
+**From today onwards, EVERY article publish must follow the PUBLISH-CHECKLIST.md**
+
+Goal: **Automated daily publishing at 4:15 AM that actually works without errors**
+
+### Publishing Checklist Location
+- **File**: `ainchina-hello/PUBLISH-CHECKLIST.md`
+- **Usage**: Complete all checkboxes before considering publish complete
+- **Final Step**: Browser verification of live article
+
+### Quality Benchmarking
+Before publishing, compare against gold standard articles:
+- **MiniMax Talkie** (~3,400 words, 8 tables, 3 images)
+- **Doubao ByteDance** (~3,200 words, 8 tables, 3 images)
+- **AI Thesis Writing** (~3,400 words, 9 tables, 3 images)
+
+**Each new article must match this depth and quality.**
+
+### Browser Verification (NEW)
+After every publish, verify online:
+1. [ ] Visit https://www.ainchina.com/blog/[slug] - must return 200
+2. [ ] Visit https://www.ainchina.com/blog - article appears in list
+3. [ ] Check images load correctly (no broken images)
+4. [ ] Check no duplicate articles
+5. [ ] Verify formatting (tables, headers, lists display correctly)
+
+### Automation Goal
+- **Target**: Daily 4:15 AM cron job generates and publishes article automatically
+- **Success Criteria**: Zero manual intervention needed, 100% success rate
+- **Current Status**: Semi-automatic (content generation automated, publishing needs checklist)
+
+---
+
 ## Self-Sufficient Token Handling (DO NOT ASK USER)
 
 **Vercel Token issues**: I can check these myself without asking user
