@@ -1,7 +1,15 @@
 import Link from 'next/link'
 
-// Blog posts list - updated April 11, 2026
+// Blog posts list - updated April 12, 2026
 const posts = [
+  {
+    slug: 'china-ai-chip-war-2026-us-sanctions',
+    title: "The Great Silicon Wall: How China's AI Industry Is Defying U.S. Chip Sanctions in 2026",
+    category: 'AI Infrastructure',
+    excerpt: "ByteDance's $5.6B Huawei deal, DeepSeek V4 on domestic chips, and the parallel AI ecosystem China is building. Why U.S. tech dominance faces its biggest challenge.",
+    date: 'April 12, 2026',
+    readTime: '17 min read'
+  },
   {
     slug: 'china-ai-model-wars-april-2026',
     title: "China's AI Model Wars: How Alibaba, ByteDance, and MiniMax Are Reshaping Global AI Competition in April 2026",
