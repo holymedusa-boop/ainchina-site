@@ -1,7 +1,15 @@
 import Link from 'next/link'
 
-// Blog posts list - updated April 12, 2026
+// Blog posts list - updated April 13, 2026
 const posts = [
+  {
+    slug: 'china-ai-model-war-april-2026-week-changed-everything',
+    title: "The Week That Changed Everything: China's AI Model War Intensifies in April 2026",
+    category: 'AI Trends',
+    excerpt: "In one week, Alibaba launched 3 models, Zhipu raised prices 83%, ByteDance deployed full-duplex voice AI, and China hit 140 trillion daily tokens. Why April 2026 marks the end of the AI price war and the beginning of a new phase.",
+    date: 'April 13, 2026',
+    readTime: '17 min read'
+  },
   {
     slug: 'china-ai-chip-war-2026-us-sanctions',
     title: "The Great Silicon Wall: How China's AI Industry Is Defying U.S. Chip Sanctions in 2026",
