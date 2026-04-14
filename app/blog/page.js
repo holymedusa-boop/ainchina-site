@@ -3,6 +3,14 @@ import Link from 'next/link'
 // Blog posts list - updated April 13, 2026
 const posts = [
   {
+    slug: 'bytedance-seed-brain-drain-70-engineers',
+    title: "ByteDance's AI Brain Drain: 70 Top Engineers Exit Seed Team in 12 Months",
+    category: 'AI Trends',
+    excerpt: "ByteDance is bleeding AI talent. Nearly 70 core engineers walked out of its prestigious Seed AI team in 12 months—most joining Tencent. Inside China's ruthless AI talent wars.",
+    date: 'April 14, 2026',
+    readTime: '16 min read'
+  },
+  {
     slug: 'china-ai-model-war-april-2026-week-changed-everything',
     title: "The Week That Changed Everything: China's AI Model War Intensifies in April 2026",
     category: 'AI Trends',
