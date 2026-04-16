@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Generated: 2026-04-16T00:25:04.485Z -->
-  <!-- Total Posts: 24 -->
+  <!-- Generated: 2026-04-16T23:53:52.234Z -->
+  <!-- Total Posts: 25 -->
 
   <!-- Homepage -->
   <url>
@@ -37,6 +37,12 @@
   </url>
 
   <!-- AI Trends -->
+  <url>
+    <loc>https://www.ainchina.com/blog/stanford-ai-index-2026-china-rise</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
   <url>
     <loc>https://www.ainchina.com/blog/alibaba-token-hub-100b-gambit</loc>
     <lastmod>2026-04-16</lastmod>
