@@ -246,12 +246,12 @@ export default function BlogPage() {
                 </span>
                 
                 {/* Title */}
-                <h2 className="text-xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors line-clamp-3">
+                <h2 className="text-xl font-bold text-gray-900 mb-3 group-hover:text-blue-600 transition-colors" style={{display: '-webkit-box', WebkitLineClamp: 3, WebkitBoxOrient: 'vertical', overflow: 'hidden'}}>
                   {post.title}
                 </h2>
                 
                 {/* Excerpt */}
-                <p className="text-gray-600 mb-4 line-clamp-3 flex-1">
+                <p className="text-gray-600 mb-4 flex-1" style={{display: '-webkit-box', WebkitLineClamp: 3, WebkitBoxOrient: 'vertical', overflow: 'hidden'}}>
                   {post.excerpt}
                 </p>
                 
