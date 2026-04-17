@@ -3,6 +3,14 @@ import Link from 'next/link'
 // Blog posts list - updated April 16, 2026
 const posts = [
   {
+    slug: 'stanford-ai-index-2026-china-rise',
+    title: "Stanford AI Index 2026: China's 'Parallel Run' Era Has Arrived",
+    category: 'AI Trends',
+    excerpt: "Stanford HAI's 423-page AI Index Report 2026 reveals a historic turning point: the China-US AI gap has 'effectively closed' to just 2.7%. Alibaba ranks #3 globally, and Chinese AI models have surpassed US competitors in token consumption for 5 consecutive weeks.",
+    date: 'April 17, 2026',
+    readTime: '16 min read'
+  },
+  {
     slug: 'alibaba-token-hub-100b-gambit',
     title: "Alibaba's $100B Token Gambit: Inside the Alibaba Token Hub Revolution Reshaping China's AI Economy",
     category: 'AI Trends',
