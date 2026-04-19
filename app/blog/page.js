@@ -1,7 +1,15 @@
 import Link from 'next/link'
 
-// Blog posts list - updated April 19, 2026
+// Blog posts list - updated April 20, 2026
 const posts = [
+  {
+    slug: 'china-ai-april-infrastructure-2026',
+    title: "China's AI Revolution: Education Reform, National Standards, and Ecosystem Breakthroughs in April 2026",
+    category: 'AI Trends',
+    excerpt: "Shanghai Jiao Tong University launches 'AI Ten Initiatives,' China establishes first humanoid robot national standards, and domestic AI models achieve parity with DeepSeek-R1 as the nation accelerates AI transformation.",
+    date: 'April 20, 2026',
+    readTime: '16 min read'
+  },
   {
     slug: 'china-ai-april-revolution-2026',
     title: "China's AI April Revolution: Humanoid Robots Race, Multimodal Models Explode, and 2 Billion AI Videos Reshape Global Content",
