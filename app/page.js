@@ -2,60 +2,52 @@ import Link from 'next/link'
 
 const posts = [
   {
-    slug: 'qwen3-technical-analysis',
-    title: "Qwen3 Technical Analysis: Alibaba's 235B MoE Model with Hybrid Reasoning Architecture",
-    category: 'Technical Analysis',
-    excerpt: "How Alibaba's latest model achieves GPT-4 level performance with dynamic fast/deep reasoning modes, 22B active parameters, and 70% cost reduction through revolutionary MoE architecture.",
-    date: 'March 31, 2026',
+    slug: 'china-embodied-intelligence-robot-marathon-2026',
+    title: "China's Embodied Intelligence Revolution: When Robots Outrun Humans — April 2026",
+    category: 'AI Trends',
+    excerpt: "Honor's 'Lightning' robot breaks human half-marathon world record in 50:26. TARS raises $455M. 102 teams compete as China's embodied intelligence sector hits an inflection point.",
+    date: 'April 21, 2026',
     readTime: '18 min read'
   },
   {
-    slug: 'deepseek-v3-deep-dive',
-    title: 'DeepSeek-V3: The $5.6M Training Run That Changed AI Economics',
-    category: 'Technical Analysis',
-    excerpt: 'How a Hangzhou-based team achieved GPT-4 level performance with 18x cost reduction through MLA attention, FP8 training, and revolutionary MoE architecture. Full technical breakdown.',
-    date: 'March 31, 2026',
-    readTime: '18 min read'
-  },
-  {
-    slug: 'kimi-2m-context',
-    title: "Kimi K2.5 Technical Analysis: 1 Trillion Parameters, 256K Context, Agent Swarms",
-    category: 'AI Chatbots',
-    excerpt: 'Inside Moonshot AI\'s trillion-parameter MoE model with 384 experts, MuonClip optimizer, and autonomous agent orchestration. Why Cursor built Composer 2 on Kimi.',
-    date: 'March 31, 2026',
+    slug: 'china-ai-april-infrastructure-2026',
+    title: "China's AI Revolution: Education Reform, National Standards, and Ecosystem Breakthroughs in April 2026",
+    category: 'AI Trends',
+    excerpt: "Shanghai Jiao Tong University launches 'AI Ten Initiatives,' China establishes first humanoid robot national standards, and domestic AI models achieve parity with DeepSeek-R1.",
+    date: 'April 20, 2026',
     readTime: '16 min read'
   },
   {
-    slug: 'chinese-ai-index-2026',
-    title: 'Chinese AI Index 2026: 103 Companies, $15.2B Funding, Market Intelligence',
-    category: 'Market Intelligence',
-    excerpt: 'Complete tracking of China\'s AI ecosystem: DeepSeek, Moonshot, MiniMax, 01.AI, Zhipu funding rounds, valuations, user metrics, and competitive positioning.',
-    date: 'March 31, 2026',
-    readTime: '22 min read'
+    slug: 'china-ai-april-revolution-2026',
+    title: "China's AI April Revolution: Humanoid Robots Race, Multimodal Models Explode, and 2 Billion AI Videos Reshape Global Content",
+    category: 'AI Trends',
+    excerpt: "April 2025 marks a watershed moment for China's AI industry. From the world's first humanoid robot half-marathon to DeepSeek's rumored V4 launch and ByteDance's Doubao 2.0 release.",
+    date: 'April 19, 2026',
+    readTime: '17 min read'
   },
   {
-    slug: 'deepseek-vs-chatgpt',
-    title: 'DeepSeek vs ChatGPT: Benchmarks, Pricing, Architecture Compared (2026)',
-    category: 'AI Chatbots',
-    excerpt: 'Side-by-side analysis of MATH-500, SWE-Bench, API costs, and real-world performance. When to use which model for production applications.',
-    date: 'March 31, 2026',
-    readTime: '14 min read'
+    slug: 'china-ai-avatar-revolution-2026',
+    title: "China's AI Avatar Revolution: How 410 Million Views Signal a Global Content Creation Shift",
+    category: 'AI Applications',
+    excerpt: "Chinese AI avatar tools are experiencing explosive growth with 410 million topic views and 200% weekly growth. From HeyGen to domestic platforms like Silicon Intelligence and ShanJian.",
+    date: 'April 18, 2026',
+    readTime: '16 min read'
   },
   {
-    slug: 'chinese-ai-landscape',
-    title: 'The Rise of Chinese AI: Complete Ecosystem Map (Foundation to Application)',
-    category: 'Market Intelligence',
-    excerpt: 'From trillion-parameter models to video generation: mapping China\'s AI stack including chip makers (Biren, Moore Threads), cloud providers, and application layer.',
-    date: 'March 31, 2026',
-    readTime: '20 min read'
+    slug: 'stanford-ai-index-2026-china-rise',
+    title: "Stanford AI Index 2026: China's 'Parallel Run' Era Has Arrived",
+    category: 'AI Trends',
+    excerpt: "Stanford HAI's 423-page AI Index Report 2026 reveals a historic turning point: the China-US AI gap has 'effectively closed' to just 2.7%. Alibaba ranks #3 globally.",
+    date: 'April 17, 2026',
+    readTime: '16 min read'
   },
   {
-    slug: 'ai-video-tools-china',
-    title: 'Chinese AI Video Generation: Kling, Vidu, Hailuo vs Sora Technical Comparison',
-    category: 'AI Video',
-    excerpt: 'Technical analysis of video generation platforms. Kling\'s 2-minute 1080p output, Vidu\'s visual fidelity, Hailuo\'s audio synchronization. Features, pricing, benchmarks.',
-    date: 'April 1, 2026',
-    readTime: '15 min read'
+    slug: 'alibaba-token-hub-100b-gambit',
+    title: "Alibaba's $100B Token Gambit: Inside the Alibaba Token Hub Revolution Reshaping China's AI Economy",
+    category: 'AI Trends',
+    excerpt: "Deep dive into Alibaba's strategic pivot with ATH: How the tech giant is betting its future on Token economics, targeting $100B annual revenue from cloud and AI by 2031.",
+    date: 'April 16, 2026',
+    readTime: '17 min read'
   }
 ]
 
