@@ -1,7 +1,15 @@
 import Link from 'next/link'
 
-// Blog posts list - updated April 20, 2026
+// Blog posts list - updated April 21, 2026
 const posts = [
+  {
+    slug: 'china-embodied-intelligence-robot-marathon-2026',
+    title: "China's Embodied Intelligence Revolution: When Robots Outrun Humans — April 2026",
+    category: 'AI Trends',
+    excerpt: "Honor's 'Lightning' robot breaks human half-marathon world record in 50:26. TARS raises $455M. 102 teams compete as China's embodied intelligence sector hits an inflection point.",
+    date: 'April 21, 2026',
+    readTime: '18 min read'
+  },
   {
     slug: 'china-ai-april-infrastructure-2026',
     title: "China's AI Revolution: Education Reform, National Standards, and Ecosystem Breakthroughs in April 2026",
