@@ -258,6 +258,9 @@ China's approval of the first national standards for humanoid robots represents 
 | **Performance Benchmarks** | Movement capabilities, battery life, payload capacity | Q2 2027 |
 | **Testing Certification** | Compliance testing, third-party validation | Q3 2027 |
 
+![Humanoid Robot Standards](https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&h=400&fit=crop)
+*China's first national humanoid robot standards establish the foundation for mass production and commercial deployment.*
+
 ## Domestic AI Models Reach Parity: Huawei PanGu Ultra vs. DeepSeek-R1
 
 Huawei's PanGu Ultra MoE model now matches DeepSeek-R1 across key benchmarks, demonstrating broader domestic capability beyond single-company exceptionalism.
@@ -271,6 +274,9 @@ Huawei's PanGu Ultra MoE model now matches DeepSeek-R1 across key benchmarks, de
 | **HumanEval (Code)** | 87.6% | 88.2% | -0.6% disadvantage |
 | **C-Eval (Chinese Knowledge)** | 91.4% | 89.8% | +1.6% advantage |
 | **Context Window** | 256K tokens | 128K tokens | 2× capacity |
+
+![AI Model Performance](https://images.unsplash.com/photo-1676299081847-824916de030a?w=800&h=400&fit=crop)
+*Huawei PanGu Ultra matches DeepSeek-R1 performance, demonstrating China's broader AI ecosystem maturity beyond single-company breakthroughs.*
 
 ## ByteDance's AI Consolidation: Doubao Strategy Evolution
 
