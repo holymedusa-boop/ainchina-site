@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Generated: 2026-04-23T20:33:14.256Z -->
-  <!-- Total Posts: 31 -->
+  <!-- Generated: 2026-04-25T00:05:43.053Z -->
+  <!-- Total Posts: 32 -->
 
   <!-- Homepage -->
   <url>
     <loc>https://www.ainchina.com/</loc>
-    <lastmod>2026-04-23</lastmod>
+    <lastmod>2026-04-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -15,7 +15,7 @@
   <!-- Blog Index -->
   <url>
     <loc>https://www.ainchina.com/blog</loc>
-    <lastmod>2026-04-23</lastmod>
+    <lastmod>2026-04-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -31,9 +31,35 @@
   <!-- HTML Sitemap -->
   <url>
     <loc>https://www.ainchina.com/sitemap</loc>
-    <lastmod>2026-04-23</lastmod>
+    <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
+  </url>
+
+  <!-- AI Infrastructure -->
+  <url>
+    <loc>https://www.ainchina.com/blog/deepseek-v4-agent-era-million-tokens-2026</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/deepseek-v4-million-token-china-ai-sovereignty</loc>
+    <lastmod>2026-04-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/china-ai-chip-war-2026-us-sanctions</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/doubao-12-trillion-token-explosion</loc>
+    <lastmod>2026-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
 
   <!-- AI Chatbots -->
@@ -86,26 +112,6 @@
     <priority>0.8</priority>
   </url>
 
-  <!-- AI Infrastructure -->
-  <url>
-    <loc>https://www.ainchina.com/blog/deepseek-v4-million-token-china-ai-sovereignty</loc>
-    <lastmod>2026-04-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/china-ai-chip-war-2026-us-sanctions</loc>
-    <lastmod>2026-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/doubao-12-trillion-token-explosion</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
   <!-- AI Trends -->
   <url>
     <loc>https://www.ainchina.com/blog/china-embodied-intelligence-robot-marathon-2026</loc>
@@ -128,7 +134,7 @@
   <url>
     <loc>https://www.ainchina.com/blog/stanford-ai-index-2026-china-rise</loc>
     <lastmod>2026-04-17</lastmod>
-    <changefreq>daily</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
@@ -190,7 +196,7 @@
   <url>
     <loc>https://www.ainchina.com/blog/china-ai-avatar-revolution-2026</loc>
     <lastmod>2026-04-18</lastmod>
-    <changefreq>daily</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
