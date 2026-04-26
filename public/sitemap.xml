@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Generated: 2026-04-26T22:15:33.683Z -->
-  <!-- Total Posts: 33 -->
+  <!-- Generated: 2026-04-26T22:20:44.152Z -->
+  <!-- Total Posts: 34 -->
 
   <!-- Homepage -->
   <url>
@@ -36,15 +36,13 @@
     <priority>0.3</priority>
   </url>
 
-  <!-- AI Robotics -->
-  <url>
-    <loc>https://www.ainchina.com/blog/tars-embodied-intelligence-455-million-brain-club</loc>
-    <lastmod>2026-04-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-
   <!-- AI Infrastructure -->
+  <url>
+    <loc>https://www.ainchina.com/blog/deepseek-first-funding-20-billion-valuation</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
   <url>
     <loc>https://www.ainchina.com/blog/deepseek-v4-agent-era-million-tokens-2026</loc>
     <lastmod>2026-04-25</lastmod>
@@ -68,6 +66,14 @@
     <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+
+  <!-- AI Robotics -->
+  <url>
+    <loc>https://www.ainchina.com/blog/tars-embodied-intelligence-455-million-brain-club</loc>
+    <lastmod>2026-04-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
 
   <!-- AI Chatbots -->
