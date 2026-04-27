@@ -132,7 +132,7 @@ function buildSitemapXML(posts) {
   // Blog 列表页
   xml += `  <!-- Blog Index -->\n`;
   xml += `  <url>\n`;
-  xml += `    <loc>${BASE_URL}/blog</loc>\n`;
+  xml += `    <loc>${BASE_URL}/blog/</loc>\n`;
   xml += `    <lastmod>${today}</lastmod>\n`;
   xml += `    <changefreq>daily</changefreq>\n`;
   xml += `    <priority>0.9</priority>\n`;
@@ -142,7 +142,7 @@ function buildSitemapXML(posts) {
   // 关于页面
   xml += `  <!-- About Page -->\n`;
   xml += `  <url>\n`;
-  xml += `    <loc>${BASE_URL}/about</loc>\n`;
+  xml += `    <loc>${BASE_URL}/about/</loc>\n`;
   xml += `    <lastmod>2026-03-31</lastmod>\n`;
   xml += `    <changefreq>monthly</changefreq>\n`;
   xml += `    <priority>0.5</priority>\n`;
@@ -152,7 +152,7 @@ function buildSitemapXML(posts) {
   // HTML Sitemap 页面
   xml += `  <!-- HTML Sitemap -->\n`;
   xml += `  <url>\n`;
-  xml += `    <loc>${BASE_URL}/sitemap</loc>\n`;
+  xml += `    <loc>${BASE_URL}/sitemap/</loc>\n`;
   xml += `    <lastmod>${today}</lastmod>\n`;
   xml += `    <changefreq>weekly</changefreq>\n`;
   xml += `    <priority>0.3</priority>\n`;
@@ -176,7 +176,7 @@ function buildSitemapXML(posts) {
       const changefreq = getChangefreqByDate(post.date);
       
       xml += `  <url>\n`;
-      xml += `    <loc>${BASE_URL}/blog/${post.slug}</loc>\n`;
+      xml += `    <loc>${BASE_URL}/blog/${post.slug}/</loc>\n`;
       xml += `    <lastmod>${post.date || today}</lastmod>\n`;
       xml += `    <changefreq>${changefreq}</changefreq>\n`;
       xml += `    <priority>${priority}</priority>\n`;
