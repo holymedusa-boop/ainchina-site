@@ -1,7 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
-  distDir: 'dist',
+  // Standard Next.js config for Vercel - no static export
   trailingSlash: true,
 }
 
