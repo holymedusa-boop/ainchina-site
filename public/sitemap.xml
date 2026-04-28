@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Generated: 2026-04-28T13:16:24.168Z -->
-  <!-- Total Posts: 35 -->
+  <!-- Generated: 2026-04-28T22:30:31.356Z -->
+  <!-- Total Posts: 36 -->
 
   <!-- Homepage -->
   <url>
@@ -37,6 +37,12 @@
   </url>
 
   <!-- AI Infrastructure -->
+  <url>
+    <loc>https://www.ainchina.com/blog/ai-compute-crunch-china-token-crisis-2026/</loc>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
   <url>
     <loc>https://www.ainchina.com/blog/bytedance-ai-gamble-gpu-kingpin-profit-drop/</loc>
     <lastmod>2026-04-28</lastmod>
