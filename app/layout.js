@@ -59,6 +59,11 @@ export default function RootLayout({ children }) {
           src="https://www.googletagmanager.com/gtag/js?id=G-GK21PLH8V8"
         />
         <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2386931187050793"
+          crossorigin="anonymous"
+        />
+        <script
           dangerouslySetInnerHTML={{
             __html: `
               window.dataLayer = window.dataLayer || [];
