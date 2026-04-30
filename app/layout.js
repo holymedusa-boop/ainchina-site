@@ -33,7 +33,7 @@ export const metadata = {
     images: ['https://www.ainchina.com/og-image.jpg'],
   },
   alternates: {
-    canonical: 'https://www.ainchina.com',
+    canonical: 'https://www.ainchina.com/',
   },
   robots: {
     index: true,

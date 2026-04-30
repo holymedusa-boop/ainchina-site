@@ -1,5 +1,17 @@
 import Link from 'next/link'
 
+export const metadata = {
+  title: 'AI in China Blog',
+  description: 'Deep insights into China\'s AI revolution — trends, companies, and market intelligence',
+  alternates: {
+    canonical: 'https://www.ainchina.com/blog/',
+  },
+  robots: {
+    index: true,
+    follow: true,
+  },
+}
+
 // Auto-import posts from shared metadata
 const { allPosts } = require('../../lib/posts-meta')
 

@@ -3,6 +3,13 @@ import Link from 'next/link'
 export const metadata = {
   title: 'About | AI in China',
   description: 'Learn about AI in China - our mission to track and analyze the Chinese AI ecosystem.',
+  alternates: {
+    canonical: 'https://www.ainchina.com/about/',
+  },
+  robots: {
+    index: true,
+    follow: true,
+  },
 }
 
 export default function AboutPage() {
