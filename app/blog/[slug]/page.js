@@ -11454,7 +11454,7 @@ export default function BlogPost({ params }) {
         textAlign: 'center'
       }}>
         <h1>Article Not Found</h1>
-        <Link href="/blog" style={{ color: '#22d3ee' }}>← Back to Blog</Link>
+        <Link href="/blog/" style={{ color: '#22d3ee' }}>← Back to Blog</Link>
       </div>
     )
   }
@@ -11793,14 +11793,14 @@ export default function BlogPost({ params }) {
             </Link>
             
             <div style={{ display: 'flex', gap: '32px' }}>
-              <Link href="/blog" style={{ 
+              <Link href="/blog/" style={{ 
                 color: '#a3a3a3', 
                 textDecoration: 'none',
                 fontSize: '15px'
               }}>
                 Blog
               </Link>
-              <Link href="/about" style={{ 
+              <Link href="/about/" style={{ 
                 color: '#a3a3a3', 
                 textDecoration: 'none',
                 fontSize: '15px'

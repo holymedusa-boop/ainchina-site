@@ -58,12 +58,12 @@ export default function SitemapPage() {
             </Link>
           </li>
           <li style={{ marginBottom: '10px' }}>
-            <Link href="/blog" style={{ color: '#e5e5e5', textDecoration: 'none' }}>
+            <Link href="/blog/" style={{ color: '#e5e5e5', textDecoration: 'none' }}>
               Blog
             </Link>
           </li>
           <li style={{ marginBottom: '10px' }}>
-            <Link href="/about" style={{ color: '#e5e5e5', textDecoration: 'none' }}>
+            <Link href="/about/" style={{ color: '#e5e5e5', textDecoration: 'none' }}>
               About
             </Link>
           </li>
@@ -88,7 +88,7 @@ export default function SitemapPage() {
               .map(post => (
                 <li key={post.slug} style={{ marginBottom: '15px' }}>
                   <Link 
-                    href={`/blog/${post.slug}`}
+                    href={`/blog/${post.slug}/`}
                     style={{ 
                       color: '#e5e5e5', 
                       textDecoration: 'none',

@@ -67,7 +67,7 @@ export default function BlogPage() {
           {posts.map((post) => (
             <Link
               key={post.slug}
-              href={`/blog/${post.slug}`}
+              href={`/blog/${post.slug}/`}
               className="group bg-[#111] border border-[#1a1a1a] rounded-lg hover:border-[#333] hover:shadow-xl hover:shadow-black/50 hover:-translate-y-0.5 transition-all duration-300 overflow-hidden flex flex-col"
             >
               <div className="p-6 flex-1 flex flex-col">

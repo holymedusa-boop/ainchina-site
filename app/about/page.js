@@ -39,14 +39,14 @@ export default function AboutPage() {
             </Link>
             
             <div style={{ display: 'flex', gap: '32px' }}>
-              <Link href="/blog" style={{ 
+              <Link href="/blog/" style={{ 
                 color: '#a3a3a3', 
                 textDecoration: 'none',
                 fontSize: '15px'
               }}>
                 Blog
               </Link>
-              <Link href="/about" style={{ 
+              <Link href="/about/" style={{ 
                 color: '#e5e5e5', 
                 textDecoration: 'none',
                 fontSize: '15px'

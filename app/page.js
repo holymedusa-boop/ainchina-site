@@ -48,14 +48,14 @@ export default function Home() {
             </Link>
             
             <div style={{ display: 'flex', gap: '32px' }}>
-              <Link href="/blog" style={{ 
+              <Link href="/blog/" style={{ 
                 color: '#a3a3a3', 
                 textDecoration: 'none',
                 fontSize: '15px'
               }}>
                 Blog
               </Link>
-              <Link href="/about" style={{ 
+              <Link href="/about/" style={{ 
                 color: '#a3a3a3', 
                 textDecoration: 'none',
                 fontSize: '15px'
@@ -154,7 +154,7 @@ export default function Home() {
             <h2 style={{ fontSize: '28px', fontWeight: 600 }}>Latest Deep Dives</h2>
             
             <Link 
-              href="/blog" 
+              href="/blog/" 
               style={{ 
                 color: '#22d3ee', 
                 textDecoration: 'none',
@@ -195,7 +195,7 @@ export default function Home() {
                 </div>
                 
                 <Link 
-                  href={`/blog/${post.slug}`}
+                  href={`/blog/${post.slug}/`}
                   style={{ textDecoration: 'none', color: 'inherit' }}
                 >
                   <h3 style={{ 
