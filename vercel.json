@@ -9,5 +9,28 @@
         }
       ]
     }
+  ],
+  "redirects": [
+    {
+      "source": "/index\\.(jsp|htm|html|asp|aspx|php|cgi)",
+      "destination": "/404",
+      "permanent": false
+    },
+    {
+      "source": "/en/index\\.(jsp|htm|html|asp|aspx|php|cgi)",
+      "destination": "/404",
+      "permanent": false
+    },
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "ainchina.com"
+        }
+      ],
+      "destination": "https://www.ainchina.com/:path*",
+      "permanent": true
+    }
   ]
 }
