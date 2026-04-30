@@ -1,10 +1,11 @@
 import Link from 'next/link'
 
 export const metadata = {
+  metadataBase: new URL('https://www.ainchina.com'),
   title: 'AI in China Blog',
   description: 'Deep insights into China\'s AI revolution — trends, companies, and market intelligence',
   alternates: {
-    canonical: 'https://www.ainchina.com/blog/',
+    canonical: '/blog/',
   },
   robots: {
     index: true,
