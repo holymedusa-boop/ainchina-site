@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Generated: 2026-05-03T03:11:24.763Z -->
-  <!-- Total Posts: 40 -->
+  <!-- Generated: 2026-05-03T03:25:16.657Z -->
+  <!-- Total Posts: 41 -->
 
   <!-- Homepage -->
   <url>
@@ -34,6 +34,14 @@
     <lastmod>2026-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
+  </url>
+
+  <!-- AI Safety -->
+  <url>
+    <loc>https://www.ainchina.com/blog/china-ai-deepfake-fraud-crisis-2026/</loc>
+    <lastmod>2026-05-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
 
   <!-- AI Infrastructure -->
