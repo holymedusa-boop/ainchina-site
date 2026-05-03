@@ -61,36 +61,74 @@ const postMetadata = {
   },
 }
 
-// Parse frontmatter - supports both JSON and YAML formats
-function parseFrontmatter(frontmatter) {
-  const trimmed = frontmatter.trim()
-  
-  // Try JSON first (starts with {)
-  if (trimmed.startsWith('{')) {
-    try {
-      return JSON.parse(trimmed)
-    } catch (e) {
-      // Not valid JSON, try YAML
-    }
-  }
-  
-  // Parse YAML-like format: key: "value" or key: value
+// Parse YAML frontmatter: key: "value" or key: value (handles multi-line)
+function parseYamlFrontmatter(text) {
   const result = {}
-  const lines = trimmed.split('\n')
+  const lines = text.split('\n')
+  let currentKey = null
+  let currentValue = []
+  
   for (const line of lines) {
     const match = line.match(/^(\w+):\s*(.*)$/)
     if (match) {
-      let key = match[1]
+      // Save previous multi-line value
+      if (currentKey) {
+        result[currentKey] = currentValue.join('\n').trim()
+      }
+      currentKey = match[1]
       let value = match[2].trim()
       // Remove surrounding quotes
       if ((value.startsWith('"') && value.endsWith('"')) || 
           (value.startsWith("'") && value.endsWith("'"))) {
         value = value.slice(1, -1)
       }
-      result[key] = value
+      currentValue = [value]
+    } else if (currentKey && line.startsWith('  ')) {
+      // Continuation of multi-line value (indented)
+      currentValue.push(line.trim())
+    } else if (currentKey && line.trim()) {
+      // Another value line (part of multi-line)
+      currentValue.push(line.trim())
     }
   }
+  if (currentKey) {
+    result[currentKey] = currentValue.join('\n').trim()
+  }
   return result
+}
+
+// Parse JS export const metadata = {...} format
+function parseJsMetadata(raw) {
+  const result = {}
+  // Extract title: "..." or title: '...'
+  const titleMatch = raw.match(/title:\s*["']([^"']+)["']/)
+  if (titleMatch) result.title = titleMatch[1]
+  
+  // Extract description
+  const descMatch = raw.match(/description:\s*["']([^"']+)["']/)
+  if (descMatch) result.description = descMatch[1]
+  
+  // Try to extract date from slug or content
+  const dateMatch = raw.match(/date:\s*["']([^"']+)["']/)
+  if (dateMatch) result.date = dateMatch[1]
+  
+  return result
+}
+
+// Extract title from first markdown heading
+function extractTitleFromContent(content) {
+  const h1Match = content.match(/^#\s+(.+)$/m)
+  if (h1Match) return h1Match[1].trim()
+  const boldMatch = content.match(/^\*\*([^*]+)\*\*$/m)
+  if (boldMatch) return boldMatch[1].trim()
+  return null
+}
+
+// Extract date from slug (e.g., "deepseek-v4-pricing-2026-04-30" → "2026-04-30")
+function extractDateFromSlug(slug) {
+  const dateMatch = slug.match(/(\d{4}-\d{2}-\d{2})/)
+  if (dateMatch) return dateMatch[1]
+  return null
 }
 
 // Read all posts from markdown files
@@ -103,19 +141,74 @@ function readPosts() {
     const slug = file.replace('.md', '')
     const raw = readFileSync(join(postsDir, file), 'utf-8')
     
-    // Parse frontmatter
-    const parts = raw.split('---')
-    if (parts.length < 3) continue
+    let meta = {}
+    let content = raw
     
-    const frontmatter = parts[1].trim()
-    const content = parts.slice(2).join('---').trim()
+    // Case 1: File starts with --- → YAML or JSON frontmatter
+    if (raw.trimStart().startsWith('---')) {
+      const parts = raw.split('---')
+      if (parts.length >= 3) {
+        const frontmatter = parts[1].trim()
+        content = parts.slice(2).join('---').trim()
+        
+        // Try JSON first (starts with {)
+        if (frontmatter.startsWith('{')) {
+          try {
+            meta = JSON.parse(frontmatter)
+          } catch (e) {
+            console.error('JSON parse error for', slug, e.message)
+          }
+        } else {
+          // YAML format
+          meta = parseYamlFrontmatter(frontmatter)
+        }
+      }
+    }
+    // Case 2: File starts with "export const metadata" → JS metadata format
+    else if (raw.trimStart().startsWith('export const metadata')) {
+      meta = parseJsMetadata(raw)
+      // Find where actual markdown content starts (after the JS block)
+      const contentStart = raw.search(/\n#[^#]/)
+      if (contentStart > 0) {
+        content = raw.slice(contentStart).trim()
+      } else {
+        // Look for first heading
+        const h1Index = raw.search(/^#\s+/m)
+        if (h1Index > 0) {
+          content = raw.slice(h1Index).trim()
+        }
+      }
+    }
+    // Case 3: No frontmatter → extract from content
+    else {
+      // Try to find frontmatter-like metadata in early content
+      const metaBlockMatch = raw.match(/\*\*Meta Title\*\*:\s*([^\n]+)\n\*\*Meta Description\*\*:\s*([^\n]+)\n\*\*Keywords\*\*:\s*([^\n]+)/)
+      if (metaBlockMatch) {
+        meta.title = metaBlockMatch[1].trim()
+        meta.description = metaBlockMatch[2].trim()
+        meta.keywords = metaBlockMatch[3].trim()
+      }
+    }
     
-    // Parse frontmatter (JSON or YAML)
-    const meta = parseFrontmatter(frontmatter)
+    // Fallback: extract title from content if not in frontmatter
+    if (!meta.title) {
+      meta.title = extractTitleFromContent(content)
+    }
     
-    if (!meta.title || !meta.date) {
-      console.error('Failed to parse frontmatter for', slug)
+    // Fallback: extract date from slug if not in frontmatter
+    if (!meta.date) {
+      meta.date = extractDateFromSlug(slug)
+    }
+    
+    // Skip if we still can't get title
+    if (!meta.title) {
+      console.error('Failed to parse article (no title found):', slug)
       continue
+    }
+    
+    // Fallback date if still missing
+    if (!meta.date) {
+      meta.date = '2026-01-01' // Default fallback
     }
     
     // Format date
