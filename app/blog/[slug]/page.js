@@ -4,6 +4,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-revolution-may-2026-tokens-deepseek-huawei': {
+    metaTitle: "China's AI Revolution: 140 Trillion Tokens, DeepSeek V4 on Huawei, and the $700B Arms Race",
+    metaDescription: "Stanford's 2026 AI Index: US-China AI gap narrowed to 2.7%. DeepSeek V4 launches on Huawei Ascend chips, breaking NVIDIA's CUDA monopoly. China processes 140 trillion tokens daily. Inside the shift reshaping global technology.",
+    keywords: 'China AI, DeepSeek V4, Huawei Ascend, token economy, AI infrastructure, NVIDIA CUDA, China chips, AI competition, Stanford AI Index, Kimi K3, Moonshot AI, Alibaba Token Hub, AI CapEx',
+  },
   'ai-compute-crunch-china-token-crisis-2026': {
     metaTitle: "The Great AI Compute Crunch: How China's AI Boom Is Running Out of Tokens",
     metaDescription: "As DeepSeek V4 and Kimi K2.6 launched in April 2026, China's AI infrastructure hit a wall. Cloud prices surged 5%–463%, APIs failed under agent-driven demand, and Huawei Ascend chips became the unlikely lifeline. Inside the first AI inflation crisis.",
