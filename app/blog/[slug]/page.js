@@ -100,9 +100,9 @@ const postMetadata = {
     keywords: 'alibaba, 100b, token, gambit, inside, revolution, reshaping, china, economy, China AI, AI trends',
   },
   'bytedance-seed-brain-drain-70-engineers': {
-    metaTitle: "bytedance-seed-brain-drain-70-engineers",
-    metaDescription: "",
-    keywords: 'bytedance-seed-brain-drain-70-engineers, China AI, AI trends',
+    metaTitle: "ByteDance's AI Brain Drain: 70 Top Engineers Exit Seed Team in 12 Months",
+    metaDescription: "ByteDance is bleeding AI talent. Nearly 70 core engineers walked out of its prestigious Seed AI team in 12 months—most joining Tencent. Inside China's ruthless AI talent wars.",
+    keywords: 'ByteDance, AI brain drain, Seed team, AI talent, China AI, Tencent, engineer exodus',
   },
   'china-ai-agent-explosion-2025-enterprise-deployment': {
     metaTitle: "China's AI Agent Explosion: How 126 Platforms and $1B+ ...",
@@ -110,14 +110,14 @@ const postMetadata = {
     keywords: 'china, agent, explosion, platforms, enterprise, deals, reshaping, global, automation, China AI, AI trends',
   },
   'china-ai-april-infrastructure-2026': {
-    metaTitle: "china-ai-april-infrastructure-2026",
-    metaDescription: "",
-    keywords: 'china-ai-april-infrastructure-2026, China AI, AI trends',
+    metaTitle: "China's AI Revolution: Education Reform, National Standards, and Ecosystem Breakthroughs in April 2026",
+    metaDescription: "Shanghai Jiao Tong University launches 'AI Ten Initiatives,' China establishes first humanoid robot national standards, and domestic AI models achieve parity with DeepSeek-R1.",
+    keywords: 'China AI, education reform, humanoid robot, national standards, SJTU, AI infrastructure, April 2026',
   },
   'china-ai-april-revolution-2026': {
-    metaTitle: "china-ai-april-revolution-2026",
-    metaDescription: "",
-    keywords: 'china-ai-april-revolution-2026, China AI, AI trends',
+    metaTitle: "China's AI April Revolution: Humanoid Robots Race, Multimodal Models Explode, and 2 Billion AI Videos Reshape Global Content",
+    metaDescription: "April 2025 marks a watershed moment for China's AI industry. From the world's first humanoid robot half-marathon to DeepSeek's rumored V4 launch and ByteDance's Doubao 2.0 release.",
+    keywords: 'China AI revolution, humanoid robot, multimodal models, AI video, Doubao, DeepSeek V4',
   },
   'china-ai-avatar-revolution-2025': {
     metaTitle: "China's AI Avatar Revolution: How 410 Million Views Tra...",
@@ -135,9 +135,9 @@ const postMetadata = {
     keywords: 'great, silicon, wall, china, industry, defying, chip, sanctions, China AI, AI trends',
   },
   'china-ai-deepfake-fraud-crisis-2026': {
-    metaTitle: "china-ai-deepfake-fraud-crisis-2026",
-    metaDescription: "",
-    keywords: 'china-ai-deepfake-fraud-crisis-2026, China AI, AI trends',
+    metaTitle: "China's AI Deepfake Fraud Crisis: How 700,000 Annual Scams and a $40 Billion Global Threat Are Reshaping Trust in the Digital Age",
+    metaDescription: "AI-powered deepfake fraud has exploded 3,000% since 2023. With 700,000 annual telecom fraud cases and ¥200 billion in losses, China's experience offers critical lessons for global AI governance.",
+    keywords: 'AI deepfake, fraud crisis, China AI governance, digital human, MCN, telecom fraud, AI regulation',
   },
   'china-ai-digital-human-revolution': {
     metaTitle: "China's AI Digital Human Revolution: How 80,000 Virtual...",
@@ -155,9 +155,9 @@ const postMetadata = {
     keywords: 'china, model, wars, alibaba, bytedance, minimax, reshaping, global, competition, april, China AI, AI trends',
   },
   'china-ai-token-surge-gen-z': {
-    metaTitle: "china-ai-token-surge-gen-z",
-    metaDescription: "",
-    keywords: 'china-ai-token-surge-gen-z, China AI, AI trends',
+    metaTitle: "China's AI Overtake: 31% Surge in Token Usage Signals Global Power Shift",
+    metaDescription: "Chinese AI models processed 12.96 trillion tokens in one week—a 31.48% surge. For the fifth consecutive week, China's token consumption has exceeded the United States.",
+    keywords: 'China AI, token usage, Gen Z, power shift, AI adoption, China overtakes US',
   },
   'china-embodied-ai-revolution-2026': {
     metaTitle: "China's Embodied AI Revolution: How $30 Billion in Q1 F...",
@@ -165,9 +165,9 @@ const postMetadata = {
     keywords: 'china, embodied, revolution, billion, funding, reshaping, global, robotics, China AI, AI trends',
   },
   'deepseek-v4-agent-era-million-tokens-2026': {
-    metaTitle: "deepseek-v4-agent-era-million-tokens-2026",
-    metaDescription: "",
-    keywords: 'deepseek-v4-agent-era-million-tokens-2026, China AI, AI trends',
+    metaTitle: "DeepSeek V4 Unleashed: How China's Open-Source AI Champion Is Winning the Agent Era with Million-Token Superpowers",
+    metaDescription: "DeepSeek V4 preview launches April 24, 2026 with dual-version strategy, 1M token context windows, and Agent capabilities. At 1/645th the cost of GPT-5.5 Pro.",
+    keywords: 'DeepSeek V4, Agent era, open source AI, million token, GPT-5.5 Pro, China AI',
   },
   'doubao-12-trillion-token-explosion': {
     metaTitle: "Doubao's 12 Trillion Token Explosion: How ByteDance Is ...",
