@@ -64,6 +64,11 @@ const postMetadata = {
     metaDescription: "Moonshot AI's Kimi K2.6 matches GPT-5.5 on SWE-Bench Pro with 300-agent swarm architecture, open weights, and pricing 80% below Western flagships. A deep dive into China's most ambitious AI model.",
     keywords: 'Kimi K2.6, Moonshot AI, open source AI, coding benchmark, agent swarm, Chinese AI, GPT-5.5, Claude Opus, LLM pricing, AI infrastructure',
   },
+  'deepseek-v4-promo-ending-analysis': {
+    metaTitle: "DeepSeek V4's 75% Promo Ends May 31: What Happens Next and Why the AI Pricing War Is Just Beginning",
+    metaDescription: "DeepSeek V4-Pro's 75% promotional discount — extended from May 5 to May 31 — has developers wondering what happens next. Even at standard pricing, V4-Pro remains 17-86x cheaper than Claude Opus 4.7 while matching its SWE-Bench score. Here's the complete analysis.",
+    keywords: 'DeepSeek V4, DeepSeek pricing, AI API pricing, DeepSeek promo, LLM cost comparison, MoE architecture, Huawei Ascend, AI pricing war, Claude Opus vs DeepSeek, V4-Flash vs V4-Pro',
+  },
 }
 
 // Parse YAML frontmatter: key: "value" or key: value (handles multi-line)
