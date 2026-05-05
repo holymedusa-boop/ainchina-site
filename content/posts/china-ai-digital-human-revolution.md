@@ -1,5 +1,5 @@
 ---
-title: "China's AI Digital Human Revolution: 80,000 Virtual Avatars Reshaping Content"s AI Digital Human Revolution: How 80,000 Virtual Avatars Are Reshaping Content Creation"
+title: "China's AI Digital Human Revolution: 80,000 Virtual Avatars Reshaping Content"
 slug: "china-ai-digital-human-revolution"
 date: "2026-04-05"
 category: "AI Applications"

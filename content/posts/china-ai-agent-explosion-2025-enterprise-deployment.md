@@ -1,5 +1,5 @@
 ---
-title: "China's AI Agent Explosion: How 126 Platforms and $1B+ in Enterprise Deals Are Reshaping Global Automation"s AI Agent Explosion: How 126 Platforms and $1B+ in Enterprise Deals Are Reshaping Global Automation"
+title: "China's AI Agent Explosion: How 126 Platforms and $1B+ in Enterprise Deals Are Reshaping Global Automation"
 slug: "china-ai-agent-explosion-2025-enterprise-deployment"
 date: "2026-04-15"
 category: "AI Trends"

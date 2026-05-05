@@ -1,5 +1,5 @@
 ---
-title: "China's AI Global Surge: How Chinese Models Captured 61% of Global API Traffic and Built a China Ai Global Surge Api Traffic Empire80 Billion Empire"
+title: "China's AI Global Surge: How Chinese Models Captured 61% of Global API Traffic and Built a $180 Billion Empire"
 slug: "china-ai-global-surge-api-traffic-empire-2026"
 date: "2026-05-01"
 category: "AI Trends"
