@@ -338,3 +338,10 @@ At $20 billion, with Tencent and Alibaba at the table, and a migration to Huawei
   "keywords": ["DeepSeek", "Liang Wenfeng", "China AI", "AI funding", "Huawei Ascend", "Tencent", "Alibaba", "DeepSeek V4", "AI talent", "Chinese AI companies"]
 }
 </script>
+
+---
+
+**Related Articles:**
+- [DeepSeek V4's 75% Promo Ends May 31: What Happens Next and Why the AI Pricing War Is Just Beginning](/blog/deepseek-v4-promo-ending-analysis)
+- [DeepSeek V4 Pricing Strategy: How $0.14/1M Tokens Is Reshaping the Economics of Frontier AI](/blog/deepseek-v4-pricing-strategy-analysis)
+- [DeepSeek V4 Unleashed: How China's Open-Source AI Champion Is Winning the Agent Era with Million-Token Superpowers](/blog/deepseek-v4-agent-era-million-tokens-2026)

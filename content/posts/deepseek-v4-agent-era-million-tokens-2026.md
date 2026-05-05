@@ -272,3 +272,10 @@ The Agent era isn't coming. It's here. And DeepSeek V4 just made it affordable e
 ---
 
 *Disclaimer: This analysis is based on publicly available technical reports, API documentation, and third-party benchmarks as of April 25, 2026. Pricing data reflects launch-day announcements and may be subject to change. Performance claims are sourced from DeepSeek's published evaluations and independent testing where available.*
+
+---
+
+**Related Articles:**
+- [DeepSeek V4's 75% Promo Ends May 31: What Happens Next and Why the AI Pricing War Is Just Beginning](/blog/deepseek-v4-promo-ending-analysis)
+- [DeepSeek V4 Pricing Strategy: How $0.14/1M Tokens Is Reshaping the Economics of Frontier AI](/blog/deepseek-v4-pricing-strategy-analysis)
+- [DeepSeek Breaks Its Vow: Inside the $3 Billion Funding Round That Shook China's AI World](/blog/deepseek-first-funding-20-billion-valuation)

@@ -295,3 +295,10 @@ What ByteDance has proven, beyond any doubt, is that it is willing to pay any pr
 ---
 
 *Disclaimer: This analysis is based on publicly available information, media reports, and industry estimates. ByteDance has not officially confirmed specific profit figures or GPU inventory numbers. Investment and strategic decisions should not be made solely on the basis of this article.*
+
+---
+
+**Related Articles:**
+- [ByteDance's AI Brain Drain: 70 Top Engineers Exit Seed Team in 12 Months](/blog/bytedance-seed-brain-drain-70-engineers)
+- [ByteDance Doubao: The 200 Million User AI Assistant Reshaping Content Creation](/blog/doubao-bytedance)
+- [minimax-talkie](/blog/minimax-talkie)

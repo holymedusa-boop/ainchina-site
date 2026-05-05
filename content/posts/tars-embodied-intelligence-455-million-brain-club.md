@@ -258,3 +258,10 @@ The $455 million bet suggests that Hillhouse, Sequoia, and China's state capital
 *Disclaimer: This analysis is based on publicly disclosed information from Tars' funding announcement on April 16, 2026, and technical presentations at NVIDIA GTC 2026. Market data represents estimates based on disclosed figures. Investment decisions should not be made solely based on this analysis.*
 
 ---
+
+---
+
+**Related Articles:**
+- [China's Embodied Intelligence Revolution: When Robots Outrun Humans — April 2026](/blog/china-embodied-intelligence-robot-marathon-2026)
+- [China's Embodied AI Revolution: How $30 Billion in Q1 Funding Is Reshaping Global Robotics](/blog/china-embodied-ai-revolution-2026)
+- [China's AI April Revolution: Humanoid Robots Race, Multimodal Models Explode, and 2 Billion AI Videos Reshape Global Content](/blog/china-ai-april-revolution-2026)

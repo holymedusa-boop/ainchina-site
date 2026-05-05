@@ -301,3 +301,10 @@ The robots may not be running marathons yet. But they're learning to be good com
 *Disclaimer: This analysis is based on publicly available information and the IPO prospectus filed on April 23, 2026. Market data represents estimates based on disclosed figures. Investment decisions should not be made solely based on this analysis.*
 
 ---
+
+---
+
+**Related Articles:**
+- [minimax-talkie](/blog/minimax-talkie)
+- [ByteDance Doubao: The 200 Million User AI Assistant Reshaping Content Creation](/blog/doubao-bytedance)
+- [China's AI Avatar Revolution: How 410 Million Views Signal a Global Content Creation Shift](/blog/china-ai-avatar-revolution-2026)

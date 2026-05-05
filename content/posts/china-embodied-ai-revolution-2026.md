@@ -326,3 +326,10 @@ As one Shenzhen investor summarized: "In software AI, China was fast following. 
 ---
 
 **Disclaimer**: This article is for informational purposes only. Investment decisions should not be based solely on this analysis. The embodied AI sector involves significant technical and market risks.
+
+---
+
+**Related Articles:**
+- [China's Embodied Intelligence Revolution: When Robots Outrun Humans — April 2026](/blog/china-embodied-intelligence-robot-marathon-2026)
+- [Tars Raises $455M: How China's 'Robot Brain' Startup Cracked the Embodied Intelligence Code](/blog/tars-embodied-intelligence-455-million-brain-club)
+- [China's AI April Revolution: Humanoid Robots Race, Multimodal Models Explode, and 2 Billion AI Videos Reshape Global Content](/blog/china-ai-april-revolution-2026)
