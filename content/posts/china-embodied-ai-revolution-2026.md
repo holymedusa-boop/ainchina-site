@@ -1,11 +1,9 @@
 ---
-title: "China's Embodied AI Revolution: How $30 Billion in Q1 Funding Is Reshaping Global Robotics"
+title: "Supply Chain Dominance"
 slug: "china-embodied-ai-revolution-2026"
 date: "2026-04-06"
-excerpt: "China's embodied intelligence sector raised $30 billion in Q1 2026 alone, creating 9 unicorn companies valued at $10B+. From Zhi Robotics' Tesla-like approach to Autobot's Big Tech backing, discover how China is winning the physical AI race."
 category: "AI Trends"
 readTime: "17 min read"
-keywords: ["embodied AI", "humanoid robots", "China robotics", "Zhi Robotics", "LimX Dynamics", "Autobot Robotics", "AI funding", "Tesla Optimus", "robotics unicorn"]
 ---
 
 ![China's Embodied AI Revolution - Humanoid robots in factory setting](https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=600&fit=crop)

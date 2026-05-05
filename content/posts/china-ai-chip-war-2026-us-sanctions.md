@@ -1,29 +1,9 @@
 ---
-title: "The Great Silicon Wall: How China's AI Industry Is Defying U.S. Chip Sanctions in 2026"
+title: "The Great Silicon Wall: How China"
 slug: "china-ai-chip-war-2026-us-sanctions"
 date: "2026-04-12"
-excerpt: "ByteDance just ordered $5.6 billion in Huawei chips. DeepSeek V4 is launching on domestic silicon. Inside China's audacious strategy to build a parallel AI ecosystem—and why American tech dominance is facing its biggest challenge yet."
-metaTitle: "China's AI Chip War: Defying U.S. Sanctions in 2026"
-metaDescription: "ByteDance's $5.6B Huawei deal, DeepSeek V4 on domestic chips, and the parallel AI ecosystem China is building. Why U.S. tech dominance faces its biggest challenge."
-keywords: ["China AI chips", "Huawei Ascend", "DeepSeek V4", "ByteDance", "US sanctions", "AI sovereignty", "Nvidia H200", "chip war 2026", "Chinese AI", "technological autonomy"]
-readingTime: "17 min read"
 category: "AI Infrastructure"
-image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=600&fit=crop"
-schema: {
-  "@context": "https://schema.org",
-  "@type": "TechArticle",
-  "headline": "The Great Silicon Wall: How China's AI Industry Is Defying U.S. Chip Sanctions in 2026",
-  "description": "ByteDance's $5.6B Huawei deal, DeepSeek V4 on domestic chips, and the parallel AI ecosystem China is building.",
-  "author": {
-    "@type": "Organization",
-    "name": "AI in China"
-  },
-  "datePublished": "2026-04-12",
-  "publisher": {
-    "@type": "Organization",
-    "name": "AI in China"
-  }
-}readTime: "17 min read"
+readTime: "17 min read"
 ---
 
 # The Great Silicon Wall: How China's AI Industry Is Defying U.S. Chip Sanctions in 2026

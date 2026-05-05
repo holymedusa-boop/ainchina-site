@@ -1,11 +1,9 @@
 ---
-title: "ModelBest Becomes Unicorn: How Tsinghua's Edge AI Pioneer Is Reshaping On-Device Intelligence"
-description: "Inside ModelBest's rise to unicorn status: How a Tsinghua-born startup is challenging AI giants with its 'Density Law' approach to edge AI, securing $100M+ in 2026, and powering the next generation of on-device intelligence."
+title: "ModelBest Becomes Unicorn: How Tsinghua"
+slug: "modelbest-edge-ai-unicorn-2026"
 date: "2026-04-10"
-author: "AI in China Research Team"
+category: "AI Trends"
 readTime: "17 min"
-image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=600&fit=crop"
-keywords: ["ModelBest", "MiniCPM", "edge AI", "on-device AI", "Tsinghua AI", "unicorn", "density law", "端侧AI", "面壁智能"]category: "AI Trends"
 ---
 
 ![ModelBest Edge AI Revolution](https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=600&fit=crop)

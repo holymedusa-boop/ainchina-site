@@ -2,11 +2,7 @@
 title: "DeepSeek V4 Pricing Strategy: How $0.14/1M Tokens Is Reshaping the Economics of Frontier AI"
 slug: "deepseek-v4-pricing-strategy-analysis"
 date: "2026-04-30"
-excerpt: "DeepSeek V4's radical pricing — Flash at $0.14/1M input tokens, Pro at $1.74/1M — undercuts OpenAI and Anthropic by 10-30x. We analyze the strategy, architecture, and market disruption behind the cheapest frontier-class AI API ever launched."
-author: "AIN China Research"
-readingTime: "16 minutes"
-coverImage: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80"
-keywords: ["DeepSeek V4", "AI API pricing", "LLM pricing 2026", "DeepSeek pricing strategy", "AI cost comparison", "MoE architecture", "open source AI", "Chinese AI pricing"]category: "AI Infrastructure"
+category: "AI Infrastructure"
 readTime: "16 min read"
 ---
 

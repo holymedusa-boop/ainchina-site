@@ -1,10 +1,9 @@
 ---
 title: "Doubao's 12 Trillion Token Explosion: How ByteDance Is Quietly Winning the Global AI Race"
+slug: "doubao-12-trillion-token-explosion"
 date: "2026-04-04"
-excerpt: "ByteDance's Doubao model just hit 12 trillion daily tokens—a 1000x growth in under two years. With China capturing 30% of global AI market share and challenging the US tech oligopoly, here's what this means for the future of artificial intelligence."
 category: "AI Infrastructure"
-tags: ["Doubao", "ByteDance", "Volcano Engine", "China AI", "LLM market share", "AI tokens", "OpenRouter", "AI economics"]
-author: "AI in China"
+readTime: "10 min read"
 ---
 
 # Doubao's 12 Trillion Token Explosion: How ByteDance Is Quietly Winning the Global AI Race

@@ -1,9 +1,7 @@
 ---
-title: "China's AI Overtake: 31% Surge in Token Usage Signals Global Power Shift"
+title: "Zhihu (知乎)"
 slug: "china-ai-token-surge-gen-z"
 date: "2026-04-07"
-author: "AI in China Research Team"
-excerpt: "Chinese AI models processed 12.96 trillion tokens in one week—a 31.48% surge. For the fifth consecutive week, China's token consumption has exceeded the United States."
 category: "AI Trends"
 readTime: "17 min read"
 ---

@@ -1,10 +1,9 @@
 ---
 title: "StepFun's $7 Billion Bet: How China's AI Unicorn Is Winning the Terminal Race"
+slug: "stepfun-terminal-ai-revolution"
 date: "2026-04-03"
-excerpt: "With a record-breaking $700M funding round and former Megvii founder Yin Qi at the helm, StepFun is pioneering the shift from cloud AI to physical terminals. From 42 million smartphone deployments to AI-powered car cockpits, here's how this Shanghai unicorn is reshaping the AI landscape."
 category: "AI Infrastructure"
-tags: ["StepFun", "AI terminals", "China AI", "Yin Qi", "on-device AI", "smart cockpit", "multimodal AI", "AI unicorns"]
-author: "AI in China"
+readTime: "10 min read"
 ---
 
 # StepFun's $7 Billion Bet: How China's AI Unicorn Is Winning the Terminal Race

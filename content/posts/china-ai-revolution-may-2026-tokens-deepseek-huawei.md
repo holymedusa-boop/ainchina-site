@@ -1,12 +1,9 @@
 ---
-title: "China's AI Revolution: How 140 Trillion Tokens, DeepSeek V4 on Huawei Chips, and a $700B Arms Race Are Reshaping Global Technology"
-date: "May 4, 2026"
-excerpt: "Stanford's 2026 AI Index reveals the US-China gap has narrowed to 2.7%. DeepSeek V4 launches on Huawei chips, breaking NVIDIA's CUDA monopoly. China processes 140 trillion tokens daily—1,000x growth in two years. The global AI order is shifting before our eyes."
-readTime: "16 min read"
-category: "AI Infrastructure"
+title: "Zhihu (China's Quora)"
 slug: "china-ai-revolution-may-2026-tokens-deepseek-huawei"
-heroImage: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&h=600&fit=crop"
-keywords: "China AI, DeepSeek V4, Huawei Ascend, token economy, AI infrastructure, NVIDIA CUDA, China chips, AI competition, Stanford AI Index, Kimi K3, Moonshot AI, Alibaba Token Hub, AI CapEx"
+date: "May 4, 2026"
+category: "AI Infrastructure"
+readTime: "16 min read"
 ---
 
 *Image: The intersection of AI and national technology sovereignty—credit: Unsplash*

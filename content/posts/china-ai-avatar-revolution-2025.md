@@ -2,28 +2,8 @@
 title: "China's AI Avatar Revolution: How 410 Million Views Transformed Content Creation Forever"
 slug: "china-ai-avatar-revolution-2025"
 date: "2026-04-05"
-excerpt: "China's AI avatar market exploded to 410 million views in one week (+200% growth). From Xiaohongshu creators to IPO-bound giants like Guiji AI, discover how digital humans are reshaping content creation, reducing production costs by 90%, and creating a new generation of faceless influencers."
-metaTitle: "China's AI Avatar Revolution: 410M Views, 200% Growth"
-metaDescription: "China's AI avatar market hit 410M views with 200% weekly growth. Explore how Guiji AI, Shanjian, and HeyGen are transforming content creation for 21M creators."
-keywords: ["AI avatar", "digital human", "China AI", "Xiaohongshu", "content creation", "Guiji AI", "HeyGen", "virtual influencer", "AI video", "digital twin"]
-readingTime: "16 min read"
 category: "AI Trends"
-image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&h=600&fit=crop"
-schema: {
-  "@context": "https://schema.org",
-  "@type": "TechArticle",
-  "headline": "China's AI Avatar Revolution: How 410 Million Views Transformed Content Creation Forever",
-  "description": "China's AI avatar market exploded to 410 million views in one week. Discover how digital humans are reshaping content creation.",
-  "author": {
-    "@type": "Organization",
-    "name": "AI in China"
-  },
-  "datePublished": "2026-04-05",
-  "publisher": {
-    "@type": "Organization",
-    "name": "AI in China"
-  }
-}readTime: "16 min read"
+readTime: "16 min read"
 ---
 
 # China's AI Avatar Revolution: How 410 Million Views Transformed Content Creation Forever

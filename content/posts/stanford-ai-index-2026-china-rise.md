@@ -1,11 +1,9 @@
 ---
-title: "Stanford AI Index 2026: China's 'Parallel Run' Era Has Arrived"
+title: "Stanford AI Index 2026: China"
 slug: "stanford-ai-index-2026-china-rise"
 date: "2026-04-17"
-author: "AI in China Research Team"
-excerpt: "Stanford HAI's 423-page AI Index Report 2026 reveals a historic turning point: the China-US AI gap has 'effectively closed' to just 2.7%. Alibaba ranks #3 globally, and Chinese AI models have surpassed US competitors in token consumption for 5 consecutive weeks."
 category: "AI Trends"
-readingTime: "16 min read"readTime: "16 min read"
+readTime: "16 min read"
 ---
 
 ![Hero Image](https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=600&fit=crop)

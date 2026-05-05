@@ -2,28 +2,8 @@
 title: "China's AI Model Wars: How Alibaba, ByteDance, and MiniMax Are Reshaping Global AI Competition in April 2026"
 slug: "china-ai-model-wars-april-2026"
 date: "2026-04-11"
-excerpt: "April 2026 marks a turning point in China's AI race. Alibaba launched 3 models in one week, ByteDance deployed full-duplex voice AI, and MiniMax announced open-source M2.7. Discover how Chinese tech giants are outpacing Western competitors—and what it means for the global AI landscape."
-metaTitle: "China's AI Model Wars: April 2026's Explosive Releases"
-metaDescription: "Alibaba, ByteDance, MiniMax unleashed a wave of AI models in April 2026. Inside China's AI race: Qwen3.5-Omni, Seedance 2.0, MMX-CLI, and why the world should pay attention."
-keywords: ["China AI", "Alibaba", "ByteDance", "MiniMax", "Qwen", "AI models 2026", "Kimi", "DeepSeek", "AI competition", "global AI"]
-readingTime: "18 min read"
 category: "AI Trends"
-image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&h=600&fit=crop"
-schema: {
-  "@context": "https://schema.org",
-  "@type": "TechArticle",
-  "headline": "China's AI Model Wars: How Alibaba, ByteDance, and MiniMax Are Reshaping Global AI Competition",
-  "description": "April 2026 marks a turning point in China's AI race with multiple major model releases from tech giants.",
-  "author": {
-    "@type": "Organization",
-    "name": "AI in China"
-  },
-  "datePublished": "2026-04-11",
-  "publisher": {
-    "@type": "Organization",
-    "name": "AI in China"
-  }
-}readTime: "18 min read"
+readTime: "18 min read"
 ---
 
 # China's AI Model Wars: How Alibaba, ByteDance, and MiniMax Are Reshaping Global AI Competition in April 2026

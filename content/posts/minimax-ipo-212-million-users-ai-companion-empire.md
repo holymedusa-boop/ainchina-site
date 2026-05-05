@@ -1,5 +1,5 @@
 ---
-title: "MiniMax Files for IPO: How China's AI Companion Empire Built 212 Million Users and Challenged the Global Social Landscape"
+title: "MiniMax Files for IPO: How China"
 slug: "minimax-ipo-212-million-users-ai-companion-empire"
 date: "2026-04-01"
 category: "AI Robotics"

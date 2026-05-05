@@ -1,9 +1,9 @@
 ---
 title: "AI Thesis Writing Explodes: How 12 Million Chinese Students Are Rewriting Academic Rules"
+slug: "ai-thesis-writing-china"
 date: "2026-04-02"
-excerpt: "With 320 million views on Xiaohongshu, AI-assisted thesis writing has become a phenomenon reshaping China's higher education. A deep dive into the tools, workflows, and global implications of this academic revolution."
 category: "AI Chatbots"
-tags: ["AI writing", "Chinese students", "thesis writing", "education technology", "Kimi", "academic AI"]readTime: "16 min read"
+readTime: "16 min read"
 ---
 
 # AI Thesis Writing Explodes: How 12 Million Chinese Students Are Rewriting Academic Rules

@@ -1,5 +1,5 @@
 ---
-title: "China's AI Revolution: Education Reform, National Standards, and Ecosystem Breakthroughs in April 2026"
+title: "Key Insight"
 slug: "china-ai-april-infrastructure-2026"
 date: "2026-04-01"
 category: "AI Infrastructure"

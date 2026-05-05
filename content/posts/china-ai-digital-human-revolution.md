@@ -1,25 +1,14 @@
 ---
-title: "China's AI Digital Human Revolution: How 80,000 Virtual Avatars Are Reshaping the Creator Economy"
-description: "With 410 million views on Xiaohongshu and Guiji's $4.4B IPO filing, China's AI digital human market is exploding. Here's what global creators need to know."
-keywords: ["AI digital human", "China AI avatar", "Guiji AI", "HeyGen", "virtual influencer", "AI live streaming", "digital creator economy", "硅基智能", "AI digital twin"]
+title: "What explains the 200% weekly growth?"
+slug: "china-ai-digital-human-revolution"
 date: "2026-04-05"
-author: "AI in China"
-reading_time: "16 min read"
-cover_image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&q=80"
-slug: "china-ai-digital-human-revolution"category: "AI Applications"
+category: "AI Applications"
 readTime: "16 min read"
 ---
 
-<div className="my-8">
-  <img 
-    src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&q=80" 
-    alt="AI Digital Human Technology Visualization" 
-    className="rounded-lg shadow-lg w-full"
-  />
-  <p className="text-sm text-gray-500 mt-2 italic text-center">
-    *AI digital humans are becoming indistinguishable from real creators, sparking a revolution in China's content economy*
-  </p>
-</div>
+![AI Digital Human Technology Visualization](https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&q=80)
+
+*AI digital humans are becoming indistinguishable from real creators, sparking a revolution in China's content economy*
 
 ## Executive Summary
 
@@ -39,16 +28,9 @@ Behind this explosive growth stands **Guiji AI (硅基智能)**, China's largest
 
 This article examines the technology, business models, and societal implications of China's AI digital human revolution—and why international creators and businesses should pay close attention.
 
-<div className="my-8">
-  <img 
-    src="https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=800&q=80" 
-    alt="Virtual Content Creation Interface" 
-    className="rounded-lg shadow-lg w-full"
-  />
-  <p className="text-sm text-gray-500 mt-2 italic text-center">
-    *Modern digital human platforms offer intuitive interfaces that require zero technical expertise*
-  </p>
-</div>
+![Virtual Content Creation Interface](https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=800&q=80)
+
+*Modern digital human platforms offer intuitive interfaces that require zero technical expertise*
 
 ## The Xiaohongshu Phenomenon: Why AI Digital Humans Went Viral
 
@@ -82,16 +64,9 @@ Chinese creators have coined a new term: **"一人自媒体帝国" (One-Person M
 
 > **Case Study**: A beauty blogger using Guiji's technology reported that followers began asking about her "foundation brand" in comments—despite the video featuring a digital twin, not her actual face. The skin texture rendering was so realistic that viewers couldn't distinguish AI from reality.
 
-<div className="my-8">
-  <img 
-    src="https://images.unsplash.com/photo-1551434678-e076c223a692?w=800&q=80" 
-    alt="AI-Powered Content Creation Workflow" 
-    className="rounded-lg shadow-lg w-full"
-  />
-  <p className="text-sm text-gray-500 mt-2 italic text-center">
-    *The "clone once, produce infinitely" model is enabling creators to scale content output by 10x-100x*
-  </p>
-</div>
+![AI-Powered Content Creation Workflow](https://images.unsplash.com/photo-1551434678-e076c223a692?w=800&q=80)
+
+*The "clone once, produce infinitely" model is enabling creators to scale content output by 10x-100x*
 
 ## Market Leaders: The Global Competitive Landscape
 

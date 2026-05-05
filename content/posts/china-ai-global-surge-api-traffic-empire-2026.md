@@ -1,12 +1,8 @@
 ---
-title: "China's AI Global Surge: How Chinese Models Captured 61% of Global API Traffic and Built a $180 Billion Empire"
+title: "China Ai Global Surge Api Traffic Empire"
 slug: "china-ai-global-surge-api-traffic-empire-2026"
 date: "2026-05-01"
-excerpt: "Chinese AI models went from under 2% global market share to 61% in just one year. With OpenRouter data showing Chinese models overtaking American API traffic by 4x, MiniMax hitting $1.5B ARR, and Kimi's overseas revenue surpassing domestic — China's AI industry has executed the fastest global technology export in modern history."
-author: "AIN China Research"
-readingTime: "17 minutes"
-coverImage: "https://images.unsplash.com/photo-1639322537228-f710d846310a?w=1200&q=80"
-keywords: ["China AI", "Chinese AI models", "AI globalization", "OpenRouter", "MiniMax", "DeepSeek", "Kimi", "AI API traffic", "China AI export", "AI model pricing", "ByteDance Dola", "AI agent economy"]category: "AI Trends"
+category: "AI Trends"
 readTime: "17 min read"
 ---
 

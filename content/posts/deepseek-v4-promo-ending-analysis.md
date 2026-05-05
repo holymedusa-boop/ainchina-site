@@ -1,5 +1,5 @@
 ---
-title: "DeepSeek V4's 75% Promo Ends May 31: What Happens Next and Why the AI Pricing War Is Just Beginning"
+title: "Related Articles:"
 slug: "deepseek-v4-promo-ending-analysis"
 date: "2026-05-05"
 category: "AI Infrastructure"

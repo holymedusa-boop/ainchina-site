@@ -1,5 +1,5 @@
 ---
-title: "China's Embodied Intelligence Revolution: When Robots Outrun Humans — April 2026"
+title: "China's Embodied Intelligence Revolution: When Robots Outrun Humans"
 slug: "china-embodied-intelligence-robot-marathon-2026"
 date: "2026-04-21"
 category: "AI Trends"

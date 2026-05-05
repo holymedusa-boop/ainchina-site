@@ -1,11 +1,9 @@
 ---
 title: "The AI Interview Coach Phenomenon: How Chinese Graduates Are Using AI to Crack the Job Market"
-description: "Inside China's AI interview coaching boom: How millions of graduates are using Kimi, Doubao, and Tongyi Qianwen to prepare for interviews, with usage surging 120% in one week."
+slug: "ai-interview-coaching-china-2025"
 date: "2026-04-08"
-author: "AI in China Research Team"
+category: "AI Trends"
 readTime: "16 min"
-image: "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=1200&h=600&fit=crop"
-keywords: ["AI interview coaching", "China AI job market", "Kimi AI", "Doubao", "Tongyi Qianwen", "Chinese graduates employment", "AI career tools"]category: "AI Trends"
 ---
 
 ![AI Interview Coaching in China](https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=1200&h=600&fit=crop)

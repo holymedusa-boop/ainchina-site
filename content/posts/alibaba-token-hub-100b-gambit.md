@@ -1,11 +1,9 @@
 ---
-title: "Alibaba's $100B Token Gambit: Inside the Alibaba Token Hub Revolution Reshaping China's AI Economy"
-description: "Deep dive into Alibaba's strategic pivot with ATH: How the tech giant is betting its future on Token economics, reorganizing around 'Create-Deliver-Apply' principles, and targeting $100B annual revenue from cloud and AI by 2031."
+title: "Key Metrics:"
+slug: "alibaba-token-hub-100b-gambit"
 date: "2026-04-16"
-author: "AI in China Research Team"
+category: "AI Trends"
 readTime: "17 min"
-image: "https://images.unsplash.com/photo-1639322537228-f710d846310a?w=1200&h=600&fit=crop"
-keywords: ["Alibaba Token Hub", "ATH", "Wu Yongming", "Token economy", "Qwen", "Alibaba AI strategy", "中国AI", "Token Hub"]category: "AI Trends"
 ---
 
 ![Alibaba Token Hub Revolution](https://images.unsplash.com/photo-1639322537228-f710d846310a?w=1200&h=600&fit=crop)
