@@ -69,6 +69,111 @@ const postMetadata = {
     metaDescription: "DeepSeek V4-Pro's 75% promotional discount — extended from May 5 to May 31 — has developers wondering what happens next. Even at standard pricing, V4-Pro remains 17-86x cheaper than Claude Opus 4.7 while matching its SWE-Bench score. Here's the complete analysis.",
     keywords: 'DeepSeek V4, DeepSeek pricing, AI API pricing, DeepSeek promo, LLM cost comparison, MoE architecture, Huawei Ascend, AI pricing war, Claude Opus vs DeepSeek, V4-Flash vs V4-Pro',
   },
+  'ai-interview-coaching-china-2025': {
+    metaTitle: "The AI Interview Coach Phenomenon: How Chinese Graduate...",
+    metaDescription: "Inside China's AI interview coaching boom: How millions of graduates are using Kimi, Doubao, and Tongyi Qianwen to prepare for interviews, with usage su...",
+    keywords: 'interview, coach, phenomenon, chinese, graduates, using, crack, market, China AI, AI trends',
+  },
+  'ai-thesis-writing-china': {
+    metaTitle: "AI Thesis Writing Explodes: How 12 Million Chinese Stud...",
+    metaDescription: "With 320 million views on Xiaohongshu, AI-assisted thesis writing has become a phenomenon reshaping China's higher education. A deep dive into the tools...",
+    keywords: 'thesis, writing, explodes, million, chinese, students, rewriting, academic, rules, China AI, AI trends',
+  },
+  'alibaba-token-hub-100b-gambit': {
+    metaTitle: "Alibaba's $100B Token Gambit: Inside the Alibaba Token ...",
+    metaDescription: "Deep dive into Alibaba's strategic pivot with ATH: How the tech giant is betting its future on Token economics, reorganizing around 'Create-Deliver-Appl...",
+    keywords: 'alibaba, 100b, token, gambit, inside, revolution, reshaping, china, economy, China AI, AI trends',
+  },
+  'bytedance-seed-brain-drain-70-engineers': {
+    metaTitle: "bytedance-seed-brain-drain-70-engineers",
+    metaDescription: "",
+    keywords: 'bytedance-seed-brain-drain-70-engineers, China AI, AI trends',
+  },
+  'china-ai-agent-explosion-2025-enterprise-deployment': {
+    metaTitle: "China's AI Agent Explosion: How 126 Platforms and $1B+ ...",
+    metaDescription: "With 371 government-contracted projects in H1 2025 alone, China's AI Agent market is hitting an inflection point. From JD.com's 7,000+ deployed agents t...",
+    keywords: 'china, agent, explosion, platforms, enterprise, deals, reshaping, global, automation, China AI, AI trends',
+  },
+  'china-ai-april-infrastructure-2026': {
+    metaTitle: "china-ai-april-infrastructure-2026",
+    metaDescription: "",
+    keywords: 'china-ai-april-infrastructure-2026, China AI, AI trends',
+  },
+  'china-ai-april-revolution-2026': {
+    metaTitle: "china-ai-april-revolution-2026",
+    metaDescription: "",
+    keywords: 'china-ai-april-revolution-2026, China AI, AI trends',
+  },
+  'china-ai-avatar-revolution-2025': {
+    metaTitle: "China's AI Avatar Revolution: How 410 Million Views Tra...",
+    metaDescription: "China's AI avatar market exploded to 410 million views in one week (+200% growth). From Xiaohongshu creators to IPO-bound giants like Guiji AI, discover...",
+    keywords: 'china, avatar, revolution, million, views, transformed, content, creation, forever, China AI, AI trends',
+  },
+  'china-ai-avatar-revolution-2026': {
+    metaTitle: "China's AI Avatar Revolution: How 410 Million Views Sig...",
+    metaDescription: "Chinese AI avatar tools are experiencing explosive growth with 410 million topic views and 200% weekly growth. From HeyGen to domestic platforms like Si...",
+    keywords: 'china, avatar, revolution, million, views, signal, global, content, creation, shift, China AI, AI trends',
+  },
+  'china-ai-chip-war-2026-us-sanctions': {
+    metaTitle: "The Great Silicon Wall: How China's AI Industry Is Defy...",
+    metaDescription: "ByteDance just ordered $5.6 billion in Huawei chips. DeepSeek V4 is launching on domestic silicon. Inside China's audacious strategy to build a parallel...",
+    keywords: 'great, silicon, wall, china, industry, defying, chip, sanctions, China AI, AI trends',
+  },
+  'china-ai-deepfake-fraud-crisis-2026': {
+    metaTitle: "china-ai-deepfake-fraud-crisis-2026",
+    metaDescription: "",
+    keywords: 'china-ai-deepfake-fraud-crisis-2026, China AI, AI trends',
+  },
+  'china-ai-digital-human-revolution': {
+    metaTitle: "China's AI Digital Human Revolution: How 80,000 Virtual...",
+    metaDescription: "With 410 million views on Xiaohongshu and Guiji's $4.4B IPO filing, China's AI digital human market is exploding. Here's what global creators need to know.",
+    keywords: 'china, digital, human, revolution, virtual, avatars, reshaping, creator, economy, China AI, AI trends',
+  },
+  'china-ai-model-war-april-2026-week-changed-everything': {
+    metaTitle: "The Week That Changed Everything: China's AI Model War ...",
+    metaDescription: "In one week, Alibaba launched 3 models, Zhipu raised prices 83%, ByteDance deployed full-duplex voice AI, and China hit 140 trillion daily tokens. Why A...",
+    keywords: 'week, changed, everything, china, model, intensifies, april, China AI, AI trends',
+  },
+  'china-ai-model-wars-april-2026': {
+    metaTitle: "China's AI Model Wars: How Alibaba, ByteDance, and Mini...",
+    metaDescription: "April 2026 marks a turning point in China's AI race. Alibaba launched 3 models in one week, ByteDance deployed full-duplex voice AI, and MiniMax announc...",
+    keywords: 'china, model, wars, alibaba, bytedance, minimax, reshaping, global, competition, april, China AI, AI trends',
+  },
+  'china-ai-token-surge-gen-z': {
+    metaTitle: "china-ai-token-surge-gen-z",
+    metaDescription: "",
+    keywords: 'china-ai-token-surge-gen-z, China AI, AI trends',
+  },
+  'china-embodied-ai-revolution-2026': {
+    metaTitle: "China's Embodied AI Revolution: How $30 Billion in Q1 F...",
+    metaDescription: "China's embodied intelligence sector raised $30 billion in Q1 2026 alone, creating 9 unicorn companies valued at $10B+. From Zhi Robotics' Tesla-like ap...",
+    keywords: 'china, embodied, revolution, billion, funding, reshaping, global, robotics, China AI, AI trends',
+  },
+  'deepseek-v4-agent-era-million-tokens-2026': {
+    metaTitle: "deepseek-v4-agent-era-million-tokens-2026",
+    metaDescription: "",
+    keywords: 'deepseek-v4-agent-era-million-tokens-2026, China AI, AI trends',
+  },
+  'doubao-12-trillion-token-explosion': {
+    metaTitle: "Doubao's 12 Trillion Token Explosion: How ByteDance Is ...",
+    metaDescription: "ByteDance's Doubao model just hit 12 trillion daily tokens—a 1000x growth in under two years. With China capturing 30% of global AI market share and cha...",
+    keywords: 'doubao, trillion, token, explosion, bytedance, quietly, winning, global, race, China AI, AI trends',
+  },
+  'modelbest-edge-ai-unicorn-2026': {
+    metaTitle: "ModelBest Becomes Unicorn: How Tsinghua's Edge AI Pione...",
+    metaDescription: "Inside ModelBest's rise to unicorn status: How a Tsinghua-born startup is challenging AI giants with its 'Density Law' approach to edge AI, securing $10...",
+    keywords: 'modelbest, becomes, unicorn, tsinghua, edge, pioneer, reshaping, on-device, intelligence, China AI, AI trends',
+  },
+  'stanford-ai-index-2026-china-rise': {
+    metaTitle: "Stanford AI Index 2026: China's 'Parallel Run' Era Has ...",
+    metaDescription: "Stanford HAI's 423-page AI Index Report 2026 reveals a historic turning point: the China-US AI gap has 'effectively closed' to just 2.7%. Alibaba ranks ...",
+    keywords: 'stanford, index, china, parallel, arrived, China AI, AI trends',
+  },
+  'stepfun-terminal-ai-revolution': {
+    metaTitle: "StepFun's $7 Billion Bet: How China's AI Unicorn Is Win...",
+    metaDescription: "With a record-breaking $700M funding round and former Megvii founder Yin Qi at the helm, StepFun is pioneering the shift from cloud AI to physical termi...",
+    keywords: 'stepfun, billion, china, unicorn, winning, terminal, race, China AI, AI trends',
+  },
 }
 
 // Parse YAML frontmatter: key: "value" or key: value (handles multi-line)

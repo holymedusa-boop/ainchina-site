@@ -132,7 +132,7 @@ DeepSeek's reported 96.9 million monthly active users as of April 2025—up 4x f
 
 ## Section 4: ByteDance's Doubao 2.0 and the UI-TARS Breakthrough
 
-While DeepSeek prepared its next move, ByteDance executed a major offensive with Doubao 2.0 (Doubao-Seed-2.0), released in February 2026 but seeing massive adoption through April 2025. ByteDance reported that Doubao models now process over 12 trillion tokens daily—a 1000x increase from the platform's early days.
+While DeepSeek prepared its next move, ByteDance executed a major offensive with Doubao 2.0 (Doubao-Seed-2.0), released in February 2026 but seeing massive adoption through April 2025.
 
 ### The Doubao 2.0 Lineup
 
@@ -142,7 +142,6 @@ While DeepSeek prepared its next move, ByteDance executed a major offensive with
 | **Doubao 2.0 Lite** | Balanced performance/cost | Exceeds Doubao 1.8 series |
 | **Doubao 2.0 Mini** | Low-latency, high-concurrency | Cost-optimized edge deployment |
 | **Doubao 2.0 Code** | Programming assistance | Integrated with Trae IDE |
-| **Doubao 2.0 Voice** | Full-duplex voice interaction | Natural conversation flow |
 
 ### UI-TARS: The Open Secret Behind "Doubao Phone"
 
@@ -151,7 +150,6 @@ ByteDance's most significant technical contribution may be UI-TARS, the multimod
 - Cross-app task completion (price comparison, booking, purchasing)
 - Screen understanding with structured GUI parsing
 - Game playing with reasoning and action integration
-- Natural language control of mobile interfaces
 
 UI-TARS has been open-sourced, with ByteDance releasing three versions during 2025:
 
@@ -162,19 +160,6 @@ UI-TARS has been open-sourced, with ByteDance releasing three versions during 20
 | UI-TARS 2.0 | September 2025 | Full multimodal agent reasoning |
 
 The open-source strategy represents a significant shift: ByteDance is sharing the underlying technology while competing on product integration. This "open core, closed product" approach mirrors successful open-source business models in other software categories.
-
-### The Ecosystem Advantage
-
-ByteDance's competitive moat extends beyond model quality to ecosystem integration. Doubao models are deeply embedded across ByteDance's product suite:
-
-| Product | Doubao Integration | User Impact |
-|---------|---------------------|-------------|
-| **Douyin** | AI video generation, content recommendations | 700M+ MAU exposed to AI features |
-| **Jianying** | AI editing, automatic captions | Professional video creation democratized |
-| **Trae** | AI coding assistant | Developer productivity gains |
-| **Feishu/Lark** | Meeting summaries, document generation | Enterprise workflow automation |
-
-This ecosystem approach creates network effects that standalone AI applications struggle to match.
 
 ## Section 5: Alibaba's ATH Reorganization — The Platform Play
 
@@ -252,64 +237,13 @@ The remainder of 2026 promises continued acceleration. Key developments to monit
 | **Q4 2026** | DeepSeek Agent model | "Smart agent" architecture debut |
 | **2026** | World Humanoid Robot Games | Global embodied AI competition |
 
-## Section 9: The Global Implications — A Shift in AI's Center of Gravity
-
-April 2025's developments carry implications that extend far beyond China's borders. The convergence of these breakthroughs suggests a fundamental shift in where AI innovation happens—and who benefits from it.
-
-### The Democratization of AI Capabilities
-
-China's AI ecosystem is increasingly characterized by accessibility and affordability:
-
-| Capability | 2022 Cost | 2025 Cost | Democratization Impact |
-|------------|-----------|-----------|----------------------|
-| **API Calls** | $0.02/1K tokens | $0.0005/1K tokens | 40x cost reduction |
-| **Model Training** | $10M+ (GPT-3 scale) | $12K (DeepSeek approach) | 800x cost reduction |
-| **Video Generation** | Enterprise-only | Consumer apps | Mass market access |
-| **Embodied AI** | Research labs | Public marathons | Real-world validation |
-
-This cost curve enables innovation at scales and in geographies previously excluded from frontier AI development.
-
-### The Regulatory Divergence
-
-China and the West are developing AI under different regulatory frameworks:
-
-| Aspect | China Approach | Western Approach | Implication |
-|--------|--------------|------------------|-------------|
-| **Model Registration** | 346 models registered (April 2025) | Voluntary disclosure | Standardized quality baseline |
-| **Content Labeling** | Mandatory AI-generated tags | Platform-dependent | User transparency |
-| **Data Privacy** | Consent-based, government oversight | GDPR/CCPA compliance | Different privacy norms |
-| **Export Controls** | Limited (focused on military) | Extensive chip/model restrictions | Divergent supply chains |
-
-China's standardized registration system (346 models approved as of April 2025) creates a baseline of quality and accountability that contrasts with the West's more fragmented approach.
-
-### The Infrastructure Race
-
-Behind the model breakthroughs lies an infrastructure competition:
-
-| Infrastructure Type | China Capacity | Growth Rate |
-|---------------------|---------------|-------------|
-| **AI Data Centers** | 250,000+ racks | 35% YoY |
-| **Smart Computing (Petaflops)** | 150,000P+ | 50% YoY |
-| **Edge Computing Nodes** | 5 million+ | 60% YoY |
-| **5G Base Stations** | 3.6 million | 15% YoY |
-
-The Jianyang project announced April 17, 2026—adding 15,000P of compute capacity—will bring the city's total to 25,000P, making it the leading AI compute hub in Southwest China.
-
 ## Conclusion: The New Normal
 
 April 2025's cascade of AI breakthroughs isn't an anomaly—it's the new baseline. China's AI industry has demonstrated it can simultaneously advance across multiple vectors: foundation models, embodied intelligence, content generation, and developer tools.
 
 The Stanford AI Index's confirmation of China's rise to #3 in global model contributions (with Alibaba leading among Chinese companies) merely formalized what the market had already recognized. More significant is the pattern: Chinese AI companies are increasingly defining the terms of competition, whether through DeepSeek's efficiency challenges, ByteDance's platform integration, or the humanoid robot endurance tests that set new standards for embodied AI validation.
 
-### Three Takeaways for Global Observers
-
-**1. The efficiency advantage is structural, not incidental.** DeepSeek's rumored $12,000 training runs aren't just cost optimization—they represent a different approach to AI development that prioritizes algorithmic innovation over brute-force compute scaling. This philosophy is spreading across China's AI ecosystem.
-
-**2. Platform integration beats standalone products.** The contrast between OpenAI's Sora shutdown and China's 20 billion AI videos demonstrates that AI capabilities achieve scale when embedded in existing user workflows, not offered as separate tools.
-
-**3. Embodied AI is entering practical deployment.** The robot marathon wasn't a publicity stunt—it was a validation methodology. As these robots move from marathons to manufacturing floors, warehouses, and service roles, the physical AI economy will expand rapidly.
-
-The robot that crossed the finish line in Beijing on April 19, 2025, wasn't just completing a marathon—it was marking the starting point of a new era where Chinese AI competes not as a follower, but as a co-leader defining the future of intelligence itself.
+The robot that crossed the finish line in Beijing on April 19, 2025, wasn't just completing a marathon—it was marking the starting point of a new era where Chinese AI competes not as a follower, but as a co-leader.
 
 ---
 

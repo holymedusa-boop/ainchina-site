@@ -1,3 +1,13 @@
+---
+title: "China's AI Overtake: 31% Surge in Token Usage Signals Global Power Shift"
+slug: "china-ai-token-surge-gen-z"
+date: "2026-04-07"
+author: "AI in China Research Team"
+excerpt: "Chinese AI models processed 12.96 trillion tokens in one week—a 31.48% surge. For the fifth consecutive week, China's token consumption has exceeded the United States."
+category: "AI Trends"
+readTime: "17 min read"
+---
+
 China's AI Overtake: 31% Surge in Token Usage Signals Global Power Shift
 
 China's AI revolution is accelerating beyond predictions. According to OpenRouter data released April 6, 2026, Chinese AI models processed 12.96 trillion tokens in the week of March 30–April 5—a staggering 31.48% week-over-week increase. For the fifth consecutive week, China's token consumption has exceeded the United States, which recorded 3.03 trillion tokens (just 0.76% growth).
