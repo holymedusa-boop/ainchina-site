@@ -69,6 +69,21 @@ const postMetadata = {
     metaDescription: "DeepSeek V4-Pro's 75% promotional discount — extended from May 5 to May 31 — has developers wondering what happens next. Even at standard pricing, V4-Pro remains 17-86x cheaper than Claude Opus 4.7 while matching its SWE-Bench score. Here's the complete analysis.",
     keywords: 'DeepSeek V4, DeepSeek pricing, AI API pricing, DeepSeek promo, LLM cost comparison, MoE architecture, Huawei Ascend, AI pricing war, Claude Opus vs DeepSeek, V4-Flash vs V4-Pro',
   },
+  'deepseek-vs-chatgpt': {
+    metaTitle: "DeepSeek vs ChatGPT: Complete Comparison",
+    metaDescription: "Choosing between DeepSeek and ChatGPT is no longer obvious. This comprehensive comparison helps you decide which AI assistant fits your needs.",
+    keywords: 'DeepSeek, ChatGPT, AI comparison, DeepSeek-V3, ChatGPT-4o, AI assistant, China AI, OpenAI',
+  },
+  'deepseek-v3-deep-dive': {
+    metaTitle: "DeepSeek-V3: The $5.6M Training Run",
+    metaDescription: "DeepSeek-V3 represents one of the most significant efficiency breakthroughs in AI history. Training a model competitive with GPT-4 for just $5.6 million challenges fundamental assumptions about the cost of intelligence.",
+    keywords: 'DeepSeek-V3, $5.6M training, AI efficiency, GPT-4, model training, China AI, DeepSeek architecture',
+  },
+  'chinese-ai-index-2026': {
+    metaTitle: "Chinese AI Index: 103 Companies Tracking",
+    metaDescription: "The Chinese AI ecosystem has reached an inflection point. With over 103 significant companies spanning foundation models, application layers, and infrastructure, China's AI sector is now a global force.",
+    keywords: 'Chinese AI Index, 103 companies, AI ecosystem, China AI market, foundation models, AI infrastructure',
+  },
   'ai-interview-coaching-china-2025': {
     metaTitle: "The AI Interview Coach Phenomenon: How Chinese Graduate...",
     metaDescription: "Inside China's AI interview coaching boom: How millions of graduates are using Kimi, Doubao, and Tongyi Qianwen to prepare for interviews, with usage su...",
