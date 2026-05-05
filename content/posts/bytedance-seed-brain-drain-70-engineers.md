@@ -250,6 +250,7 @@ The question now is whether ByteDance can learn from this crisis, or if the exod
 ---
 
 **Related Articles:**
+
 - [ByteDance's AI Obsession: How a 70% Profit Plunge Turned a Social Media Giant Into China's GPU Kingpin](/blog/bytedance-ai-gamble-gpu-kingpin-profit-drop)
 - [ByteDance Doubao: The 200 Million User AI Assistant Reshaping Content Creation](/blog/doubao-bytedance)
 - [minimax-talkie](/blog/minimax-talkie)

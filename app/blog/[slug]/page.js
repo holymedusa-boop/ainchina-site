@@ -680,25 +680,60 @@ export default function BlogPost({ params }) {
     const parts = []
     let lastIndex = 0
     
-    // Process bold (**text**)
-    const boldRegex = /\*\*(.+?)\*\*/g
-    let match
-    while ((match = boldRegex.exec(text)) !== null) {
-      if (match.index > lastIndex) {
-        parts.push(<span key={lastIndex}>{text.substring(lastIndex, match.index)}</span>)
+    // Process markdown links [text](url) first
+    const linkRegex = /\[([^\]]+)\]\(([^)]+)\)/g
+    let linkMatch
+    let linkLastIndex = 0
+    const linkParts = []
+    
+    while ((linkMatch = linkRegex.exec(text)) !== null) {
+      if (linkMatch.index > linkLastIndex) {
+        linkParts.push({ type: 'text', content: text.substring(linkLastIndex, linkMatch.index) })
       }
-      parts.push(<strong key={match.index} style={{ color: '#f5f5f5', fontWeight: '700' }}>{match[1]}</strong>)
-      lastIndex = match.index + match[0].length
+      linkParts.push({ type: 'link', text: linkMatch[1], url: linkMatch[2] })
+      linkLastIndex = linkMatch.index + linkMatch[0].length
     }
-    if (lastIndex < text.length) {
-      parts.push(<span key={lastIndex}>{text.substring(lastIndex)}</span>)
+    if (linkLastIndex < text.length) {
+      linkParts.push({ type: 'text', content: text.substring(linkLastIndex) })
     }
     
-    if (parts.length === 0) return text
+    // Process bold (**text**) on each text segment
+    const finalParts = []
+    for (const part of linkParts) {
+      if (part.type === 'link') {
+        finalParts.push({ type: 'link', text: part.text, url: part.url })
+      } else {
+        const segment = part.content
+        let segLastIndex = 0
+        const boldRegex = /\*\*(.+?)\*\*/g
+        let boldMatch
+        while ((boldMatch = boldRegex.exec(segment)) !== null) {
+          if (boldMatch.index > segLastIndex) {
+            finalParts.push({ type: 'text', content: segment.substring(segLastIndex, boldMatch.index) })
+          }
+          finalParts.push({ type: 'bold', text: boldMatch[1] })
+          segLastIndex = boldMatch.index + boldMatch[0].length
+        }
+        if (segLastIndex < segment.length) {
+          finalParts.push({ type: 'text', content: segment.substring(segLastIndex) })
+        }
+      }
+    }
     
-    // Process italic (*text*) - but skip if already processed as bold
-    // For simplicity, we process italic on the remaining text
-    return parts
+    // Convert to React elements
+    return finalParts.map((part, idx) => {
+      if (part.type === 'link') {
+        return (
+          <a key={idx} href={part.url} style={{ color: '#22d3ee', textDecoration: 'underline' }}>
+            {part.text}
+          </a>
+        )
+      } else if (part.type === 'bold') {
+        return <strong key={idx} style={{ color: '#f5f5f5', fontWeight: '700' }}>{part.text}</strong>
+      } else {
+        return <span key={idx}>{part.content}</span>
+      }
+    })
   }
 
   return (
