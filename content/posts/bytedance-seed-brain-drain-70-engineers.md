@@ -1,5 +1,5 @@
 ---
-title: "ByteDance's AI Brain Drain: 70 Top Engineers Exit Seed Team in 12 Months"s AI race, is bleeding talent. In just 12 months, nearly 70 core engineers have walked out of its prestigious Seed AI team—a staggering exodus that signals deeper troubles beneath the surface of China's tech giant."
+title: "ByteDance's AI Brain Drain: 70 Top Engineers Exit Seed Team in 12 Months"
 slug: "bytedance-seed-brain-drain-70-engineers"
 date: "2026-04-28"
 category: "AI Trends"

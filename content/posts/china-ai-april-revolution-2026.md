@@ -1,5 +1,5 @@
 ---
-title: "China's AI April Revolution: Humanoid Robots Race, Multimodal Models Explode, and 2 Billion AI Videos Reshape Global Content"s AI April Revolution: Humanoid Robots Race, Multimodal Models Explode, and 2 Billion AI Videos Reshape Global Content"
+title: "China's AI April Revolution: Humanoid Robots Race, Multimodal Models Explode, and 2 Billion AI Videos Reshape Global Content"
 slug: "china-ai-april-revolution-2026"
 date: "2026-04-01"
 category: "AI Trends"

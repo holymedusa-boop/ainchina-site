@@ -1,5 +1,5 @@
 ---
-title: "ByteDance's AI Obsession: How a 70% Profit Plunge Turned a Social Media Giant Into China's GPU Kingpin"s AI Obsession: How a 70% Profit Plunge Turned a Social Media Giant Into China's GPU Kingpin"
+title: "ByteDance's AI Obsession: How a 70% Profit Plunge Turned a Social Media Giant Into China's GPU Kingpin"
 slug: "bytedance-ai-gamble-gpu-kingpin-profit-drop"
 date: "2026-04-01"
 category: "AI Trends"
