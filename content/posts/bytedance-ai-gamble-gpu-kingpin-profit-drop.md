@@ -1,21 +1,10 @@
-export const metadata = {
-  title: "ByteDance's AI Obsession: How a 70% Profit Plunge Turned a Social Media Giant Into China's GPU Kingpin",
-  description: "ByteDance's 2025 net profit dropped over 70% due to massive AI investments, yet Tencent and Alibaba are buying GPUs from their biggest rival. Inside China's most unexpected AI infrastructure deal and what it reveals about the new tech landscape.",
-  keywords: ["ByteDance", "ByteDance AI investment", "Tencent GPU purchase", "Alibaba GPU", "China AI infrastructure", "ByteDance profit decline", "NVIDIA H20", "China tech rivalry", "AI compute race", "ByteDance Seed", "GPU shortage China", "AI arms race", "TikTok AI", "Doubao", "China cloud computing"],
-  authors: [{ name: "AIN China" }],
-  openGraph: {
-    title: "ByteDance's AI Obsession: The 70% Profit Drop That Created China's GPU Kingpin",
-    description: "ByteDance profits crashed 70% on AI spending. Now Tencent and Alibaba are buying GPUs from their biggest rival. Inside China's strangest tech deal.",
-    type: "article",
-    publishedTime: "2026-04-28T06:00:00+08:00",
-    images: [{
-      url: "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=1200&h=600&fit=crop",
-      width: 1200,
-      height: 600,
-      alt: "ByteDance AI data center with GPU servers"
-    }]
-  }
-};
+---
+title: "ByteDance's AI Obsession: How a 70% Profit Plunge Turned a Social Media Giant Into China's GPU Kingpin"
+slug: "bytedance-ai-gamble-gpu-kingpin-profit-drop"
+date: "2026-04-01"
+category: "AI Trends"
+readTime: "16 min read"
+---
 
 # ByteDance's AI Obsession: How a 70% Profit Plunge Turned a Social Media Giant Into China's GPU Kingpin
 

@@ -1,12 +1,10 @@
-export const metadata = {
-  title: "China's AI April Revolution: Humanoid Robots Race, Multimodal Models Explode, and 2 Billion AI Videos Reshape Global Content",
-  description: "April 2025 marks a watershed moment for China's AI industry. From the world's first humanoid robot half-marathon to DeepSeek's rumored V4 launch and ByteDance's Doubao 2.0 release, Chinese AI is accelerating on all fronts.",
-  keywords: "China AI, humanoid robot, DeepSeek V4, ByteDance Doubao, Alibaba Qwen, AI video generation, embodied AI, multimodal AI, 2025",
-  openGraph: {
-    title: "China's AI April Revolution: 20 Billion AI Videos and Humanoid Robot Marathons",
-    description: "April 2025: China's AI industry hits full stride with robot marathons, model breakthroughs, and a 14x explosion in AI-generated content."
-  }
-};
+---
+title: "China's AI April Revolution: Humanoid Robots Race, Multimodal Models Explode, and 2 Billion AI Videos Reshape Global Content"
+slug: "china-ai-april-revolution-2026"
+date: "2026-04-01"
+category: "AI Trends"
+readTime: "16 min read"
+---
 
 # China's AI April Revolution: Humanoid Robots Race, Multimodal Models Explode, and 2 Billion AI Videos Reshape Global Content
 

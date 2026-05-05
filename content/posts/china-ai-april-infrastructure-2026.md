@@ -1,35 +1,10 @@
-export const metadata = {
-  title: "China's AI Revolution: Education Reform, National Standards, and Ecosystem Breakthroughs in April 2026",
-  description: "Shanghai Jiao Tong University launches 'AI Ten Initiatives,' China establishes first humanoid robot national standards, and domestic AI models achieve parity with DeepSeek-R1 as the nation accelerates AI transformation.",
-  keywords: ["China AI", "Shanghai Jiao Tong University AI", "humanoid robot standards", "DeepSeek R1", "Huawei PanGu Ultra", "AI education China", "ByteDance AI", "Alibaba HappyOyster", "AI ecosystem China 2026"],
-  authors: [{ name: "AIN China" }],
-  openGraph: {
-    title: "China's AI Revolution: Education Reform, National Standards, and Ecosystem Breakthroughs",
-    description: "China's AI sector reaches inflection point with university reforms, national robot standards, and domestic models matching DeepSeek-R1 performance.",
-    type: "article",
-    publishedTime: "2026-04-20T06:00:00+08:00",
-  }
-};
-
-<script type="application/ld+json">
-{{
-  "@context": "https://schema.org",
-  "@type": "TechArticle",
-  "headline": "China's AI Revolution: Education Reform, National Standards, and Ecosystem Breakthroughs in April 2026",
-  "description": "Shanghai Jiao Tong University launches 'AI Ten Initiatives,' China establishes first humanoid robot national standards, and domestic AI models achieve parity with DeepSeek-R1.",
-  "author": {{
-    "@type": "Organization",
-    "name": "AIN China"
-  }},
-  "publisher": {{
-    "@type": "Organization",
-    "name": "AIN China"
-  }},
-  "datePublished": "2026-04-20",
-  "articleSection": "Artificial Intelligence",
-  "keywords": "China AI, Shanghai Jiao Tong University, humanoid robot standards, DeepSeek R1, Huawei PanGu Ultra"
-}}
-</script>
+---
+title: "China's AI Revolution: Education Reform, National Standards, and Ecosystem Breakthroughs in April 2026"
+slug: "china-ai-april-infrastructure-2026"
+date: "2026-04-01"
+category: "AI Infrastructure"
+readTime: "16 min read"
+---
 
 China's AI Revolution: Education Reform, National Standards, and Ecosystem Breakthroughs in April 2026
 

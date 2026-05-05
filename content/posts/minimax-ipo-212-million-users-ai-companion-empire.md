@@ -1,35 +1,10 @@
-export const metadata = {
-  title: "MiniMax Files for IPO: How China's AI Companion Empire Built 212 Million Users and Challenged the Global Social Landscape",
-  description: "MiniMax secretly files for IPO on April 23, 2026, revealing 212 million total users and 27.6 million monthly active users. Inside China's most successful AI companion platform and its global expansion through Talkie.",
-  keywords: ["MiniMax IPO", "Talkie AI", "AI companion", "China AI", "MiniMax users", "AI social", "星野", "Hailuo AI", "AI digital human", "China AI出海"],
-  authors: [{ name: "AIN China" }],
-  openGraph: {
-    title: "MiniMax Files for IPO: China's AI Companion Empire Built 212 Million Users",
-    description: "MiniMax secretly files for IPO revealing 212M users and 27.6M MAU. Inside China's most successful AI companion platform.",
-    type: "article",
-    publishedTime: "2026-04-24T06:00:00+08:00",
-  }
-};
-
-<script type="application/ld+json">
-{{
-  "@context": "https://schema.org",
-  "@type": "TechArticle",
-  "headline": "MiniMax Files for IPO: How China's AI Companion Empire Built 212 Million Users and Challenged the Global Social Landscape",
-  "description": "MiniMax secretly files for IPO on April 23, 2026, revealing 212 million total users and 27.6 million monthly active users.",
-  "author": {{
-    "@type": "Organization",
-    "name": "AIN China"
-  }},
-  "publisher": {{
-    "@type": "Organization",
-    "name": "AIN China"
-  }},
-  "datePublished": "2026-04-24",
-  "articleSection": "Artificial Intelligence",
-  "keywords": "MiniMax IPO, Talkie AI, AI companion, China AI, MiniMax users, AI social, 星野"
-}}
-</script>
+---
+title: "MiniMax Files for IPO: How China's AI Companion Empire Built 212 Million Users and Challenged the Global Social Landscape"
+slug: "minimax-ipo-212-million-users-ai-companion-empire"
+date: "2026-04-01"
+category: "AI Robotics"
+readTime: "16 min read"
+---
 
 MiniMax Files for IPO: How China's AI Companion Empire Built 212 Million Users and Challenged the Global Social Landscape
 

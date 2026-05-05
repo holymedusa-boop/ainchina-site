@@ -1,35 +1,10 @@
-export const metadata = {
-  title: "Tars Raises $455M: How China's 'Robot Brain' Startup Cracked the Embodied Intelligence Code",
-  description: "Tars (它石智航) shattered China's embodied intelligence funding record with a $455M Pre-A round, led by rare Hillhouse-Sequoia co-investment. Inside the 14-month-old startup building the world's first 'can actually work' general embodied AI model.",
-  keywords: ["Tars", "它石智航", "embodied intelligence", "robot brain", "China AI", "AWE 3.0", "Hillhouse Capital", "Sequoia China", "humanoid robot", "physical AI", "China robotics funding", "Chen Yilun", "general embodied intelligence"],
-  authors: [{ name: "AIN China" }],
-  openGraph: {
-    title: "Tars Raises $455M: China's Robot Brain Startup Cracks Embodied AI",
-    description: "Tars shattered China's embodied intelligence funding record with a $455M Pre-A round. Inside the startup building the world's first general embodied AI model.",
-    type: "article",
-    publishedTime: "2026-04-26T06:00:00+08:00",
-  }
-};
-
-<script type="application/ld+json">
-{{
-  "@context": "https://schema.org",
-  "@type": "TechArticle",
-  "headline": "Tars Raises $455M: How China's 'Robot Brain' Startup Cracked the Embodied Intelligence Code",
-  "description": "Tars (它石智航) shattered China's embodied intelligence funding record with a $455M Pre-A round.",
-  "author": {{
-    "@type": "Organization",
-    "name": "AIN China"
-  }},
-  "publisher": {{
-    "@type": "Organization",
-    "name": "AIN China"
-  }},
-  "datePublished": "2026-04-26",
-  "articleSection": "Artificial Intelligence",
-  "keywords": "Tars, 它石智航, embodied intelligence, robot brain, China AI, AWE 3.0, Hillhouse Capital, Sequoia China"
-}}
-</script>
+---
+title: "Tars Raises $455M: How China's "Robot Brain" Startup Cracked the Embodied Intelligence Code"
+slug: "tars-embodied-intelligence-455-million-brain-club"
+date: "2026-04-01"
+category: "AI Robotics"
+readTime: "16 min read"
+---
 
 Tars Raises $455M: How China's "Robot Brain" Startup Cracked the Embodied Intelligence Code
 
