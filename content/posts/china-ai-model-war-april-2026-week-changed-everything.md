@@ -6,11 +6,6 @@ category: "AI Trends"
 readTime: "17 min read"
 ---
 
-import BlogPostLayout from '@/components/blog/BlogPostLayout';
-import BlogImage from '@/components/blog/BlogImage';
-
-<BlogPostLayout {...props.frontmatter}>
-
 ![China AI Model War 2026](https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&q=80)
 *The AI model wars: Chinese tech giants battle for dominance in the world's largest AI market. Photo by Google DeepMind / Unsplash*
 
@@ -250,5 +245,3 @@ We analyzed discussions across Zhihu, Xiaohongshu, Weibo, Douban, and GitHub to 
 ---
 
 *Disclaimer: This analysis is based on publicly available information and industry reports. Market data and company metrics reflect conditions as of April 13, 2026. This article does not constitute investment advice.*
-
-</BlogPostLayout>
