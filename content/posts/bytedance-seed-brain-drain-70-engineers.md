@@ -236,14 +236,17 @@ The question now is whether ByteDance can learn from this crisis, or if the exod
 
 ---
 
-## Related Articles
+---
 
-- [MiniMax Music 2.6: AI Music Generation Enters the Cover Era](https://www.ainchina.com/blog/minimax-music-26-cover)
-- [China's AI Model Wars: The Week That Changed Everything](https://www.ainchina.com/blog/china-ai-model-war-april-2026)
-- [The $31 Surge: How Gen Z is Driving China's AI Token Explosion](https://www.ainchina.com/blog/china-ai-token-surge-gen-z)
-- [Doubao's 12 Trillion Token Explosion](https://www.ainchina.com/blog/doubao-12-trillion-token-explosion)
 
 ---
+
+**Related Articles:**
+- [ByteDance's AI Obsession: How a 70% Profit Plunge Turned a Social Media Giant Into China's GPU Kingpin](/blog/bytedance-ai-gamble-gpu-kingpin-profit-drop)
+- [ByteDance Doubao: The 200 Million User AI Assistant Reshaping Content Creation](/blog/doubao-bytedance)
+- [The Great Silicon Wall: How China's AI Industry Is Defying U.S. Chip Sanctions in 2026](/blog/china-ai-chip-war-2026-us-sanctions)
+- [DeepSeek Breaks Its Vow: Inside the $3 Billion Funding Round That Shook China's AI World](/blog/deepseek-first-funding-20-billion-valuation)
+
 
 *Disclaimer: This article is based on publicly available information, media reports, and industry analysis. Specific employee counts and compensation figures are estimates based on multiple sources. ByteDance has not officially confirmed the exact number of departures.*
 

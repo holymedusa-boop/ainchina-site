@@ -252,13 +252,16 @@ The $455 million bet suggests that Hillhouse, Sequoia, and China's state capital
 
 ---
 
-*Disclaimer: This analysis is based on publicly disclosed information from Tars' funding announcement on April 16, 2026, and technical presentations at NVIDIA GTC 2026. Market data represents estimates based on disclosed figures. Investment decisions should not be made solely based on this analysis.*
 
 ---
 
-## Related Articles
+**Related Articles:**
+- [China's Embodied Intelligence Revolution: When Robots Outrun Humans — April 2026](/blog/china-embodied-intelligence-robot-marathon-2026)
+- [China's Embodied AI Revolution: How $30 Billion in Q1 Funding Is Reshaping Global Robotics](/blog/china-embodied-ai-revolution-2026)
+- [DeepSeek Breaks Its Vow: Inside the $3 Billion Funding Round That Shook China's AI World](/blog/deepseek-first-funding-20-billion-valuation)
+- [China's AI April Revolution: Humanoid Robots Race, Multimodal Models Explode, and 2 Billion AI Videos Reshape Global Content](/blog/china-ai-april-revolution-2026)
 
-- [DeepSeek V4: The Million-Token API Update That Signals China's AI Sovereignty Shift](/blog/deepseek-v4-agent-era-million-tokens-2026)
-- [China's Embodied Intelligence Revolution: When Robots Outrun Humans](/blog/china-embodied-intelligence-robot-marathon-2026)
-- [MiniMax Files for IPO: How China's AI Companion Empire Built 212 Million Users](/blog/minimax-ipo-212-million-users-ai-companion-empire)
-- [Doubao vs. DeepSeek: ByteDance's AI Strategy Unpacked](/blog/doubao-bytedance)
+
+*Disclaimer: This analysis is based on publicly disclosed information from Tars' funding announcement on April 16, 2026, and technical presentations at NVIDIA GTC 2026. Market data represents estimates based on disclosed figures. Investment decisions should not be made solely based on this analysis.*
+
+---

@@ -310,13 +310,16 @@ As the 249 million Chinese AI users demonstrate, the transformation has already 
 
 ---
 
-*Disclaimer: This analysis is based on publicly available information as of April 20, 2026. Market data represents estimates based on industry reports and may not reflect exact company financials. Investment decisions should not be made solely based on this analysis.*
 
 ---
 
-## Related Articles
+**Related Articles:**
+- [China's AI April Revolution: Humanoid Robots Race, Multimodal Models Explode, and 2 Billion AI Videos Reshape Global Content](/blog/china-ai-april-revolution-2026)
+- [Stanford AI Index 2026: China's 'Parallel Run' Era Has Arrived](/blog/stanford-ai-index-2026-china-rise)
+- [China's AI Avatar Revolution: How 410 Million Views Signal a Global Content Creation Shift](/blog/china-ai-avatar-revolution-2026)
+- [China's AI Agent Revolution: How 'AI+ Action' Policy and a ¥449 Billion Market Are Turning Chatbots Into Workers](/blog/china-ai-agent-revolution-2026-policy-market)
 
-- [MiniMax Talkie: How a Chinese AI Startup Built the World's Most Engaging Conversational AI](/blog/minimax-talkie)
-- [Doubao vs. DeepSeek: ByteDance's AI Strategy Unpacked](/blog/doubao-bytedance)
-- [AI Thesis Writing in China: The Academic Transformation](/blog/ai-thesis-writing-china)
-- [Alibaba's Token Hub: The 100 Billion Token Gambit](/blog/alibaba-token-hub-100b-gambit)
+
+*Disclaimer: This analysis is based on publicly available information as of April 20, 2026. Market data represents estimates based on industry reports and may not reflect exact company financials. Investment decisions should not be made solely based on this analysis.*
+
+---

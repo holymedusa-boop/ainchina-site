@@ -27,6 +27,16 @@ This wasn't a fluke. It was the culmination of a 12-month acceleration that saw 
 | **ByteDance AI infra spending** | $12B+ | 2025 |
 | **Stanford AI Index: US-China performance gap** | 2.7% | Mar 2026 |
 
+
+---
+
+**Related Articles:**
+- [DeepSeek V4's 75% Promo Ends May 31: What Happens Next and Why the AI Pricing War Is Just Beginning](/blog/deepseek-v4-promo-ending-analysis)
+- [China's AI Revolution: How 140 Trillion Tokens, DeepSeek V4 on Huawei Chips, and a $700B Arms Race Are Reshaping Global Technology](/blog/china-ai-revolution-may-2026-tokens-deepseek-huawei)
+- [Kimi K2.6: How a $18B Chinese Startup Is Rewriting the Rules of Open-Source AI Coding](/blog/kimi-k2-6-open-source-coding-revolution)
+- [China's AI Agent Revolution: How 'AI+ Action' Policy and a ¥449 Billion Market Are Turning Chatbots Into Workers](/blog/china-ai-agent-revolution-2026-policy-market)
+
+
 *Sources: OpenRouter, Stanford HAI 2026 AI Index Report, MiniMax financial disclosures, QuestMobile, company announcements*
 
 ---
@@ -313,10 +323,3 @@ The question for the global AI industry is no longer whether Chinese models can 
 *Disclaimer: This analysis is based on publicly available data, media reports, and platform statistics. Revenue figures for private companies are estimates. Market share data reflects OpenRouter platform usage and may not represent the entire global AI API market. Investment valuations are subject to rapid change.*
 
 ---
-
-## Related Articles
-
-- [MiniMax IPO: 212 Million Users and the Rise of China's AI Companion Empire](/blog/minimax-ipo-212-million-users-ai-companion-empire)
-- [DeepSeek V4 Pricing Strategy: How $0.14/1M Tokens Is Reshaping AI Economics](/blog/deepseek-v4-pricing-strategy-analysis)
-- [DeepSeek V4: The Agentic Era Arrives with Million-Token Context](/blog/deepseek-v4-agent-era-million-tokens-2026)
-- [TARS Embodied Intelligence: The $455 Million 'Brain Club' Building China's Physical AI](/blog/tars-embodied-intelligence-455-million-brain-club)

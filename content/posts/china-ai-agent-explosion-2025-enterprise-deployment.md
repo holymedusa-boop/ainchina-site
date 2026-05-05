@@ -23,6 +23,16 @@ The Chinese AI Agent market has crossed a critical threshold in 2025. What began
 | Alibaba International Factory Clients | 50,000 | 100,000+ | +100% |
 | Market Size (IDC estimate) | ¥5B ($690M) | Projected ¥8B+ | +60% CAGR |
 
+
+---
+
+**Related Articles:**
+- [China's AI Agent Revolution: How 'AI+ Action' Policy and a ¥449 Billion Market Are Turning Chatbots Into Workers](/blog/china-ai-agent-revolution-2026-policy-market)
+- [DeepSeek V4 Unleashed: How China's Open-Source AI Champion Is Winning the Agent Era with Million-Token Superpowers](/blog/deepseek-v4-agent-era-million-tokens-2026)
+- [China's AI April Revolution: Humanoid Robots Race, Multimodal Models Explode, and 2 Billion AI Videos Reshape Global Content](/blog/china-ai-april-revolution-2026)
+- [ai-interview-coaching-china-2025](/blog/ai-interview-coaching-china-2025)
+
+
 *Sources: IDC China, Ministry of Industry and Information Technology, company announcements*
 
 The significance extends beyond raw numbers. China's approach to AI Agent deployment represents a fundamentally different philosophy from Western markets—one characterized by rapid government-industry coordination, aggressive infrastructure building, and a willingness to deploy agents in mission-critical production environments at speeds that would raise eyebrows in Silicon Valley.
@@ -285,14 +295,6 @@ The 126 platforms, 7,000+ agents at JD alone, and ¥1 billion+ in H1 government 
 For global observers, the key question isn't whether China will be a major player in the AI Agent era—it already is. The question is how quickly other markets will respond, and whether they can match the speed and scale of Chinese deployment.
 
 The race is on.
-
----
-
-**Related Articles:**
-- [ByteDance Seed Exodus: How 70 Top Engineers Left China's AI Champion](/blog/bytedance-seed-brain-drain-70-engineers)
-- [China's AI Chip War 2026: US Sanctions and the Rise of Domestic Alternatives](/blog/china-ai-chip-war-2026-us-sanctions)
-- [China's AI Model Wars: The Battle Reshaping Global AI](/blog/china-ai-model-wars-april-2026)
-- [MiniMax Talkie: The AI Companion App Capturing China's Youth](/blog/minimax-talkie)
 
 ---
 

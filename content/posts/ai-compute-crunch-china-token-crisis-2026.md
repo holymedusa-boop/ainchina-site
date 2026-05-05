@@ -283,12 +283,14 @@ One thing is certain: the days of unlimited, subsidized AI compute are over. The
 
 ---
 
-*Disclaimer: This analysis is based on publicly available information and industry reports as of April 29, 2026. API prices and infrastructure metrics are subject to rapid change in this evolving market.*
 
 ---
 
 **Related Articles:**
-- [DeepSeek V4 Unleashed: How China's Open-Source AI Champion Is Winning the Agent Era](/blog/deepseek-v4-agent-era-million-tokens-2026)
-- [ByteDance's AI Obsession: How a 70% Profit Plunge Turned a Social Media Giant Into China's GPU Kingpin](/blog/bytedance-ai-gamble-gpu-kingpin-profit-drop)
+- [DeepSeek V4 Pricing Strategy: How $0.14/1M Tokens Is Reshaping the Economics of Frontier AI](/blog/deepseek-v4-pricing-strategy-analysis)
 - [The Great Silicon Wall: How China's AI Industry Is Defying U.S. Chip Sanctions in 2026](/blog/china-ai-chip-war-2026-us-sanctions)
-- [China's AI Model Wars: How Alibaba, ByteDance, and MiniMax Are Reshaping Global AI Competition](/blog/china-ai-model-wars-april-2026)
+- [ByteDance's AI Obsession: How a 70% Profit Plunge Turned a Social Media Giant Into China's GPU Kingpin](/blog/bytedance-ai-gamble-gpu-kingpin-profit-drop)
+- [China's AI Revolution: How 140 Trillion Tokens, DeepSeek V4 on Huawei Chips, and a $700B Arms Race Are Reshaping Global Technology](/blog/china-ai-revolution-may-2026-tokens-deepseek-huawei)
+
+
+*Disclaimer: This analysis is based on publicly available information and industry reports as of April 29, 2026. API prices and infrastructure metrics are subject to rapid change in this evolving market.*

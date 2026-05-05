@@ -245,13 +245,16 @@ The robot that crossed the finish line in Beijing on April 19, 2025, wasn't just
 
 ---
 
-## Related Articles
+---
 
-- [MiniMax Talkie: How China's AI Companions Captured 3 Million Monthly Users](https://www.ainchina.com/blog/minimax-talkie)
-- [Doubao ByteDance: The 1.2 Trillion Token Explosion Reshaping AI in China](https://www.ainchina.com/blog/doubao-bytedance)
-- [China's Embodied AI Revolution: Humanoid Robots Enter the Workforce](https://www.ainchina.com/blog/china-embodied-ai-revolution-2026)
-- [Stanford AI Index 2026: China's Rise to Global AI Leadership](https://www.ainchina.com/blog/stanford-ai-index-2026-china-rise)
 
 ---
+
+**Related Articles:**
+- [China's AI Revolution: Education Reform, National Standards, and Ecosystem Breakthroughs in April 2026](/blog/china-ai-april-infrastructure-2026)
+- [China's AI Avatar Revolution: How 410 Million Views Signal a Global Content Creation Shift](/blog/china-ai-avatar-revolution-2026)
+- [China's Embodied Intelligence Revolution: When Robots Outrun Humans — April 2026](/blog/china-embodied-intelligence-robot-marathon-2026)
+- [DeepSeek V4 Unleashed: How China's Open-Source AI Champion Is Winning the Agent Era with Million-Token Superpowers](/blog/deepseek-v4-agent-era-million-tokens-2026)
+
 
 *Disclaimer: This analysis is based on publicly available information, industry reports, and company announcements. Market data and user statistics reflect estimates based on disclosed figures. Investment decisions should not be made solely based on this analysis.*

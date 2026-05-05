@@ -294,16 +294,19 @@ At $20 billion, with Tencent and Alibaba at the table, and a migration to Huawei
 
 ---
 
-*Disclaimer: This analysis is based on publicly available information and media reports. Valuation figures and investor details are subject to change as negotiations progress. The author has no financial position in any companies mentioned.*
 
 ---
 
-## Related Articles
-
-- [DeepSeek V4 Unleashed: How China's Open-Source AI Champion Is Winning the Agent Era with Million-Token Superpowers](/blog/deepseek-v4-agent-era-million-tokens-2026)
-- [MiniMax Files for IPO: How China's AI Companion Empire Built 212 Million Users](/blog/minimax-ipo-212-million-users-ai-companion-empire)
+**Related Articles:**
+- [ByteDance's AI Obsession: How a 70% Profit Plunge Turned a Social Media Giant Into China's GPU Kingpin](/blog/bytedance-ai-gamble-gpu-kingpin-profit-drop)
+- [DeepSeek V4's 75% Promo Ends May 31: What Happens Next and Why the AI Pricing War Is Just Beginning](/blog/deepseek-v4-promo-ending-analysis)
+- [China's AI Global Surge: How Chinese Models Captured 61% of Global API Traffic and Built a $180 Billion Empire](/blog/china-ai-global-surge-api-traffic-empire-2026)
 - [Tars Raises $455M: How China's 'Robot Brain' Startup Cracked the Embodied Intelligence Code](/blog/tars-embodied-intelligence-455-million-brain-club)
-- [Chinese AI Index 2026: 103 Companies, $15.2B Funding, Market Intelligence](/blog/china-ai-index-2026)
+
+
+*Disclaimer: This analysis is based on publicly available information and media reports. Valuation figures and investor details are subject to change as negotiations progress. The author has no financial position in any companies mentioned.*
+
+---
 
 ---
 
@@ -337,7 +340,7 @@ At $20 billion, with Tencent and Alibaba at the table, and a migration to Huawei
   "dateModified": "2026-04-27",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://www.ainchina.com/blog/deepseek-first-funding-20-billion-valuation"
+    "@id": "/blog/deepseek-first-funding-20-billion-valuation"
   },
   "keywords": ["DeepSeek", "Liang Wenfeng", "China AI", "AI funding", "Huawei Ascend", "Tencent", "Alibaba", "DeepSeek V4", "AI talent", "Chinese AI companies"]
 }

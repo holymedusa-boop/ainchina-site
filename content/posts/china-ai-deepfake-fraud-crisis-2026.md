@@ -59,6 +59,16 @@ China's Ministry of Public Security and Supreme People's Procuratorate data pain
 | **Average Loss Per Case** | ¥265,000 | ¥271,000 | ¥286,000+ | Steadily rising |
 | **Cases Over ¥500K** | 12% | 16% | 21% | High-value fraud surging |
 
+
+---
+
+**Related Articles:**
+- [China's AI Avatar Revolution: How 410 Million Views Signal a Global Content Creation Shift](/blog/china-ai-avatar-revolution-2026)
+- [China's AI Digital Human Revolution: 80,000 Virtual Avatars Reshaping Content](/blog/china-ai-digital-human-revolution)
+- [China's AI April Revolution: Humanoid Robots Race, Multimodal Models Explode, and 2 Billion AI Videos Reshape Global Content](/blog/china-ai-april-revolution-2026)
+- [China's AI Agent Revolution: How 'AI+ Action' Policy and a ¥449 Billion Market Are Turning Chatbots Into Workers](/blog/china-ai-agent-revolution-2026-policy-market)
+
+
 *Sources: Ministry of Public Security annual reports, Supreme People's Procuratorate statistics*
 
 ### The AI Multiplier Effect

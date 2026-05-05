@@ -23,6 +23,16 @@ On April 24, 2026, DeepSeek released V4 — a dual-tier model family (Pro and Fl
 | **Cache Hit Discount** | 90% ($0.014) | 90% ($0.174) | Limited | Limited |
 | **Price vs. GPT-5.4** | 18x cheaper | Same input cost | 2x input cost | Baseline |
 
+
+---
+
+**Related Articles:**
+- [DeepSeek V4's 75% Promo Ends May 31: What Happens Next and Why the AI Pricing War Is Just Beginning](/blog/deepseek-v4-promo-ending-analysis)
+- [China's AI Revolution: How 140 Trillion Tokens, DeepSeek V4 on Huawei Chips, and a $700B Arms Race Are Reshaping Global Technology](/blog/china-ai-revolution-may-2026-tokens-deepseek-huawei)
+- [The Great AI Compute Crunch: How China's AI Boom Is Running Out of Tokens](/blog/ai-compute-crunch-china-token-crisis-2026)
+- [DeepSeek V4 Unleashed: How China's Open-Source AI Champion Is Winning the Agent Era with Million-Token Superpowers](/blog/deepseek-v4-agent-era-million-tokens-2026)
+
+
 *Sources: DeepSeek API docs, Anthropic Claude pricing, OpenAI API pricing, April 2026*
 
 The Flash tier, at $0.14 per million input tokens, is the cheapest frontier-class API on the market. The Pro tier, while pricier, still undercuts Claude Opus 4.6 by **3x on input** and **7x on output**. Combined with a **90% cache discount** and a **1 million token context window**, DeepSeek V4 isn't just cheaper — it's structurally redefining what AI workloads are economically viable.
@@ -292,13 +302,6 @@ Whether that vision materializes depends on execution, geopolitics, and whether 
 
 ---
 
-## Related Articles
-
-- [DeepSeek's First Funding Round: $2 Billion Valuation and the Open-Source AI Revolution](/blog/deepseek-first-funding-round)
-- [DeepSeek V4: The Agent Era and Million-Token Context](/blog/deepseek-v4-agent-era)
-- [ByteDance's AI Gamble: GPU Kingpin Sees Profit Drop](/blog/bytedance-ai-gamble-gpu-kingpin-profit-drop)
-- [China's AI Compute Crunch: When Infrastructure Becomes a Bottleneck](/blog/ai-compute-crunch-china-token-crisis-2026)
-
 ---
 
 *Disclaimer: This analysis is based on publicly available information as of April 30, 2026. Pricing data reflects API documentation and third-party aggregators. Actual costs may vary based on usage patterns, cache hit rates, and regional availability. DeepSeek V4 is currently in preview release; production SLAs and full regional availability are still rolling out. Organizations should conduct their own due diligence before making enterprise integration decisions.*
@@ -324,7 +327,7 @@ Whether that vision materializes depends on execution, geopolitics, and whether 
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://www.ainchina.com/blog/deepseek-v4-pricing-strategy-analysis"
+    "@id": "/blog/deepseek-v4-pricing-strategy-analysis"
   },
   "keywords": "DeepSeek V4, AI API pricing, LLM pricing 2026, DeepSeek pricing strategy, AI cost comparison, MoE architecture, open source AI, Chinese AI pricing"
 }

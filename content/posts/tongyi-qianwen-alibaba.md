@@ -289,17 +289,7 @@ The bet is that, in the long run, indispensability beats coolness.
 ---
 
 **Related Articles:**
-- [Baidu Wenxin Yiyan: China's Most Used AI Assistant](/blog/wenxin-yiyan-baidu)
-- [DeepSeek-V3: The $5.6M Training Run That Changed AI Economics](/blog/deepseek-v3-deep-dive)
-- [The Rise of Chinese AI: Ecosystem Overview](/blog/chinese-ai-landscape)
-
-**Data Sources:**
-- Alibaba Cloud Summit 2025 presentations
-- Alibaba Group financial reports
-- Industry analyst estimates (Macquarie, Morgan Stanley)
-- Independent benchmark evaluations
-- Developer surveys and interviews
-
-*Last updated: April 2, 2026*  
-*Word count: ~2,800 words*  
-*Reading time: 14 minutes*
+- [Alibaba's $100B Token Gambit: Inside the Alibaba Token Hub Revolution Reshaping China's AI Economy](/blog/alibaba-token-hub-100b-gambit)
+- [wenxin-yiyan-baidu](/blog/wenxin-yiyan-baidu)
+- [ByteDance Doubao: The 200 Million User AI Assistant Reshaping Content Creation](/blog/doubao-bytedance)
+- [China's AI Model Wars: How Alibaba, ByteDance, and MiniMax Are Reshaping Global AI Competition in April 2026](/blog/china-ai-model-wars-april-2026)

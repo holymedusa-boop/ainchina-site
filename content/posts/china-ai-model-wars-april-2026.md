@@ -278,3 +278,12 @@ April 2026 suggests the answer will be: faster, more competitive, and more globa
 ---
 
 *AI in China tracks the most significant developments in Chinese artificial intelligence, from cutting-edge research to commercial deployment. For more analysis, subscribe to our weekly briefing.*
+
+
+---
+
+**Related Articles:**
+- [The Week That Changed Everything: China's AI Model War Intensifies in April 2026](/blog/china-ai-model-war-april-2026-week-changed-everything)
+- [Alibaba's $100B Token Gambit: Inside the Alibaba Token Hub Revolution Reshaping China's AI Economy](/blog/alibaba-token-hub-100b-gambit)
+- [Stanford AI Index 2026: China's 'Parallel Run' Era Has Arrived](/blog/stanford-ai-index-2026-china-rise)
+- [ByteDance Doubao: The 200 Million User AI Assistant Reshaping Content Creation](/blog/doubao-bytedance)

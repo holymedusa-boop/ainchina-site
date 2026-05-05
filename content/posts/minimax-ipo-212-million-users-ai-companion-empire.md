@@ -295,13 +295,16 @@ The robots may not be running marathons yet. But they're learning to be good com
 
 ---
 
-*Disclaimer: This analysis is based on publicly available information and the IPO prospectus filed on April 23, 2026. Market data represents estimates based on disclosed figures. Investment decisions should not be made solely based on this analysis.*
 
 ---
 
-## Related Articles
+**Related Articles:**
+- [minimax-talkie](/blog/minimax-talkie)
+- [ByteDance Doubao: The 200 Million User AI Assistant Reshaping Content Creation](/blog/doubao-bytedance)
+- [China's AI Global Surge: How Chinese Models Captured 61% of Global API Traffic and Built a $180 Billion Empire](/blog/china-ai-global-surge-api-traffic-empire-2026)
+- [DeepSeek Breaks Its Vow: Inside the $3 Billion Funding Round That Shook China's AI World](/blog/deepseek-first-funding-20-billion-valuation)
 
-- [DeepSeek V4: The Million-Token API Update That Signals China's AI Sovereignty Shift](/blog/deepseek-v4-million-token-china-ai-sovereignty)
-- [Doubao vs. DeepSeek: ByteDance's AI Strategy Unpacked](/blog/doubao-bytedance)
-- [China's Embodied Intelligence Revolution: When Robots Outrun Humans](/blog/china-embodied-intelligence-robot-marathon-2026)
-- [Alibaba's Token Hub: The $100B Token Gambit](/blog/alibaba-token-hub-100b-gambit)
+
+*Disclaimer: This analysis is based on publicly available information and the IPO prospectus filed on April 23, 2026. Market data represents estimates based on disclosed figures. Investment decisions should not be made solely based on this analysis.*
+
+---

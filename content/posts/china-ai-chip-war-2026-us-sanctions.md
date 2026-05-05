@@ -30,6 +30,16 @@ The numbers tell the story:
 | Domestic Chip Training Share | 8% | 42% | +34pp |
 | Open-Source Model Releases | 23/year | 67/year | +191% |
 
+
+---
+
+**Related Articles:**
+- [ByteDance's AI Obsession: How a 70% Profit Plunge Turned a Social Media Giant Into China's GPU Kingpin](/blog/bytedance-ai-gamble-gpu-kingpin-profit-drop)
+- [DeepSeek V4: The Million-Token API Update That Signals China's AI Sovereignty Shift](/blog/deepseek-v4-million-token-china-ai-sovereignty)
+- [The Great AI Compute Crunch: How China's AI Boom Is Running Out of Tokens](/blog/ai-compute-crunch-china-token-crisis-2026)
+- [China's AI Revolution: How 140 Trillion Tokens, DeepSeek V4 on Huawei Chips, and a $700B Arms Race Are Reshaping Global Technology](/blog/china-ai-revolution-may-2026-tokens-deepseek-huawei)
+
+
 *Sources: China Academy of Information and Communications Technology, company filings*
 
 This isn't just about survival. It's about something far more consequential: **China is proving that AI leadership doesn't require American silicon.** And that has implications that extend far beyond the tech industry.
@@ -339,13 +349,6 @@ For global technology leaders, the message is clear: **The unipolar AI era is en
 The chip war was supposed to slow China down. Instead, it may have accelerated the arrival of a multipolar AI world.
 
 ---
-
-## Related Articles
-
-- [China's AI Model Wars: Alibaba, ByteDance, and MiniMax Reshape Global Competition](/blog/china-ai-model-wars-april-2026)
-- [DeepSeek-V3: The $5.6M Training Run That Shocked Silicon Valley](/blog/deepseek-v3-deep-dive)
-- [Doubao's 12 Trillion Token Explosion: ByteDance's Quiet Victory](/blog/doubao-12-trillion-token-explosion)
-- [ModelBest Becomes Unicorn: Tsinghua's Edge AI Pioneer](/blog/modelbest-edge-ai-unicorn-2026)
 
 ---
 

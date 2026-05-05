@@ -36,6 +36,16 @@ DeepSeek V4's technical specifications, pieced together from architecture papers
 | **Inference Speed vs V3** | Baseline | 35x faster | +35x |
 | **Energy Consumption** | Baseline | -40% | Improved |
 
+
+---
+
+**Related Articles:**
+- [DeepSeek V4 Pricing Strategy: How $0.14/1M Tokens Is Reshaping the Economics of Frontier AI](/blog/deepseek-v4-pricing-strategy-analysis)
+- [DeepSeek V4 Unleashed: How China's Open-Source AI Champion Is Winning the Agent Era with Million-Token Superpowers](/blog/deepseek-v4-agent-era-million-tokens-2026)
+- [The Great Silicon Wall: How China's AI Industry Is Defying U.S. Chip Sanctions in 2026](/blog/china-ai-chip-war-2026-us-sanctions)
+- [DeepSeek V4's 75% Promo Ends May 31: What Happens Next and Why the AI Pricing War Is Just Beginning](/blog/deepseek-v4-promo-ending-analysis)
+
+
 *Sources: DeepSeek architecture papers, The Information, Tencent News technical analysis*
 
 The key innovation is what engineers call **Mega MoE**—a fusion of dispatch, linear transformation, activation, and result merging into a single "mega-kernel." Traditional MoE architectures suffer from kernel-switching overhead when routing tokens between experts. Mega MoE eliminates this bottleneck entirely, enabling computation and communication to overlap rather than alternate.

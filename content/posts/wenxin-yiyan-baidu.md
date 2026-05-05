@@ -162,16 +162,7 @@ The giant isn't sleeping. It's just been quietly winning—300 million users at 
 ---
 
 **Related Articles:**
-- [DeepSeek-V3: The $5.6M Training Run That Changed AI Economics](/blog/deepseek-v3-deep-dive)
-- [Kimi K2.5: 1 Trillion Parameters, 256K Context Window](/blog/kimi-2m-context)
-- [Alibaba Tongyi Qianwen: Enterprise AI Powerhouse](/blog/tongyi-qianwen-alibaba)
-
-**Data Sources:**
-- Baidu Q4 2025 Earnings Report
-- Industry analyst estimates (Bernstein, Goldman Sachs)
-- Independent benchmark evaluations
-- User survey data
-
-*Last updated: April 2, 2026*  
-*Word count: ~2,800 words*  
-*Reading time: 14 minutes*
+- [ByteDance Doubao: The 200 Million User AI Assistant Reshaping Content Creation](/blog/doubao-bytedance)
+- [tongyi-qianwen-alibaba](/blog/tongyi-qianwen-alibaba)
+- [DeepSeek V4 Pricing Strategy: How $0.14/1M Tokens Is Reshaping the Economics of Frontier AI](/blog/deepseek-v4-pricing-strategy-analysis)
+- [China's AI Global Surge: How Chinese Models Captured 61% of Global API Traffic and Built a $180 Billion Empire](/blog/china-ai-global-surge-api-traffic-empire-2026)
