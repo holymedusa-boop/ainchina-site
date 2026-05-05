@@ -6,7 +6,7 @@ category: "AI Trends"
 readTime: "17 min read"
 ---
 
-*![Futuristic digital network connecting global cities with glowing data streams](https://images.unsplash.com/photo-1639322537228-f710d846310a?w=1200&q=80)*
+![Futuristic digital network connecting global cities with glowing data streams](https://images.unsplash.com/photo-1639322537228-f710d846310a?w=1200&q=80)
 *China's AI models have transcended borders, becoming infrastructure for developers worldwide. Image: Unsplash*
 
 ## Executive Summary

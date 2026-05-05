@@ -6,7 +6,7 @@ category: "AI Infrastructure"
 readTime: "16 min read"
 ---
 
-*![Abstract visualization of falling price curves in digital space](https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80)*
+![Abstract visualization of falling price curves in digital space](https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80)
 *DeepSeek V4's pricing has reset the global AI cost floor. Image: Unsplash*
 
 ## Executive Summary
@@ -179,7 +179,7 @@ Perhaps the most strategically significant factor: DeepSeek has optimized V4 for
 
 The combination of MoE efficiency, Engram memory, and Huawei silicon creates a **structural cost advantage** that isn't dependent on subsidized pricing or investor patience. It's baked into the architecture.
 
-*![Circuit board with Chinese and international chips side by side](https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80)*
+![Circuit board with Chinese and international chips side by side](https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80)
 *DeepSeek's optimization for Huawei Ascend chips represents a strategic decoupling from NVIDIA's ecosystem. Image: Unsplash*
 
 ---
@@ -215,7 +215,7 @@ The cost framing circulating most widely: *"If Uber used DeepSeek instead of Cla
 
 ## What Developers Are Saying: Social Media Pulse
 
-*![Person scrolling through social media on phone](https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&q=80)*
+![Person scrolling through social media on phone](https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&q=80)
 *Developer communities reacted with a mix of excitement, competitive anxiety, and strategic recalculation. Image: Unsplash*
 
 > **"DeepSeek V4 is now the cheapest SOTA model at 1/20th the cost of Opus 4.7. If Uber used DeepSeek instead of Claude, their 2026 AI budget would have lasted 7 years instead of only 4 months."**  
