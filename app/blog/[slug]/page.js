@@ -4,6 +4,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-embodied-intelligence-revolution-2026': {
+    metaTitle: "China's Embodied Intelligence Revolution: 230+ Companies, $110B Market Reshaping Robotics",
+    metaDescription: "China's embodied intelligence industry surges from 1,800 humanoid robots in 2025 to 100,000+ projected for 2026. With 230+ companies, $195B in annual funding, and supply chain costs at 50% of Western equivalents, China is building the physical AI revolution.",
+    keywords: 'embodied intelligence, humanoid robot, China AI, robotics industry, Unitree, UBTECH, embodied AI, VLA model, manufacturing automation, China robotics 2026',
+  },
   'china-ai-revolution-may-2026-tokens-deepseek-huawei': {
     metaTitle: "China's AI Revolution: 140 Trillion Tokens, DeepSeek V4 on Huawei, and the $700B Arms Race",
     metaDescription: "Stanford's 2026 AI Index: US-China AI gap narrowed to 2.7%. DeepSeek V4 launches on Huawei Ascend chips, breaking NVIDIA's CUDA monopoly. China processes 140 trillion tokens daily. Inside the shift reshaping global technology.",

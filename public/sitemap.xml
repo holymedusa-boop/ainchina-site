@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Generated: 2026-05-05T09:27:14.239Z -->
-  <!-- Total Posts: 38 -->
+  <!-- Generated: 2026-05-05T23:06:49.804Z -->
+  <!-- Total Posts: 39 -->
 
   <!-- Homepage -->
   <url>
@@ -37,6 +37,12 @@
   </url>
 
   <!-- AI Infrastructure -->
+  <url>
+    <loc>https://www.ainchina.com/blog/china-embodied-intelligence-revolution-2026/</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
   <url>
     <loc>https://www.ainchina.com/blog/deepseek-v4-promo-ending-analysis/</loc>
     <lastmod>2026-05-05</lastmod>
