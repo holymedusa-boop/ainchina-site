@@ -282,9 +282,3 @@ The companions aren't leaving. They're just getting more sophisticated.
 *Reading time: 16 minutes*
 
 ---
-
-**Related Articles:**
-- [MiniMax Files for IPO: How China's AI Companion Empire Built 212 Million Users and Challenged the Global Social Landscape](/blog/minimax-ipo-212-million-users-ai-companion-empire)
-- [ByteDance Doubao: The 200 Million User AI Assistant Reshaping Content Creation](/blog/doubao-bytedance)
-- [China's AI Global Surge: How Chinese Models Captured 61% of Global API Traffic and Built a $180 Billion Empire](/blog/china-ai-global-surge-api-traffic-empire-2026)
-- [DeepSeek Breaks Its Vow: Inside the $3 Billion Funding Round That Shook China's AI World](/blog/deepseek-first-funding-20-billion-valuation)

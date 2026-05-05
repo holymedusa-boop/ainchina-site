@@ -326,23 +326,3 @@ As one Shenzhen investor summarized: "In software AI, China was fast following. 
 ---
 
 **Disclaimer**: This article is for informational purposes only. Investment decisions should not be based solely on this analysis. The embodied AI sector involves significant technical and market risks.
-
-**Related Articles**:
-- [MiniMax: The 212 Million User AI Companion Empire](/blog/minimax-talkie)
-- [ByteDance Doubao: The 12 Trillion Token Explosion](/blog/doubao-12-trillion-token-explosion)
-- [StepFun's $7 Billion Bet on Terminal AI](/blog/stepfun-terminal-ai-revolution)
-- [China's AI Avatar Revolution: 410M Views Transform Content Creation](/blog/china-ai-avatar-revolution-2025)
-
----
-
-*Last Updated: April 6, 2026*
-*Author: AI in China Research Team*
-
-
----
-
-**Related Articles:**
-- [Tars Raises $455M: How China's 'Robot Brain' Startup Cracked the Embodied Intelligence Code](/blog/tars-embodied-intelligence-455-million-brain-club)
-- [China's Embodied Intelligence Revolution: When Robots Outrun Humans — April 2026](/blog/china-embodied-intelligence-robot-marathon-2026)
-- [DeepSeek Breaks Its Vow: Inside the $3 Billion Funding Round That Shook China's AI World](/blog/deepseek-first-funding-20-billion-valuation)
-- [China's AI April Revolution: Humanoid Robots Race, Multimodal Models Explode, and 2 Billion AI Videos Reshape Global Content](/blog/china-ai-april-revolution-2026)

@@ -297,13 +297,6 @@ At $20 billion, with Tencent and Alibaba at the table, and a migration to Huawei
 
 ---
 
-**Related Articles:**
-- [ByteDance's AI Obsession: How a 70% Profit Plunge Turned a Social Media Giant Into China's GPU Kingpin](/blog/bytedance-ai-gamble-gpu-kingpin-profit-drop)
-- [DeepSeek V4's 75% Promo Ends May 31: What Happens Next and Why the AI Pricing War Is Just Beginning](/blog/deepseek-v4-promo-ending-analysis)
-- [China's AI Global Surge: How Chinese Models Captured 61% of Global API Traffic and Built a $180 Billion Empire](/blog/china-ai-global-surge-api-traffic-empire-2026)
-- [Tars Raises $455M: How China's 'Robot Brain' Startup Cracked the Embodied Intelligence Code](/blog/tars-embodied-intelligence-455-million-brain-club)
-
-
 *Disclaimer: This analysis is based on publicly available information and media reports. Valuation figures and investor details are subject to change as negotiations progress. The author has no financial position in any companies mentioned.*
 
 ---

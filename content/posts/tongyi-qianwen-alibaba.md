@@ -287,9 +287,3 @@ As AI becomes infrastructure rather than novelty, Tongyi's cloud-native, enterpr
 The bet is that, in the long run, indispensability beats coolness.
 
 ---
-
-**Related Articles:**
-- [Alibaba's $100B Token Gambit: Inside the Alibaba Token Hub Revolution Reshaping China's AI Economy](/blog/alibaba-token-hub-100b-gambit)
-- [wenxin-yiyan-baidu](/blog/wenxin-yiyan-baidu)
-- [ByteDance Doubao: The 200 Million User AI Assistant Reshaping Content Creation](/blog/doubao-bytedance)
-- [China's AI Model Wars: How Alibaba, ByteDance, and MiniMax Are Reshaping Global AI Competition in April 2026](/blog/china-ai-model-wars-april-2026)

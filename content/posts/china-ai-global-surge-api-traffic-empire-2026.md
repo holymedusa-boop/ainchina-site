@@ -30,17 +30,6 @@ This wasn't a fluke. It was the culmination of a 12-month acceleration that saw 
 
 ---
 
-**Related Articles:**
-- [DeepSeek V4's 75% Promo Ends May 31: What Happens Next and Why the AI Pricing War Is Just Beginning](/blog/deepseek-v4-promo-ending-analysis)
-- [China's AI Revolution: How 140 Trillion Tokens, DeepSeek V4 on Huawei Chips, and a $700B Arms Race Are Reshaping Global Technology](/blog/china-ai-revolution-may-2026-tokens-deepseek-huawei)
-- [Kimi K2.6: How a $18B Chinese Startup Is Rewriting the Rules of Open-Source AI Coding](/blog/kimi-k2-6-open-source-coding-revolution)
-- [China's AI Agent Revolution: How 'AI+ Action' Policy and a ¥449 Billion Market Are Turning Chatbots Into Workers](/blog/china-ai-agent-revolution-2026-policy-market)
-
-
-*Sources: OpenRouter, Stanford HAI 2026 AI Index Report, MiniMax financial disclosures, QuestMobile, company announcements*
-
----
-
 ## Why This Matters: The First Technology Export Wave of the AI Era
 
 China's previous technology exports followed predictable patterns: hardware (smartphones, solar panels, EVs), e-commerce infrastructure, and gaming. Each took years to achieve global penetration. AI is different. **The export cycle has compressed from decades to months.**

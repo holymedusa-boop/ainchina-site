@@ -62,33 +62,6 @@ China's Ministry of Public Security and Supreme People's Procuratorate data pain
 
 ---
 
-**Related Articles:**
-- [China's AI Avatar Revolution: How 410 Million Views Signal a Global Content Creation Shift](/blog/china-ai-avatar-revolution-2026)
-- [China's AI Digital Human Revolution: 80,000 Virtual Avatars Reshaping Content](/blog/china-ai-digital-human-revolution)
-- [China's AI April Revolution: Humanoid Robots Race, Multimodal Models Explode, and 2 Billion AI Videos Reshape Global Content](/blog/china-ai-april-revolution-2026)
-- [China's AI Agent Revolution: How 'AI+ Action' Policy and a ¥449 Billion Market Are Turning Chatbots Into Workers](/blog/china-ai-agent-revolution-2026-policy-market)
-
-
-*Sources: Ministry of Public Security annual reports, Supreme People's Procuratorate statistics*
-
-### The AI Multiplier Effect
-
-Qihoo 360's *2024 Artificial Intelligence Security Report* revealed the acceleration curve. AI-powered deepfake fraud didn't just grow — it exploded.
-
-| Attack Vector | Growth Rate | Impact |
-|-------------|------------|--------|
-| **Deepfake Fraud (All Types)** | +3,000% | Video impersonation, identity theft |
-| **AI-Generated Phishing Emails** | +1,000% | Automated, personalized social engineering |
-| **Voice Cloning Scams** | +800% | "Grandparent scams" at industrial scale |
-| **AI Face-Swap Investment Fraud** | +500% | Celebrity endorsement forgeries |
-| **AI-Generated Fake News** | +400% | Market manipulation, political disinformation |
-
-*Source: Qihoo 360 AI Security Report 2024, RealAI (Tsinghua University)*
-
-The data from RealAI, a Tsinghua University spinoff, shows domestic AI fraud losses grew from ¥2,000 in 2020 to ¥16.7 million in 2023 — a compound annual growth rate of 1,928.8%. In just the first half of 2024, losses exceeded ¥185 million.
-
----
-
 ## How the Fraud Industrial Complex Works
 
 ### The Five-Step Attack Pipeline

@@ -461,9 +461,3 @@ The Chinese AI ecosystem is not just catching up—it's creating alternative pat
 Understanding this ecosystem is no longer optional for anyone serious about AI.
 
 ---
-
-**Related Articles:**
-- [China's AI Model Wars: How Alibaba, ByteDance, and MiniMax Are Reshaping Global AI Competition in April 2026](/blog/china-ai-model-wars-april-2026)
-- [Stanford AI Index 2026: China's 'Parallel Run' Era Has Arrived](/blog/stanford-ai-index-2026-china-rise)
-- [ByteDance Doubao: The 200 Million User AI Assistant Reshaping Content Creation](/blog/doubao-bytedance)
-- [tongyi-qianwen-alibaba](/blog/tongyi-qianwen-alibaba)

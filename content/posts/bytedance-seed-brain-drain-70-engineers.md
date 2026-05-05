@@ -241,13 +241,6 @@ The question now is whether ByteDance can learn from this crisis, or if the exod
 
 ---
 
-**Related Articles:**
-- [ByteDance's AI Obsession: How a 70% Profit Plunge Turned a Social Media Giant Into China's GPU Kingpin](/blog/bytedance-ai-gamble-gpu-kingpin-profit-drop)
-- [ByteDance Doubao: The 200 Million User AI Assistant Reshaping Content Creation](/blog/doubao-bytedance)
-- [The Great Silicon Wall: How China's AI Industry Is Defying U.S. Chip Sanctions in 2026](/blog/china-ai-chip-war-2026-us-sanctions)
-- [DeepSeek Breaks Its Vow: Inside the $3 Billion Funding Round That Shook China's AI World](/blog/deepseek-first-funding-20-billion-valuation)
-
-
 *Disclaimer: This article is based on publicly available information, media reports, and industry analysis. Specific employee counts and compensation figures are estimates based on multiple sources. ByteDance has not officially confirmed the exact number of departures.*
 
 **Reading Time:** 16 minutes  

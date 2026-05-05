@@ -337,9 +337,3 @@ Below are authentic comments from Chinese social media platforms, translated for
 
 
 ---
-
-**Related Articles:**
-- [China's AI Agent Explosion: How 126 Platforms and $1B+ in Enterprise Deals Are Reshaping Global Automation](/blog/china-ai-agent-explosion-2025-enterprise-deployment)
-- [China's AI Overtake: 31% Surge in Token Usage Signals Global Power Shift](/blog/china-ai-token-surge-gen-z)
-- [ByteDance Doubao: The 200 Million User AI Assistant Reshaping Content Creation](/blog/doubao-bytedance)
-- [DeepSeek V4 Pricing Strategy: How $0.14/1M Tokens Is Reshaping the Economics of Frontier AI](/blog/deepseek-v4-pricing-strategy-analysis)

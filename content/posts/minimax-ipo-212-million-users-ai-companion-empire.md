@@ -298,13 +298,6 @@ The robots may not be running marathons yet. But they're learning to be good com
 
 ---
 
-**Related Articles:**
-- [minimax-talkie](/blog/minimax-talkie)
-- [ByteDance Doubao: The 200 Million User AI Assistant Reshaping Content Creation](/blog/doubao-bytedance)
-- [China's AI Global Surge: How Chinese Models Captured 61% of Global API Traffic and Built a $180 Billion Empire](/blog/china-ai-global-surge-api-traffic-empire-2026)
-- [DeepSeek Breaks Its Vow: Inside the $3 Billion Funding Round That Shook China's AI World](/blog/deepseek-first-funding-20-billion-valuation)
-
-
 *Disclaimer: This analysis is based on publicly available information and the IPO prospectus filed on April 23, 2026. Market data represents estimates based on disclosed figures. Investment decisions should not be made solely based on this analysis.*
 
 ---

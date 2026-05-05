@@ -292,11 +292,4 @@ The race isn't over. But the track has fundamentally changed.
 
 ---
 
-**Related Articles:**
-- [DeepSeek V4's 75% Promo Ends May 31: What Happens Next and Why the AI Pricing War Is Just Beginning](/blog/deepseek-v4-promo-ending-analysis)
-- [China's AI Global Surge: How Chinese Models Captured 61% of Global API Traffic and Built a $180 Billion Empire](/blog/china-ai-global-surge-api-traffic-empire-2026)
-- [Kimi K2.6: How a $18B Chinese Startup Is Rewriting the Rules of Open-Source AI Coding](/blog/kimi-k2-6-open-source-coding-revolution)
-- [DeepSeek V4 Pricing Strategy: How $0.14/1M Tokens Is Reshaping the Economics of Frontier AI](/blog/deepseek-v4-pricing-strategy-analysis)
-
-
 *Disclaimer: This analysis is based on publicly available information and industry reports as of May 4, 2026. Investment and strategic decisions should not be made solely on the basis of this article. The AI landscape evolves rapidly; facts and figures may change.*

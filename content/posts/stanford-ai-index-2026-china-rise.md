@@ -223,11 +223,4 @@ The launch of DeepSeek V4 will be the formal declaration of this new era.
 
 ---
 
-**Related Articles:**
-- [China's AI Revolution: Education Reform, National Standards, and Ecosystem Breakthroughs in April 2026](/blog/china-ai-april-infrastructure-2026)
-- [China's AI Model Wars: How Alibaba, ByteDance, and MiniMax Are Reshaping Global AI Competition in April 2026](/blog/china-ai-model-wars-april-2026)
-- [China's AI Global Surge: How Chinese Models Captured 61% of Global API Traffic and Built a $180 Billion Empire](/blog/china-ai-global-surge-api-traffic-empire-2026)
-- [DeepSeek V4's 75% Promo Ends May 31: What Happens Next and Why the AI Pricing War Is Just Beginning](/blog/deepseek-v4-promo-ending-analysis)
-
-
 *Disclaimer: This analysis is based on publicly available information and industry estimates. Investment decisions should not be made based solely on this content.*

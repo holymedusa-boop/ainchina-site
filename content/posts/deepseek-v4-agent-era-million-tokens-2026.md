@@ -271,11 +271,4 @@ The Agent era isn't coming. It's here. And DeepSeek V4 just made it affordable e
 
 ---
 
-**Related Articles:**
-- [DeepSeek V4 Pricing Strategy: How $0.14/1M Tokens Is Reshaping the Economics of Frontier AI](/blog/deepseek-v4-pricing-strategy-analysis)
-- [DeepSeek V4's 75% Promo Ends May 31: What Happens Next and Why the AI Pricing War Is Just Beginning](/blog/deepseek-v4-promo-ending-analysis)
-- [China's AI Agent Revolution: How 'AI+ Action' Policy and a ¥449 Billion Market Are Turning Chatbots Into Workers](/blog/china-ai-agent-revolution-2026-policy-market)
-- [China's AI Global Surge: How Chinese Models Captured 61% of Global API Traffic and Built a $180 Billion Empire](/blog/china-ai-global-surge-api-traffic-empire-2026)
-
-
 *Disclaimer: This analysis is based on publicly available technical reports, API documentation, and third-party benchmarks as of April 25, 2026. Pricing data reflects launch-day announcements and may be subject to change. Performance claims are sourced from DeepSeek's published evaluations and independent testing where available.*

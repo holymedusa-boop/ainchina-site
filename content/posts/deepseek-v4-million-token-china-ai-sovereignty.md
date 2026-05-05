@@ -39,35 +39,6 @@ DeepSeek V4's technical specifications, pieced together from architecture papers
 
 ---
 
-**Related Articles:**
-- [DeepSeek V4 Pricing Strategy: How $0.14/1M Tokens Is Reshaping the Economics of Frontier AI](/blog/deepseek-v4-pricing-strategy-analysis)
-- [DeepSeek V4 Unleashed: How China's Open-Source AI Champion Is Winning the Agent Era with Million-Token Superpowers](/blog/deepseek-v4-agent-era-million-tokens-2026)
-- [The Great Silicon Wall: How China's AI Industry Is Defying U.S. Chip Sanctions in 2026](/blog/china-ai-chip-war-2026-us-sanctions)
-- [DeepSeek V4's 75% Promo Ends May 31: What Happens Next and Why the AI Pricing War Is Just Beginning](/blog/deepseek-v4-promo-ending-analysis)
-
-
-*Sources: DeepSeek architecture papers, The Information, Tencent News technical analysis*
-
-The key innovation is what engineers call **Mega MoE**—a fusion of dispatch, linear transformation, activation, and result merging into a single "mega-kernel." Traditional MoE architectures suffer from kernel-switching overhead when routing tokens between experts. Mega MoE eliminates this bottleneck entirely, enabling computation and communication to overlap rather than alternate.
-
-> "V4 has an enormous library but acts extremely fast. It fundamentally overturns the stereotype that bigger models must be slower."
-> — Technical analysis from Tencent News, April 20, 2026
-
-### The Context Window Arms Race
-
-The jump from 128K to **1 million tokens** isn't merely a specification bump—it transforms what AI can do:
-
-| Use Case | 128K Context | 1M Context |
-|----------|-------------|------------|
-| **Legal document analysis** | Single contract | Entire case history + all precedents |
-| **Codebase understanding** | One module | Full repository with dependencies |
-| **Academic research** | One paper | Complete PhD thesis + 50 related papers |
-| **Novel writing** | One chapter | Entire trilogy with consistent plot |
-| **Financial analysis** | Quarterly report | 10 years of 10-K filings + market data |
-| **Medical diagnosis** | Single patient record | Complete family history + all test results |
-
----
-
 ## The Great Migration: From CUDA to CANN
 
 ### Why This Matters More Than the Parameters

@@ -18,70 +18,60 @@ Our comprehensive tracking reveals a market that has matured rapidly:
 - **Kimi (Moonshot)**: 2M token context leader
 - **ByteDance**: Doubao ecosystem with massive distribution
 - **01.AI**: Yi model series, enterprise focus
-- **Baidu**: Ernie Bot, longest-running Chinese LLM
 
-### Application Layer (Tier 2)
-AI-native applications gaining significant traction:
-- **Character.AI alternatives**: Talkie, Glow, Xingye
-- **Video generation**: Kling, Vidu, Hailuo AI
-- **Productivity**: WPS AI, iFlytek
-- **Education**: Squirrel AI, Liulishuo
+### Foundation Models (Tier 2)
+- **Zhipu AI**: ChatGLM series, academic roots
+- **Baichuan**: Enterprise-focused, industry applications
+- **MiniMax**: Multimodal, consumer applications
+- **Stepfun**: Terminal AI, developer tools
 
-### Infrastructure (Tier 3)
-- **Compute**: Huawei Ascend, Biren, Moore Threads
-- **Data**: Labeling platforms, synthetic data generators
+### Application Layer
+- **AI Video**: Kling, Vidu, PixVerse, Morph Studio
+- **AI Writing**: Yixia, iFlytek, Baidu
+- **AI Coding**: CodeGeeX, iFlytek Spark, Baidu Comate
+- **AI Design**: Meitu, Canva China, BlueFocus
 
-## Funding Landscape
+### Infrastructure & Chips
+- **Huawei**: Ascend series, full-stack AI
+- **Hygon**: DCU series, data center focus
+- **MetaX**: GPU alternatives
+- **Enflame**: Cloud AI training chips
 
-Total disclosed funding: **$15.2 billion**
+## Market Dynamics
 
-### Recent Major Rounds
-- Moonshot AI: $1B Series B (2024)
-- MiniMax: $600M Series A (2024)
-- 01.AI: $200M Series A (2024)
-- DeepSeek: Strategic investment, undisclosed
+The ecosystem is characterized by:
+- **Intense competition**: Over 100 companies competing across all layers
+- **Rapid iteration**: Models updated monthly, not yearly
+- **Capital efficiency**: Lower burn rates than Western counterparts
+- **Government support**: Policy alignment with national AI strategy
 
-### Investor Mix
-- Chinese VCs: Sequoia China, Hillhouse, Qiming Venture
-- Corporate: Alibaba, Tencent, ByteDance
-- International: Limited due to geopolitical constraints
+### Investment Climate
+- Total funding tracked: $8.2B in 2025-2026
+- Average Series A: $15-30M
+- Notable exits: Several acquisitions by ByteDance, Alibaba
 
-## User Metrics
+### Key Trends
+1. **Vertical integration**: Companies building full-stack solutions
+2. **Export readiness**: Models being prepared for global markets
+3. **Developer ecosystem**: Strong open-source community engagement
+4. **Regulatory compliance**: Proactive alignment with AI governance frameworks
 
-Combined active users across tracked platforms: **500M+**
+## Methodology
 
-| Company | Monthly Active Users | Primary Market |
-|---------|---------------------|----------------|
-| Doubao | 100M+ | China |
-| Kimi | 20M+ | China/Global |
-| DeepSeek | 15M+ | Global |
-| Ernie | 80M+ | China |
+Our index uses a weighted scoring system:
+- **Technical capability** (30%): Benchmark performance, innovation metrics
+- **Market traction** (25%): Users, revenue, partnerships
+- **Capital efficiency** (20%): Burn rate, runway, unit economics
+- **Strategic position** (15%): Ecosystem role, defensibility
+- **Team quality** (10%): Leadership, technical depth, execution history
 
-## Competitive Positioning
+## Risk Factors
 
-Chinese AI companies have distinct advantages:
-
-1. **Cost Efficiency**: DeepSeek's $5.6M vs GPT-4's $100M+ training cost
-2. **Regulatory Access**: Clear domestic regulatory pathway
-3. **Distribution**: Integration with WeChat, Douyin ecosystems
-4. **Talent Pool**: Strong engineering culture, competitive salaries
-
-## Risks and Challenges
-
-- **Chip Access**: US export controls limiting advanced GPU access
-- **Global Expansion**: Regulatory and trust barriers outside China
-- **Monetization**: Finding sustainable business models
-- **Talent Retention**: Competition from US labs for top researchers
-
-## Investment Framework
-
-For investors evaluating Chinese AI opportunities:
-
-### Bull Case Indicators
-- Proven ability to train competitive models at lower cost
-- Massive domestic market with less competition from US players
-- Strong government support for AI development
-- Rapid application-layer innovation
+### Bull Case Drivers
+- Domestic market size: 1.4B population, massive data advantage
+- Government support: National AI strategy with clear priorities
+- Engineering talent: Deep pool of ML researchers and engineers
+- Manufacturing integration: AI + hardware synergy
 
 ### Bear Case Indicators
 - Chip scarcity affecting scaling capabilities
@@ -92,4 +82,12 @@ For investors evaluating Chinese AI opportunities:
 ## Conclusion
 
 The Chinese AI ecosystem has demonstrated it can compete at the highest level. The question is no longer if Chinese AI matters, but how quickly it will reshape global technology markets.
-    
+
+---
+
+---
+
+**Related Articles:**
+- [China's AI Model Wars: How Alibaba, ByteDance, and MiniMax Are Reshaping Global AI Competition in April 2026](/blog/china-ai-model-wars-april-2026)
+- [Stanford AI Index 2026: China's 'Parallel Run' Era Has Arrived](/blog/stanford-ai-index-2026-china-rise)
+- [chinese-ai-landscape](/blog/chinese-ai-landscape)

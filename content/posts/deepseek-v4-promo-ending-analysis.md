@@ -313,17 +313,4 @@ For developers, the playbook is clear: **maximize the promo window for high-valu
 
 ---
 
-**Related Articles:**
-- [DeepSeek V4 Pricing Strategy: How $0.14/1M Tokens Is Reshaping the Economics of Frontier AI](/blog/deepseek-v4-pricing-strategy-analysis)
-- [China's AI Revolution: How 140 Trillion Tokens, DeepSeek V4 on Huawei Chips, and a $700B Arms Race Are Reshaping Global Technology](/blog/china-ai-revolution-may-2026-tokens-deepseek-huawei)
-- [Kimi K2.6: How a $18B Chinese Startup Is Rewriting the Rules of Open-Source AI Coding](/blog/kimi-k2-6-open-source-coding-revolution)
-- [China's AI Global Surge: How Chinese Models Captured 61% of Global API Traffic and Built a $180 Billion Empire](/blog/china-ai-global-surge-api-traffic-empire-2026)
-
-
 *Disclaimer: Pricing figures are based on official DeepSeek API documentation as of May 2026. Promotional rates are subject to change. Always verify current pricing before making budget commitments.*
-
-**Related Articles:**
-- [China's AI Revolution: 140T Tokens, DeepSeek V4 on Huawei, and the 00B Arms Race](/blog/china-ai-revolution-may-2026-tokens-deepseek-huawei)
-- [Kimi K2.6 Open Source: The Coding Revolution That Just Went Free](/blog/kimi-k2-6-open-source-coding-revolution)
-- [DeepSeek V4 Pricing Strategy: How China Built the Cheapest Frontier AI](/blog/deepseek-v4-pricing-strategy-analysis)
-- [China AI Global Surge: API Traffic, Open Weights, and the Empire Expands](/blog/china-ai-global-surge-api-traffic-empire-2026)

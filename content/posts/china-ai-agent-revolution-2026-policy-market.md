@@ -306,11 +306,4 @@ China's agent revolution isn't coming. It's already here. The rest of the world 
 
 ---
 
-**Related Articles:**
-- [China's AI Global Surge: How Chinese Models Captured 61% of Global API Traffic and Built a $180 Billion Empire](/blog/china-ai-global-surge-api-traffic-empire-2026)
-- [DeepSeek V4 Unleashed: How China's Open-Source AI Champion Is Winning the Agent Era with Million-Token Superpowers](/blog/deepseek-v4-agent-era-million-tokens-2026)
-- [China's AI April Revolution: Humanoid Robots Race, Multimodal Models Explode, and 2 Billion AI Videos Reshape Global Content](/blog/china-ai-april-revolution-2026)
-- [China's AI Deepfake Fraud Crisis: How 700,000 Annual Scams and a $40 Billion Global Threat Are Reshaping Trust in the Digital Age](/blog/china-ai-deepfake-fraud-crisis-2026)
-
-
 *Disclaimer: This analysis is based on publicly available information as of May 1, 2026, including the CAICT AI Agent White Paper (April 2026), Politburo meeting reports, and industry disclosures. Market projections are estimates and subject to change.*
