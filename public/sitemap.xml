@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Generated: 2026-05-05T04:05:38.308Z -->
-  <!-- Total Posts: 31 -->
+  <!-- Generated: 2026-05-05T04:20:21.838Z -->
+  <!-- Total Posts: 38 -->
 
   <!-- Homepage -->
   <url>
@@ -213,6 +213,36 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/doubao-bytedance/</loc>
+    <lastmod>2026-04-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/tongyi-qianwen-alibaba/</loc>
+    <lastmod>2026-04-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/wenxin-yiyan-baidu/</loc>
+    <lastmod>2026-04-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/minimax-talkie/</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/kimi-2m-context/</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
   <!-- AI Applications -->
   <url>
@@ -230,6 +260,22 @@
   <url>
     <loc>https://www.ainchina.com/blog/china-ai-digital-human-revolution/</loc>
     <lastmod>2026-04-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- AI Video -->
+  <url>
+    <loc>https://www.ainchina.com/blog/ai-video-tools-china/</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Market Intelligence -->
+  <url>
+    <loc>https://www.ainchina.com/blog/chinese-ai-landscape/</loc>
+    <lastmod>2026-03-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>

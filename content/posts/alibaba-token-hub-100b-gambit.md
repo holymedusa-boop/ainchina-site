@@ -1,5 +1,5 @@
 ---
-title: "Key Metrics:"
+title: "Alibaba's $100B Token Gambit: Inside the Alibaba Token Hub Revolution Reshaping China's AI Economy"
 slug: "alibaba-token-hub-100b-gambit"
 date: "2026-04-16"
 category: "AI Trends"

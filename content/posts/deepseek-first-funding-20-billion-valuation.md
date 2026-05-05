@@ -1,5 +1,5 @@
 ---
-title: "DeepSeek Hits $20 Billion Valuation: The Inside Story of Its First External Funding Round"
+title: "DeepSeek Breaks Its Vow: Inside the $3 Billion Funding Round That Shook China's AI World"
 slug: "deepseek-first-funding-20-billion-valuation"
 date: "2026-04-20"
 category: "AI Infrastructure"

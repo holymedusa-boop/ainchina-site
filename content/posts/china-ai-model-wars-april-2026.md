@@ -1,5 +1,5 @@
 ---
-title: "China's AI Model Wars: How Alibaba, ByteDance, and MiniMax Are Reshaping Global AI Competition in April 2026"
+title: "China's AI Model Wars: How Alibaba, ByteDance, and MiniMax Are Reshaping Global AI Competition in April 2026"s AI Model Wars: How Alibaba, ByteDance, and MiniMax Are Reshaping Global AI Competition in April 2026"
 slug: "china-ai-model-wars-april-2026"
 date: "2026-04-11"
 category: "AI Trends"

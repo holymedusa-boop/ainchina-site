@@ -1,5 +1,5 @@
 ---
-title: "DeepSeek V4: The Million-Token API Update That Signals China"
+title: "DeepSeek V4: The Million-Token API Update That Signals China's AI Sovereignty Shift"
 slug: "deepseek-v4-million-token-china-ai-sovereignty"
 date: "April 23, 2026"
 category: "AI Infrastructure"

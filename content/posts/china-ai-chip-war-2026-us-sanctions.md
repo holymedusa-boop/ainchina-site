@@ -1,5 +1,5 @@
 ---
-title: "The Great Silicon Wall: How China"
+title: "The Great Silicon Wall: How China's AI Industry Is Defying U.S. Chip Sanctions in 2026"
 slug: "china-ai-chip-war-2026-us-sanctions"
 date: "2026-04-12"
 category: "AI Infrastructure"

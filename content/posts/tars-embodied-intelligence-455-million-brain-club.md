@@ -1,5 +1,5 @@
 ---
-title: "Tars Raises $455M: How China"
+title: "Tars Raises $455M: How China's 'Robot Brain' Startup Cracked the Embodied Intelligence Code"
 slug: "tars-embodied-intelligence-455-million-brain-club"
 date: "2026-04-01"
 category: "AI Robotics"

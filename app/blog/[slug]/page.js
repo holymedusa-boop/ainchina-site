@@ -359,6 +359,7 @@ function readPosts() {
   return posts
 }
 
+// Initialize posts by reading markdown files
 const posts = readPosts()
 
 export async function generateMetadata({ params }) {
@@ -366,33 +367,38 @@ export async function generateMetadata({ params }) {
   const post = posts[slug]
   const meta = postMetadata[slug]
   
-  if (!post || !meta) {
+  if (!post) {
     return {
       title: 'Article Not Found | AI in China',
     }
   }
   
+  // Use postMetadata if available, otherwise generate defaults from post data
+  const title = meta?.metaTitle || post.title
+  const description = meta?.metaDescription || post.title
+  const keywords = meta?.keywords || 'China AI, artificial intelligence'
+  
   return {
-    title: meta.metaTitle,
-    description: meta.metaDescription,
-    keywords: meta.keywords,
+    title: title,
+    description: description,
+    keywords: keywords,
     authors: [{ name: 'AI in China' }],
     openGraph: {
-      title: meta.metaTitle,
-      description: meta.metaDescription,
+      title: title,
+      description: description,
       type: 'article',
       url: `https://www.ainchina.com/blog/${slug}/`,
       images: [{
         url: post.heroImage,
         width: 1200,
         height: 600,
-        alt: meta.metaTitle,
+        alt: title,
       }],
     },
     twitter: {
       card: 'summary_large_image',
-      title: meta.metaTitle,
-      description: meta.metaDescription,
+      title: title,
+      description: description,
       images: [post.heroImage],
     },
     alternates: {

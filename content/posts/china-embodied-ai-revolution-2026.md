@@ -1,5 +1,5 @@
 ---
-title: "Supply Chain Dominance"
+title: "China's Embodied AI Revolution: How $30 Billion in Q1 Funding Is Reshaping Global Robotics"
 slug: "china-embodied-ai-revolution-2026"
 date: "2026-04-06"
 category: "AI Trends"

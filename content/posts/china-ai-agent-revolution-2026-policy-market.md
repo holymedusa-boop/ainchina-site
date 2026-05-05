@@ -1,5 +1,5 @@
 ---
-title: "China Ai Agent Revolution  Policy Market"
+title: "China's AI Agent Revolution: How 'AI+ Action' Policy and a ¥449 Billion Market Are Turning Chatbots Into Workers"
 slug: "china-ai-agent-revolution-2026-policy-market"
 date: "May 1, 2026"
 category: "AI Trends"

@@ -1,5 +1,5 @@
 ---
-title: "The Great AI Compute Crunch: How China"
+title: "The Great AI Compute Crunch: How China's AI Boom Is Running Out of Tokens"
 slug: "ai-compute-crunch-china-token-crisis-2026"
 date: "2026-04-29"
 category: "AI Infrastructure"

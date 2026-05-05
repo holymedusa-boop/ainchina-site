@@ -1,5 +1,5 @@
 ---
-title: "Stanford AI Index 2026: China"
+title: "Stanford AI Index 2026: China's 'Parallel Run' Era Has Arrived"
 slug: "stanford-ai-index-2026-china-rise"
 date: "2026-04-17"
 category: "AI Trends"

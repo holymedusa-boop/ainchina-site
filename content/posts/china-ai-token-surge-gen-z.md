@@ -1,5 +1,5 @@
 ---
-title: "Zhihu (知乎)"
+title: "China's AI Overtake: 31% Surge in Token Usage Signals Global Power Shift"
 slug: "china-ai-token-surge-gen-z"
 date: "2026-04-07"
 category: "AI Trends"

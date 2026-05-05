@@ -1,5 +1,5 @@
 ---
-title: "The Week That Changed Everything: China"
+title: "The Week That Changed Everything: China's AI Model War Intensifies in April 2026"
 slug: "china-ai-model-war-april-2026-week-changed-everything"
 date: "2026-04-13"
 category: "AI Trends"

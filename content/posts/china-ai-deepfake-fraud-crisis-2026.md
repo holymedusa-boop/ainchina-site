@@ -1,5 +1,5 @@
 ---
-title: "China's AI Deepfake Fraud Crisis: How 700,000 Annual Scams and a $40 Billion Global Threat Are Reshaping Trust in the Digital Age"
+title: "China's AI Deepfake Fraud Crisis: How 700,000 Annual Scams and a $40 Billion Global Threat Are Reshaping Trust in the Digital Age"s AI Deepfake Fraud Crisis: How 700,000 Annual Scams and a $40 Billion Global Threat Are Reshaping Trust in the Digital Age"
 slug: "china-ai-deepfake-fraud-crisis-2026"
 date: "2026-05-03"
 category: "AI Safety"

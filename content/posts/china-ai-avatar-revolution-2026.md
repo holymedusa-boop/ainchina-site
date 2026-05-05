@@ -1,5 +1,5 @@
 ---
-title: "China's AI Avatar Revolution: How 410 Million Views Signal a Global Content Creation Shift"
+title: "China's AI Avatar Revolution: How 410 Million Views Signal a Global Content Creation Shift"s AI Avatar Revolution: How 410 Million Views Signal a Global Content Creation Shift"
 slug: "china-ai-avatar-revolution-2026"
 date: "2026-04-18"
 category: "AI Industry"

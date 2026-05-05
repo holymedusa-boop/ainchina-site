@@ -1,5 +1,5 @@
 ---
-title: "ModelBest Becomes Unicorn: How Tsinghua"
+title: "ModelBest Becomes Unicorn: How Tsinghua's Edge AI Pioneer Is Reshaping On-Device Intelligence"
 slug: "modelbest-edge-ai-unicorn-2026"
 date: "2026-04-10"
 category: "AI Trends"
