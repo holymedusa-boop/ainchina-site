@@ -6,7 +6,8 @@ date: "2026-04-05"
 author: "AI in China"
 reading_time: "16 min read"
 cover_image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&q=80"
-slug: "china-ai-digital-human-revolution"
+slug: "china-ai-digital-human-revolution"category: "AI Applications"
+readTime: "16 min read"
 ---
 
 <div className="my-8">

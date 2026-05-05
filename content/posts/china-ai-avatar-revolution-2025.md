@@ -23,7 +23,7 @@ schema: {
     "@type": "Organization",
     "name": "AI in China"
   }
-}
+}readTime: "16 min read"
 ---
 
 # China's AI Avatar Revolution: How 410 Million Views Transformed Content Creation Forever

@@ -5,7 +5,7 @@ date: "2026-04-13"
 category: "AI Trends"
 excerpt: "In one week, Alibaba launched 3 models, Zhipu raised prices 83%, ByteDance deployed full-duplex voice AI, and China hit 140 trillion daily tokens. Why April 2026 marks the end of the AI price war and the beginning of a new phase."
 author: "AIN China Research Team"
-readingTime: 17
+readingTime: 17readTime: "17 min read"
 ---
 
 import BlogPostLayout from '@/components/blog/BlogPostLayout';

@@ -1,3 +1,11 @@
+---
+title: "ByteDance's AI Brain Drain: 70 Top Engineers Exit Seed Team in 12 Months"
+slug: "bytedance-seed-brain-drain-70-engineers"
+date: "2026-04-28"
+category: "AI Trends"
+readTime: "15 min read"
+---
+
 Bytedance's AI Brain Drain: 70 Top Engineers Exit Seed Team in 12 Months
 
 ---

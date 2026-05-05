@@ -5,7 +5,7 @@ date: "2026-04-10"
 author: "AI in China Research Team"
 readTime: "17 min"
 image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=600&fit=crop"
-keywords: ["ModelBest", "MiniCPM", "edge AI", "on-device AI", "Tsinghua AI", "unicorn", "density law", "端侧AI", "面壁智能"]
+keywords: ["ModelBest", "MiniCPM", "edge AI", "on-device AI", "Tsinghua AI", "unicorn", "density law", "端侧AI", "面壁智能"]category: "AI Trends"
 ---
 
 ![ModelBest Edge AI Revolution](https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=600&fit=crop)

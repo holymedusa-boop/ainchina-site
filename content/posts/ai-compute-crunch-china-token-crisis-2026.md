@@ -1,7 +1,7 @@
 ---
 title: "The Great AI Compute Crunch: How China's AI Boom Is Running Out of Tokens"
 date: "2026-04-29"
-readTime: "17 min read"
+readTime: "17 min read"category: "AI Infrastructure"
 ---
 
 China's AI revolution is facing an unexpected bottleneck. In April 2026, as DeepSeek launched its highly anticipated V4 model and Kimi pushed out K2.6, the nation's hottest AI companies discovered a harsh reality: they had run out of tokens. Not metaphorically—literally. Cloud providers are rationing compute, API calls are failing, and prices are surging by over 400%. This isn't a supply chain hiccup. It's the first AI inflation crisis.

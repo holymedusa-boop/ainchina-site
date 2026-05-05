@@ -23,7 +23,7 @@ schema: {
     "@type": "Organization",
     "name": "AI in China"
   }
-}
+}readTime: "17 min read"
 ---
 
 # The Great Silicon Wall: How China's AI Industry Is Defying U.S. Chip Sanctions in 2026

@@ -6,7 +6,8 @@ excerpt: "Chinese AI models went from under 2% global market share to 61% in jus
 author: "AIN China Research"
 readingTime: "17 minutes"
 coverImage: "https://images.unsplash.com/photo-1639322537228-f710d846310a?w=1200&q=80"
-keywords: ["China AI", "Chinese AI models", "AI globalization", "OpenRouter", "MiniMax", "DeepSeek", "Kimi", "AI API traffic", "China AI export", "AI model pricing", "ByteDance Dola", "AI agent economy"]
+keywords: ["China AI", "Chinese AI models", "AI globalization", "OpenRouter", "MiniMax", "DeepSeek", "Kimi", "AI API traffic", "China AI export", "AI model pricing", "ByteDance Dola", "AI agent economy"]category: "AI Trends"
+readTime: "17 min read"
 ---
 
 *![Futuristic digital network connecting global cities with glowing data streams](https://images.unsplash.com/photo-1639322537228-f710d846310a?w=1200&q=80)*

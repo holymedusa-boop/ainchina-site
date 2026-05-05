@@ -5,7 +5,7 @@ date: "2026-04-16"
 author: "AI in China Research Team"
 readTime: "17 min"
 image: "https://images.unsplash.com/photo-1639322537228-f710d846310a?w=1200&h=600&fit=crop"
-keywords: ["Alibaba Token Hub", "ATH", "Wu Yongming", "Token economy", "Qwen", "Alibaba AI strategy", "中国AI", "Token Hub"]
+keywords: ["Alibaba Token Hub", "ATH", "Wu Yongming", "Token economy", "Qwen", "Alibaba AI strategy", "中国AI", "Token Hub"]category: "AI Trends"
 ---
 
 ![Alibaba Token Hub Revolution](https://images.unsplash.com/photo-1639322537228-f710d846310a?w=1200&h=600&fit=crop)

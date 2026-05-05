@@ -23,7 +23,7 @@ schema: {
     "@type": "Organization",
     "name": "AI in China"
   }
-}
+}readTime: "18 min read"
 ---
 
 # China's AI Model Wars: How Alibaba, ByteDance, and MiniMax Are Reshaping Global AI Competition in April 2026

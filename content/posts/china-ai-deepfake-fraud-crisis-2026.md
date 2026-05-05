@@ -1,5 +1,8 @@
 ---
-{"title":"China's AI Deepfake Fraud Crisis: How 700,000 Annual Scams and a $40 Billion Global Threat Are Reshaping Trust in the Digital Age","slug":"china-ai-deepfake-fraud-crisis-2026","date":"2026-05-03","excerpt":"As China leads the world in AI digital human technology with 410 million social media engagements, a darker trend emerges: AI-powered deepfake fraud has exploded 3,000% since 2023. With 700,000 annual telecom fraud cases, ¥200 billion in losses, and a single MCN fined ¥1.5 million for AI face-swap violations, China's experience offers critical lessons for global AI governance.","readTime":"16 min read","category":"AI Safety","heroImage":"https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&h=600&fit=crop","author":"AI News China"}
+title: "China's AI Deepfake Fraud Crisis: How 700,000 Annual Scams and a $40 Billion Global Threat Are Reshaping Trust in the Digital Age"
+{"title":"China's AI Deepfake Fraud Crisis: How 700,000 Annual Scams and a $40 Billion Global Threat Are Reshaping Trust in the Digital Age","slug":"china-ai-deepfake-fraud-crisis-2026","date":"2026-05-03","excerpt":"As China leads the world in AI digital human technology with 410 million social media engagements, a darker trend emerges: AI-powered deepfake fraud has exploded 3,000% since 2023. With 700,000 annual telecom fraud cases, ¥200 billion in losses, and a single MCN fined ¥1.5 million for AI face-swap violations, China's experience offers critical lessons for global AI governance.","readTime":"16 min read","category":"AI Safety","heroImage":"https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&h=600&fit=crop","author":"AI News China"}date: "2026-05-03"
+category: "AI Safety"
+readTime: "16 min read"
 ---
 
 # China's AI Deepfake Fraud Crisis: How 700,000 Annual Scams and a $40 Billion Global Threat Are Reshaping Trust in the Digital Age

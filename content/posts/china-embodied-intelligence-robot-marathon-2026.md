@@ -1,3 +1,11 @@
+---
+title: "China's Embodied Intelligence Revolution: When Robots Outrun Humans — April 2026"
+slug: "china-embodied-intelligence-robot-marathon-2026"
+date: "2026-04-21"
+category: "AI Trends"
+readTime: "18 min read"
+---
+
 # China's Embodied Intelligence Revolution: When Robots Outrun Humans
 
 **Meta Title**: China's Embodied Intelligence Revolution: When Robots Outrun Humans — April 2026

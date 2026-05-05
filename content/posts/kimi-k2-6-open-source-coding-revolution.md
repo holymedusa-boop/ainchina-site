@@ -1,5 +1,9 @@
 ---
-{"title":"Kimi K2.6: How a $18B Chinese Startup Is Rewriting the Rules of Open-Source AI Coding","metaTitle":"Kimi K2.6: China's Open-Source AI Ties GPT-5.5 on Coding at 80% Less Cost","metaDescription":"Moonshot AI's Kimi K2.6 matches GPT-5.5 on coding benchmarks with 300-agent swarms, open weights, and 80% lower pricing. A deep dive into China's most ambitious AI model.","keywords":"Kimi K2.6, Moonshot AI, open source AI, coding benchmark, agent swarm, Chinese AI, GPT-5.5, Claude Opus, LLM pricing, AI infrastructure","excerpt":"Moonshot AI's Kimi K2.6 matches GPT-5.5 on SWE-Bench Pro with 300-agent swarm architecture, open weights, and pricing 80% below Western flagships. Here's why this matters for the global AI race.","date":"2026-05-02","slug":"kimi-k2-6-open-source-coding-revolution","readTime":"16 min read","category":"AI Infrastructure","heroImage":"https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=600&fit=crop","author":"AI News China"}
+title: "Kimi K2.6: How a $18B Chinese Startup Is Rewriting the Rules of Open-Source AI Coding"
+slug: "kimi-k2-6-open-source-coding-revolution"
+date: "2026-05-02"
+category: "AI Infrastructure"
+readTime: "16 min read"
 ---
 
 # Kimi K2.6: How a $18B Chinese Startup Is Rewriting the Rules of Open-Source AI Coding

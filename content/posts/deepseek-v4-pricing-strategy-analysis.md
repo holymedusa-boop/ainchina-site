@@ -6,7 +6,8 @@ excerpt: "DeepSeek V4's radical pricing — Flash at $0.14/1M input tokens, Pro 
 author: "AIN China Research"
 readingTime: "16 minutes"
 coverImage: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80"
-keywords: ["DeepSeek V4", "AI API pricing", "LLM pricing 2026", "DeepSeek pricing strategy", "AI cost comparison", "MoE architecture", "open source AI", "Chinese AI pricing"]
+keywords: ["DeepSeek V4", "AI API pricing", "LLM pricing 2026", "DeepSeek pricing strategy", "AI cost comparison", "MoE architecture", "open source AI", "Chinese AI pricing"]category: "AI Infrastructure"
+readTime: "16 min read"
 ---
 
 *![Abstract visualization of falling price curves in digital space](https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80)*

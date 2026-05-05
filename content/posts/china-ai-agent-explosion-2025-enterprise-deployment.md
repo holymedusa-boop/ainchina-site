@@ -3,7 +3,8 @@ title: "China's AI Agent Explosion: How 126 Platforms and $1B+ in Enterprise Dea
 excerpt: "With 371 government-contracted projects in H1 2025 alone, China's AI Agent market is hitting an inflection point. From JD.com's 7,000+ deployed agents to Alibaba serving 100,000+ factories, we dive deep into the $5B+ ecosystem that's putting China at the forefront of enterprise AI automation."
 date: "2026-04-15"
 author: "AIN China Research Team"
-readingTime: 16
+readingTime: 16category: "AI Trends"
+readTime: "16 min read"
 ---
 
 <div className="my-8">
