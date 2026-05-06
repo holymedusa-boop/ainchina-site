@@ -8,10 +8,6 @@ heroImage: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&
 keywords: "embodied intelligence, humanoid robot, China AI, robotics industry, Unitree, UBTECH, embodied AI, VLA model, manufacturing automation"
 ---
 
-![China's humanoid robot industry is scaling from lab prototypes to factory floors at unprecedented speed](https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&q=80)
-
-*China's humanoid robot industry is scaling from lab prototypes to factory floors at unprecedented speed. Image: Unsplash*
-
 ## Executive Summary: The Numbers Behind the Movement
 
 In March 2025, Chinese Premier Li Qiang stood before the National People's Congress and uttered two words that would redirect billions in capital overnight: **"embodied intelligence"** (具身智能). For the first time, the concept—previously confined to academic papers and NVIDIA keynotes—was elevated to a national strategic priority. Twelve months later, the results are staggering.
