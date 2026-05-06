@@ -4,6 +4,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'kimi-20-billion-valuation-china-ai-token-economy': {
+    metaTitle: "Kimi's $20 Billion Bet: China's AI Token Economy Rewrites Global Power",
+    metaDescription: "Kimi closes $2B funding at $20B valuation while China's AI models consume 7.94 trillion tokens weekly, 2.4x America's output. Inside the shift that's moving AI's center of gravity east.",
+    keywords: 'Kimi, Moonshot AI, China AI, token economy, OpenRouter, AI funding, AI valuation, Chinese AI models, AI consumption, API traffic, Kimi K2.6, DeepSeek, MiniMax, AI industry analysis',
+  },
   'china-embodied-intelligence-revolution-2026': {
     metaTitle: "China's Embodied Intelligence Revolution: 230+ Companies, $110B Market Reshaping Robotics",
     metaDescription: "China's embodied intelligence industry surges from 1,800 humanoid robots in 2025 to 100,000+ projected for 2026. With 230+ companies, $195B in annual funding, and supply chain costs at 50% of Western equivalents, China is building the physical AI revolution.",
