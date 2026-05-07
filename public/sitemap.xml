@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Generated: 2026-05-07T03:30:24.212Z -->
-  <!-- Total Posts: 46 -->
+  <!-- Generated: 2026-05-07T23:58:21.030Z -->
+  <!-- Total Posts: 47 -->
 
   <!-- Homepage -->
   <url>
@@ -34,6 +34,14 @@
     <lastmod>2026-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
+  </url>
+
+  <!-- AI Business -->
+  <url>
+    <loc>https://www.ainchina.com/blog/doubao-charging-ai-free-era-ends-china-2026/</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
   </url>
 
   <!-- AI Industry -->
