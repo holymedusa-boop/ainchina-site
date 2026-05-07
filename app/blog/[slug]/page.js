@@ -60,14 +60,14 @@ const postMetadata = {
     keywords: 'DeepSeek V4, AI API pricing, LLM pricing 2026, DeepSeek pricing strategy, AI cost comparison, MoE architecture, open source AI, Chinese AI pricing',
   },
   'china-ai-global-surge-api-traffic-empire-2026': {
-    metaTitle: "China's AI Global Surge: How Chinese Models Captured 61% of Global API Traffic and Built a $180 Billion Empire",
-    metaDescription: "Chinese AI models went from under 2% global market share to 61% in just one year. With OpenRouter data showing Chinese models overtaking American API traffic by 4x, MiniMax hitting $1.5B ARR, and Kimi's overseas revenue surpassing domestic — China's AI industry has executed the fastest global technology export in modern history.",
-    keywords: 'China AI, Chinese AI models, AI globalization, OpenRouter, MiniMax, DeepSeek, Kimi, AI API traffic, China AI export, AI model pricing, ByteDance Dola, AI agent economy',
+    metaTitle: "From Made in China to Trained in China: How Chinese AI Conquered Global Developers",
+    metaDescription: "Chinese AI models achieved global dominance in 18 months — what took smartphones a decade. Analysis of frictionless exports, open-source flywheels, and pricing weapons that Silicon Valley cannot match.",
+    keywords: 'China AI export, open-source AI, AI globalization, Chinese models, DeepSeek, Kimi, MiniMax, AI pricing, technology export, AI infrastructure',
   },
   'china-ai-agent-revolution-2026-policy-market': {
-    metaTitle: "China's AI Agent Revolution: How 'AI+ Action' Policy and a ¥449 Billion Market Are Turning Chatbots Into Workers",
-    metaDescription: "The Politburo's 'AI+ Action' directive, CAICT's ¥449B market forecast, and DeepSeek V4's agent architecture converge to mark China's inflection point from chatbots to autonomous AI workers.",
-    keywords: 'China AI Agent, AI+ Action, DeepSeek V4, CAICT white paper, policy, Huawei Ascend, JD.com, Alibaba, ByteDance Coze, enterprise AI, automation, government procurement',
+    metaTitle: "Inside China's AI Policy Machine: How the Politburo's 'AI+ Action' Directive Is Rewriting Procurement Law",
+    metaDescription: "The April 28, 2026 Politburo directive transformed AI from an experimental tool into a mandatory budget line item. Analysis of the policy mechanics: how central directives become local contracts, and why China's governance architecture enables deployment at a scale Western democracies cannot match.",
+    keywords: 'China AI policy, Politburo directive, AI procurement, CAICT white paper, government AI, AI regulation, China governance, AI budget, state-owned enterprise, AI deployment',
   },
   'kimi-k2-6-open-source-coding-revolution': {
     metaTitle: "Kimi K2.6: How a $18B Chinese Startup Is Rewriting the Rules of Open-Source AI Coding",
