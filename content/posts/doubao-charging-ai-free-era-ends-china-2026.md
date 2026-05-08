@@ -245,25 +245,3 @@ Either way, the era of the free AI lunch is over. What comes next is the era whe
 ---
 
 *Disclaimer: This analysis is based on publicly disclosed data, media reports, and analyst estimates as of May 8, 2026. Pricing details for Doubao's paid tiers are subject to change as the service remains in testing. Revenue projections are speculative and depend on actual user conversion rates. This article does not constitute investment advice.*
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "TechArticle",
-  "headline": "Doubao Starts Charging: How China's Biggest AI App Ended the Free Era",
-  "description": "ByteDance's Doubao launched paid subscriptions for 345M users. Analysis of token economics, pricing strategy, and China's AI monetization shift.",
-  "author": {
-    "@type": "Organization",
-    "name": "AIN China"
-  },
-  "datePublished": "2026-05-08",
-  "publisher": {
-    "@type": "Organization",
-    "name": "AIN China",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://www.ainchina.com/logo.png"
-    }
-  }
-}
-</script>
