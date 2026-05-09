@@ -262,6 +262,22 @@ export default function Home() {
         borderTop: '1px solid #1a1a1a',
         textAlign: 'center'
       }}>
+        <div style={{ 
+          maxWidth: '800px',
+          margin: '0 auto',
+          display: 'flex',
+          justifyContent: 'center',
+          gap: '24px',
+          flexWrap: 'wrap',
+          marginBottom: '24px'
+        }}>
+          <a href="/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>Home</a>
+          <a href="/blog/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>Blog</a>
+          <a href="/about/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>About</a>
+          <a href="/contact/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>Contact</a>
+          <a href="/privacy-policy/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>Privacy</a>
+          <a href="/terms/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>Terms</a>
+        </div>
         <p style={{ color: '#737373', fontSize: '14px' }}>© 2026 AI in China. All rights reserved.</p>
       </footer>
     </div>

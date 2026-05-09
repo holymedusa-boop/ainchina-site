@@ -124,11 +124,6 @@ const postMetadata = {
     metaDescription: "Shanghai Jiao Tong University launches 'AI Ten Initiatives,' China establishes first humanoid robot national standards, and domestic AI models achieve parity with DeepSeek-R1.",
     keywords: 'China AI, education reform, humanoid robot, national standards, SJTU, AI infrastructure, April 2026',
   },
-  'china-ai-april-revolution-2026': {
-    metaTitle: "China's AI April Revolution: Humanoid Robots Race, Multimodal Models Explode, and 2 Billion AI Videos Reshape Global Content",
-    metaDescription: "April 2025 marks a watershed moment for China's AI industry. From the world's first humanoid robot half-marathon to DeepSeek's rumored V4 launch and ByteDance's Doubao 2.0 release.",
-    keywords: 'China AI revolution, humanoid robot, multimodal models, AI video, Doubao, DeepSeek V4',
-  },
   'china-ai-avatar-revolution-2025': {
     metaTitle: "China's AI Avatar Revolution: How 410 Million Views Tra...",
     metaDescription: "China's AI avatar market exploded to 410 million views in one week (+200% growth). From Xiaohongshu creators to IPO-bound giants like Guiji AI, discover...",
@@ -168,16 +163,6 @@ const postMetadata = {
     metaTitle: "China's AI Overtake: 31% Surge in Token Usage Signals Global Power Shift",
     metaDescription: "Chinese AI models processed 12.96 trillion tokens in one week—a 31.48% surge. For the fifth consecutive week, China's token consumption has exceeded the United States.",
     keywords: 'China AI, token usage, Gen Z, power shift, AI adoption, China overtakes US',
-  },
-  'china-embodied-ai-revolution-2026': {
-    metaTitle: "China's Embodied AI Revolution: How $30 Billion in Q1 F...",
-    metaDescription: "China's embodied intelligence sector raised $30 billion in Q1 2026 alone, creating 9 unicorn companies valued at $10B+. From Zhi Robotics' Tesla-like ap...",
-    keywords: 'china, embodied, revolution, billion, funding, reshaping, global, robotics, China AI, AI trends',
-  },
-  'deepseek-v4-agent-era-million-tokens-2026': {
-    metaTitle: "DeepSeek V4 Unleashed: How China's Open-Source AI Champion Is Winning the Agent Era with Million-Token Superpowers",
-    metaDescription: "DeepSeek V4 preview launches April 24, 2026 with dual-version strategy, 1M token context windows, and Agent capabilities. At 1/645th the cost of GPT-5.5 Pro.",
-    keywords: 'DeepSeek V4, Agent era, open source AI, million token, GPT-5.5 Pro, China AI',
   },
   'doubao-12-trillion-token-explosion': {
     metaTitle: "Doubao's 12 Trillion Token Explosion: How ByteDance Is ...",
@@ -854,6 +839,53 @@ export default function BlogPost({ params }) {
           <div>
             {parseContent(post.content)}
           </div>
+
+          {/* Author Attribution - E-E-A-T Signal for AdSense */}
+          <div style={{ 
+            marginTop: '48px',
+            padding: '24px',
+            backgroundColor: '#111',
+            border: '1px solid #1a1a1a',
+            borderRadius: '12px',
+            display: 'flex',
+            alignItems: 'center',
+            gap: '16px'
+          }}
+          >
+            <div style={{ 
+              width: '48px', 
+              height: '48px', 
+              borderRadius: '50%', 
+              backgroundColor: '#1a1a1a',
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'center',
+              fontSize: '20px'
+            }}
+            >
+              🤖
+            </div>
+            <div>
+              <p style={{ 
+                margin: '0 0 4px', 
+                fontWeight: '600', 
+                color: '#f5f5f5',
+                fontSize: '15px'
+              }}
+              >
+                AI in China Editorial Team
+              </p>
+              <p style={{ 
+                margin: '0', 
+                color: '#737373', 
+                fontSize: '13px',
+                lineHeight: 1.5
+              }}
+              >
+                Independent analysis of Chinese AI companies, products, and market intelligence. Tracking 103+ companies across China's AI ecosystem.
+              </p>
+            </div>
+          </div>
         </article>
 
         <footer style={{ 
@@ -862,6 +894,35 @@ export default function BlogPost({ params }) {
           textAlign: 'center'
         }}
         >
+          <div style={{ 
+            maxWidth: '800px',
+            margin: '0 auto',
+            display: 'flex',
+            justifyContent: 'center',
+            gap: '24px',
+            flexWrap: 'wrap',
+            marginBottom: '24px'
+          }}
+          >
+            <Link href="/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>
+              Home
+            </Link>
+            <Link href="/blog/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>
+              Blog
+            </Link>
+            <Link href="/about/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>
+              About
+            </Link>
+            <Link href="/contact/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>
+              Contact
+            </Link>
+            <Link href="/privacy-policy/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>
+              Privacy
+            </Link>
+            <Link href="/terms/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>
+              Terms
+            </Link>
+          </div>
           <p style={{ color: '#737373', fontSize: '14px' }}>
             © 2026 AI in China. All rights reserved.
           </p>

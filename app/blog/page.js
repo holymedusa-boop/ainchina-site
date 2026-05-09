@@ -97,6 +97,30 @@ export default function BlogPage() {
           ))}
         </div>
       </div>
+      {/* Footer */}
+      <footer style={{ 
+        padding: '40px 24px', 
+        borderTop: '1px solid #1a1a1a',
+        textAlign: 'center'
+      }}>
+        <div style={{ 
+          maxWidth: '800px',
+          margin: '0 auto',
+          display: 'flex',
+          justifyContent: 'center',
+          gap: '24px',
+          flexWrap: 'wrap',
+          marginBottom: '24px'
+        }}>
+          <Link href="/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>Home</Link>
+          <Link href="/blog/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>Blog</Link>
+          <Link href="/about/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>About</Link>
+          <Link href="/contact/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>Contact</Link>
+          <Link href="/privacy-policy/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>Privacy</Link>
+          <Link href="/terms/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>Terms</Link>
+        </div>
+        <p style={{ color: '#737373', fontSize: '14px' }}>© 2026 AI in China. All rights reserved.</p>
+      </footer>
     </main>
   )
 }
