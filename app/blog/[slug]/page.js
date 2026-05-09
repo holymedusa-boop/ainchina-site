@@ -409,6 +409,14 @@ export function generateStaticParams() {
 export default function BlogPost({ params }) {
   const post = posts[params.slug]
   const meta = postMetadata[params.slug]
+
+  // Find previous and next articles
+  const allSlugs = Object.keys(posts)
+  const currentIndex = allSlugs.indexOf(params.slug)
+  const prevSlug = currentIndex > 0 ? allSlugs[currentIndex - 1] : null
+  const nextSlug = currentIndex < allSlugs.length - 1 ? allSlugs[currentIndex + 1] : null
+  const prevPost = prevSlug ? posts[prevSlug] : null
+  const nextPost = nextSlug ? posts[nextSlug] : null
   
   if (!post) {
     return (
@@ -444,7 +452,7 @@ export default function BlogPost({ params }) {
       name: 'AI in China',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://www.ainchina.com/logo.png',
+        url: 'https://www.ainchina.com/logo.svg',
       },
     },
     mainEntityOfPage: {
@@ -890,6 +898,61 @@ export default function BlogPost({ params }) {
             </div>
           </div>
         </article>
+
+        {/* Previous / Next Navigation */}
+        {(prevPost || nextPost) && (
+          <div style={{
+            maxWidth: '800px',
+            margin: '0 auto',
+            padding: '0 24px',
+          }}>
+            <div style={{
+              display: 'flex',
+              gap: '16px',
+              flexWrap: 'wrap',
+              justifyContent: 'space-between',
+              borderTop: '1px solid #1a1a1a',
+              paddingTop: '32px',
+              marginBottom: '32px',
+            }}>
+              {prevPost ? (
+                <Link
+                  href={`/blog/${prevSlug}/`}
+                  style={{
+                    flex: '1 1 300px',
+                    padding: '20px',
+                    backgroundColor: '#111',
+                    border: '1px solid #1a1a1a',
+                    borderRadius: '12px',
+                    textDecoration: 'none',
+                    color: '#e5e5e5',
+                  }}
+                >
+                  <p style={{ margin: '0 0 8px', color: '#737373', fontSize: '13px' }}>← Previous</p>
+                  <p style={{ margin: 0, fontWeight: '600', fontSize: '15px', lineHeight: 1.4 }}>{prevPost.title}</p>
+                </Link>
+              ) : <div style={{ flex: '1 1 300px' }} />}
+              {nextPost ? (
+                <Link
+                  href={`/blog/${nextSlug}/`}
+                  style={{
+                    flex: '1 1 300px',
+                    padding: '20px',
+                    backgroundColor: '#111',
+                    border: '1px solid #1a1a1a',
+                    borderRadius: '12px',
+                    textDecoration: 'none',
+                    color: '#e5e5e5',
+                    textAlign: 'right',
+                  }}
+                >
+                  <p style={{ margin: '0 0 8px', color: '#737373', fontSize: '13px' }}>Next →</p>
+                  <p style={{ margin: 0, fontWeight: '600', fontSize: '15px', lineHeight: 1.4 }}>{nextPost.title}</p>
+                </Link>
+              ) : <div style={{ flex: '1 1 300px' }} />}
+            </div>
+          </div>
+        )}
 
         <footer style={{ 
           padding: '48px 24px', 
