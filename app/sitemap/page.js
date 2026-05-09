@@ -4,7 +4,7 @@ import Link from 'next/link'
 const { allPosts } = require('../../lib/posts-meta')
 
 export const metadata = {
-  title: 'Sitemap | AI in China',
+  title: 'Sitemap',
   description: 'Complete list of all articles and pages on AI in China.',
 }
 

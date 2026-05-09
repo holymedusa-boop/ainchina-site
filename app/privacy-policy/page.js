@@ -1,6 +1,6 @@
 // Privacy Policy page - AI in China
 export const metadata = {
-  title: 'Privacy Policy | AI in China',
+  title: 'Privacy Policy',
   description: 'Privacy policy for AI in China (ainchina.com) covering data collection, cookies, third-party services, and user rights.',
   robots: 'index, follow',
   alternates: {

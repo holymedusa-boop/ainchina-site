@@ -1,6 +1,6 @@
 // Contact page - AI in China
 export const metadata = {
-  title: 'Contact Us | AI in China',
+  title: 'Contact Us',
   description: 'Get in touch with AI in China. Contact us for inquiries, partnerships, feedback, or media requests.',
   robots: 'index, follow',
   alternates: {

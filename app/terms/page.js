@@ -1,6 +1,6 @@
 // Terms of Service & Disclaimer - AI in China
 export const metadata = {
-  title: 'Terms of Service | AI in China',
+  title: 'Terms of Service',
   description: 'Terms of Service, Disclaimer, and legal information for AI in China (ainchina.com).',
   robots: 'index, follow',
   alternates: {

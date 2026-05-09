@@ -364,7 +364,7 @@ export async function generateMetadata({ params }) {
   
   if (!post) {
     return {
-      title: 'Article Not Found | AI in China',
+      title: 'Article Not Found',
     }
   }
   

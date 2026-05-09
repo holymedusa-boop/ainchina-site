@@ -18,7 +18,7 @@ export const metadata = {
     type: 'website',
     images: [
       {
-        url: 'https://www.ainchina.com/og-image.jpg',
+        url: 'https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1200&auto=format&fit=crop',
         width: 1200,
         height: 630,
         alt: 'AI in China - Tracking Chinese AI Companies',
@@ -30,7 +30,7 @@ export const metadata = {
     title: 'AI in China',
     description: 'Tracking 103+ Chinese AI companies reshaping global tech',
     creator: '@ainchina',
-    images: ['https://www.ainchina.com/og-image.jpg'],
+    images: ['https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1200&auto=format&fit=crop'],
   },
   alternates: {
     canonical: 'https://www.ainchina.com/',
@@ -54,6 +54,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
+        <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
         <script
           async
           src="https://www.googletagmanager.com/gtag/js?id=G-GK21PLH8V8"
