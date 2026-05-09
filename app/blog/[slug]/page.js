@@ -377,7 +377,7 @@ export async function generateMetadata({ params }) {
     title: title,
     description: description,
     keywords: keywords,
-    authors: [{ name: 'AI in China' }],
+    authors: [{ name: 'Meeeeed', url: 'https://www.ainchina.com/about/' }],
     openGraph: {
       title: title,
       description: description,
@@ -435,9 +435,9 @@ export default function BlogPost({ params }) {
     datePublished: new Date(post.date).toISOString(),
     dateModified: new Date(post.date).toISOString(),
     author: {
-      '@type': 'Organization',
-      name: 'AI in China',
-      url: 'https://www.ainchina.com',
+      '@type': 'Person',
+      name: 'Meeeeed',
+      url: 'https://www.ainchina.com/about/',
     },
     publisher: {
       '@type': 'Organization',
@@ -856,14 +856,17 @@ export default function BlogPost({ params }) {
               width: '48px', 
               height: '48px', 
               borderRadius: '50%', 
-              backgroundColor: '#1a1a1a',
+              backgroundColor: '#22d3ee',
               display: 'flex',
               alignItems: 'center',
               justifyContent: 'center',
-              fontSize: '20px'
+              fontSize: '20px',
+              fontWeight: 700,
+              color: '#0a0a0a',
+              flexShrink: 0
             }}
             >
-              🤖
+              M
             </div>
             <div>
               <p style={{ 
@@ -873,7 +876,7 @@ export default function BlogPost({ params }) {
                 fontSize: '15px'
               }}
               >
-                AI in China Editorial Team
+                <Link href="/about/" style={{ color: '#22d3ee', textDecoration: 'none' }}>By Meeeeed</Link>
               </p>
               <p style={{ 
                 margin: '0', 
@@ -882,7 +885,7 @@ export default function BlogPost({ params }) {
                 lineHeight: 1.5
               }}
               >
-                Independent analysis of Chinese AI companies, products, and market intelligence. Tracking 103+ companies across China's AI ecosystem.
+                Editor at AI in China. Tracking Chinese AI companies, funding rounds, and the technologies reshaping global tech. <a href="/about/" style={{ color: '#a3a3a3', textDecoration: 'underline' }}>More about me</a>.
               </p>
             </div>
           </div>

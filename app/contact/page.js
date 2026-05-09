@@ -65,6 +65,9 @@ export default function ContactPage() {
             <p style={{ color: '#a3a3a3', lineHeight: 1.8, marginTop: '12px' }}>
               Founded in 2024, we track <strong style={{ color: '#f5f5f5' }}>103+ Chinese AI companies</strong>, analyze funding rounds and valuations, and publish deep-dive reports on the technologies reshaping global AI.
             </p>
+            <p style={{ color: '#a3a3a3', lineHeight: 1.8, marginTop: '12px' }}>
+              Operated from <strong style={{ color: '#f5f5f5' }}>Shanghai, China</strong>.
+            </p>
           </div>
 
           {/* Response Time */}
