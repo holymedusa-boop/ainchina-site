@@ -4,6 +4,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'deepseek-73b-megaround-china-ai-funding-frenzy': {
+    metaTitle: "DeepSeek's $7.3B Mega-Round: China's AI Funding Frenzy Hits Historic Heights",
+    metaDescription: "DeepSeek seeks $7.35B in China's largest AI funding round ever. Founder Liang Wenfeng puts in $2.9B of his own money. Moonshot AI hits $20B valuation. InfiniGence AI raises $700M+. And Redis creator antirez builds a dedicated inference engine for DeepSeek V4.",
+    keywords: 'DeepSeek, China AI funding, Liang Wenfeng, Moonshot AI, InfiniGence AI, StepFun, antirez, ds4.c, AI infrastructure, token economy, China AI investment, AI unicorn, China AI policy',
+  },
   'china-agent-era-national-policy-ai-terminal-standards-anthropic-trillion-2026': {
     metaTitle: "China's Agent Era Begins: National Policy, AI Terminal Standards, Trillion-Dollar Race",
     metaDescription: "Three Chinese ministries issued the first national AI agent policy. GB/Z 177—2026 established L1–L4 terminal intelligence grading. Anthropic nears $1T valuation. China Mobile opened a trillion-token package. The agent economy is now real.",
