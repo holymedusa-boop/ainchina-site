@@ -119,7 +119,7 @@ Each sub-agent can be configured with:
 
 Unlike models that add vision capabilities after text pre-training, K2.5 was trained as a natively multimodal model from the start.
 
-![Computer Vision](https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&h=400&fit=crop)
+![Computer Vision](https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=800&h=400&fit=crop)
 *Computer vision and multimodal AI processing*
 
 ### MoonViT-3D Vision Encoder
