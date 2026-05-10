@@ -401,37 +401,13 @@ The critical question for the next 18 months: **Which approach produces better a
 
 ## Related Articles
 
-- [China's AI "War of the Gods": DeepSeek Hits $45B, Kimi Raises $2B](/posts/china-ai-war-of-gods-deepseek-kimi-funding-open-source-dominance-2026)
-- [China's AI Infrastructure Awakens: Wuwenxinqiou's $100M Bet](/posts/china-ai-infrastructure-awakening-wuwenxinqiou-deepseek-multimodal-2026)
-- [The Great AI Compute Crunch: 8 Trillion Tokens and Counting](/posts/the-great-ai-compute-crunch-china-token-economy-2026)
-- [End of Free AI: Doubao Paywalls, Unitree Mass Production, and Regulation](/posts/end-of-free-ai-china-doubao-unitree-regulation-2026)
-- [MiniMax's Global AI Empire: How Talkie Conquered 200 Million Users](/posts/minimax-global-ai-empire-talkie-200-million-users-2026)
+Continue exploring China's AI landscape:
+
+- [China's AI "War of the Gods": DeepSeek Hits $45B, Kimi Raises $2B](/blog/china-ai-war-of-gods-deepseek-kimi-funding-open-source-dominance-2026/)
+- [China's AI Infrastructure Awakens: Wuwenxinqiou's $100M Bet](/blog/china-ai-infrastructure-awakening-wuwenxinqiou-deepseek-multimodal-2026/)
+- [The Great AI Compute Crunch: 8 Trillion Tokens and Counting](/blog/ai-compute-crunch-china-token-crisis-2026/)
+- [The End of Free AI: Doubao Paywalls, Unitree Mass Production, and Regulation](/blog/doubao-charging-ai-free-era-ends-china-2026/)
 
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "China's Agent Era Begins: National Policy Framework, AI Terminal Standards, and the Trillion-Dollar Global AI Race",
-  "description": "Three Chinese ministries issued the first national AI agent policy. AI terminal intelligence grading standards were released. Anthropic nears $1T valuation. May 2026 will be remembered as the month agents went mainstream.",
-  "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200",
-  "datePublished": "2026-05-10",
-  "author": {
-    "@type": "Organization",
-    "name": "AI in China Team"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "AI in China",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://ainchina.com/logo.png"
-    }
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://ainchina.com/posts/china-agent-era-national-policy-ai-terminal-standards-anthropic-trillion-2026"
-  }
-}
-</script>
+*This article was originally published on May 10, 2026. For corrections or updates, contact [editor@ainchina.com](mailto:editor@ainchina.com).*
