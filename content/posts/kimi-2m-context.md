@@ -8,7 +8,7 @@ readTime: "16 min read"
 
 When Cursor announced that Composer 2.0 was built on Kimi K2.5 rather than GPT-4 or Claude, the message was clear: Chinese foundation models had reached parity with Western alternatives. But Kimi isn't just matching competitors—it's pioneering capabilities like Agent Swarm orchestration and trillion-parameter efficiency that redefine what's possible with large language models.
 
-![AI Assistant Interface](https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=800&h=400&fit=crop)
+![AI Assistant Interface](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&h=400&fit=crop)
 *Modern AI assistant interfaces like Kimi K2.5*
 
 This is the complete technical analysis of Moonshot AI's flagship model.
@@ -119,7 +119,7 @@ Each sub-agent can be configured with:
 
 Unlike models that add vision capabilities after text pre-training, K2.5 was trained as a natively multimodal model from the start.
 
-![Computer Vision](https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800&h=400&fit=crop)
+![Computer Vision](https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&h=400&fit=crop)
 *Computer vision and multimodal AI processing*
 
 ### MoonViT-3D Vision Encoder
@@ -148,7 +148,7 @@ K2.5 uses a custom vision transformer architecture:
 
 K2.5 demonstrates frontier-level performance across all major benchmarks:
 
-![Data Analysis](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=400&fit=crop)
+![Data Analysis](https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=400&fit=crop)
 *Performance metrics and benchmark analysis*
 
 ### Reasoning Benchmarks

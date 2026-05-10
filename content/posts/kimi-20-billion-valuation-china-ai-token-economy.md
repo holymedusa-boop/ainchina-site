@@ -4,7 +4,7 @@ date: "2026-05-07"
 excerpt: "Kimi hits a $20 billion funding round at $200 billion valuation while China's AI token consumption surges past the US for the third time. Here's what it means for the global AI landscape."
 readTime: "16 min read"
 category: "AI Industry"
-image: "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=1200&q=80"
 ---
 
 **In the span of six months, Moonshot AI's Kimi has raised more money than most tech startups do in a decade. The Chinese AI unicorn just closed a $2 billion funding round at a $20 billion valuation, bringing its total capital raised in 2026 alone to $3.9 billion. Meanwhile, OpenRouter data reveals Chinese AI models consumed 7.94 trillion tokens in a single week, nearly 2.5 times America's 3.26 trillion, marking the third time China has overtaken the US in this critical metric.**
@@ -62,7 +62,7 @@ This marks the **third time China has overtaken the US** in weekly token consump
 
 *Chinese AI models have consumed more tokens than American models in 3 of the last 12 weeks, with the gap widening each cycle.*
 
-![Global AI token consumption chart showing China overtaking the US in weekly API calls](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80)
+![Global AI token consumption chart showing China overtaking the US in weekly API calls](https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800&q=80)
 *OpenRouter data reveals Chinese AI models now account for the majority of global developer token consumption, a dramatic reversal from 2024.*
 
 | Time Period | China (Trillion Tokens) | US (Trillion Tokens) | Ratio |

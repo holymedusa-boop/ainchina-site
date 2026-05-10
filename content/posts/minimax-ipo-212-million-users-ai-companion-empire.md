@@ -178,7 +178,7 @@ MiniMax has developed a sophisticated monetization stack that extracts value acr
 
 The exceptional unit economics explain how MiniMax achieved cash-flow positive status while many AI startups continue burning capital. The combination of organic growth (via character sharing) and high engagement creates a sustainable business model.
 
-![AI Business Model](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=400&fit=crop)
+![AI Business Model](https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&h=400&fit=crop)
 *MiniMax's unit economics—with a 72.5× LTV/CAC ratio—demonstrate that AI companion platforms can be sustainably profitable at scale.*
 
 ---
