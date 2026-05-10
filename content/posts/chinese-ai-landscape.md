@@ -308,7 +308,7 @@ B2B leader:
 
 ### Financial AI
 
-![Finance](https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=800&h=400&fit=crop)
+![Finance](https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=800&h=400&fit=crop)
 *AI in financial services and banking*
 
 **Ant Group**
@@ -437,7 +437,7 @@ China's AI ecosystem is reshaping global markets:
 
 ## Conclusion: A Bifurcated Future
 
-![Future Technology](https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=800&h=400&fit=crop)
+![Future Technology](https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=800&h=400&fit=crop)
 *The future of AI technology development*
 
 The global AI landscape is bifurcating into two poles:

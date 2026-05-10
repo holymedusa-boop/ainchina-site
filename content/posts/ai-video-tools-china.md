@@ -276,7 +276,7 @@ Hailuo AI (海螺 AI) represents a unique approach: synchronized audio-video gen
 
 ## China vs Sora: The Reality
 
-![AI Competition](https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=800&h=400&fit=crop)
+![AI Competition](https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=800&h=400&fit=crop)
 *Global AI video generation competition*
 
 ### Where Chinese Tools Lead
@@ -394,7 +394,7 @@ Chinese video generation operates under strict regulations:
 
 ## Future Roadmap
 
-![Future Tech](https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=800&h=400&fit=crop)
+![Future Tech](https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&h=400&fit=crop)
 *Future of AI video technology*
 
 ### Kling (Kwai)
@@ -472,7 +472,7 @@ China AI video generation market:
 
 Chinese AI video generation tools demonstrate that innovation isn't confined to Silicon Valley:
 
-![Innovation](https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=800&h=400&fit=crop)
+![Innovation](https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?w=800&h=400&fit=crop)
 *AI innovation and technology development*
 
 **Chinese Tools Excel At:**
