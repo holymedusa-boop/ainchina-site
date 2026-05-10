@@ -8,7 +8,7 @@ readTime: "15 min read"
 
 While OpenAI's Sora captured global attention with its demonstration videos, Chinese companies have been quietly building video generation tools that are already in production use. Kling, Vidu, and Hailuo AI offer capabilities that rival or exceed Sora in specific domains—and they're available today.
 
-![AI Video Generation](https://images.unsplash.com/photo-1536240478700-b869070f9279?w=800&h=400&fit=crop)
+![AI Video Generation](https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800&h=400&fit=crop)
 *AI-powered video generation and editing*
 
 This technical comparison examines the state of Chinese AI video generation, analyzing architectures, capabilities, pricing, and real-world performance.

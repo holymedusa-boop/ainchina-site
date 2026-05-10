@@ -177,7 +177,7 @@ TrendForce's latest research predicts China's humanoid robot production will gro
 
 The production ramp creates a natural demand pull for Tars' "brain" technology. As Chinese manufacturers scale from tens of thousands to hundreds of thousands of units, the limiting factor shifts from mechanical manufacturing to AI control systems—precisely Tars' domain.
 
-![China Robot Production Growth](https://images.unsplash.com/photo-1535378437327-b71494669e9d?w=800&h=400&fit=crop)
+![China Robot Production Growth](https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&h=400&fit=crop)
 
 *China's humanoid robot production is projected to surge 94% in 2026, creating massive demand for general-purpose embodied intelligence systems like Tars' AWE 3.0.*
 

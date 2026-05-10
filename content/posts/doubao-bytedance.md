@@ -91,7 +91,7 @@ Doubao exists to accelerate this loop. By lowering the creative barrier, ByteDan
 
 ### Script Writing: From Idea to Video
 
-![Video Editing](https://images.unsplash.com/photo-1536240478700-b869070f9279?w=800&h=400&fit=crop)
+![Video Editing](https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&h=400&fit=crop)
 *Doubao generates platform-optimized scripts in seconds*
 
 Doubao's script generation is tuned for virality:

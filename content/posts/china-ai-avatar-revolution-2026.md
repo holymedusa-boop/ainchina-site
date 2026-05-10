@@ -57,7 +57,7 @@ China's influencer economy has become brutally competitive. With over 2 million 
 Short video platforms (Douyin, Kuaishou, Xiaohongshu) have adjusted their algorithms to prioritize content frequency and watch time over creator identity. An AI avatar that can stream 24/7 has inherent advantages over human creators limited by biology.
 
 <!-- Inline Image 1 -->
-![Mobile phone with video streaming interface showing content creation](https://images.unsplash.com/photo-1535378437327-b7128d8e1d17?w=800&h=400&fit=crop)
+![Mobile phone with video streaming interface showing content creation](https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=800&h=400&fit=crop)
 
 *Chinese creators are leveraging AI avatars to operate multiple streaming channels simultaneously (Image: Unsplash)*
 
