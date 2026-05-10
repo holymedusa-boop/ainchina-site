@@ -8,7 +8,7 @@ readTime: "20 min read"
 
 China's AI ecosystem has evolved from a fragmented collection of research labs into a comprehensive industrial stack that rivals Silicon Valley. Understanding this landscape—from domestic chip manufacturers to consumer applications—is essential for anyone tracking the future of artificial intelligence.
 
-![Technology Ecosystem](https://images.unsplash.com/photo-1537519646099-335112f03225?w=800&h=400&fit=crop)
+![Technology Ecosystem](https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&h=400&fit=crop)
 *China's technology and innovation ecosystem*
 
 This is the complete ecosystem map, from silicon to software.
@@ -27,7 +27,7 @@ This is the complete ecosystem map, from silicon to software.
 
 ### Domestic AI Chip Manufacturers
 
-![Semiconductor](https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=400&fit=crop)
+![Semiconductor](https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&h=400&fit=crop)
 *Semiconductor chip manufacturing and technology*
 
 **The Context:** US export controls have accelerated domestic chip development. While still behind NVIDIA, Chinese alternatives are approaching viability for training and inference.
