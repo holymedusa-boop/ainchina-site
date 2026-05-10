@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "sitemap": "node scripts/generate-sitemap.js",
-    "prebuild": "npm run sitemap"
+    "check-images": "bash scripts/check-images.sh",
+    "prebuild": "npm run check-images && npm run sitemap"
   },
   "dependencies": {
     "next": "14.2.3",
