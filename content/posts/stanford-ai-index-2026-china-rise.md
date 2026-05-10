@@ -60,7 +60,7 @@ Among the 50 "notable models" released globally in 2025:
 
 Alibaba not only leads Chinese tech companies with nearly 40% of domestic notable models but has **maintained global #3 for two consecutive years**. Its portfolio includes Qwen-VL-Max, Qwen1.5-72B, Qwen2-72B, Qwen2.5 series, and QwQ-32B, demonstrating the Tongyi family's continuous evolution.
 
-![Chart showing AI model performance convergence](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=400&fit=crop)
+![Chart showing AI model performance convergence](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&h=400&fit=crop)
 *Data visualization showing the convergence of China-US AI capabilities over three years*
 
 ---

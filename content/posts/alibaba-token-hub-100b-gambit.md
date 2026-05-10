@@ -6,7 +6,7 @@ category: "AI Trends"
 readTime: "17 min"
 ---
 
-![Alibaba Token Hub Revolution](https://images.unsplash.com/photo-1639322537228-f710d846310a?w=1200&h=600&fit=crop)
+![Alibaba Token Hub Revolution](https://images.unsplash.com/photo-1631914730601-6295d106b459?w=1200&h=600&fit=crop)
 
 ## Executive Summary
 

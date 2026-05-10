@@ -41,7 +41,7 @@ MiniMax's 2025 IPO prospectus revealed staggering user engagement that challenge
 
 MiniMax's distribution power comes from understanding a universal human need:
 
-![AI Companionship](https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&h=400&fit=crop)
+![AI Companionship](https://images.unsplash.com/photo-1764664281860-c5725fafa634?w=800&h=400&fit=crop)
 *AI companions providing emotional support across global markets*
 
 | Product | User Base | Core Function | Revenue Contribution |
