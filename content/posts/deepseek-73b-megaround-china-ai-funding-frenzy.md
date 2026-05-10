@@ -10,7 +10,7 @@ image: "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=1200"
 
 # DeepSeek's $7.3B Mega-Round: China's AI Funding Frenzy Hits Historic Heights
 
-![Financial district skyline representing China's AI funding boom](https://images.unsplash.com/photo-1551650975-87deedd944c3?w=1200)
+![Funding and investment activity in China's AI sector](https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200)
 
 **In the span of seven days, China's AI industry raised more money than most countries spend on AI in a decade.**
 

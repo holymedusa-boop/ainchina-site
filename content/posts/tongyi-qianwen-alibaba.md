@@ -80,7 +80,7 @@ Tongyi Qianwen is built on Alibaba's Qwen (通义千问) foundation models—a c
 
 ### Cloud-Native Design
 
-![Cloud Infrastructure](https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=400&fit=crop)
+![Cloud Infrastructure](https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=800&h=400&fit=crop)
 *Alibaba Cloud powers Tongyi's enterprise deployment*
 
 **Infrastructure Advantages:**

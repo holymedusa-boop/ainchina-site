@@ -120,7 +120,7 @@ For context, Boston Dynamics' Spot robot (quadruped, not humanoid) retails at ap
 
 Shenzhen's Nanshan district has become legendary for what locals call "上午设计、下午样品" (design in the morning, prototype by afternoon). The iteration cycle for robot hardware in China's Pearl River Delta is measured in **days**, not months. This velocity compounds: faster iteration means faster learning, which means faster convergence on viable designs.
 
-![China's manufacturing ecosystem enables rapid prototyping at a fraction of Western costs](https://images.unsplash.com/photo-1565514020176-db98e3c15432?w=800&q=80)
+![China's manufacturing ecosystem enables rapid prototyping at a fraction of Western costs](https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80)
 
 *China's manufacturing ecosystem enables rapid prototyping at a fraction of Western costs. Image: Unsplash*
 

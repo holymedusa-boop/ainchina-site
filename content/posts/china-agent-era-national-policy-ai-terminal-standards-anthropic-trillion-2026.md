@@ -5,12 +5,12 @@ description: "Three Chinese ministries issued the first national AI agent policy
 date: "May 10, 2026"
 author: "AI in China Team"
 tags: ["AI Agent", "China AI Policy", "Anthropic", "AI Terminal Standards", "DeepSeek", "China AI Patent", "AI Infrastructure", "China US AI Dialogue", "Smart Agent", "GB/Z 177"]
-image: "https://images.unsplash.com/photo-1565514020176-db98e3c15432?w=1200"
+image: "https://images.unsplash.com/photo-1558002038-1055907df827?w=1200"
 ---
 
 # China's Agent Era Begins: National Policy Framework, AI Terminal Standards, and the Trillion-Dollar Global AI Race
 
-![AI technology and digital transformation representing the agent era in China](https://images.unsplash.com/photo-1565514020176-db98e3c15432?w=1200)
+![AI technology and digital transformation representing the agent era in China](https://images.unsplash.com/photo-1558002038-1055907df827?w=1200)
 
 **Something fundamental changed in China's AI industry during the first week of May 2026.**
 

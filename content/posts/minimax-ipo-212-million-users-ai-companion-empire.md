@@ -8,7 +8,7 @@ readTime: "16 min read"
 
 MiniMax Files for IPO: How China's AI Companion Empire Built 212 Million Users and Challenged the Global Social Landscape
 
-![MiniMax AI Companion Platform](https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=1200&h=600&fit=crop)
+![MiniMax AI Companion Platform](https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=1200&h=600&fit=crop)
 
 *MiniMax's Talkie and 星野 apps have amassed 212 million users across 200 countries, redefining how humans form emotional bonds with artificial intelligence.*
 
@@ -74,7 +74,7 @@ The cash-flow positive milestone is particularly notable. While many AI startups
 
 The nearly 50-minute average session duration is staggering. For comparison, TikTok averages 58 minutes per day—but TikTok is a full content platform. Talkie achieves 47 minutes through text and voice conversation alone, suggesting a level of engagement that traditional social media struggles to match.
 
-![AI Companion Engagement](https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&h=400&fit=crop)
+![AI Companion Engagement](https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=800&h=400&fit=crop)
 *MiniMax users spend an average of 49 minutes per session with their AI companions—engagement levels that rival top social media platforms.*
 
 ---

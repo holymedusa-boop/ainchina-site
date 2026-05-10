@@ -74,7 +74,7 @@ The final stage uses YaRN (Yet another RoPE extension method) to achieve the ful
 
 K2.5's most distinctive feature is Agent Swarm—a capability that coordinates up to 100 parallel sub-agents working on different aspects of a complex task.
 
-![Multi-Agent System](https://images.unsplash.com/photo-1551434678-e076c223a692?w=800&h=400&fit=crop)
+![Multi-Agent System](https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&h=400&fit=crop)
 *Multi-agent AI systems working in parallel*
 
 ### How Agent Swarm Works

@@ -316,7 +316,7 @@ Hailuo AI (海螺 AI) represents a unique approach: synchronized audio-video gen
 
 ## Industry Applications
 
-![Video Applications](https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=800&h=400&fit=crop)
+![Video Applications](https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&h=400&fit=crop)
 *Video content applications across industries*
 
 ### Marketing and Advertising
