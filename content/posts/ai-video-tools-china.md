@@ -232,7 +232,7 @@ Hailuo AI (海螺 AI) represents a unique approach: synchronized audio-video gen
 
 ### Architecture Deep Dive
 
-![AI Architecture](https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&h=400&fit=crop)
+![AI Architecture](https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=800&h=400&fit=crop)
 *AI model architecture comparison*
 
 | Component | Kling | Vidu | Hailuo | Sora |
@@ -276,7 +276,7 @@ Hailuo AI (海螺 AI) represents a unique approach: synchronized audio-video gen
 
 ## China vs Sora: The Reality
 
-![AI Competition](https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=400&fit=crop)
+![AI Competition](https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=800&h=400&fit=crop)
 *Global AI video generation competition*
 
 ### Where Chinese Tools Lead
@@ -394,7 +394,7 @@ Chinese video generation operates under strict regulations:
 
 ## Future Roadmap
 
-![Future Tech](https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&h=400&fit=crop)
+![Future Tech](https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=800&h=400&fit=crop)
 *Future of AI video technology*
 
 ### Kling (Kwai)
@@ -472,7 +472,7 @@ China AI video generation market:
 
 Chinese AI video generation tools demonstrate that innovation isn't confined to Silicon Valley:
 
-![Innovation](https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&h=400&fit=crop)
+![Innovation](https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=800&h=400&fit=crop)
 *AI innovation and technology development*
 
 **Chinese Tools Excel At:**

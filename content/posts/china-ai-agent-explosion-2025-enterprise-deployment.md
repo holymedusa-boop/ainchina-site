@@ -6,7 +6,7 @@ category: "AI Trends"
 readTime: "16 min read"
 ---
 
-![AI Agent Network Visualization](https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=600&fit=crop)
+![AI Agent Network Visualization](https://images.unsplash.com/photo-1526379095098-d400fd0bf935?w=1200&h=600&fit=crop)
 
 *China's AI Agent ecosystem spans 126 development platforms and serves millions of enterprise users across manufacturing, e-commerce, and financial services.*
 

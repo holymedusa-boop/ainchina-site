@@ -12,7 +12,7 @@ readTime: "17 min read"
 
 ---
 
-![AI Agent Network](https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=600&fit=crop)
+![AI Agent Network](https://images.unsplash.com/photo-1558346490-a72b902744c9?w=1200&h=600&fit=crop)
 *China's AI policy shift from optional pilot programs to mandatory procurement represents a structural change in how technology adoption is governed.*
 
 ## Executive Summary

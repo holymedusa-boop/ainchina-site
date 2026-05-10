@@ -4,7 +4,7 @@ date: "2026-05-06"
 excerpt: "China's embodied intelligence industry is surging from 1,800 humanoid robots shipped in 2025 to an anticipated 100,000+ in 2026, backed by $195 billion in annual funding and a supply chain that cuts costs to 50% of Western equivalents."
 category: "AI Infrastructure"
 readTime: "16 min read"
-heroImage: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&q=80"
+heroImage: "https://images.unsplash.com/photo-1676299081847-824916de030a?w=1200&q=80"
 keywords: "embodied intelligence, humanoid robot, China AI, robotics industry, Unitree, UBTECH, embodied AI, VLA model, manufacturing automation"
 ---
 

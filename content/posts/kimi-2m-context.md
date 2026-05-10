@@ -17,7 +17,7 @@ This is the complete technical analysis of Moonshot AI's flagship model.
 
 Kimi K2.5 represents one of the most sophisticated implementations of Mixture-of-Experts (MoE) architecture deployed at scale. With 1 trillion total parameters but only 32 billion active per token, it achieves massive model capacity with tractable inference costs.
 
-![Neural Network](https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&h=400&fit=crop)
+![Neural Network](https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?w=800&h=400&fit=crop)
 *Neural network architecture visualization*
 
 ### Core Specifications

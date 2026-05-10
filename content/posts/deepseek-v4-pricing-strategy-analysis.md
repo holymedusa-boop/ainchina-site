@@ -6,7 +6,7 @@ category: "AI Infrastructure"
 readTime: "16 min read"
 ---
 
-![Abstract visualization of falling price curves in digital space](https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80)
+![Abstract visualization of falling price curves in digital space](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&q=80)
 *DeepSeek V4's pricing has reset the global AI cost floor. Image: Unsplash*
 
 ## Executive Summary

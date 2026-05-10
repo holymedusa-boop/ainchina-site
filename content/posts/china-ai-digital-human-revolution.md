@@ -6,7 +6,7 @@ category: "AI Applications"
 readTime: "16 min read"
 ---
 
-![AI Digital Human Technology Visualization](https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&q=80)
+![AI Digital Human Technology Visualization](https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&q=80)
 
 *AI digital humans are becoming indistinguishable from real creators, sparking a revolution in China's content economy*
 

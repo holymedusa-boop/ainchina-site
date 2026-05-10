@@ -8,7 +8,7 @@ readTime: "16 min read"
 
 China's AI Revolution: Education Reform, National Standards, and Ecosystem Breakthroughs in April 2026
 
-![AI Revolution in China 2026](https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=600&fit=crop)
+![AI Revolution in China 2026](https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=1200&h=600&fit=crop)
 
 *Shanghai Jiao Tong University launches comprehensive AI education reform as China establishes first national humanoid robot standards and domestic models reach DeepSeek-R1 performance parity.*
 
@@ -88,7 +88,7 @@ The Beijing "Humanoid Robot Marathon" on April 20, 2026, saw Shenzhen Glory Smar
 
 **Key Insight**: Standards transform humanoid robots from demonstration pieces into industrial products. Chinese manufacturers can now design for compliance rather than experimentation, enabling the supply chain scaling necessary for cost reduction.
 
-![Humanoid Robot Standards](https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&h=400&fit=crop)
+![Humanoid Robot Standards](https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&h=400&fit=crop)
 *China's first national humanoid robot standards establish the foundation for mass production and commercial deployment.*
 
 ---

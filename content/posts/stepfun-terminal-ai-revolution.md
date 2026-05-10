@@ -10,7 +10,7 @@ readTime: "10 min read"
 
 *Published: April 3, 2026 | Reading time: 18 minutes | Trending: 🔥🔥🔥🔥🔥*
 
-![StepFun AI Terminal Strategy](https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200)
+![StepFun AI Terminal Strategy](https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?w=1200)
 
 ---
 

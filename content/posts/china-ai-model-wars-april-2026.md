@@ -10,7 +10,7 @@ readTime: "18 min read"
 
 *The most intense week in Chinese AI history—three major releases, shifting competitive dynamics, and why the West is suddenly playing catch-up*
 
-![China AI Technology](https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&h=600&fit=crop)
+![China AI Technology](https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?w=1200&h=600&fit=crop)
 *China's AI industry is experiencing its most explosive period of innovation, with new models launching weekly*
 
 ## Executive Summary: The Week That Changed Everything

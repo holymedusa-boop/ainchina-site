@@ -6,7 +6,7 @@ category: "AI Trends"
 readTime: "17 min read"
 ---
 
-![China AI Model War 2026](https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&q=80)
+![China AI Model War 2026](https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&q=80)
 *The AI model wars: Chinese tech giants battle for dominance in the world's largest AI market. Photo by Google DeepMind / Unsplash*
 
 ## Executive Summary

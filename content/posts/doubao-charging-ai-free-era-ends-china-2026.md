@@ -9,7 +9,7 @@ metaDescription: "ByteDance's Doubao launched paid subscriptions ($9.50-$72/mo) 
 keywords: "Doubao, ByteDance AI, China AI monetization, AI subscription, token economy, ChatGPT China, AI pricing, large language model business model, Doubao paid, China AI market 2026"
 author: "AIN China"
 readTime: "16 min read"
-heroImage: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=1200&auto=format&fit=crop"
+heroImage: "https://images.unsplash.com/photo-1509228468518-31dd6aed6dc8?q=80&w=1200&auto=format&fit=crop"
 ---
 
 *ByteDance's Doubao — the AI app used by 345 million people monthly in China — quietly added a paywall on May 4, 2026. Within hours, #DoubaoCharging trended across Weibo, Bilibili, and Xiaohongshu. The move isn't just about one app. It's the end of an era.*

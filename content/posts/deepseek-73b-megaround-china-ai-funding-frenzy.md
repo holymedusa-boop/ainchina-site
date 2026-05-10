@@ -5,12 +5,12 @@ description: "DeepSeek seeks $7.35B in China's largest AI funding round ever. Fo
 date: "May 11, 2026"
 author: "AI in China Team"
 tags: ["DeepSeek", "China AI Funding", "Moonshot AI", "InfiniGence AI", "Liang Wenfeng", "AI Infrastructure", "Token Economy", "China AI Policy", "StepFun", "Redis"]
-image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200"
+image: "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=1200"
 ---
 
 # DeepSeek's $7.3B Mega-Round: China's AI Funding Frenzy Hits Historic Heights
 
-![Financial district skyline representing China's AI funding boom](https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200)
+![Financial district skyline representing China's AI funding boom](https://images.unsplash.com/photo-1551650975-87deedd944c3?w=1200)
 
 **In the span of seven days, China's AI industry raised more money than most countries spend on AI in a decade.**
 

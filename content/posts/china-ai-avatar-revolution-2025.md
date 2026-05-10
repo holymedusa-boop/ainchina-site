@@ -10,7 +10,7 @@ readTime: "16 min read"
 
 *The rise of faceless influencers and the $4.4 billion digital human economy reshaping social media*
 
-![AI Avatar Technology](https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&h=600&fit=crop)
+![AI Avatar Technology](https://images.unsplash.com/photo-1551434678-e076c223a692?w=1200&h=600&fit=crop)
 *AI avatar technology is creating a new generation of content creators who never show their real faces*
 
 ## Executive Summary: The Numbers Behind the Phenomenon

@@ -4,7 +4,7 @@ date: "2026-05-07"
 excerpt: "Kimi hits a $20 billion funding round at $200 billion valuation while China's AI token consumption surges past the US for the third time. Here's what it means for the global AI landscape."
 readTime: "16 min read"
 category: "AI Industry"
-image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=1200&q=80"
 ---
 
 **In the span of six months, Moonshot AI's Kimi has raised more money than most tech startups do in a decade. The Chinese AI unicorn just closed a $2 billion funding round at a $20 billion valuation, bringing its total capital raised in 2026 alone to $3.9 billion. Meanwhile, OpenRouter data reveals Chinese AI models consumed 7.94 trillion tokens in a single week, nearly 2.5 times America's 3.26 trillion, marking the third time China has overtaken the US in this critical metric.**
@@ -146,7 +146,7 @@ Kimi isn't the only Chinese AI company experiencing explosive growth. The entire
 
 The common thread? **Every major player has found a differentiated wedge.** Kimi owns coding and agents. DeepSeek owns extreme scale and cost efficiency. MiniMax owns social and entertainment applications. Zhipu owns enterprise reasoning. Tencent owns distribution at zero marginal cost.
 
-![Comparison of major Chinese AI models and their market positioning](https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80)
+![Comparison of major Chinese AI models and their market positioning](https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800&q=80)
 *China's AI ecosystem has evolved from a single-model race to a multi-player landscape where each company dominates a specific vertical.*
 
 What unites them is a shared strategic premise: **win the developer first, monetize the enterprise later.** The token consumption data proves this approach is working globally, not just domestically.

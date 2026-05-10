@@ -8,7 +8,7 @@ readTime: "16 min read"
 
 Tars Raises $455M: How China's "Robot Brain" Startup Cracked the Embodied Intelligence Code
 
-![Tars AWE 3.0 Embodied Intelligence Robot](https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=600&fit=crop)
+![Tars AWE 3.0 Embodied Intelligence Robot](https://images.unsplash.com/photo-1567789884554-0b844b597180?w=1200&h=600&fit=crop)
 
 *Tars' AWE 3.0-powered A1 robot set a Guinness World Record for sub-millimeter wire harness assembly, demonstrating that China's embodied intelligence has moved from demonstration to industrial-grade precision.*
 

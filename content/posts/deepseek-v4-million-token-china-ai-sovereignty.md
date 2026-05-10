@@ -6,7 +6,7 @@ category: "AI Infrastructure"
 readTime: "17 min read"
 ---
 
-![DeepSeek AI Data Center](https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&h=600&fit=crop)
+![DeepSeek AI Data Center](https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1200&h=600&fit=crop)
 *DeepSeek's quiet API update on April 22 signals something far bigger than a context window expansion—it's the prelude to China's most significant AI model launch yet*
 
 ## The Quiet Update That Spoke Volumes

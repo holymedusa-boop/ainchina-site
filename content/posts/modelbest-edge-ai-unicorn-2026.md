@@ -6,7 +6,7 @@ category: "AI Trends"
 readTime: "17 min"
 ---
 
-![ModelBest Edge AI Revolution](https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=600&fit=crop)
+![ModelBest Edge AI Revolution](https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=1200&h=600&fit=crop)
 
 ## Executive Summary
 

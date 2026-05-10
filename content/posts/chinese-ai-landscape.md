@@ -118,7 +118,7 @@ The consumer play:
 
 ### The "Six Tigers"
 
-![AI Research](https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=400&fit=crop)
+![AI Research](https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=800&h=400&fit=crop)
 *AI research and development laboratories*
 
 Six companies now dominate Chinese foundation models:
@@ -308,7 +308,7 @@ B2B leader:
 
 ### Financial AI
 
-![Finance](https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&h=400&fit=crop)
+![Finance](https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=800&h=400&fit=crop)
 *AI in financial services and banking*
 
 **Ant Group**
@@ -437,7 +437,7 @@ China's AI ecosystem is reshaping global markets:
 
 ## Conclusion: A Bifurcated Future
 
-![Future Technology](https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&h=400&fit=crop)
+![Future Technology](https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=800&h=400&fit=crop)
 *The future of AI technology development*
 
 The global AI landscape is bifurcating into two poles:

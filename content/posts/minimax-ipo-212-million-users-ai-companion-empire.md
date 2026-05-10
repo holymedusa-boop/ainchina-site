@@ -8,7 +8,7 @@ readTime: "16 min read"
 
 MiniMax Files for IPO: How China's AI Companion Empire Built 212 Million Users and Challenged the Global Social Landscape
 
-![MiniMax AI Companion Platform](https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=600&fit=crop)
+![MiniMax AI Companion Platform](https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=1200&h=600&fit=crop)
 
 *MiniMax's Talkie and 星野 apps have amassed 212 million users across 200 countries, redefining how humans form emotional bonds with artificial intelligence.*
 
