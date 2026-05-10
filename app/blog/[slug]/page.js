@@ -4,6 +4,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-agent-era-national-policy-ai-terminal-standards-anthropic-trillion-2026': {
+    metaTitle: "China's Agent Era Begins: National Policy, AI Terminal Standards, Trillion-Dollar Race",
+    metaDescription: "Three Chinese ministries issued the first national AI agent policy. GB/Z 177—2026 established L1–L4 terminal intelligence grading. Anthropic nears $1T valuation. China Mobile opened a trillion-token package. The agent economy is now real.",
+    keywords: 'China AI agent, AI policy, GB/Z 177, AI terminal standards, Anthropic valuation, trillion dollar AI, China Mobile, DeepSeek multimodal, AI patent, China US AI dialogue, smart agent, AI regulation',
+  },
   'kimi-20-billion-valuation-china-ai-token-economy': {
     metaTitle: "Kimi's $20 Billion Bet: China's AI Token Economy Rewrites Global Power",
     metaDescription: "Kimi closes $2B funding at $20B valuation while China's AI models consume 7.94 trillion tokens weekly, 2.4x America's output. Inside the shift that's moving AI's center of gravity east.",
