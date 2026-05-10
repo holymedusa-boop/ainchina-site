@@ -9,12 +9,12 @@ metaDescription: "Wuwenxinqiong's $100M+ raise, DeepSeek's multimodal launch, an
 keywords: "Wuwenxinqiong, China AI infrastructure, DeepSeek multimodal, Alibaba Qianwen voice AI, AI token economy, China AI compute, AI native infrastructure, Huawei Ascend, AI voice interface, China AI funding 2026"
 author: "AIN China"
 readTime: "17 min read"
-heroImage: "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1200&auto=format&fit=crop"
+heroImage: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1200&auto=format&fit=crop"
 ---
 
 # China's AI Infrastructure Awakens: Wuwenxinqiong's $100M Bet and the Full-Stack Race to Support 8 Trillion Tokens
 
-![DeepSeek's multimodal demonstration](https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=1200&auto=format&fit=crop)
+![DeepSeek's multimodal demonstration](https://images.unsplash.com/photo-1573164713988-8665fc963095?q=80&w=1200&auto=format&fit=crop)
 
 **For three years, China's AI story has been about models.** DeepSeek. Kimi. Qwen. GLM. MiniMax. The headlines tracked parameter counts, benchmark scores, and funding rounds. But something shifted in the first week of May 2026. The most significant announcement wasn't a new model. It was infrastructure.
 
