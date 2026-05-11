@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # check-images.sh — 扫描 Markdown 文件中的 Unsplash 图片并检查可用性
 
-POSTS_DIR="/root/.openclaw/workspace/ainchina-hello/content/posts"
+POSTS_DIR="content/posts"
 TIMEOUT_SECONDS=15
 
 RED='\033[0;31m'
