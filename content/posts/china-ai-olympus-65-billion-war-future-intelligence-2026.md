@@ -5,12 +5,12 @@ description: "Kimi raises $20B at $200B valuation. DeepSeek valued at $450B. Chi
 date: "May 12, 2026"
 author: "AI in China Team"
 tags: ["Kimi", "DeepSeek", "Moonshot AI", "MiniMax", "Zhipu AI", "InfiniGence AI", "China AI Funding", "Open Source AI", "Token Economy", "AI Infrastructure", "Cursor", "Alibaba Token Hub"]
-image: "https://images.unsplash.com/photo-1504384308090-c54be3855833?w=1200"
+image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200"
 ---
 
 # China's AI Olympus: The $65 Billion War for the Future of Intelligence
 
-![The Chinese AI landscape in May 2026: a battlefield of titans](https://images.unsplash.com/photo-1504384308090-c54be3855833?w=1200)
+![The Chinese AI landscape in May 2026: a battlefield of titans](https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200)
 
 **In seven days, Chinese AI companies raised more capital than the entire European AI sector raised in 2025. And they did it while simultaneously releasing models that collectively hold the top five positions on global open-source leaderboards. This is not a funding cycle. This is an arms race with a product launch attached.**
 
