@@ -4,6 +4,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-olympus-65-billion-war-future-intelligence-2026': {
+    metaTitle: "China's AI Olympus: The $65 Billion War for the Future of Intelligence",
+    metaDescription: "Kimi raises $20B at $200B valuation. DeepSeek valued at $450B. Chinese open-source models dominate global top 5. With $65B+ in fresh capital and 140 trillion daily tokens, China's AI industry enters its 'God of War' era.",
+    keywords: 'Kimi, DeepSeek, Moonshot AI, MiniMax, Zhipu AI, InfiniGence AI, China AI funding, open source AI, token economy, Cursor, Alibaba Token Hub, AI valuation, China AI industry 2026',
+  },
   'deepseek-73b-megaround-china-ai-funding-frenzy': {
     metaTitle: "DeepSeek's $7.3B Mega-Round: China's AI Funding Frenzy Hits Historic Heights",
     metaDescription: "DeepSeek seeks $7.35B in China's largest AI funding round ever. Founder Liang Wenfeng puts in $2.9B of his own money. Moonshot AI hits $20B valuation. InfiniGence AI raises $700M+. And Redis creator antirez builds a dedicated inference engine for DeepSeek V4.",
