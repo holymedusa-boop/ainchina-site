@@ -2,7 +2,7 @@
 # check-images.sh — 扫描 Markdown 文件中的 Unsplash 图片并检查可用性
 
 POSTS_DIR="content/posts"
-TIMEOUT_SECONDS=15
+TIMEOUT_SECONDS=30
 
 RED='\033[0;31m'
 GREEN='\033[0;32m'

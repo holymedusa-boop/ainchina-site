@@ -4,6 +4,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-invisible-empire-consumer-apps-2026': {
+    metaTitle: "The Invisible Empire: How China's AI Apps Conquered 2.5B Users",
+    metaDescription: "While the world watched ChatGPT, China's AI apps hit 2.5B users. Doubao reached 100M DAU. MiniMax serves 200+ countries. Inside the invisible consumer AI empire no one noticed.",
+    keywords: 'Doubao, MiniMax, ByteDance, consumer AI, China AI apps, AI digital human, token economy, AI globalization, Xiaohongshu, Talkie, Starlight, AI companion, China AI market, 100M DAU, 2.5 billion users',
+  },
   'china-ai-olympus-65-billion-war-future-intelligence-2026': {
     metaTitle: "China's AI Olympus: The $65 Billion War for the Future of Intelligence",
     metaDescription: "Kimi raises $20B at $200B valuation. DeepSeek valued at $450B. Chinese open-source models dominate global top 5. With $65B+ in fresh capital and 140 trillion daily tokens, China's AI industry enters its 'God of War' era.",

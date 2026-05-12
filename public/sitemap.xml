@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Generated: 2026-05-10T23:40:18.809Z -->
-  <!-- Total Posts: 47 -->
+  <!-- Generated: 2026-05-11T22:18:21.112Z -->
+  <!-- Total Posts: 48 -->
 
   <!-- Homepage -->
   <url>
     <loc>https://www.ainchina.com/</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -15,7 +15,7 @@
   <!-- Blog Index -->
   <url>
     <loc>https://www.ainchina.com/blog/</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -31,12 +31,18 @@
   <!-- HTML Sitemap -->
   <url>
     <loc>https://www.ainchina.com/sitemap/</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
 
   <!-- AI Industry -->
+  <url>
+    <loc>https://www.ainchina.com/blog/china-ai-olympus-65-billion-war-future-intelligence-2026/</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   <url>
     <loc>https://www.ainchina.com/blog/deepseek-73b-megaround-china-ai-funding-frenzy/</loc>
     <lastmod>2026-05-11</lastmod>
@@ -92,7 +98,7 @@
   <url>
     <loc>https://www.ainchina.com/blog/china-ai-revolution-may-2026-tokens-deepseek-huawei/</loc>
     <lastmod>2026-05-04</lastmod>
-    <changefreq>daily</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
@@ -270,7 +276,7 @@
   <url>
     <loc>https://www.ainchina.com/blog/china-ai-model-wars-april-2026/</loc>
     <lastmod>2026-04-11</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
