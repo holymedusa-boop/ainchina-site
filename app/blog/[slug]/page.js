@@ -4,6 +4,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-six-networks-trillion-infrastructure-ai-compute-2026': {
+    metaTitle: "China's $7 Trillion 'Six Networks' Strategy: AI Compute as National Infrastructure",
+    metaDescription: "On April 28, 2026, China's Politburo elevated compute networks to national strategic infrastructure—on par with water and power. The Six Networks blueprint commits 7+ trillion yuan annually. Here's what happens when AI compute becomes civilization-critical.",
+    keywords: 'China Six Networks, 六张网, AI infrastructure, compute network, national infrastructure, China AI policy, 7 trillion yuan, East Data West Computing, Huawei Ascend, AI energy, data center, China 15th Five Year Plan, AI sovereignty',
+  },
   'china-ai-invisible-empire-consumer-apps-2026': {
     metaTitle: "The Invisible Empire: How China's AI Apps Conquered 2.5B Users",
     metaDescription: "While the world watched ChatGPT, China's AI apps hit 2.5B users. Doubao reached 100M DAU. MiniMax serves 200+ countries. Inside the invisible consumer AI empire no one noticed.",
