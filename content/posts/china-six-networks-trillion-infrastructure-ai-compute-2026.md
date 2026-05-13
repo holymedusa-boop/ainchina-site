@@ -6,7 +6,7 @@ category: "AI Policy"
 readTime: "17 min read"
 ---
 
-![China's six-network infrastructure vision — credit: Unsplash](https://images.unsplash.com/photo-1504384308090-c54be3855833?w=1200)
+![China's six-network infrastructure vision — credit: Unsplash](https://images.unsplash.com/photo-1594915440248-1e419eba6611?w=1200)
 
 ## Executive Summary
 
