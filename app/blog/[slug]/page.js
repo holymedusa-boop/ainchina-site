@@ -4,6 +4,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-capital-war-deepseek-kimi-funding-2026': {
+    metaTitle: "China's AI Capital War: DeepSeek Hits $50B, Kimi Raises $2B in Historic Funding Frenzy",
+    metaDescription: "In a single week, China's AI startup valuations jumped by over $100 billion. DeepSeek went from $10B to $50B. Kimi locked in $2B fresh capital. Analysis of China's AI capital war and the race toward IPO.",
+    keywords: 'DeepSeek, Kimi, Moonshot AI, China AI funding, AI valuation, Six Little Tigers, IPO, StepFun, MiniMax, Zhipu AI, AI investment, China AI industry 2026',
+  },
   'china-six-networks-trillion-infrastructure-ai-compute-2026': {
     metaTitle: "China's $7 Trillion 'Six Networks' Strategy: AI Compute as National Infrastructure",
     metaDescription: "On April 28, 2026, China's Politburo elevated compute networks to national strategic infrastructure—on par with water and power. The Six Networks blueprint commits 7+ trillion yuan annually. Here's what happens when AI compute becomes civilization-critical.",

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Generated: 2026-05-14T15:06:45.518Z -->
-  <!-- Total Posts: 50 -->
+  <!-- Generated: 2026-05-14T22:51:56.913Z -->
+  <!-- Total Posts: 51 -->
 
   <!-- Homepage -->
   <url>
@@ -34,6 +34,26 @@
     <lastmod>2026-05-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
+  </url>
+
+  <!-- Market Intelligence -->
+  <url>
+    <loc>https://www.ainchina.com/blog/china-ai-capital-war-deepseek-kimi-funding-2026/</loc>
+    <lastmod>2026-05-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/chinese-ai-landscape/</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/chinese-ai-index-2026/</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 
   <!-- AI Policy -->
@@ -336,20 +356,6 @@
     <lastmod>2026-04-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
-  </url>
-
-  <!-- Market Intelligence -->
-  <url>
-    <loc>https://www.ainchina.com/blog/chinese-ai-landscape/</loc>
-    <lastmod>2026-03-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/chinese-ai-index-2026/</loc>
-    <lastmod>2026-03-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
 
   <!-- Technical Analysis -->
