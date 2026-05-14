@@ -280,10 +280,10 @@ The third wave of AI is physical. And it is being built, component by component,
 
 ## Related Articles
 
-- [DeepSeek V4's 75% Promo Ends May 31: What Happens Next and Why the AI Pricing War Is Just Beginning](/blog/deepseek-v4-promo-ending-analysis)
-- [Alibaba's Token Hub: Inside the $100 Billion Gambit to Control China's AI Infrastructure](/blog/alibaba-token-hub-100b-gambit)
-- [China's AI Avatar Revolution: How Digital Humans Are Replacing Livestreamers in 2026](/blog/china-ai-avatar-revolution-2026)
-- [Stanford AI Index 2026: The Data Behind China's Rise to Global AI Supremacy](/blog/stanford-ai-index-2026-china-rise)
+- [DeepSeek V4's 75% Promo Ends May 31: What Happens Next and Why the AI Pricing War Is Just Beginning](/blog/deepseek-v4-promo-ending-analysis/)
+- [Alibaba's Token Hub: Inside the $100 Billion Gambit to Control China's AI Infrastructure](/blog/alibaba-token-hub-100b-gambit/)
+- [China's AI Avatar Revolution: How Digital Humans Are Replacing Livestreamers in 2026](/blog/china-ai-avatar-revolution-2026/)
+- [Stanford AI Index 2026: The Data Behind China's Rise to Global AI Supremacy](/blog/stanford-ai-index-2026-china-rise/)
 
 ---
 

@@ -266,9 +266,9 @@ The companions aren't leaving. They're just getting more sophisticated.
 ---
 
 ### Related Articles:
-- [ByteDance Doubao: The 200 Million User AI Assistant](/blog/doubao-bytedance)
-- [DeepSeek-V3: The $5.6M Training Run That Changed AI Economics](/blog/deepseek-v3-deep-dive)
-- [Chinese AI Index: 103 Companies Tracking](/blog/chinese-ai-index-2026)
+- [ByteDance Doubao: The 200 Million User AI Assistant](/blog/doubao-bytedance/)
+- [DeepSeek-V3: The $5.6M Training Run That Changed AI Economics](/blog/deepseek-v3-deep-dive/)
+- [Chinese AI Index: 103 Companies Tracking](/blog/chinese-ai-index-2026/)
 
 ### Data Sources:
 - MiniMax IPO Prospectus (January 2026)

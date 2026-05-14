@@ -300,6 +300,6 @@ What ByteDance has proven, beyond any doubt, is that it is willing to pay any pr
 
 **Related Articles:**
 
-- [ByteDance's AI Brain Drain: 70 Top Engineers Exit Seed Team in 12 Months](/blog/bytedance-seed-brain-drain-70-engineers)
-- [ByteDance Doubao: The 200 Million User AI Assistant Reshaping Content Creation](/blog/doubao-bytedance)
-- [minimax-talkie](/blog/minimax-talkie)
+- [ByteDance's AI Brain Drain: 70 Top Engineers Exit Seed Team in 12 Months](/blog/bytedance-seed-brain-drain-70-engineers/)
+- [ByteDance Doubao: The 200 Million User AI Assistant Reshaping Content Creation](/blog/doubao-bytedance/)
+- [minimax-talkie](/blog/minimax-talkie/)

@@ -272,9 +272,9 @@ The content won't stop. It's just getting more efficient.
 ---
 
 ### Related Articles:
-- [Baidu Wenxin Yiyan: The 300 Million User AI Assistant](/blog/wenxin-yiyan-baidu)
-- [DeepSeek-V3: The $5.6M Training Run That Changed AI Economics](/blog/deepseek-v3-deep-dive)
-- [Kimi K2.5: 1 Trillion Parameters, 256K Context Window](/blog/kimi-2m-context)
+- [Baidu Wenxin Yiyan: The 300 Million User AI Assistant](/blog/wenxin-yiyan-baidu/)
+- [DeepSeek-V3: The $5.6M Training Run That Changed AI Economics](/blog/deepseek-v3-deep-dive/)
+- [Kimi K2.5: 1 Trillion Parameters, 256K Context Window](/blog/kimi-2m-context/)
 
 ### Data Sources:
 - ByteDance 2025 Annual Report
