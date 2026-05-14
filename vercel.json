@@ -13,13 +13,13 @@
   "redirects": [
     {
       "source": "/index\\.(jsp|htm|html|asp|aspx|php|cgi)",
-      "destination": "/404",
-      "permanent": false
+      "destination": "/",
+      "permanent": true
     },
     {
       "source": "/en/index\\.(jsp|htm|html|asp|aspx|php|cgi)",
-      "destination": "/404",
-      "permanent": false
+      "destination": "/",
+      "permanent": true
     },
     {
       "source": "/:path*",
