@@ -205,6 +205,48 @@ The academic community's response has been mixed. **Fudan University** issued Ch
 > **Social comment (Bilibili)**: "用AI写论文是作弊吗？我觉得更像用计算器做数学题。工具无罪，看你怎么用。"  
 > *"Is using AI to write papers cheating? I think it's more like using a calculator for math. Tools aren't guilty — it's how you use them."*
 
+### The National IC Fund: When State Capital Meets AI
+
+The entry of China's **National Integrated Circuit Industry Investment Fund** (commonly called the "Big Fund") into DeepSeek's cap table is arguably the most significant development in this funding cycle. The Big Fund — which manages over **300 billion RMB** in state capital — doesn't invest for financial returns alone. It invests for **strategic sovereignty**.
+
+When the Big Fund chooses to lead DeepSeek's round, it's sending three signals:
+
+1. **AI models are now classified as strategic infrastructure**, on par with semiconductors
+2. **DeepSeek is the designated champion** for China's domestic AI chip stack (it already fully adapted V4 to Huawei Ascend)
+3. **The state is insulating Chinese AI from foreign capital withdrawal risks**
+
+This marks a qualitative shift. Previous Chinese AI funding rounds were led by venture capital (Sequoia, Hillhouse, Qiming). The current cycle is dominated by **state-affiliated capital** (Big Fund, China Mobile, CPE Source Peak) and **strategic corporate capital** (Meituan, Huawei ecosystem).
+
+| Investor Type | Representative Investors | Strategic Motive |
+|---------------|-------------------------|------------------|
+| **State-affiliated** | National IC Fund, China Mobile | Sovereignty, domestic supply chain |
+| **Corporate strategic** | Meituan, Huawei ecosystem | Distribution, vertical integration |
+| **Financial VC** | Sequoia, Hillhouse | Returns, optionality |
+| **Crossover public** | UBS, Morgan Stanley | IPO pipeline, public market arb |
+
+*The investor composition of 2026 China AI rounds reflects a shift from financial VC to state and strategic capital.*
+
+### The National IC Fund: When State Capital Meets AI
+
+The entry of China's **National Integrated Circuit Industry Investment Fund** (commonly called the "Big Fund") into DeepSeek's cap table is arguably the most significant development in this funding cycle. The Big Fund — which manages over **300 billion RMB** in state capital — doesn't invest for financial returns alone. It invests for **strategic sovereignty**.
+
+When the Big Fund chooses to lead DeepSeek's round, it's sending three signals:
+
+1. **AI models are now classified as strategic infrastructure**, on par with semiconductors
+2. **DeepSeek is the designated champion** for China's domestic AI chip stack (it already fully adapted V4 to Huawei Ascend)
+3. **The state is insulating Chinese AI from foreign capital withdrawal risks**
+
+This marks a qualitative shift. Previous Chinese AI funding rounds were led by venture capital (Sequoia, Hillhouse, Qiming). The current cycle is dominated by **state-affiliated capital** (Big Fund, China Mobile, CPE Source Peak) and **strategic corporate capital** (Meituan, Huawei ecosystem).
+
+| Investor Type | Representative Investors | Strategic Motive |
+|---------------|-------------------------|------------------|
+| **State-affiliated** | National IC Fund, China Mobile | Sovereignty, domestic supply chain |
+| **Corporate strategic** | Meituan, Huawei ecosystem | Distribution, vertical integration |
+| **Financial VC** | Sequoia, Hillhouse | Returns, optionality |
+| **Crossover public** | UBS, Morgan Stanley | IPO pipeline, public market arb |
+
+*The investor composition of 2026 China AI rounds reflects a shift from financial VC to state and strategic capital.*
+
 ---
 
 ## Risk Factors: What Could Derail the Rally
