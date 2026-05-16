@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Generated: 2026-05-14T22:51:56.913Z -->
-  <!-- Total Posts: 51 -->
+  <!-- Generated: 2026-05-16T02:56:52.834Z -->
+  <!-- Total Posts: 52 -->
 
   <!-- Homepage -->
   <url>
     <loc>https://www.ainchina.com/</loc>
-    <lastmod>2026-05-14</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -15,7 +15,7 @@
   <!-- Blog Index -->
   <url>
     <loc>https://www.ainchina.com/blog/</loc>
-    <lastmod>2026-05-14</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -31,9 +31,35 @@
   <!-- HTML Sitemap -->
   <url>
     <loc>https://www.ainchina.com/sitemap/</loc>
-    <lastmod>2026-05-14</lastmod>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
+  </url>
+
+  <!-- AI Applications -->
+  <url>
+    <loc>https://www.ainchina.com/blog/china-ai-creator-economy-digital-humans-2026/</loc>
+    <lastmod>2026-05-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/china-ai-avatar-revolution-2026/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/ai-interview-coaching-china-2025/</loc>
+    <lastmod>2026-04-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/china-ai-digital-human-revolution/</loc>
+    <lastmod>2026-04-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 
   <!-- Market Intelligence -->
@@ -86,7 +112,7 @@
   <url>
     <loc>https://www.ainchina.com/blog/doubao-charging-ai-free-era-ends-china-2026/</loc>
     <lastmod>2026-05-08</lastmod>
-    <changefreq>daily</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
 
@@ -120,7 +146,7 @@
   <url>
     <loc>https://www.ainchina.com/blog/china-ai-infrastructure-awakening-wuwenxinqiong-deepseek-multimodal-2026/</loc>
     <lastmod>2026-05-09</lastmod>
-    <changefreq>daily</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
@@ -284,13 +310,13 @@
   <url>
     <loc>https://www.ainchina.com/blog/alibaba-token-hub-100b-gambit/</loc>
     <lastmod>2026-04-16</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.ainchina.com/blog/china-ai-agent-explosion-2025-enterprise-deployment/</loc>
     <lastmod>2026-04-15</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
@@ -325,26 +351,6 @@
   </url>
   <url>
     <loc>https://www.ainchina.com/blog/china-ai-avatar-revolution-2025/</loc>
-    <lastmod>2026-04-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- AI Applications -->
-  <url>
-    <loc>https://www.ainchina.com/blog/china-ai-avatar-revolution-2026/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/ai-interview-coaching-china-2025/</loc>
-    <lastmod>2026-04-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/china-ai-digital-human-revolution/</loc>
     <lastmod>2026-04-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
