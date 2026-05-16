@@ -4,7 +4,7 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
-  'china-ai-creator-economy-digital-humans-2026': {
+  '2026-05-16-china-ai-creator-economy-digital-humans': {
     metaTitle: "China's AI Creator Economy: Digital Humans and $45B Valuations Reshaping Content",
     metaDescription: "DeepSeek at $45-50B, Kimi at $20B. AI digital humans and creator tools have turned 48 million Chinese content creators into a monetization machine. Analysis of China's AI creator economy.",
     keywords: 'China AI creator economy, digital human, DeepSeek valuation, Kimi Moonshot AI, MiniMax, AI content creation, Xiaohongshu AI, digital human market, AI creator tools, China content creator',
