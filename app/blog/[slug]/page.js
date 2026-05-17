@@ -4,6 +4,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-ppt-revolution-3-minute-decks-2026': {
+    metaTitle: "The 3-Minute Deck Revolution: China's Office Workers Replace PowerPoint with AI",
+    metaDescription: "With 250M Xiaohongshu views, China's office workers use WPS AI and iSlide AI to generate boardroom-ready presentations in under 3 minutes — at 90% below Western prices.",
+    keywords: 'China AI, AI presentation, WPS AI, iSlide AI, PowerPoint AI, Gamma, Beautiful.ai, AI productivity, China office workers, Xiaohongshu, AI PPT, Chinese software, knowledge work automation',
+  },
   'china-ai-hallucination-blind-spot-crisis-2026': {
     metaTitle: "The Hallucination Blind Spot: China's 249M AI Users and Deception Epidemic",
     metaDescription: "91.5% of Chinese AI users cannot detect hallucinations. 70+ governments deploy DeepSeek unprotected. AI face-swap fraud up 3000%. China's AI trust crisis.",
