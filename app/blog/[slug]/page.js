@@ -4,6 +4,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-hallucination-blind-spot-crisis-2026': {
+    metaTitle: "The Hallucination Blind Spot: China's 249M AI Users and Deception Epidemic",
+    metaDescription: "91.5% of Chinese AI users cannot detect hallucinations. 70+ governments deploy DeepSeek unprotected. AI face-swap fraud up 3000%. China's AI trust crisis.",
+    keywords: 'AI hallucination, China AI safety, DeepSeek security, AI misinformation, Qianxin, Shanghai Jiao Tong University, AI trust, digital deception, AI safety China, AI regulation',
+  },
   'china-ai-creator-economy-digital-humans-2026': {
     metaTitle: "China's AI Creator Economy: Digital Humans and $45B Valuations Reshaping Content",
     metaDescription: "DeepSeek at $45-50B, Kimi at $20B. AI digital humans and creator tools have turned 48 million Chinese content creators into a monetization machine. Analysis of China's AI creator economy.",
