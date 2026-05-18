@@ -505,10 +505,10 @@ China is becoming the world's **"super testing ground"** for AI applications. Fr
 
 ## Related Articles
 
-- [MiniMax Talkie: The 212 Million User AI Companion Empire](./minimax-talkie)
-- [Kimi K2.5: Technical Analysis of 2M Token Context Window](./kimi-k2-5-analysis)
-- [ByteDance Doubao: 200M Users Reshaping Content Creation](./doubao-bytedance)
-- [DeepSeek-V3: The $5.6M Training Run That Changed AI Economics](./deepseek-v3-deep-dive)
+- [MiniMax Talkie: The 212 Million User AI Companion Empire](/blog/minimax-talkie/)
+- [Kimi K2.5: Technical Analysis of 2M Token Context Window](/blog/kimi-2m-context/)
+- [ByteDance Doubao: 200M Users Reshaping Content Creation](/blog/doubao-bytedance/)
+- [DeepSeek-V3: The $5.6M Training Run That Changed AI Economics](/blog/deepseek-v3-deep-dive/)
 
 ---
 

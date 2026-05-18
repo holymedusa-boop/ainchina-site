@@ -294,11 +294,11 @@ The story of China's AI consumer empire isn't a threat narrative or a triumphali
 
 ## Related Articles
 
-- [China's AI Agent Explosion: How 126 Platforms and $1B+ in Enterprise Deals Are Reshaping Global Automation](china-ai-agent-explosion-2025-enterprise-deployment)
-- [Doubao Starts Charging: How China's Biggest AI App Ended the Free Era](doubao-charging-ai-free-era-ends-china-2026)
-- [MiniMax Files for IPO: How China's AI Companion Empire Built 212 Million Users](minimax-ipo-212-million-users-ai-companion-empire)
-- [From Made in China to Trained in China: How Chinese AI Conquered Global Developers](china-ai-global-surge-api-traffic-empire-2026)
-- [China's AI Revolution: 140 Trillion Tokens, DeepSeek V4 on Huawei, and the $700B Arms Race](china-ai-revolution-may-2026-tokens-deepseek-huawei)
+- [China's AI Agent Explosion: How 126 Platforms and $1B+ in Enterprise Deals Are Reshaping Global Automation](/blog/china-ai-agent-explosion-2025-enterprise-deployment/)
+- [Doubao Starts Charging: How China's Biggest AI App Ended the Free Era](/blog/doubao-charging-ai-free-era-ends-china-2026/)
+- [MiniMax Files for IPO: How China's AI Companion Empire Built 212 Million Users](/blog/minimax-ipo-212-million-users-ai-companion-empire/)
+- [From Made in China to Trained in China: How Chinese AI Conquered Global Developers](/blog/china-ai-global-surge-api-traffic-empire-2026/)
+- [China's AI Revolution: 140 Trillion Tokens, DeepSeek V4 on Huawei, and the $700B Arms Race](/blog/china-ai-revolution-may-2026-tokens-deepseek-huawei/)
 
 ---
 

@@ -424,10 +424,10 @@ The question now isn't whether AI will transform our devices—it's which compan
 
 ## Related Articles
 
-- [MiniMax Talkie: The 212 Million User AI Companion Empire](./minimax-talkie)
-- [DeepSeek-V3: The $5.6M Training Run That Changed AI Economics](./deepseek-v3-deep-dive)
-- [AI Thesis Writing Explodes: How 12 Million Chinese Students Are Rewriting Academic Rules](./ai-thesis-writing-china)
-- [Kimi K2.5: Technical Analysis of 2M Token Context Window](./kimi-k2-5-analysis)
+- [MiniMax Talkie: The 212 Million User AI Companion Empire](/blog/minimax-talkie/)
+- [DeepSeek-V3: The $5.6M Training Run That Changed AI Economics](/blog/deepseek-v3-deep-dive/)
+- [AI Thesis Writing Explodes: How 12 Million Chinese Students Are Rewriting Academic Rules](/blog/ai-thesis-writing-china/)
+- [Kimi K2.5: Technical Analysis of 2M Token Context Window](/blog/kimi-2m-context/)
 
 ---
 

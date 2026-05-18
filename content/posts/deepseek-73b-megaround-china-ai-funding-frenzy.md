@@ -344,6 +344,6 @@ DeepSeek's $7.35B round isn't just a fundraising event. It's a declaration that 
 *Published May 11, 2026. Data current as of publication date. Funding figures based on reported negotiations; final terms may differ.*
 
 **Related Reading:**
-- [China's Agent Era Begins: National Policy Framework and the Trillion-Dollar Race (May 10, 2026)](./2026-05-10-china-agent-era-national-policy-anthropic-trillion)
-- [China's AI Infrastructure Awakens: DeepSeek, Kimi, and the Token Economy (May 9, 2026)](./2026-05-09-china-ai-infrastructure-awakening)
-- [China's AI 'War of the Gods': DeepSeek, Kimi, and Open-Source Dominance (May 8, 2026)](./2026-05-08-china-ai-war-of-gods-deepseek-kimi-open-source-dominance)
+- [China's Agent Era Begins: National Policy Framework and the Trillion-Dollar Race (May 10, 2026)](/blog/china-agent-era-national-policy-ai-terminal-standards-anthropic-trillion-2026/)
+- [China's AI Infrastructure Awakens: DeepSeek, Kimi, and the Token Economy (May 9, 2026)](/blog/china-ai-infrastructure-awakening-wuwenxinqiong-deepseek-multimodal-2026/)
+- [Doubao Starts Charging: How China's Biggest AI App Ended the Free Era (May 8, 2026)](/blog/doubao-charging-ai-free-era-ends-china-2026/)

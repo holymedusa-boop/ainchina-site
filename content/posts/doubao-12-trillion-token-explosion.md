@@ -341,10 +341,10 @@ The token wars have begun. And China just made a decisive opening move.
 
 ## Related Articles
 
-- [MiniMax Talkie: The 212 Million User AI Companion Empire](./minimax-talkie)
-- [StepFun's $7 Billion Bet: Winning the Terminal AI Race](./stepfun-terminal-ai-revolution)
-- [DeepSeek-V3: The $5.6M Training Run That Changed AI Economics](./deepseek-v3-deep-dive)
-- [AI Thesis Writing Explodes: How 12 Million Chinese Students Are Rewriting Academic Rules](./ai-thesis-writing-china)
+- [MiniMax Talkie: The 212 Million User AI Companion Empire](/blog/minimax-talkie/)
+- [StepFun's $7 Billion Bet: Winning the Terminal AI Race](/blog/stepfun-terminal-ai-revolution/)
+- [DeepSeek-V3: The $5.6M Training Run That Changed AI Economics](/blog/deepseek-v3-deep-dive/)
+- [AI Thesis Writing Explodes: How 12 Million Chinese Students Are Rewriting Academic Rules](/blog/ai-thesis-writing-china/)
 
 ---
 
