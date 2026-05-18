@@ -306,3 +306,9 @@ The silicon wall that Washington tried to build? Q1 2026 proved it has a door â€
 
 *Cover image: Semiconductor wafer technology by Unsplash*
 *Published on AI in China â€” ai-in-china.com | May 19, 2026*
+
+**Related Articles:**
+- [The Great Silicon Wall: How China's AI Industry Is Defying US Sanctions](/blog/china-ai-chip-war-2026-us-sanctions/)
+- [China's AI Revolution: Education Reform, National Standards, and Ecosystem Breakthroughs](/blog/china-ai-april-infrastructure-2026/)
+- [DeepSeek V4: The Million-Token API Update That Signals China's AI Sovereignty Shift](/blog/deepseek-v4-million-token-china-ai-sovereignty/)
+- [China's AI Revolution: 140 Trillion Tokens, DeepSeek V4 on Huawei, and the $700B Arms Race](/blog/china-ai-revolution-may-2026-tokens-deepseek-huawei/)
