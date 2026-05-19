@@ -49,6 +49,7 @@ export const metadata = {
 }
 
 import './globals.css'
+import CookieConsent from './components/CookieConsent'
 
 export default function RootLayout({ children }) {
   return (
@@ -60,16 +61,19 @@ export default function RootLayout({ children }) {
           src="https://www.googletagmanager.com/gtag/js?id=G-GK21PLH8V8"
         />
         <script
-          async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2386931187050793"
-          crossorigin="anonymous"
-        />
-        <script
           dangerouslySetInnerHTML={{
             __html: `
               window.dataLayer = window.dataLayer || [];
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
+              // Default consent: deny all until user gives consent
+              gtag('consent', 'default', {
+                analytics_storage: 'denied',
+                ad_storage: 'denied',
+                ad_user_data: 'denied',
+                ad_personalization: 'denied',
+                wait_for_update: 500
+              });
               gtag('config', 'G-GK21PLH8V8');
             `,
           }}
@@ -81,6 +85,7 @@ export default function RootLayout({ children }) {
         fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif'
       }}>
         {children}
+        <CookieConsent />
       </body>
     </html>
   )
