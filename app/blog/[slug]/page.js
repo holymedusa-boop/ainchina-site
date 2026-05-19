@@ -4,6 +4,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-interview-revolution-2026': {
+    metaTitle: "AI Interview Coaching: China's 2026 Grad Job Market Hack",
+    metaDescription: "Xiaohongshu searches for AI interview coaching surged 120% in one week. 680K posts. 180M views. How 12.2M Chinese graduates use Kimi, Doubao, and Tongyi to prepare for the brutal 2026 job market.",
+    keywords: 'AI interview coaching, China graduates, job market 2026, Xiaohongshu, Kimi, Doubao, Tongyi Qianwen, AI career tools, Chinese AI, job search AI, interview preparation, AI productivity, China employment, ByteDance, Moonshot AI, Alibaba',
+  },
   'china-ai-ppt-revolution-3-minute-decks-2026': {
     metaTitle: "The 3-Minute Deck Revolution: China's Office Workers Replace PowerPoint with AI",
     metaDescription: "With 250M Xiaohongshu views, China's office workers use WPS AI and iSlide AI to generate boardroom-ready presentations in under 3 minutes — at 90% below Western prices.",
