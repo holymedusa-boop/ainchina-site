@@ -9,6 +9,16 @@ const nextConfig = {
   async redirects() {
     return [
       {
+        source: '/privacy-policy',
+        destination: '/privacy/',
+        permanent: true,
+      },
+      {
+        source: '/privacy-policy/:path*',
+        destination: '/privacy/',
+        permanent: true,
+      },
+      {
         source: '/blog/minimax-talkie-200m-users',
         destination: '/blog/minimax-talkie/',
         permanent: true,
