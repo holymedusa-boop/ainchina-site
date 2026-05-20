@@ -4,6 +4,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-global-expansion-minimax-2-billion-users-2026': {
+    metaTitle: "China AI Goes Global: How MiniMax Built a 236 Million User Empire",
+    metaDescription: "MiniMax earned 73% revenue from overseas in 2025, with Talkie commanding 70 min daily attention. 236M users across 200 countries. How Chinese AI cracked the global code.",
+    keywords: 'MiniMax, Talkie, China AI global, AI companion, Chinese AI出海, MiniMax IPO, AI user growth, international expansion, ByteDance, Character.AI, Replika, AI consumer apps',
+  },
   'china-ai-interview-revolution-2026': {
     metaTitle: "AI Interview Coaching: China's 2026 Grad Job Market Hack",
     metaDescription: "Xiaohongshu searches for AI interview coaching surged 120% in one week. 680K posts. 180M views. How 12.2M Chinese graduates use Kimi, Doubao, and Tongyi to prepare for the brutal 2026 job market.",
