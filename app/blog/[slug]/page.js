@@ -4,6 +4,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'huawei-pangu-ultra-moe-718b-chinese-silicon': {
+    metaTitle: "Huawei Pangu Ultra MoE: The 718-Billion-Parameter Model Buil",
+    metaDescription: "Published: May 22, 2026 | Reading time: 16 minutes | Trending: 🔥🔥🔥🔥",
+    keywords: 'AI Infrastructure, China AI, huawei pangu ultra moe 718b chinese silicon, DeepSeek, Kimi, AI technology',
+  },
   'china-ai-global-expansion-minimax-2-billion-users-2026': {
     metaTitle: "China AI Goes Global: How MiniMax Built a 236 Million User Empire",
     metaDescription: "MiniMax earned 73% revenue from overseas in 2025, with Talkie commanding 70 min daily attention. 236M users across 200 countries. How Chinese AI cracked the global code.",
