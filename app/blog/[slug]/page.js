@@ -5,9 +5,9 @@ import Link from 'next/link'
 // SEO Metadata for each article
 const postMetadata = {
   'huawei-pangu-ultra-moe-718b-chinese-silicon': {
-    metaTitle: "Huawei Pangu Ultra MoE: The 718-Billion-Parameter Model Buil",
-    metaDescription: "Published: May 22, 2026 | Reading time: 16 minutes | Trending: 🔥🔥🔥🔥",
-    keywords: 'AI Infrastructure, China AI, huawei pangu ultra moe 718b chinese silicon, DeepSeek, Kimi, AI technology',
+    metaTitle: "Huawei Pangu Ultra MoE: 718B Params on Chinese Chips",
+    metaDescription: "Huawei shipped Pangu Ultra MoE with 718B parameters trained entirely on Ascend AI silicon. Analysis of architecture, benchmarks, and what native-chip training means for global AI competition.",
+    keywords: 'Huawei Pangu Ultra MoE, Ascend AI chip, China AI sovereignty, 718 billion parameters, Mixture of Experts, NVIDIA alternative, domestic AI chip, Huawei AI model, China semiconductor independence, large language model infrastructure',
   },
   'china-ai-global-expansion-minimax-2-billion-users-2026': {
     metaTitle: "China AI Goes Global: How MiniMax Built a 236 Million User Empire",
