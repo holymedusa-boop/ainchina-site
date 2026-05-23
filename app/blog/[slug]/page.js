@@ -4,6 +4,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-embodied-intelligence-infrastructure-ndrc-robots-factories-malls-homes': {
+    metaTitle: "China Embodied Intelligence Plan: NDRC Robots Infrastructure 2026",
+    metaDescription: "NDRC unveils China's national embodied intelligence infrastructure plan with training bases, big brain/small brain models, and a 2027 target for factory, mall, and home robot deployment.",
+    keywords: 'China embodied intelligence, NDRC robot infrastructure, big brain small brain model, humanoid robot training, China AI policy, 15th Five-Year Plan AI, Zhiyuan robot, GAITC 2026, embodied data collection, China robot factory deployment',
+  },
   'huawei-pangu-ultra-moe-718b-chinese-silicon': {
     metaTitle: "Huawei Pangu Ultra MoE: 718B Params on Chinese Chips",
     metaDescription: "Huawei shipped Pangu Ultra MoE with 718B parameters trained entirely on Ascend AI silicon. Analysis of architecture, benchmarks, and what native-chip training means for global AI competition.",
