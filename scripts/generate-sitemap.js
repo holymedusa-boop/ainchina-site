@@ -27,7 +27,7 @@ function generateSitemap() {
     const metaContent = fs.readFileSync(POSTS_META_PATH, 'utf-8');
     
     // 提取 allPosts 数组（简单解析，假设格式稳定）
-    const postsMatch = metaContent.match(/const\s+allPosts\s*=\s*(\[.*?\]);/s);
+    const postsMatch = metaContent.match(/const\s+allPosts\s*=\s*(\[[\s\S]*?\])\s*(?:;|$)/m);
     if (!postsMatch) {
       throw new Error('无法找到 allPosts 数组');
     }

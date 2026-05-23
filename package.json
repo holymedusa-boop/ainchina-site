@@ -6,9 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "sync-metadata": "node scripts/sync-metadata.js",
     "sitemap": "node scripts/generate-sitemap.js",
     "check-images": "bash scripts/check-images.sh",
-    "prebuild": "npm run check-images && npm run sitemap"
+    "prebuild": "npm run sync-metadata && npm run check-images && npm run sitemap"
   },
   "dependencies": {
     "next": "14.2.3",
