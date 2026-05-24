@@ -4,6 +4,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-storage-twin-giants-ipo-ai-compute-2026': {
+    metaTitle: "China Storage Giants IPO: Changxin + YMTC $500B AI Compute",
+    metaDescription: "Changxin Technology and Yangtze Memory Technologies rush toward IPO with combined $10B Q1 revenue. A deep dive into China's storage chip twin giants and their role in AI infrastructure.",
+    keywords: 'Changxin IPO, Yangtze Memory IPO, China storage chip, DRAM NAND, AI compute infrastructure, semiconductor IPO 2026, CXMT, YMTC, China chip sovereignty',
+  },
   'china-embodied-intelligence-infrastructure-ndrc-robots-factories-malls-homes': {
     metaTitle: "China Embodied Intelligence Plan: NDRC Robots Infrastructure 2026",
     metaDescription: "NDRC unveils China's national embodied intelligence infrastructure plan with training bases, big brain/small brain models, and a 2027 target for factory, mall, and home robot deployment.",
