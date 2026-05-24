@@ -4,6 +4,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'deepseek-permanent-75-percent-api-price-cut-ai-war-2026': {
+    metaTitle: "DeepSeek Permanent 75% API Price Cut: AI Pricing War 2026",
+    metaDescription: "DeepSeek makes V4-Pro API pricing permanent at 25% of original. $0.025 per million cached tokens vs GPT-4o's $72. Inside the pricing war reshaping global AI economics.",
+    keywords: 'DeepSeek API price cut, DeepSeek V4 Pro pricing, AI API pricing war, China AI cost advantage, DeepSeek permanent discount, LLM inference cost, OpenAI pricing comparison, AI token economics',
+  },
   'china-storage-twin-giants-ipo-ai-compute-2026': {
     metaTitle: "China Storage Giants IPO: Changxin + YMTC $500B AI Compute",
     metaDescription: "Changxin Technology and Yangtze Memory Technologies rush toward IPO with combined $10B Q1 revenue. A deep dive into China's storage chip twin giants and their role in AI infrastructure.",
