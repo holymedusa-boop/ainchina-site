@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Generated: 2026-05-24T22:21:07.665Z -->
-  <!-- Total Posts: 61 -->
+  <!-- Generated: 2026-05-25T22:00:57.945Z -->
+  <!-- Total Posts: 63 -->
 
   <!-- Homepage -->
   <url>
     <loc>https://www.ainchina.com/</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -15,7 +15,7 @@
   <!-- Blog Index -->
   <url>
     <loc>https://www.ainchina.com/blog/</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -31,9 +31,49 @@
   <!-- HTML Sitemap -->
   <url>
     <loc>https://www.ainchina.com/sitemap/</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
+  </url>
+
+  <!-- AI Video -->
+  <url>
+    <loc>https://www.ainchina.com/blog/ai-digital-humans-china-billion-dollar-livestream-revolution/</loc>
+    <lastmod>May 26, 2026</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/ai-video-tools-china/</loc>
+    <lastmod>April 1, 2026</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- AI -->
+  <url>
+    <loc>https://www.ainchina.com/blog/china-ai-unicorn-stampede-kimi-deepseek-valuation-shakeout-2026-26/</loc>
+    <lastmod>May 26, 2026</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/china-ai-olympus-65-billion-war-future-intelligence-2026/</loc>
+    <lastmod>May 12, 2026</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/deepseek-73b-megaround-china-ai-funding-frenzy-2026/</loc>
+    <lastmod>May 11, 2026</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/china-agent-era-national-policy-ai-terminal-standards-anthropic-trillion-2026/</loc>
+    <lastmod>May 10, 2026</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
   </url>
 
   <!-- AI Infrastructure -->
@@ -238,7 +278,7 @@
   <url>
     <loc>https://www.ainchina.com/blog/china-ai-ppt-revolution-3-minute-decks-2026/</loc>
     <lastmod>2026-05-18</lastmod>
-    <changefreq>daily</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
@@ -312,26 +352,6 @@
   <url>
     <loc>https://www.ainchina.com/blog/doubao-charging-ai-free-era-ends-china-2026/</loc>
     <lastmod>May 8, 2026</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-
-  <!-- AI -->
-  <url>
-    <loc>https://www.ainchina.com/blog/china-ai-olympus-65-billion-war-future-intelligence-2026/</loc>
-    <lastmod>May 12, 2026</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/deepseek-73b-megaround-china-ai-funding-frenzy-2026/</loc>
-    <lastmod>May 11, 2026</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/china-agent-era-national-policy-ai-terminal-standards-anthropic-trillion-2026/</loc>
-    <lastmod>May 10, 2026</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -412,14 +432,6 @@
     <lastmod>2026-04-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-
-  <!-- AI Video -->
-  <url>
-    <loc>https://www.ainchina.com/blog/ai-video-tools-china/</loc>
-    <lastmod>April 1, 2026</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 
   <!-- Technical Analysis -->

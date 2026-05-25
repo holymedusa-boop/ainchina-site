@@ -4,6 +4,16 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'ai-digital-humans-china-billion-dollar-livestream-revolution': {
+    metaTitle: "China's AI Digital Human Explosion: The 100 Billion Yuan Avatar Economy Reshaping E-Commerce",
+    metaDescription: "",
+    keywords: '',
+  },
+  'china-ai-unicorn-stampede-kimi-deepseek-valuation-shakeout-2026-26': {
+    metaTitle: "China's AI Unicorn Stampede: Kimi's $20B Round, DeepSeek's $500B Valuation, and the Great Model Shakeout of 2026",
+    metaDescription: "",
+    keywords: '',
+  },
   'deepseek-permanent-75-percent-api-price-cut-ai-war-2026': {
     metaTitle: "DeepSeek Permanent 75% API Price Cut: AI Pricing War 2026",
     metaDescription: "DeepSeek makes V4-Pro API pricing permanent at 25% of original. $0.025 per million cached tokens vs GPT-4o's $72. Inside the pricing war reshaping global AI economics.",
