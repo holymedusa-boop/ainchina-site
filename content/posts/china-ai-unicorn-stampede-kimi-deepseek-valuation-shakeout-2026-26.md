@@ -2,7 +2,7 @@
 title: "China's AI Unicorn Stampede: Kimi's $20B Round, DeepSeek's $500B Valuation, and the Great Model Shakeout of 2026"
 slug: "china-ai-unicorn-stampede-kimi-deepseek-valuation-shakeout-2026-26"
 description: "Kimi closes a $20 billion round at $200B valuation. DeepSeek's valuation soars past $500 billion. And two Chinese AI companies have already gone public, with stock prices surging 600%. This is the moment China's AI industry transforms from 'copycat' to 'category leader' — and global investors are racing to catch up."
-date: "May 26, 2026"
+date: "2026-05-26"
 author: "AI in China Team"
 tags: ["DeepSeek", "Kimi", "Zhipu AI", "MiniMax", "ByteDance", "Doubao", "China AI", "AI Funding", "IPO", "Open Source AI", "Qwen", "Alibaba"]
 image: "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?w=1200"

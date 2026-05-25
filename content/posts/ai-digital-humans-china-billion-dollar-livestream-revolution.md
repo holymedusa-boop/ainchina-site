@@ -1,7 +1,7 @@
 ---
 title: "China's AI Digital Human Explosion: The 100 Billion Yuan Avatar Economy Reshaping E-Commerce"
 slug: "ai-digital-humans-china-billion-dollar-livestream-revolution"
-date: "May 26, 2026"
+date: "2026-05-26"
 category: "AI Video"
 readTime: "16 min read"
 ---
