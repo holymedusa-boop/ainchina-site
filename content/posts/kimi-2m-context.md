@@ -1,7 +1,7 @@
 ---
 title: "Kimi K2.5 Technical Analysis: 1 Trillion Parameters, 256K Context, Agent Swarms"
 slug: "kimi-2m-context"
-date: "March 31, 2026"
+date: "2026-03-30"
 category: "AI Chatbots"
 readTime: "16 min read"
 ---

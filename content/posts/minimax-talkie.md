@@ -1,7 +1,7 @@
 ---
 title: "MiniMax: The 212 Million User AI Companion Empire Built on Digital Intimacy"
 slug: "minimax-talkie"
-date: "April 1, 2026"
+date: "2026-03-31"
 category: "AI Chatbots"
 readTime: "16 min read"
 ---

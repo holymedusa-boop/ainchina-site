@@ -1,7 +1,7 @@
 ---
 title: "Doubao Starts Charging: How China's Biggest AI App Ended the Free Era — and What It Means for 345 Million Users"
 slug: "doubao-charging-ai-free-era-ends-china-2026"
-date: "May 8, 2026"
+date: "2026-05-07"
 category: "AI Business"
 excerpt: "ByteDance's Doubao, China's largest AI app with 345M MAU, just launched paid tiers from $9.50 to $72/month. Here's why 120 trillion daily tokens made free unsustainable, and what this signals for the global AI industry."
 metaTitle: "Doubao Charging: China's AI Free Era Ends | 345M Users"

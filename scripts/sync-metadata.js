@@ -21,13 +21,40 @@ function parseFrontmatter(content) {
   return fm
 }
 
+function normalizeDate(dateStr) {
+  // If already ISO format (YYYY-MM-DD), return as-is
+  if (/^\d{4}-\d{2}-\d{2}$/.test(dateStr)) return dateStr
+  // Parse "Month DD, YYYY" format manually (no timezone issues)
+  const monthMap = {
+    'January': '01', 'February': '02', 'March': '03', 'April': '04',
+    'May': '05', 'June': '06', 'July': '07', 'August': '08',
+    'September': '09', 'October': '10', 'November': '11', 'December': '12'
+  }
+  const m = dateStr.match(/([A-Za-z]+)\s+(\d{1,2}),?\s+(\d{4})/)
+  if (m && monthMap[m[1]]) {
+    const month = monthMap[m[1]]
+    const day = m[2].padStart(2, '0')
+    const year = m[3]
+    return `${year}-${month}-${day}`
+  }
+  // Fallback: try Date parsing
+  const d = new Date(dateStr)
+  if (!isNaN(d.getTime())) {
+    const year = d.getFullYear()
+    const month = String(d.getMonth() + 1).padStart(2, '0')
+    const day = String(d.getDate()).padStart(2, '0')
+    return `${year}-${month}-${day}`
+  }
+  return dateStr
+}
+
 function generatePostsMeta(posts) {
   const entries = posts.map(p => {
     const slug = p.slug || path.basename(p.file, '.md')
     const title = p.title || slug
     const category = p.category || 'AI'
     const excerpt = p.excerpt || ''
-    const date = p.date || '2026-01-01'
+    const date = normalizeDate(p.date || '2026-01-01')
     const readTime = p.readTime || '16 min read'
     return `  {
     slug: '${slug}',

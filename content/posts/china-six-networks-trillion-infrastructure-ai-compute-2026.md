@@ -1,7 +1,7 @@
 ---
 title: "China's $7 Trillion 'Six Networks' Strategy: When AI Compute Gets the Same Priority as Water and Electricity"
 slug: "china-six-networks-trillion-infrastructure-ai-compute-2026"
-date: "May 14, 2026"
+date: "2026-05-13"
 category: "AI Policy"
 readTime: "17 min read"
 ---

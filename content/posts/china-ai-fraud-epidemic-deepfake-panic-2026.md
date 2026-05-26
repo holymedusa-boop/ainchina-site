@@ -1,7 +1,7 @@
 ---
 title: "China's AI Fraud Epidemic: Inside the 5.6 Billion View Deepfake Panic Reshaping Digital Trust"
 slug: "china-ai-fraud-epidemic-deepfake-panic-2026"
-date: "May 27, 2026"
+date: "2026-05-27"
 category: "AI Security"
 readTime: "16 min read"
 ---

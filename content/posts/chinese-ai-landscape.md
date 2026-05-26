@@ -1,7 +1,7 @@
 ---
 title: "The Rise of Chinese AI: Complete Ecosystem Map (Foundation to Application)"
 slug: "chinese-ai-landscape"
-date: "March 31, 2026"
+date: "2026-03-30"
 category: "Market Intelligence"
 readTime: "20 min read"
 ---

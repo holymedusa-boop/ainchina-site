@@ -1,7 +1,7 @@
 ---
 title: "Chinese AI Video Generation: Kling, Vidu, Hailuo vs Sora Technical Comparison"
 slug: "ai-video-tools-china"
-date: "April 1, 2026"
+date: "2026-03-31"
 category: "AI Video"
 readTime: "15 min read"
 ---

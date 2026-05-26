@@ -1,7 +1,7 @@
 ---
 title: "ByteDance Doubao: The 200 Million User AI Assistant Reshaping Content Creation"
 slug: "doubao-bytedance"
-date: "April 3, 2026"
+date: "2026-04-02"
 category: "AI Chatbots"
 readTime: "15 min read"
 ---

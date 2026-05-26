@@ -2,7 +2,7 @@
 title: "China's AI Olympus: The $65 Billion War for the Future of Intelligence"
 slug: "china-ai-olympus-65-billion-war-future-intelligence-2026"
 description: "Kimi raises $20B at $200B valuation. DeepSeek valued at $450B. Chinese open-source models now dominate the global top 5. With $65B+ in fresh capital and 140 trillion daily tokens, China's AI industry has entered its 'God of War' era — and the world is just now noticing."
-date: "May 12, 2026"
+date: "2026-05-11"
 author: "AI in China Team"
 tags: ["Kimi", "DeepSeek", "Moonshot AI", "MiniMax", "Zhipu AI", "InfiniGence AI", "China AI Funding", "Open Source AI", "Token Economy", "AI Infrastructure", "Cursor", "Alibaba Token Hub"]
 image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200"

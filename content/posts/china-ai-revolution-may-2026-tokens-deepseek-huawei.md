@@ -1,7 +1,7 @@
 ---
 title: "China's AI Revolution: How 140 Trillion Tokens, DeepSeek V4 on Huawei Chips, and a $700B Arms Race Are Reshaping Global Technology"
 slug: "china-ai-revolution-may-2026-tokens-deepseek-huawei"
-date: "May 4, 2026"
+date: "2026-05-03"
 category: "AI Infrastructure"
 readTime: "16 min read"
 ---

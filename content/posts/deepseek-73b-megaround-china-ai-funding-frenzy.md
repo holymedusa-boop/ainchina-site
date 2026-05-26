@@ -2,7 +2,7 @@
 title: "DeepSeek's $7.3B Mega-Round: China's AI Funding Frenzy Hits Historic Heights"
 slug: "deepseek-73b-megaround-china-ai-funding-frenzy-2026"
 description: "DeepSeek seeks $7.35B in China's largest AI funding round ever. Founder Liang Wenfeng puts in $2.9B of his own money. Moonshot AI hits $20B valuation. InfiniGence AI raises $700M+ for AI infrastructure. And Redis creator antirez builds a dedicated inference engine for DeepSeek V4. May 2026 is the month China's AI industry went all-in."
-date: "May 11, 2026"
+date: "2026-05-10"
 author: "AI in China Team"
 tags: ["DeepSeek", "China AI Funding", "Moonshot AI", "InfiniGence AI", "Liang Wenfeng", "AI Infrastructure", "Token Economy", "China AI Policy", "StepFun", "Redis"]
 image: "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=1200"

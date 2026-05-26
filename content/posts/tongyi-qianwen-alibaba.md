@@ -1,7 +1,7 @@
 ---
 title: "Alibaba Tongyi Qianwen: Enterprise AI Powerhouse"
 slug: "tongyi-qianwen-alibaba"
-date: "April 2, 2026"
+date: "2026-04-01"
 category: "AI Chatbots"
 readTime: "14 min read"
 ---

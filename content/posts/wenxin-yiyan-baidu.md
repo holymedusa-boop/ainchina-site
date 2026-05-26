@@ -1,7 +1,7 @@
 ---
 title: "Baidu Wenxin Yiyan: The 300 Million User AI Assistant"
 slug: "wenxin-yiyan-baidu"
-date: "April 2, 2026"
+date: "2026-04-01"
 category: "AI Chatbots"
 readTime: "14 min read"
 ---

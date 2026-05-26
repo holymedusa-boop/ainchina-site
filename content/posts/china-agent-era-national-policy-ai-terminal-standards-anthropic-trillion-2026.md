@@ -2,7 +2,7 @@
 title: "China's Agent Era Begins: National Policy Framework, AI Terminal Standards, and the Trillion-Dollar Global AI Race"
 slug: "china-agent-era-national-policy-ai-terminal-standards-anthropic-trillion-2026"
 description: "Three Chinese ministries issued the first national AI agent policy. AI terminal intelligence grading standards were released. Anthropic nears $1T valuation. And China's AI models processed 8 trillion tokens in a week. May 2026 will be remembered as the month agents went mainstream."
-date: "May 10, 2026"
+date: "2026-05-09"
 author: "AI in China Team"
 tags: ["AI Agent", "China AI Policy", "Anthropic", "AI Terminal Standards", "DeepSeek", "China AI Patent", "AI Infrastructure", "China US AI Dialogue", "Smart Agent", "GB/Z 177"]
 image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&q=80"

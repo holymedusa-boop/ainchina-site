@@ -74,13 +74,13 @@ const postMetadata = {
     metaDescription: "",
     keywords: '',
   },
-  'china-six-networks-trillion-infrastructure-ai-compute-2026': {
-    metaTitle: "China's $7 Trillion 'Six Networks' Strategy: When AI Compute Gets the Same Priority as Water and Electricity",
+  'china-ai-invisible-empire-consumer-apps-2026': {
+    metaTitle: "The Invisible Empire: How China's AI Consumer Apps Quietly Conquered 2.5 Billion Users — And Why the World Barely Noticed",
     metaDescription: "",
     keywords: '',
   },
-  'china-ai-invisible-empire-consumer-apps-2026': {
-    metaTitle: "The Invisible Empire: How China's AI Consumer Apps Quietly Conquered 2.5 Billion Users — And Why the World Barely Noticed",
+  'china-six-networks-trillion-infrastructure-ai-compute-2026': {
+    metaTitle: "China's $7 Trillion 'Six Networks' Strategy: When AI Compute Gets the Same Priority as Water and Electricity",
     metaDescription: "",
     keywords: '',
   },
@@ -124,13 +124,13 @@ const postMetadata = {
     metaDescription: "",
     keywords: '',
   },
-  'china-ai-revolution-may-2026-tokens-deepseek-huawei': {
-    metaTitle: "China's AI Revolution: How 140 Trillion Tokens, DeepSeek V4 on Huawei Chips, and a $700B Arms Race Are Reshaping Global Technology",
+  'china-ai-deepfake-fraud-crisis-2026': {
+    metaTitle: "China's AI Deepfake Fraud Crisis: How 700,000 Annual Scams and a $40 Billion Global Threat Are Reshaping Trust in the Digital Age",
     metaDescription: "",
     keywords: '',
   },
-  'china-ai-deepfake-fraud-crisis-2026': {
-    metaTitle: "China's AI Deepfake Fraud Crisis: How 700,000 Annual Scams and a $40 Billion Global Threat Are Reshaping Trust in the Digital Age",
+  'china-ai-revolution-may-2026-tokens-deepseek-huawei': {
+    metaTitle: "China's AI Revolution: How 140 Trillion Tokens, DeepSeek V4 on Huawei Chips, and a $700B Arms Race Are Reshaping Global Technology",
     metaDescription: "",
     keywords: '',
   },
@@ -249,23 +249,13 @@ const postMetadata = {
     metaDescription: "",
     keywords: '',
   },
-  'doubao-bytedance': {
-    metaTitle: "ByteDance Doubao: The 200 Million User AI Assistant Reshaping Content Creation",
-    metaDescription: "",
-    keywords: '',
-  },
   'ai-thesis-writing-china': {
     metaTitle: "AI Thesis Writing Explodes: How 12 Million Chinese Students Are Rewriting Academic Rules",
     metaDescription: "",
     keywords: '',
   },
-  'tongyi-qianwen-alibaba': {
-    metaTitle: "Alibaba Tongyi Qianwen: Enterprise AI Powerhouse",
-    metaDescription: "",
-    keywords: '',
-  },
-  'wenxin-yiyan-baidu': {
-    metaTitle: "Baidu Wenxin Yiyan: The 300 Million User AI Assistant",
+  'doubao-bytedance': {
+    metaTitle: "ByteDance Doubao: The 200 Million User AI Assistant Reshaping Content Creation",
     metaDescription: "",
     keywords: '',
   },
@@ -289,13 +279,18 @@ const postMetadata = {
     metaDescription: "",
     keywords: '',
   },
-  'ai-video-tools-china': {
-    metaTitle: "Chinese AI Video Generation: Kling, Vidu, Hailuo vs Sora Technical Comparison",
+  'tongyi-qianwen-alibaba': {
+    metaTitle: "Alibaba Tongyi Qianwen: Enterprise AI Powerhouse",
     metaDescription: "",
     keywords: '',
   },
-  'minimax-talkie': {
-    metaTitle: "MiniMax: The 212 Million User AI Companion Empire Built on Digital Intimacy",
+  'wenxin-yiyan-baidu': {
+    metaTitle: "Baidu Wenxin Yiyan: The 300 Million User AI Assistant",
+    metaDescription: "",
+    keywords: '',
+  },
+  'ai-video-tools-china': {
+    metaTitle: "Chinese AI Video Generation: Kling, Vidu, Hailuo vs Sora Technical Comparison",
     metaDescription: "",
     keywords: '',
   },
@@ -311,6 +306,11 @@ const postMetadata = {
   },
   'deepseek-vs-chatgpt': {
     metaTitle: "DeepSeek vs ChatGPT: Complete Comparison",
+    metaDescription: "",
+    keywords: '',
+  },
+  'minimax-talkie': {
+    metaTitle: "MiniMax: The 212 Million User AI Companion Empire Built on Digital Intimacy",
     metaDescription: "",
     keywords: '',
   },

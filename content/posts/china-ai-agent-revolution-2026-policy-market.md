@@ -1,7 +1,7 @@
 ---
 title: "Inside China's AI Policy Machine: How the Politburo's 'AI+ Action' Directive Is Rewriting Procurement Law"
 slug: "china-ai-agent-revolution-2026-policy-market"
-date: "May 1, 2026"
+date: "2026-04-30"
 category: "AI Policy"
 readTime: "17 min read"
 ---

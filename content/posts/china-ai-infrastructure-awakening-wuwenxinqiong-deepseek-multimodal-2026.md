@@ -1,7 +1,7 @@
 ---
 title: "China's AI Infrastructure Awakens: Wuwenxinqiong's $100M Bet and the Full-Stack Race to Support 8 Trillion Tokens"
 slug: "china-ai-infrastructure-awakening-wuwenxinqiong-deepseek-multimodal-2026"
-date: "May 9, 2026"
+date: "2026-05-08"
 category: "AI Infrastructure"
 excerpt: "Wuwenxinqiong raised $100M+ to build China's AI-native infrastructure. DeepSeek launched multimodal capabilities. Alibaba deployed voice-first PC AI. And China's models processed 8 trillion tokens in a week—surpassing the US for the third consecutive time. The foundation layer is finally catching up to the model layer."
 metaTitle: "China AI Infrastructure Awakens: $100M Wuwenxinqiong + 8T Tokens"
