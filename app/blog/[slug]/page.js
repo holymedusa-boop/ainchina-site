@@ -4,6 +4,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-fraud-epidemic-deepfake-panic-2026': {
+    metaTitle: "China's AI Fraud Epidemic: Inside the 5.6 Billion View Deepfake Panic Reshaping Digital Trust",
+    metaDescription: "",
+    keywords: '',
+  },
   'ai-digital-humans-china-billion-dollar-livestream-revolution': {
     metaTitle: "China's AI Digital Human Explosion: The 100 Billion Yuan Avatar Economy Reshaping E-Commerce",
     metaDescription: "",
