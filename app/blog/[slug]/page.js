@@ -4,6 +4,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-models-dominate-global-api-traffic-token-export-2026': {
+    metaTitle: "China AI Models Dominate Global API Traffic | Token Export Boom",
+    metaDescription: "Chinese AI models capture 61% of global API token consumption on OpenRouter. Analysis of MiniMax, Kimi, DeepSeek's global developer dominance and the token export economy reshaping AI infrastructure.",
+    keywords: 'China AI API, OpenRouter, token export, MiniMax M2.5, Kimi K2.5, DeepSeek V3.2, China AI global dominance, API traffic, token economy, China AI developers, GLM 5, Chinese LLM global market',
+  },
   'china-ai-fraud-epidemic-deepfake-panic-2026': {
     metaTitle: "China's AI Fraud Epidemic: Inside the 5.6 Billion View Deepfake Panic Reshaping Digital Trust",
     metaDescription: "",
