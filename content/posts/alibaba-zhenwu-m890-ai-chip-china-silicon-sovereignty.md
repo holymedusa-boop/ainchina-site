@@ -142,6 +142,9 @@ The **"one generation per year"** cadence is faster than NVIDIA's roughly 18-24 
 
 ## The China AI Chip Landscape: A Market Being Reshaped Overnight
 
+![Data visualization showing market share trends and technology analysis](https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=800)
+*The Chinese AI chip market is experiencing the most dramatic power shift in semiconductor history — NVIDIA's share collapsed from 95% to a projected 8% in just three years.*
+
 The Zhenwu M890 doesn't exist in a vacuum. It lands in a Chinese AI chip market that is undergoing the most dramatic power shift in semiconductor history.
 
 ### NVIDIA's China Collapse
@@ -178,6 +181,9 @@ Cambricon is particularly aggressive — the company plans to deliver **500,000 
 ---
 
 ## The Competitive Moat: What T-Head Has That Others Don't
+
+![Financial investment and technology funding concept](https://images.unsplash.com/photo-1553877522-43269d4ea984?w=800)
+*Alibaba's $53 billion capital commitment over three years signals that T-Head's silicon strategy is not a side project — it is a core pillar of the company's future.*
 
 In a crowded field of Chinese AI chip startups, T-Head has several structural advantages that are difficult to replicate:
 
@@ -235,6 +241,9 @@ China's AI researchers and engineers grew up on CUDA. Even when domestic chips a
 ---
 
 ## The Global Implication: What This Means Beyond China
+
+![Technology data streams and global network connectivity](https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=800)
+*The Zhenwu M890 signals a broader shift in global AI infrastructure — as Chinese chips become competitive, Asia-Pacific markets are increasingly looking for non-American AI hardware alternatives.*
 
 The Zhenwu M890 is not just a Chinese story. It is a signal about the future structure of global AI infrastructure.
 
