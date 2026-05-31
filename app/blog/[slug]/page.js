@@ -4,6 +4,26 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-drama-revolution-bytedance-650m-empire-2026': {
+    metaTitle: "China's AI Drama Revolution: How ByteDance Built a $650M Short-Content Empire in 90 Days",
+    metaDescription: "In 90 days, China's AI short drama market expanded sixfold from $100M to $650M. ByteDance's integrated ecosystem—Doubao for scripts, Jimeng for visuals, Volcano Engine for compute, and Red Fruit for distribution—has compressed production cycles from 90 days to 7-10 days at 20% of traditional cost. With 150M overseas active users and nearly 50% willing to pay, this is China's most explosive AI content revolution yet.",
+    keywords: '["China AI drama", "AI short drama", "ByteDance Red Fruit", "AI video generation China", "Kling AI", "Hailuo AI", "MiniMax video", "AI content creation", "China creator economy", "AI filmmaking"]',
+  },
+  'china-humanoid-robot-tsunami-2026-50k-units-global-dominance': {
+    metaTitle: "China's Humanoid Robot Tsunami: 50,000 Units, 700% Growth, and Why 2026 Is the Year Everything Changed",
+    metaDescription: "",
+    keywords: '',
+  },
+  'alibaba-zhenwu-m890-ai-chip-china-silicon-sovereignty': {
+    metaTitle: "Alibaba Zhenwu M890: 3x AI Chip, 560K Units Shipped",
+    metaDescription: "Alibaba's T-Head Zhenwu M890 AI chip delivers 3x performance with 144GB HBM and 800GB/s bandwidth. 560,000 units shipped. Full analysis of specs, roadmap, and China's AI chip sovereignty shift.",
+    keywords: 'Alibaba Zhenwu M890, T-Head AI chip, China AI chip, NVIDIA alternative, Zhenwu 810E, AI chip sovereignty, Panjiu AL128, ICN Switch, Qwen3.7-Max, China semiconductor, Agentic AI infrastructure, domestic AI chip',
+  },
+  'china-ai-inflection-point-may-2026': {
+    metaTitle: "China's AI Inflection Point: From Burn Rate to Revenue Rate (2026)",
+    metaDescription: "May 2026 delivered the clearest signal yet that China's AI industry has shifted from a cash-burning sprint to a revenue-generating marathon. DeepSeek accepted its first external funding, Alibaba reported AI revenue exceeding 50% of total cloud income, and ByteDance committed $23 billion to infrastructure. Here's the full breakdown.",
+    keywords: '["China AI", "DeepSeek funding", "Alibaba AI revenue", "ByteDance Doubao", "Baidu AI", "Kuaishou Kling", "AI investment China 2026", "China tech funding", "AI commercialization"]',
+  },
   'china-ai-models-dominate-global-api-traffic-token-export-2026': {
     metaTitle: "China AI Models Dominate Global API Traffic | Token Export Boom",
     metaDescription: "Chinese AI models capture 61% of global API token consumption on OpenRouter. Analysis of MiniMax, Kimi, DeepSeek's global developer dominance and the token export economy reshaping AI infrastructure.",

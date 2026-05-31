@@ -6,7 +6,7 @@ author: "AI in China Editorial"
 date: "2026-06-01"
 excerpt: "In 90 days, China's AI short drama market expanded sixfold from $100M to $650M. ByteDance's integrated ecosystem—Doubao for scripts, Jimeng for visuals, Volcano Engine for compute, and Red Fruit for distribution—has compressed production cycles from 90 days to 7-10 days at 20% of traditional cost. With 150M overseas active users and nearly 50% willing to pay, this is China's most explosive AI content revolution yet."
 image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&q=80"
-slug: "china-ai-drama-revolution-bytdance-650m-empire-2026"
+slug: "china-ai-drama-revolution-bytedance-650m-empire-2026"
 ---
 
 ![Film production studio](https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&q=80)
