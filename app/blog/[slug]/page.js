@@ -1,98 +1,16 @@
 import { readFileSync, readdirSync } from 'fs'
 import { join } from 'path'
 import Link from 'next/link'
-import React from 'react'
+import ArticleAd from './ArticleAd'
 
-// === Ad Config (Choose ONE platform and fill in your ID) ===
-const AD_CONFIG = {
-  // Option 1: PropellerAds (Easiest, instant approval)
-  // Register: https://propellerads.com → Get "zone ID" → paste here
-  propellerAds: {
-    enabled: false,  // ← Set to true after you get your zone ID
-    zoneId: 'YOUR_ZONE_ID_HERE',  // e.g. '1234567'
-  },
-  // Option 2: Media.net (Better for English tech content)
-  // Register: https://media.net → Get "ad unit ID" → paste here
-  mediaNet: {
-    enabled: false,
-    dataId: 'YOUR_AD_UNIT_ID_HERE',  // e.g. '123456789'
-  },
-  // Option 3: Adsterra (Alternative to PropellerAds)
-  // Register: https://adsterra.com → Get "placement ID"
-  adsterra: {
-    enabled: false,
-    placementId: 'YOUR_PLACEMENT_ID_HERE',
-  },
-}
-
-// === Ad Component ===
-function ArticleAd({ type = 'content' }) {
-  // Only show ads on client side (skip during SSR to avoid hydration issues)
-  const [isClient, setIsClient] = React.useState(false)
-  React.useEffect(() => setIsClient(true), [])
-  if (!isClient) return null
-
-  const adStyle = {
-    width: '100%',
-    minHeight: type === 'banner' ? '90px' : '250px',
-    backgroundColor: '#111',
-    border: '1px solid #1a1a1a',
-    borderRadius: '12px',
-    display: 'flex',
-    alignItems: 'center',
-    justifyContent: 'center',
-    color: '#555',
-    fontSize: '13px',
-    margin: '24px 0',
-  }
-
-  // PropellerAds Native Banner
-  if (AD_CONFIG.propellerAds.enabled) {
-    return (
-      <div style={adStyle}>
-        <script dangerouslySetInnerHTML={{
-          __html: `(function() { var z="${AD_CONFIG.propellerAds.zoneId}"; var s=document.createElement("script"); s.src="//psdopollnth.com/pfe/current/tag.min.js?z="+z+"&s=1"; s.onload=function(){ if(!document.querySelector('script[src*="zone.js"]')){ var s2=document.createElement('script'); s2.src='//pl2356'+z+'.highcpmrevenuenetwork.com/zone.js?z='+z; document.body.appendChild(s2);} }; document.body.appendChild(s); })();`
-        }} />
-        <span style={{ padding: '20px' }}>Advertisement</span>
-      </div>
-    )
-  }
-
-  // Media.net
-  if (AD_CONFIG.mediaNet.enabled) {
-    return (
-      <div style={adStyle}>
-        <div id={`media-net-${type}`} className="mNet" data-id={AD_CONFIG.mediaNet.dataId} />
-        <script dangerouslySetInnerHTML={{
-          __html: `window._mNHandle=window._mNHandle||{}; window._mNHandle.queue=window._mNHandle.queue||[]; medianet_versionId="3121199";`
-        }} />
-        <script src={`//contextual.media.net/dmedianet.js?cid=${AD_CONFIG.mediaNet.dataId}&dn=ainchina.com`} async />
-      </div>
-    )
-  }
-
-  // Adsterra
-  if (AD_CONFIG.adsterra.enabled) {
-    return (
-      <div style={adStyle}>
-        <script dangerouslySetInnerHTML={{
-          __html: `atOptions={key:'${AD_CONFIG.adsterra.placementId}',format:'iframe',height:250,width:300,params:{}};`
-        }} />
-        <script src="//www.highperformanceformat.com/${AD_CONFIG.adsterra.placementId}/invoke.js" async />
-      </div>
-    )
-  }
-
-  // Placeholder (shows "Advertisement" until you enable a platform)
-  return (
-    <div style={adStyle}>
-      <span>Advertisement — Configure in page.js</span>
-    </div>
-  )
-}
 
 // SEO Metadata for each article
 const postMetadata = {
+  'minimax-300m-users-arr-doubles-a-share-ipo-china-ai-export-2026': {
+    metaTitle: "MiniMax Hits 300M Users and Doubles ARR in 60 Days: The Anatomy of China's Most Successful AI Export",
+    metaDescription: "In 60 days, MiniMax doubled its annual recurring revenue to approximately $300M, crossed 300 million global users, and launched its A-share IPO process. With 73% of revenue from international markets, the company has built the most successful Chinese AI export since TikTok—and the financials reveal both extraordinary growth and a brutal path to profitability.",
+    keywords: '["MiniMax", "Talkie AI", "Hailuo AI", "China AI export", "AI startup IPO", "Chinese AI overseas", "MiniMax M3", "AI companion app", "China AI model pricing", "Token economics", "AI revenue", "A-share IPO"]',
+  },
   'china-ai-drama-revolution-bytedance-650m-empire-2026': {
     metaTitle: "China's AI Drama Revolution: How ByteDance Built a $650M Short-Content Empire in 90 Days",
     metaDescription: "In 90 days, China's AI short drama market expanded sixfold from $100M to $650M. ByteDance's integrated ecosystem—Doubao for scripts, Jimeng for visuals, Volcano Engine for compute, and Red Fruit for distribution—has compressed production cycles from 90 days to 7-10 days at 20% of traditional cost. With 150M overseas active users and nearly 50% willing to pay, this is China's most explosive AI content revolution yet.",
