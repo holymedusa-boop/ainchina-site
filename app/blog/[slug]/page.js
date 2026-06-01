@@ -1,6 +1,95 @@
 import { readFileSync, readdirSync } from 'fs'
 import { join } from 'path'
 import Link from 'next/link'
+import React from 'react'
+
+// === Ad Config (Choose ONE platform and fill in your ID) ===
+const AD_CONFIG = {
+  // Option 1: PropellerAds (Easiest, instant approval)
+  // Register: https://propellerads.com → Get "zone ID" → paste here
+  propellerAds: {
+    enabled: false,  // ← Set to true after you get your zone ID
+    zoneId: 'YOUR_ZONE_ID_HERE',  // e.g. '1234567'
+  },
+  // Option 2: Media.net (Better for English tech content)
+  // Register: https://media.net → Get "ad unit ID" → paste here
+  mediaNet: {
+    enabled: false,
+    dataId: 'YOUR_AD_UNIT_ID_HERE',  // e.g. '123456789'
+  },
+  // Option 3: Adsterra (Alternative to PropellerAds)
+  // Register: https://adsterra.com → Get "placement ID"
+  adsterra: {
+    enabled: false,
+    placementId: 'YOUR_PLACEMENT_ID_HERE',
+  },
+}
+
+// === Ad Component ===
+function ArticleAd({ type = 'content' }) {
+  // Only show ads on client side (skip during SSR to avoid hydration issues)
+  const [isClient, setIsClient] = React.useState(false)
+  React.useEffect(() => setIsClient(true), [])
+  if (!isClient) return null
+
+  const adStyle = {
+    width: '100%',
+    minHeight: type === 'banner' ? '90px' : '250px',
+    backgroundColor: '#111',
+    border: '1px solid #1a1a1a',
+    borderRadius: '12px',
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'center',
+    color: '#555',
+    fontSize: '13px',
+    margin: '24px 0',
+  }
+
+  // PropellerAds Native Banner
+  if (AD_CONFIG.propellerAds.enabled) {
+    return (
+      <div style={adStyle}>
+        <script dangerouslySetInnerHTML={{
+          __html: `(function() { var z="${AD_CONFIG.propellerAds.zoneId}"; var s=document.createElement("script"); s.src="//psdopollnth.com/pfe/current/tag.min.js?z="+z+"&s=1"; s.onload=function(){ if(!document.querySelector('script[src*="zone.js"]')){ var s2=document.createElement('script'); s2.src='//pl2356'+z+'.highcpmrevenuenetwork.com/zone.js?z='+z; document.body.appendChild(s2);} }; document.body.appendChild(s); })();`
+        }} />
+        <span style={{ padding: '20px' }}>Advertisement</span>
+      </div>
+    )
+  }
+
+  // Media.net
+  if (AD_CONFIG.mediaNet.enabled) {
+    return (
+      <div style={adStyle}>
+        <div id={`media-net-${type}`} className="mNet" data-id={AD_CONFIG.mediaNet.dataId} />
+        <script dangerouslySetInnerHTML={{
+          __html: `window._mNHandle=window._mNHandle||{}; window._mNHandle.queue=window._mNHandle.queue||[]; medianet_versionId="3121199";`
+        }} />
+        <script src={`//contextual.media.net/dmedianet.js?cid=${AD_CONFIG.mediaNet.dataId}&dn=ainchina.com`} async />
+      </div>
+    )
+  }
+
+  // Adsterra
+  if (AD_CONFIG.adsterra.enabled) {
+    return (
+      <div style={adStyle}>
+        <script dangerouslySetInnerHTML={{
+          __html: `atOptions={key:'${AD_CONFIG.adsterra.placementId}',format:'iframe',height:250,width:300,params:{}};`
+        }} />
+        <script src="//www.highperformanceformat.com/${AD_CONFIG.adsterra.placementId}/invoke.js" async />
+      </div>
+    )
+  }
+
+  // Placeholder (shows "Advertisement" until you enable a platform)
+  return (
+    <div style={adStyle}>
+      <span>Advertisement — Configure in page.js</span>
+    </div>
+  )
+}
 
 // SEO Metadata for each article
 const postMetadata = {
@@ -598,6 +687,84 @@ export default function BlogPost({ params }) {
     )
   }
 
+  // === Affiliate Link Auto-Injection ===
+  const usedAffiliateLinks = new Set()
+  const affiliateMap = {
+    // 占位符：填入你的 affiliate 链接，每个关键词每篇文章只替换第一次出现
+    // 'DeepSeek': 'https://platform.deepseek.com/',
+    // 'Kimi': 'https://kimi.moonshot.cn/',
+    // 'MiniMax': 'https://www.minimaxi.com/',
+    // 'ByteDance': 'https://www.bytedance.com/',
+    // 'Alibaba': 'https://www.alibaba.com/',
+    // 'Huawei': 'https://www.huawei.com/',
+  }
+
+  function escapeRegex(str) {
+    return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+  }
+
+  function renderAffiliateText(text, keyPrefix) {
+    if (!text || !text.trim()) return <span key={keyPrefix}>{text}</span>
+
+    const availableKeywords = Object.keys(affiliateMap)
+      .filter(k => !usedAffiliateLinks.has(k))
+      .sort((a, b) => b.length - a.length)
+
+    if (availableKeywords.length === 0) return <span key={keyPrefix}>{text}</span>
+
+    const matches = []
+    for (const keyword of availableKeywords) {
+      const regex = new RegExp(`\\b${escapeRegex(keyword)}\\b`, 'gi')
+      let match
+      while ((match = regex.exec(text)) !== null) {
+        matches.push({
+          index: match.index,
+          length: match[0].length,
+          text: match[0],
+          key: keyword,
+        })
+      }
+    }
+
+    matches.sort((a, b) => a.index - b.index)
+
+    const seenKeys = new Set()
+    const uniqueMatches = []
+    for (const m of matches) {
+      if (!seenKeys.has(m.key)) {
+        seenKeys.add(m.key)
+        uniqueMatches.push(m)
+        usedAffiliateLinks.add(m.key)
+      }
+    }
+
+    const parts = []
+    let lastIndex = 0
+    for (const m of uniqueMatches) {
+      if (m.index < lastIndex) continue
+      if (m.index > lastIndex) {
+        parts.push(<span key={`${keyPrefix}-${parts.length}`}>{text.substring(lastIndex, m.index)}</span>)
+      }
+      parts.push(
+        <a key={`${keyPrefix}-${parts.length}`}
+           href={affiliateMap[m.key]}
+           target="_blank"
+           rel="noopener noreferrer sponsored"
+           style={{ color: '#22d3ee', textDecoration: 'underline' }}>
+          {m.text}
+        </a>
+      )
+      lastIndex = m.index + m.length
+    }
+
+    if (lastIndex < text.length) {
+      parts.push(<span key={`${keyPrefix}-${parts.length}`}>{text.substring(lastIndex)}</span>)
+    }
+
+    if (parts.length === 0) return <span key={keyPrefix}>{text}</span>
+    return <span key={keyPrefix}>{parts}</span>
+  }
+
   // Generate JSON-LD structured data
   const jsonLd = {
     '@context': 'https://schema.org',
@@ -899,7 +1066,7 @@ export default function BlogPost({ params }) {
       } else if (part.type === 'bold') {
         return <strong key={idx} style={{ color: '#f5f5f5', fontWeight: '700' }}>{part.text}</strong>
       } else {
-        return <span key={idx}>{part.content}</span>
+        return renderAffiliateText(part.content, idx)
       }
     })
   }
@@ -1008,10 +1175,16 @@ export default function BlogPost({ params }) {
             />
           )}
 
+          {/* Ad Slot — Top of Content */}
+          <ArticleAd type="banner" />
+
           {/* Content */}
           <div>
             {parseContent(post.content)}
           </div>
+
+          {/* Ad Slot — Bottom of Content */}
+          <ArticleAd type="content" />
 
           {/* Author Attribution - E-E-A-T Signal for AdSense */}
           <div style={{ 
