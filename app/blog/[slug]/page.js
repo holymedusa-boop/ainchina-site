@@ -6,6 +6,11 @@ import ArticleAd from './ArticleAd'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'ai-interview-coaching-china-graduates-job-market-2026': {
+    metaTitle: "AI Interview Coaching: How Chinese Graduates Are Using AI to Crack the Job Market (+120% Trend Explosion)",
+    metaDescription: "With Xiaohongshu views surging 120% in one week, AI interview coaching has become the hottest trend among Chinese graduates facing a brutal job market. We analyze 6 platforms, university adoption programs, and the DeepSeek-V3 technology powering this revolution.",
+    keywords: '["AI interview coaching", "China job market", "graduate employment AI", "Chinese AI tools", "DeepSeek V3", "Xiaohongshu trends", "AI recruitment", "OfferGoose", "MianShiMao", "AI career tools", "Chinese graduates", "virtual HR"]',
+  },
   'minimax-300m-users-arr-doubles-a-share-ipo-china-ai-export-2026': {
     metaTitle: "MiniMax Hits 300M Users and Doubles ARR in 60 Days: The Anatomy of China's Most Successful AI Export",
     metaDescription: "In 60 days, MiniMax doubled its annual recurring revenue to approximately $300M, crossed 300 million global users, and launched its A-share IPO process. With 73% of revenue from international markets, the company has built the most successful Chinese AI export since TikTok—and the financials reveal both extraordinary growth and a brutal path to profitability.",

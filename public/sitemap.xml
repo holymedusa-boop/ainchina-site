@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Generated: 2026-06-02T09:39:09.610Z -->
-  <!-- Total Posts: 70 -->
+  <!-- Generated: 2026-06-02T22:55:09.510Z -->
+  <!-- Total Posts: 71 -->
 
   <!-- Homepage -->
   <url>
@@ -37,6 +37,12 @@
   </url>
 
   <!-- AI -->
+  <url>
+    <loc>https://www.ainchina.com/blog/ai-interview-coaching-china-graduates-job-market-2026/</loc>
+    <lastmod>2026-06-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   <url>
     <loc>https://www.ainchina.com/blog/minimax-300m-users-arr-doubles-a-share-ipo-china-ai-export-2026/</loc>
     <lastmod>2026-06-02</lastmod>

@@ -79,10 +79,6 @@ export default function ArticleAd({ type = 'content' }) {
     )
   }
 
-  // Placeholder (shows "Advertisement" until you enable a platform)
-  return (
-    <div style={adStyle}>
-      <span>Advertisement — Configure in page.js</span>
-    </div>
-  )
+  // 当前无展示广告，不渲染任何内容
+  return null
 }
