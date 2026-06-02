@@ -1,1 +1,0 @@
-cd /root/.openclaw/workspace/ainchina-hello && git add -A && git commit -m "fix: add middleware.js for 301 redirect from non-www to www" && git push origin main

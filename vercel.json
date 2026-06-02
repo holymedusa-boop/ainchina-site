@@ -50,6 +50,18 @@
       "source": "/en/index\\.(jsp|htm|html|asp|aspx|php|cgi)",
       "destination": "/",
       "permanent": true
+    },
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "header",
+          "key": "host",
+          "value": "ainchina.com"
+        }
+      ],
+      "destination": "https://www.ainchina.com/$1",
+      "permanent": true
     }
   ]
 }
