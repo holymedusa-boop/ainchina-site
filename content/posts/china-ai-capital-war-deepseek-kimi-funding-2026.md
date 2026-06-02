@@ -280,9 +280,9 @@ Whether DeepSeek at $50B or Kimi at $20B represent fair value or bubble pricing 
 ## Related Articles
 
 - [Stanford AI Index 2026: China's Parallel Run Era](/blog/stanford-ai-index-2026-china-rise/)
-- [MiniMax Talkie: How a Chinese AI App Reached 200M Overseas Users](/blog/minimax-talkie-200m-users/)
+- [MiniMax Talkie: How a Chinese AI App Reached 200M Overseas Users](/blog/minimax-talkie/)
 - [Doubao vs Qwen: China's AI Chatbot Wars Heat Up](/blog/tongyi-qianwen-alibaba/)
-- [DeepSeek V3: The $5.6M Model That Shook Silicon Valley](/blog/deepseek-v3-5-million-model/)
+- [DeepSeek V3: The $5.6M Model That Shook Silicon Valley](/blog/deepseek-v3-deep-dive/)
 
 ---
 

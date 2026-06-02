@@ -371,7 +371,7 @@ What can change is the **social contract around AI use**:
 
 - [China's AI Deepfake Fraud Crisis: How 700,000 Annual Scams and a $40 Billion Global Threat Are Reshaping Trust](/blog/china-ai-deepfake-fraud-crisis-2026/)
 - [DeepSeek's $7.3 Billion Megaround: Inside China's AI Funding Frenzy](/blog/deepseek-73b-megaround-china-ai-funding-frenzy/)
-- [China's AI War of Gods: DeepSeek, Kimi, and the Open-Source Path to Dominance](/blog/china-ai-war-of-gods-deepseek-kimi-open-source-dominance/)
+- [China's AI War of Gods: DeepSeek, Kimi, and the Open-Source Path to Dominance](/blog/china-ai-capital-war-deepseek-kimi-funding-2026/)
 - [The End of Free AI: How Doubao Charging Marks a New Era in China's Token Economy](/blog/doubao-charging-ai-free-era-ends-china-2026/)
 - [Stanford AI Index 2026: The Statistical Case for China's Rise](/blog/stanford-ai-index-2026-china-rise/)
 
