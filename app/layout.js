@@ -56,6 +56,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <head>
         <meta name="bitmedia-site-verification" content="b902973bf84dae184d9b40f40fe677ba" />
+        <meta name="monetag" content="afff26a9e28416688bc1c4dd8f0e0efe" />
         <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
         <script
           async
