@@ -70,6 +70,7 @@ export default function RootLayout({ children }) {
             `,
           }}
         />
+        <script src="https://quge5.com/88/tag.min.js" data-zone="245313" async data-cfasync="false" />
       </head>
       <body style={{ 
         margin: 0, 
