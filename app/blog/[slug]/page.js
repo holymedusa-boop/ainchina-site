@@ -455,6 +455,8 @@ function extractFirstImageFromContent(content) {
   }
   return null
 }
+
+function readPosts() {
   const postsDir = join(process.cwd(), 'content', 'posts')
   const files = readdirSync(postsDir).filter(f => f.endsWith('.md'))
 
