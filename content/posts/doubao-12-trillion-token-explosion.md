@@ -1,10 +1,9 @@
 ---
 title: "Doubao's 12 Trillion Token Explosion: How ByteDance Is Quietly Winning the Global AI Race"
+slug: "doubao-12-trillion-token-explosion"
 date: "2026-04-04"
-excerpt: "ByteDance's Doubao model just hit 12 trillion daily tokens—a 1000x growth in under two years. With China capturing 30% of global AI market share and challenging the US tech oligopoly, here's what this means for the future of artificial intelligence."
 category: "AI Infrastructure"
-tags: ["Doubao", "ByteDance", "Volcano Engine", "China AI", "LLM market share", "AI tokens", "OpenRouter", "AI economics"]
-author: "AI in China"
+readTime: "10 min read"
 ---
 
 # Doubao's 12 Trillion Token Explosion: How ByteDance Is Quietly Winning the Global AI Race
@@ -342,10 +341,10 @@ The token wars have begun. And China just made a decisive opening move.
 
 ## Related Articles
 
-- [MiniMax Talkie: The 212 Million User AI Companion Empire](./minimax-talkie)
-- [StepFun's $7 Billion Bet: Winning the Terminal AI Race](./stepfun-terminal-ai-revolution)
-- [DeepSeek-V3: The $5.6M Training Run That Changed AI Economics](./deepseek-v3-deep-dive)
-- [AI Thesis Writing Explodes: How 12 Million Chinese Students Are Rewriting Academic Rules](./ai-thesis-writing-china)
+- [MiniMax Talkie: The 212 Million User AI Companion Empire](/blog/minimax-talkie/)
+- [StepFun's $7 Billion Bet: Winning the Terminal AI Race](/blog/stepfun-terminal-ai-revolution/)
+- [DeepSeek-V3: The $5.6M Training Run That Changed AI Economics](/blog/deepseek-v3-deep-dive/)
+- [AI Thesis Writing Explodes: How 12 Million Chinese Students Are Rewriting Academic Rules](/blog/ai-thesis-writing-china/)
 
 ---
 

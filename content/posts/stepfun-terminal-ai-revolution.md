@@ -1,17 +1,16 @@
 ---
 title: "StepFun's $7 Billion Bet: How China's AI Unicorn Is Winning the Terminal Race"
+slug: "stepfun-terminal-ai-revolution"
 date: "2026-04-03"
-excerpt: "With a record-breaking $700M funding round and former Megvii founder Yin Qi at the helm, StepFun is pioneering the shift from cloud AI to physical terminals. From 42 million smartphone deployments to AI-powered car cockpits, here's how this Shanghai unicorn is reshaping the AI landscape."
 category: "AI Infrastructure"
-tags: ["StepFun", "AI terminals", "China AI", "Yin Qi", "on-device AI", "smart cockpit", "multimodal AI", "AI unicorns"]
-author: "AI in China"
+readTime: "10 min read"
 ---
 
 # StepFun's $7 Billion Bet: How China's AI Unicorn Is Winning the Terminal Race
 
 *Published: April 3, 2026 | Reading time: 18 minutes | Trending: 🔥🔥🔥🔥🔥*
 
-![StepFun AI Terminal Strategy](https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200)
+![StepFun AI Terminal Strategy](https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?w=1200)
 
 ---
 
@@ -425,10 +424,10 @@ The question now isn't whether AI will transform our devices—it's which compan
 
 ## Related Articles
 
-- [MiniMax Talkie: The 212 Million User AI Companion Empire](./minimax-talkie)
-- [DeepSeek-V3: The $5.6M Training Run That Changed AI Economics](./deepseek-v3-deep-dive)
-- [AI Thesis Writing Explodes: How 12 Million Chinese Students Are Rewriting Academic Rules](./ai-thesis-writing-china)
-- [Kimi K2.5: Technical Analysis of 2M Token Context Window](./kimi-k2-5-analysis)
+- [MiniMax Talkie: The 212 Million User AI Companion Empire](/blog/minimax-talkie/)
+- [DeepSeek-V3: The $5.6M Training Run That Changed AI Economics](/blog/deepseek-v3-deep-dive/)
+- [AI Thesis Writing Explodes: How 12 Million Chinese Students Are Rewriting Academic Rules](/blog/ai-thesis-writing-china/)
+- [Kimi K2.5: Technical Analysis of 2M Token Context Window](/blog/kimi-2m-context/)
 
 ---
 

@@ -1,14 +1,12 @@
 ---
 title: "The AI Interview Coach Phenomenon: How Chinese Graduates Are Using AI to Crack the Job Market"
-description: "Inside China's AI interview coaching boom: How millions of graduates are using Kimi, Doubao, and Tongyi Qianwen to prepare for interviews, with usage surging 120% in one week."
+slug: "ai-interview-coaching-china-2025"
 date: "2026-04-08"
-author: "AI in China Research Team"
+category: "AI Trends"
 readTime: "16 min"
-image: "/images/ai-interview-coach-china.png"
-keywords: ["AI interview coaching", "China AI job market", "Kimi AI", "Doubao", "Tongyi Qianwen", "Chinese graduates employment", "AI career tools"]
 ---
 
-![AI Interview Coaching in China](/images/ai-interview-coach-china.png)
+![AI Interview Coaching in China](https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=1200&h=600&fit=crop)
 
 ## Executive Summary
 
@@ -331,12 +329,20 @@ Below are authentic comments from Chinese social media platforms, translated for
 
 ---
 
-## Related Articles
-
-- [MiniMax Talkie: How a Chinese AI App Reached 2 Billion Users Abroad](/posts/minimax-talkie-global-success)
-- [DeepSeek-V3: The Open Source Model Disrupting China's AI Landscape](/posts/deepseek-v3-deep-dive)
-- [The Rise of AI Thesis Writing in Chinese Universities](/posts/ai-thesis-writing-china)
-
 ---
 
 *This article was published on April 8, 2026. For corrections or inquiries, contact research@ain-china.com*
+
+*This article was published on April 8, 2026. For corrections or inquiries, contact research@ain-china.com*
+
+
+---
+
+---
+
+**Related Articles:**
+
+- [China's AI Revolution: How 140 Trillion Tokens, DeepSeek V4 on Huawei Chips, and a $700B Arms Race Are Reshaping Global Technology](/blog/china-ai-revolution-may-2026-tokens-deepseek-huawei/)
+- [DeepSeek V4's 75% Promo Ends May 31: What Happens Next and Why the AI Pricing War Is Just Beginning](/blog/deepseek-v4-promo-ending-analysis/)
+- [China's AI Global Surge: How Chinese Models Captured 61% of Global API Traffic and Built a $180 Billion Empire](/blog/china-ai-global-surge-api-traffic-empire-2026/)
+- [ByteDance Doubao: The 200 Million User AI Assistant Reshaping Content Creation](/blog/doubao-bytedance/)

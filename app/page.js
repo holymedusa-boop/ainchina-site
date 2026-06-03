@@ -1,63 +1,27 @@
 import Link from 'next/link'
 
-const posts = [
-  {
-    slug: 'qwen3-technical-analysis',
-    title: "Qwen3 Technical Analysis: Alibaba's 235B MoE Model with Hybrid Reasoning Architecture",
-    category: 'Technical Analysis',
-    excerpt: "How Alibaba's latest model achieves GPT-4 level performance with dynamic fast/deep reasoning modes, 22B active parameters, and 70% cost reduction through revolutionary MoE architecture.",
-    date: 'March 31, 2026',
-    readTime: '18 min read'
-  },
-  {
-    slug: 'deepseek-v3-deep-dive',
-    title: 'DeepSeek-V3: The $5.6M Training Run That Changed AI Economics',
-    category: 'Technical Analysis',
-    excerpt: 'How a Hangzhou-based team achieved GPT-4 level performance with 18x cost reduction through MLA attention, FP8 training, and revolutionary MoE architecture. Full technical breakdown.',
-    date: 'March 31, 2026',
-    readTime: '18 min read'
-  },
-  {
-    slug: 'kimi-2m-context',
-    title: "Kimi K2.5 Technical Analysis: 1 Trillion Parameters, 256K Context, Agent Swarms",
-    category: 'AI Chatbots',
-    excerpt: 'Inside Moonshot AI\'s trillion-parameter MoE model with 384 experts, MuonClip optimizer, and autonomous agent orchestration. Why Cursor built Composer 2 on Kimi.',
-    date: 'March 31, 2026',
-    readTime: '16 min read'
-  },
-  {
-    slug: 'chinese-ai-index-2026',
-    title: 'Chinese AI Index 2026: 103 Companies, $15.2B Funding, Market Intelligence',
-    category: 'Market Intelligence',
-    excerpt: 'Complete tracking of China\'s AI ecosystem: DeepSeek, Moonshot, MiniMax, 01.AI, Zhipu funding rounds, valuations, user metrics, and competitive positioning.',
-    date: 'March 31, 2026',
-    readTime: '22 min read'
-  },
-  {
-    slug: 'deepseek-vs-chatgpt',
-    title: 'DeepSeek vs ChatGPT: Benchmarks, Pricing, Architecture Compared (2026)',
-    category: 'AI Chatbots',
-    excerpt: 'Side-by-side analysis of MATH-500, SWE-Bench, API costs, and real-world performance. When to use which model for production applications.',
-    date: 'March 31, 2026',
-    readTime: '14 min read'
-  },
-  {
-    slug: 'chinese-ai-landscape',
-    title: 'The Rise of Chinese AI: Complete Ecosystem Map (Foundation to Application)',
-    category: 'Market Intelligence',
-    excerpt: 'From trillion-parameter models to video generation: mapping China\'s AI stack including chip makers (Biren, Moore Threads), cloud providers, and application layer.',
-    date: 'March 31, 2026',
-    readTime: '20 min read'
-  },
-  {
-    slug: 'ai-video-tools-china',
-    title: 'Chinese AI Video Generation: Kling, Vidu, Hailuo vs Sora Technical Comparison',
-    category: 'AI Video',
-    excerpt: 'Technical analysis of video generation platforms. Kling\'s 2-minute 1080p output, Vidu\'s visual fidelity, Hailuo\'s audio synchronization. Features, pricing, benchmarks.',
-    date: 'April 1, 2026',
-    readTime: '15 min read'
-  }
-]
+// Auto-import posts from shared metadata
+const { allPosts } = require('../lib/posts-meta')
+
+// Helper to format ISO date (2026-04-21) → "April 21, 2026"
+function formatDate(isoDate) {
+  const d = new Date(isoDate + 'T00:00:00')
+  return d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })
+}
+
+// Fallback excerpts for posts missing them in posts-meta.js
+const fallbackExcerpts = {
+  'china-ai-agent-era-140-trillion-tokens-2026': 'On June 1, 2026, three Chinese ministries jointly issued the most comprehensive national policy framework for AI agent governance to date. With 140 trillion daily tokens and DeepSeek\'s 75% price cut, the global AI landscape is being reshaped.',
+  'deepseek-7b-mega-round-china-ai-capital-shift-2026': 'DeepSeek has raised $7.4B in what may be the largest private AI funding round in history. The secretive Chinese lab is going all-in on capital, building a 100,000-GPU cluster and expanding globally at unprecedented scale.',
+  'china-humanoid-robot-tsunami-2026-50k-units-global-dominance': 'China\'s humanoid robot industry is experiencing explosive growth with 50,000 units produced and 700% year-over-year expansion. 2026 marks the year humanoid robots transition from laboratory curiosity to industrial reality.'
+}
+
+// Take the latest 6 posts (already sorted newest-first in posts-meta.js)
+const posts = allPosts.slice(0, 6).map(post => ({
+  ...post,
+  excerpt: post.excerpt || fallbackExcerpts[post.slug] || '',
+  date: formatDate(post.date)
+}))
 
 const stats = [
   { value: '103+', label: 'Companies Tracked' },
@@ -68,7 +32,7 @@ const stats = [
 
 export default function Home() {
   return (
-    <div style={{ minHeight: '100vh' }}>
+    <div style={{ minHeight: '100vh', backgroundColor: '#0a0a0a', color: '#e5e5e5' }}>
       {/* Header */}
       <header style={{ 
         borderBottom: '1px solid #1a1a1a',
@@ -92,14 +56,14 @@ export default function Home() {
             </Link>
             
             <div style={{ display: 'flex', gap: '32px' }}>
-              <Link href="/blog" style={{ 
+              <Link href="/blog/" style={{ 
                 color: '#a3a3a3', 
                 textDecoration: 'none',
                 fontSize: '15px'
               }}>
                 Blog
               </Link>
-              <Link href="/about" style={{ 
+              <Link href="/about/" style={{ 
                 color: '#a3a3a3', 
                 textDecoration: 'none',
                 fontSize: '15px'
@@ -198,7 +162,7 @@ export default function Home() {
             <h2 style={{ fontSize: '28px', fontWeight: 600 }}>Latest Deep Dives</h2>
             
             <Link 
-              href="/blog" 
+              href="/blog/" 
               style={{ 
                 color: '#22d3ee', 
                 textDecoration: 'none',
@@ -219,7 +183,7 @@ export default function Home() {
                 backgroundColor: '#111', 
                 border: '1px solid #1a1a1a',
                 borderRadius: '12px',
-                padding: '28px',
+                overflow: 'hidden',
                 transition: 'all 0.2s',
                 cursor: 'pointer',
                 ':hover': {
@@ -227,43 +191,55 @@ export default function Home() {
                 }
               }}
               >
-                <div style={{ 
-                  fontSize: '11px', 
-                  fontWeight: 600, 
-                  color: '#22d3ee', 
-                  marginBottom: '12px',
-                  textTransform: 'uppercase',
-                  letterSpacing: '0.5px'
-                }}>
-                  {post.category}
-                </div>
-                
-                <Link 
-                  href={`/blog/${post.slug}`}
-                  style={{ textDecoration: 'none', color: 'inherit' }}
-                >
-                  <h3 style={{ 
-                    fontSize: '20px', 
+                {post.image && (
+                  <div style={{ width: '100%', height: '200px', overflow: 'hidden' }}>
+                    <img
+                      src={post.image}
+                      alt={post.title}
+                      style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+                      loading="lazy"
+                    />
+                  </div>
+                )}
+                <div style={{ padding: '28px' }}>
+                  <div style={{ 
+                    fontSize: '11px', 
                     fontWeight: 600, 
+                    color: '#22d3ee', 
                     marginBottom: '12px',
-                    lineHeight: 1.4
+                    textTransform: 'uppercase',
+                    letterSpacing: '0.5px'
                   }}>
-                    {post.title}
-                  </h3>
-                </Link>
-                
-                <p style={{ fontSize: '15px', color: '#a3a3a3', lineHeight: 1.6, marginBottom: '16px' }}>
-                  {post.excerpt}
-                </p>
-                
-                <div style={{ 
-                  display: 'flex', 
-                  justifyContent: 'space-between',
-                  fontSize: '13px',
-                  color: '#737373'
-                }}>
-                  <span>{post.date}</span>
-                  <span>{post.readTime}</span>
+                    {post.category}
+                  </div>
+                  
+                  <Link 
+                    href={`/blog/${post.slug}/`}
+                    style={{ textDecoration: 'none', color: 'inherit' }}
+                  >
+                    <h3 style={{ 
+                      fontSize: '20px', 
+                      fontWeight: 600, 
+                      marginBottom: '12px',
+                      lineHeight: 1.4
+                    }}>
+                      {post.title}
+                    </h3>
+                  </Link>
+                  
+                  <p style={{ fontSize: '15px', color: '#a3a3a3', lineHeight: 1.6, marginBottom: '16px' }}>
+                    {post.excerpt}
+                  </p>
+                  
+                  <div style={{ 
+                    display: 'flex', 
+                    justifyContent: 'space-between',
+                    fontSize: '13px',
+                    color: '#737373'
+                  }}>
+                    <span>{post.date}</span>
+                    <span>{post.readTime}</span>
+                  </div>
                 </div>
               </article>
             ))}
@@ -306,6 +282,22 @@ export default function Home() {
         borderTop: '1px solid #1a1a1a',
         textAlign: 'center'
       }}>
+        <div style={{ 
+          maxWidth: '800px',
+          margin: '0 auto',
+          display: 'flex',
+          justifyContent: 'center',
+          gap: '24px',
+          flexWrap: 'wrap',
+          marginBottom: '24px'
+        }}>
+          <a href="/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>Home</a>
+          <a href="/blog/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>Blog</a>
+          <a href="/about/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>About</a>
+          <a href="/contact/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>Contact</a>
+          <a href="/privacy/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>Privacy</a>
+          <a href="/terms/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>Terms</a>
+        </div>
         <p style={{ color: '#737373', fontSize: '14px' }}>© 2026 AI in China. All rights reserved.</p>
       </footer>
     </div>

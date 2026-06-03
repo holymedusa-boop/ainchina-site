@@ -23,14 +23,14 @@ export default function Qwen3Article() {
             </a>
             
             <div style={{ display: 'flex', gap: '32px' }}>
-              <a href="/blog" style={{ 
+              <a href="/blog/" style={{ 
                 color: '#a3a3a3', 
                 textDecoration: 'none',
                 fontSize: '15px'
               }}>
                 Blog
               </a>
-              <a href="/about" style={{ 
+              <a href="/about/" style={{ 
                 color: '#a3a3a3', 
                 textDecoration: 'none',
                 fontSize: '15px'

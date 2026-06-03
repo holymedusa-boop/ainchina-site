@@ -1,9 +1,9 @@
 ---
 title: "AI Thesis Writing Explodes: How 12 Million Chinese Students Are Rewriting Academic Rules"
+slug: "ai-thesis-writing-china"
 date: "2026-04-02"
-excerpt: "With 320 million views on Xiaohongshu, AI-assisted thesis writing has become a phenomenon reshaping China's higher education. A deep dive into the tools, workflows, and global implications of this academic revolution."
 category: "AI Chatbots"
-tags: ["AI writing", "Chinese students", "thesis writing", "education technology", "Kimi", "academic AI"]
+readTime: "16 min read"
 ---
 
 # AI Thesis Writing Explodes: How 12 Million Chinese Students Are Rewriting Academic Rules
@@ -505,10 +505,10 @@ China is becoming the world's **"super testing ground"** for AI applications. Fr
 
 ## Related Articles
 
-- [MiniMax Talkie: The 212 Million User AI Companion Empire](./minimax-talkie)
-- [Kimi K2.5: Technical Analysis of 2M Token Context Window](./kimi-k2-5-analysis)
-- [ByteDance Doubao: 200M Users Reshaping Content Creation](./doubao-bytedance)
-- [DeepSeek-V3: The $5.6M Training Run That Changed AI Economics](./deepseek-v3-deep-dive)
+- [MiniMax Talkie: The 212 Million User AI Companion Empire](/blog/minimax-talkie/)
+- [Kimi K2.5: Technical Analysis of 2M Token Context Window](/blog/kimi-2m-context/)
+- [ByteDance Doubao: 200M Users Reshaping Content Creation](/blog/doubao-bytedance/)
+- [DeepSeek-V3: The $5.6M Training Run That Changed AI Economics](/blog/deepseek-v3-deep-dive/)
 
 ---
 
