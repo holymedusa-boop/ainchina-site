@@ -63,6 +63,41 @@ function normalizeDate(dateStr) {
   return dateStr
 }
 
+// Extract excerpt from article content when frontmatter lacks it
+function extractExcerpt(content, maxLength = 200) {
+  // Remove frontmatter
+  const body = content.replace(/^---[\s\S]*?---/, '').trim()
+  
+  // Find first paragraph that's not a heading, image, table, or HTML
+  const paragraphs = body.split('\n\n')
+  for (const para of paragraphs) {
+    const trimmed = para.trim()
+    // Skip headings, images, tables, HTML tags, captions
+    if (trimmed.startsWith('#') || trimmed.startsWith('![') || 
+        trimmed.startsWith('|') || trimmed.startsWith('<') ||
+        trimmed.startsWith('*') && trimmed.endsWith('*') ||
+        trimmed.startsWith('[') || trimmed.length < 50) {
+      continue
+    }
+    // Clean markdown formatting
+    let clean = trimmed
+      .replace(/\*\*(.*?)\*\*/g, '$1')  // bold
+      .replace(/\*(.*?)\*/g, '$1')      // italic
+      .replace(/\[(.*?)\]\(.*?\)/g, '$1') // links
+      .replace(/`(.*?)`/g, '$1')         // code
+      .replace(/#{1,6}\s+/g, '')         // headings
+      .trim()
+    
+    if (clean.length >= 50) {
+      if (clean.length > maxLength) {
+        clean = clean.substring(0, maxLength).replace(/\s+\S*$/, '') + '...'
+      }
+      return clean
+    }
+  }
+  return ''
+}
+
 function generatePostsMeta(posts) {
   const entries = posts.map(p => {
     const slug = p.slug || path.basename(p.file, '.md')
@@ -127,6 +162,10 @@ function main() {
       fm.file = file
       // Extract first image from article content for card display
       fm.image = extractFirstImage(content)
+      // Auto-generate excerpt if missing
+      if (!fm.excerpt || fm.excerpt.trim() === '') {
+        fm.excerpt = extractExcerpt(content)
+      }
       posts.push(fm)
     }
   }
