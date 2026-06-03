@@ -21,6 +21,21 @@ function parseFrontmatter(content) {
   return fm
 }
 
+function extractFirstImage(content) {
+  // Extract first Unsplash image from markdown content
+  const imgMatch = content.match(/!\[.*?\]\((https:\/\/images\.unsplash\.com\/[^)]+)\)/)
+  if (imgMatch) {
+    let url = imgMatch[1]
+    // Add dimensions if missing (for card display)
+    if (!url.includes('w=')) {
+      url += (url.includes('?') ? '&' : '?') + 'w=600&h=400&fit=crop'
+    }
+    return url
+  }
+  // Fallback to a default image
+  return 'https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=400&fit=crop'
+}
+
 function normalizeDate(dateStr) {
   // If already ISO format (YYYY-MM-DD), return as-is
   if (/^\d{4}-\d{2}-\d{2}$/.test(dateStr)) return dateStr
@@ -56,13 +71,15 @@ function generatePostsMeta(posts) {
     const excerpt = p.excerpt || ''
     const date = normalizeDate(p.date || '2026-01-01')
     const readTime = p.readTime || '16 min read'
+    const image = p.image || ''
     return `  {
     slug: '${slug}',
     title: ${JSON.stringify(title)},
     category: ${JSON.stringify(category)},
     excerpt: ${JSON.stringify(excerpt)},
     date: '${date}',
-    readTime: '${readTime}'
+    readTime: '${readTime}',
+    image: ${JSON.stringify(image)}
   }`
   }).join(',\n')
 
@@ -108,6 +125,8 @@ function main() {
     const fm = parseFrontmatter(content)
     if (fm) {
       fm.file = file
+      // Extract first image from article content for card display
+      fm.image = extractFirstImage(content)
       posts.push(fm)
     }
   }

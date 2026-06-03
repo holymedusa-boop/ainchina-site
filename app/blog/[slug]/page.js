@@ -22,12 +22,12 @@ const postMetadata = {
   },
   'minimax-300m-users-arr-doubles-a-share-ipo-china-ai-export-2026': {
     metaTitle: "MiniMax Hits 300M Users and Doubles ARR in 60 Days: The Anatomy of China's Most Successful AI Export",
-    metaDescription: "In 60 days, MiniMax doubled its annual recurring revenue to approximately $300M, crossed 300 million global users, and launched its A-share IPO process. With 73% of revenue from international markets, the company has built the most successful Chinese AI export since TikTok-and the financials reveal both extraordinary growth and a brutal path to profitability.",
+    metaDescription: "In 60 days, MiniMax doubled its annual recurring revenue to approximately $300M, crossed 300 million global users, and launched its A-share IPO process. With 73% of revenue from international markets, the company has built the most successful Chinese AI export since TikTok—and the financials reveal both extraordinary growth and a brutal path to profitability.",
     keywords: '["MiniMax", "Talkie AI", "Hailuo AI", "China AI export", "AI startup IPO", "Chinese AI overseas", "MiniMax M3", "AI companion app", "China AI model pricing", "Token economics", "AI revenue", "A-share IPO"]',
   },
   'china-ai-drama-revolution-bytedance-650m-empire-2026': {
     metaTitle: "China's AI Drama Revolution: How ByteDance Built a $650M Short-Content Empire in 90 Days",
-    metaDescription: "In 90 days, China's AI short drama market expanded sixfold from $100M to $650M. ByteDance's integrated ecosystem-Doubao for scripts, Jimeng for visuals, Volcano Engine for compute, and Red Fruit for distribution-has compressed production cycles from 90 days to 7-10 days at 20% of traditional cost. With 150M overseas active users and nearly 50% willing to pay, this is China's most explosive AI content revolution yet.",
+    metaDescription: "In 90 days, China's AI short drama market expanded sixfold from $100M to $650M. ByteDance's integrated ecosystem—Doubao for scripts, Jimeng for visuals, Volcano Engine for compute, and Red Fruit for distribution—has compressed production cycles from 90 days to 7-10 days at 20% of traditional cost. With 150M overseas active users and nearly 50% willing to pay, this is China's most explosive AI content revolution yet.",
     keywords: '["China AI drama", "AI short drama", "ByteDance Red Fruit", "AI video generation China", "Kling AI", "Hailuo AI", "MiniMax video", "AI content creation", "China creator economy", "AI filmmaking"]',
   },
   'china-humanoid-robot-tsunami-2026-50k-units-global-dominance': {
@@ -121,7 +121,7 @@ const postMetadata = {
     keywords: '',
   },
   'china-ai-invisible-empire-consumer-apps-2026': {
-    metaTitle: "The Invisible Empire: How China's AI Consumer Apps Quietly Conquered 2.5 Billion Users - And Why the World Barely Noticed",
+    metaTitle: "The Invisible Empire: How China's AI Consumer Apps Quietly Conquered 2.5 Billion Users — And Why the World Barely Noticed",
     metaDescription: "",
     keywords: '',
   },
@@ -216,7 +216,7 @@ const postMetadata = {
     keywords: '',
   },
   'china-embodied-intelligence-robot-marathon-2026': {
-    metaTitle: "China's Embodied Intelligence Revolution: When Robots Outrun Humans - April 2026",
+    metaTitle: "China's Embodied Intelligence Revolution: When Robots Outrun Humans — April 2026",
     metaDescription: "",
     keywords: '',
   },
