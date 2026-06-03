@@ -4,11 +4,11 @@ description: "Zhipu's market cap hits $880 billion HKD after 1,600% surge. MiniM
 date: "2026-06-04"
 author: "AI in China Research Team"
 readTime: "16 min"
-image: "/images/china-ai-ipo-wave-2026.png"
+image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&h=600&fit=crop"
 keywords: ["China AI IPO", "Zhipu AI", "MiniMax", "China AI market", "AI valuation", "Hong Kong stock market", "DeepSeek", "AI model companies", "Chinese AI stocks", "AI investment 2026"]
 ---
 
-![China AI IPO Wave 2026](/images/china-ai-ipo-wave-2026.png)
+![China AI IPO Wave 2026](https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80)
 *China's AI unicorns are trading at valuations that would have seemed impossible just 18 months ago*
 
 ## Executive Summary
