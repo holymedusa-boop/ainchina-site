@@ -1,6 +1,8 @@
 import Link from 'next/link'
 import BlogSearch from './BlogSearch'
 
+// Force rebuild: 2026-06-03-v2
+
 export const metadata = {
   metadataBase: new URL('https://www.ainchina.com'),
   title: 'AI in China Blog',
