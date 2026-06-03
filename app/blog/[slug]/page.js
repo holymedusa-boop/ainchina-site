@@ -1,7 +1,6 @@
 import { readFileSync, readdirSync } from 'fs'
 import { join } from 'path'
 import Link from 'next/link'
-import ArticleAd from './ArticleAd'
 
 
 // SEO Metadata for each article
@@ -13,12 +12,12 @@ const postMetadata = {
   },
   'minimax-300m-users-arr-doubles-a-share-ipo-china-ai-export-2026': {
     metaTitle: "MiniMax Hits 300M Users and Doubles ARR in 60 Days: The Anatomy of China's Most Successful AI Export",
-    metaDescription: "In 60 days, MiniMax doubled its annual recurring revenue to approximately $300M, crossed 300 million global users, and launched its A-share IPO process. With 73% of revenue from international markets, the company has built the most successful Chinese AI export since TikTok—and the financials reveal both extraordinary growth and a brutal path to profitability.",
+    metaDescription: "In 60 days, MiniMax doubled its annual recurring revenue to approximately $300M, crossed 300 million global users, and launched its A-share IPO process. With 73% of revenue from international markets, the company has built the most successful Chinese AI export since TikTok-and the financials reveal both extraordinary growth and a brutal path to profitability.",
     keywords: '["MiniMax", "Talkie AI", "Hailuo AI", "China AI export", "AI startup IPO", "Chinese AI overseas", "MiniMax M3", "AI companion app", "China AI model pricing", "Token economics", "AI revenue", "A-share IPO"]',
   },
   'china-ai-drama-revolution-bytedance-650m-empire-2026': {
     metaTitle: "China's AI Drama Revolution: How ByteDance Built a $650M Short-Content Empire in 90 Days",
-    metaDescription: "In 90 days, China's AI short drama market expanded sixfold from $100M to $650M. ByteDance's integrated ecosystem—Doubao for scripts, Jimeng for visuals, Volcano Engine for compute, and Red Fruit for distribution—has compressed production cycles from 90 days to 7-10 days at 20% of traditional cost. With 150M overseas active users and nearly 50% willing to pay, this is China's most explosive AI content revolution yet.",
+    metaDescription: "In 90 days, China's AI short drama market expanded sixfold from $100M to $650M. ByteDance's integrated ecosystem-Doubao for scripts, Jimeng for visuals, Volcano Engine for compute, and Red Fruit for distribution-has compressed production cycles from 90 days to 7-10 days at 20% of traditional cost. With 150M overseas active users and nearly 50% willing to pay, this is China's most explosive AI content revolution yet.",
     keywords: '["China AI drama", "AI short drama", "ByteDance Red Fruit", "AI video generation China", "Kling AI", "Hailuo AI", "MiniMax video", "AI content creation", "China creator economy", "AI filmmaking"]',
   },
   'china-humanoid-robot-tsunami-2026-50k-units-global-dominance': {
@@ -112,7 +111,7 @@ const postMetadata = {
     keywords: '',
   },
   'china-ai-invisible-empire-consumer-apps-2026': {
-    metaTitle: "The Invisible Empire: How China's AI Consumer Apps Quietly Conquered 2.5 Billion Users — And Why the World Barely Noticed",
+    metaTitle: "The Invisible Empire: How China's AI Consumer Apps Quietly Conquered 2.5 Billion Users - And Why the World Barely Noticed",
     metaDescription: "",
     keywords: '',
   },
@@ -207,7 +206,7 @@ const postMetadata = {
     keywords: '',
   },
   'china-embodied-intelligence-robot-marathon-2026': {
-    metaTitle: "China's Embodied Intelligence Revolution: When Robots Outrun Humans — April 2026",
+    metaTitle: "China's Embodied Intelligence Revolution: When Robots Outrun Humans - April 2026",
     metaDescription: "",
     keywords: '',
   },
@@ -369,7 +368,7 @@ function parseYamlFrontmatter(text) {
   const lines = text.split('\n')
   let currentKey = null
   let currentValue = []
-  
+
   for (const line of lines) {
     const match = line.match(/^(\w+):\s*(.*)$/)
     if (match) {
@@ -380,7 +379,7 @@ function parseYamlFrontmatter(text) {
       currentKey = match[1]
       let value = match[2].trim()
       // Remove surrounding quotes
-      if ((value.startsWith('"') && value.endsWith('"')) || 
+      if ((value.startsWith('"') && value.endsWith('"')) ||
           (value.startsWith("'") && value.endsWith("'"))) {
         value = value.slice(1, -1)
       }
@@ -405,15 +404,15 @@ function parseJsMetadata(raw) {
   // Extract title: "..." or title: '...'
   const titleMatch = raw.match(/title:\s*["']([^"']+)["']/)
   if (titleMatch) result.title = titleMatch[1]
-  
+
   // Extract description
   const descMatch = raw.match(/description:\s*["']([^"']+)["']/)
   if (descMatch) result.description = descMatch[1]
-  
+
   // Try to extract date from slug or content
   const dateMatch = raw.match(/date:\s*["']([^"']+)["']/)
   if (dateMatch) result.date = dateMatch[1]
-  
+
   return result
 }
 
@@ -437,22 +436,22 @@ function extractDateFromSlug(slug) {
 function readPosts() {
   const postsDir = join(process.cwd(), 'content', 'posts')
   const files = readdirSync(postsDir).filter(f => f.endsWith('.md'))
-  
+
   const posts = {}
   for (const file of files) {
     const slug = file.replace('.md', '')
     const raw = readFileSync(join(postsDir, file), 'utf-8')
-    
+
     let meta = {}
     let content = raw
-    
+
     // Case 1: File starts with --- → YAML or JSON frontmatter
     if (raw.trimStart().startsWith('---')) {
       const parts = raw.split('---')
       if (parts.length >= 3) {
         const frontmatter = parts[1].trim()
         content = parts.slice(2).join('---').trim()
-        
+
         // Try JSON first (starts with {)
         if (frontmatter.startsWith('{')) {
           try {
@@ -491,34 +490,34 @@ function readPosts() {
         meta.keywords = metaBlockMatch[3].trim()
       }
     }
-    
+
     // Fallback: extract title from content if not in frontmatter
     if (!meta.title) {
       meta.title = extractTitleFromContent(content)
     }
-    
+
     // Fallback: extract date from slug if not in frontmatter
     if (!meta.date) {
       meta.date = extractDateFromSlug(slug)
     }
-    
+
     // Skip if we still can't get title
     if (!meta.title) {
       console.error('Failed to parse article (no title found):', slug)
       continue
     }
-    
+
     // Fallback date if still missing
     if (!meta.date) {
       meta.date = '2026-01-01' // Default fallback
     }
-    
+
     // Format date
     const dateObj = new Date(meta.date)
-    const formattedDate = isNaN(dateObj) 
-      ? meta.date 
+    const formattedDate = isNaN(dateObj)
+      ? meta.date
       : dateObj.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })
-    
+
     posts[slug] = {
       title: meta.title,
       category: meta.category || 'AI Trends',
@@ -538,18 +537,18 @@ export async function generateMetadata({ params }) {
   const { slug } = params
   const post = posts[slug]
   const meta = postMetadata[slug]
-  
+
   if (!post) {
     return {
       title: 'Article Not Found',
     }
   }
-  
+
   // Use postMetadata if available, otherwise generate defaults from post data
   const title = meta?.metaTitle || post.title
   const description = meta?.metaDescription || post.title
   const keywords = meta?.keywords || 'China AI, artificial intelligence'
-  
+
   return {
     title: title,
     description: description,
@@ -594,11 +593,11 @@ export default function BlogPost({ params }) {
   const nextSlug = currentIndex < allSlugs.length - 1 ? allSlugs[currentIndex + 1] : null
   const prevPost = prevSlug ? posts[prevSlug] : null
   const nextPost = nextSlug ? posts[nextSlug] : null
-  
+
   if (!post) {
     return (
-      <div style={{ 
-        minHeight: '100vh', 
+      <div style={{
+        minHeight: '100vh',
         backgroundColor: '#0a0a0a',
         color: '#e5e5e5',
         padding: '100px',
@@ -727,15 +726,15 @@ export default function BlogPost({ params }) {
     let currentCodeBlock = null
     let currentQuote = null
     let i = 0
-    
+
     while (i < lines.length) {
       const line = lines[i]
-      
+
       // Code blocks
       if (line.startsWith('```')) {
         if (currentCodeBlock) {
           elements.push(
-            <pre key={i} style={{ 
+            <pre key={i} style={{
               backgroundColor: '#1a1a1a',
               padding: '24px',
               borderRadius: '12px',
@@ -744,7 +743,7 @@ export default function BlogPost({ params }) {
               border: '1px solid #2a2a2a'
             }}
             >
-              <code style={{ 
+              <code style={{
                 fontFamily: 'ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace',
                 fontSize: '14px',
                 lineHeight: '1.6',
@@ -762,13 +761,13 @@ export default function BlogPost({ params }) {
         i++
         continue
       }
-      
+
       if (currentCodeBlock !== null) {
         currentCodeBlock.push(line)
         i++
         continue
       }
-      
+
       // Blockquotes
       if (line.startsWith('> ')) {
         if (!currentQuote) {
@@ -779,7 +778,7 @@ export default function BlogPost({ params }) {
         continue
       } else if (currentQuote) {
         elements.push(
-          <blockquote key={i} style={{ 
+          <blockquote key={i} style={{
             borderLeft: '4px solid #22d3ee',
             paddingLeft: '24px',
             margin: '24px 0',
@@ -795,7 +794,7 @@ export default function BlogPost({ params }) {
         currentQuote = null
         continue
       }
-      
+
       // Tables
       if (line.startsWith('|')) {
         if (!currentTable) {
@@ -820,8 +819,8 @@ export default function BlogPost({ params }) {
       } else if (currentTable) {
         elements.push(
           <div key={i} style={{ overflowX: 'auto', margin: '24px 0' }}>
-            <table style={{ 
-              width: '100%', 
+            <table style={{
+              width: '100%',
               borderCollapse: 'collapse',
               fontSize: '14px'
             }}
@@ -829,7 +828,7 @@ export default function BlogPost({ params }) {
               <thead>
                 <tr>
                   {currentTable.headers.map((h, idx) => (
-                    <th key={idx} style={{ 
+                    <th key={idx} style={{
                       borderBottom: '2px solid #22d3ee',
                       padding: '12px 16px',
                       textAlign: 'left',
@@ -844,7 +843,7 @@ export default function BlogPost({ params }) {
                 {currentTable.rows.map((row, ridx) => (
                   <tr key={ridx}>
                     {row.map((cell, cidx) => (
-                      <td key={cidx} style={{ 
+                      <td key={cidx} style={{
                         borderBottom: '1px solid #1a1a1a',
                         padding: '12px 16px',
                         color: '#e5e5e5'
@@ -860,13 +859,13 @@ export default function BlogPost({ params }) {
         currentTable = null
         continue
       }
-      
+
       // Empty lines
       if (!line.trim()) {
         i++
         continue
       }
-      
+
       // Headings
       if (line.startsWith('# ')) {
         elements.push(
@@ -909,14 +908,14 @@ export default function BlogPost({ params }) {
         // Regular paragraph
         elements.push(<p key={i} style={{ fontSize: '16px', lineHeight: '1.8', margin: '16px 0', color: '#e5e5e5' }}>{parseInline(line)}</p>)
       }
-      
+
       i++
     }
-    
+
     // Flush remaining elements
     if (currentQuote) {
       elements.push(
-        <blockquote key={i} style={{ 
+        <blockquote key={i} style={{
           borderLeft: '4px solid #22d3ee',
           paddingLeft: '24px',
           margin: '24px 0',
@@ -930,20 +929,20 @@ export default function BlogPost({ params }) {
         </blockquote>
       )
     }
-    
+
     return elements
   }
-  
+
   function parseInline(text) {
     const parts = []
     let lastIndex = 0
-    
+
     // Process markdown links [text](url) first
     const linkRegex = /\[([^\]]+)\]\(([^)]+)\)/g
     let linkMatch
     let linkLastIndex = 0
     const linkParts = []
-    
+
     while ((linkMatch = linkRegex.exec(text)) !== null) {
       if (linkMatch.index > linkLastIndex) {
         linkParts.push({ type: 'text', content: text.substring(linkLastIndex, linkMatch.index) })
@@ -954,7 +953,7 @@ export default function BlogPost({ params }) {
     if (linkLastIndex < text.length) {
       linkParts.push({ type: 'text', content: text.substring(linkLastIndex) })
     }
-    
+
     // Process bold (**text**) on each text segment
     const finalParts = []
     for (const part of linkParts) {
@@ -977,7 +976,7 @@ export default function BlogPost({ params }) {
         }
       }
     }
-    
+
     // Convert to React elements
     return finalParts.map((part, idx) => {
       if (part.type === 'link') {
@@ -1000,17 +999,17 @@ export default function BlogPost({ params }) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: jsonLdString }}
       />
-      <div style={{ 
+      <div style={{
         minHeight: '100vh',
         backgroundColor: '#0a0a0a',
         color: '#e5e5e5'
       }}>
         {/* Navigation */}
-        <nav style={{ 
+        <nav style={{
           borderBottom: '1px solid #1a1a1a',
           padding: '16px 24px'
         }}>
-          <div style={{ 
+          <div style={{
             maxWidth: '1200px',
             margin: '0 auto',
             display: 'flex',
@@ -1018,7 +1017,7 @@ export default function BlogPost({ params }) {
             gap: '24px'
           }}
           >
-            <Link href="/" style={{ 
+            <Link href="/" style={{
               color: '#f5f5f5',
               textDecoration: 'none',
               fontWeight: '700',
@@ -1027,7 +1026,7 @@ export default function BlogPost({ params }) {
             >
               AI in China
             </Link>
-            <Link href="/blog/" style={{ 
+            <Link href="/blog/" style={{
               color: '#a3a3a3',
               textDecoration: 'none',
               fontSize: '14px'
@@ -1043,7 +1042,7 @@ export default function BlogPost({ params }) {
           {/* Header */}
           <header style={{ marginBottom: '48px' }}>
             <div style={{ display: 'flex', gap: '12px', marginBottom: '24px', flexWrap: 'wrap' }}>
-              <span style={{ 
+              <span style={{
                 backgroundColor: '#1a1a1a',
                 padding: '6px 12px',
                 borderRadius: '6px',
@@ -1055,7 +1054,7 @@ export default function BlogPost({ params }) {
               }}>
                 {post.category}
               </span>
-              <span style={{ 
+              <span style={{
                 backgroundColor: '#1a1a1a',
                 padding: '6px 12px',
                 borderRadius: '6px',
@@ -1065,8 +1064,8 @@ export default function BlogPost({ params }) {
                 {post.readTime}
               </span>
             </div>
-            
-            <h1 style={{ 
+
+            <h1 style={{
               fontSize: '36px',
               fontWeight: '700',
               lineHeight: '1.2',
@@ -1076,7 +1075,7 @@ export default function BlogPost({ params }) {
             >
               {post.title}
             </h1>
-            
+
             <div style={{ display: 'flex', alignItems: 'center', gap: '16px', color: '#737373', fontSize: '14px' }}>
               <span>{post.date}</span>
               <span>·</span>
@@ -1086,10 +1085,10 @@ export default function BlogPost({ params }) {
 
           {/* Hero Image */}
           {post.heroImage && (
-            <img 
+            <img
               src={post.heroImage}
               alt={post.title}
-              style={{ 
+              style={{
                 width: '100%',
                 height: 'auto',
                 borderRadius: '12px',
@@ -1098,19 +1097,14 @@ export default function BlogPost({ params }) {
             />
           )}
 
-          {/* Ad Slot — Top of Content */}
-          <ArticleAd type="banner" />
 
           {/* Content */}
           <div>
             {parseContent(post.content)}
           </div>
 
-          {/* Ad Slot — Bottom of Content */}
-          <ArticleAd type="content" />
-
-          {/* Author Attribution - E-E-A-T Signal for AdSense */}
-          <div style={{ 
+          {/* Author Attribution - E-E-A-T Signal */}
+          <div style={{
             marginTop: '48px',
             padding: '24px',
             backgroundColor: '#111',
@@ -1121,10 +1115,10 @@ export default function BlogPost({ params }) {
             gap: '16px'
           }}
           >
-            <div style={{ 
-              width: '48px', 
-              height: '48px', 
-              borderRadius: '50%', 
+            <div style={{
+              width: '48px',
+              height: '48px',
+              borderRadius: '50%',
               backgroundColor: '#22d3ee',
               display: 'flex',
               alignItems: 'center',
@@ -1138,18 +1132,18 @@ export default function BlogPost({ params }) {
               M
             </div>
             <div>
-              <p style={{ 
-                margin: '0 0 4px', 
-                fontWeight: '600', 
+              <p style={{
+                margin: '0 0 4px',
+                fontWeight: '600',
                 color: '#f5f5f5',
                 fontSize: '15px'
               }}
               >
                 <Link href="/about/" style={{ color: '#22d3ee', textDecoration: 'none' }}>By Meeeeed</Link>
               </p>
-              <p style={{ 
-                margin: '0', 
-                color: '#737373', 
+              <p style={{
+                margin: '0',
+                color: '#737373',
                 fontSize: '13px',
                 lineHeight: 1.5
               }}
@@ -1215,13 +1209,13 @@ export default function BlogPost({ params }) {
           </div>
         )}
 
-        <footer style={{ 
-          padding: '48px 24px', 
+        <footer style={{
+          padding: '48px 24px',
           borderTop: '1px solid #1a1a1a',
           textAlign: 'center'
         }}
         >
-          <div style={{ 
+          <div style={{
             maxWidth: '800px',
             margin: '0 auto',
             display: 'flex',

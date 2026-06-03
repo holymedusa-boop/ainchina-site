@@ -55,8 +55,6 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        <meta name="bitmedia-site-verification" content="b902973bf84dae184d9b40f40fe677ba" />
-        <meta name="monetag" content="afff26a9e28416688bc1c4dd8f0e0efe" />
         <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
         <script
           async
@@ -68,19 +66,10 @@ export default function RootLayout({ children }) {
               window.dataLayer = window.dataLayer || [];
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
-              // Default consent: deny all until user gives consent
-              gtag('consent', 'default', {
-                analytics_storage: 'granted',
-                ad_storage: 'denied',
-                ad_user_data: 'denied',
-                ad_personalization: 'denied',
-                wait_for_update: 500
-              });
               gtag('config', 'G-GK21PLH8V8');
             `,
           }}
         />
-        <script src="https://quge5.com/88/tag.min.js" data-zone="245313" async data-cfasync="false" />
       </head>
       <body style={{ 
         margin: 0, 
