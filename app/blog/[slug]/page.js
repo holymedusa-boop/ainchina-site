@@ -501,7 +501,19 @@ function readPosts() {
       }
     }
 
-    // Fallback: extract title from content if not in frontmatter
+    // Extract first image URL from markdown content
+function extractFirstImageFromContent(content) {
+  const imgMatch = content.match(/!\[.*?\]\((https:\/\/images\.unsplash\.com\/[^)]+)\)/)
+  if (imgMatch) {
+    // Ensure it has proper dimensions for hero/OG
+    let url = imgMatch[1]
+    if (!url.includes('w=')) {
+      url += (url.includes('?') ? '&' : '?') + 'w=1200&h=600&fit=crop'
+    }
+    return url
+  }
+  return null
+}
     if (!meta.title) {
       meta.title = extractTitleFromContent(content)
     }
@@ -533,7 +545,7 @@ function readPosts() {
       category: meta.category || 'AI Trends',
       date: formattedDate,
       readTime: meta.readTime || '10 min read',
-      heroImage: meta.heroImage || 'https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=600&fit=crop',
+      heroImage: meta.heroImage || extractFirstImageFromContent(content) || 'https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=600&fit=crop',
       content: content,
     }
   }
