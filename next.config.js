@@ -1,4 +1,5 @@
 /** @type {import('next').NextConfig} */
+// Cache bust: 2026-06-03T22:25:00+08:00
 const nextConfig = {
   output: 'export',
   distDir: 'dist',
