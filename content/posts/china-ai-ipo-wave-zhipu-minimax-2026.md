@@ -8,7 +8,6 @@ image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&h=60
 keywords: ["China AI IPO", "Zhipu AI", "MiniMax", "China AI market", "AI valuation", "Hong Kong stock market", "DeepSeek", "AI model companies", "Chinese AI stocks", "AI investment 2026"]
 ---
 
-![China AI IPO Wave 2026](https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80)
 *China's AI unicorns are trading at valuations that would have seemed impossible just 18 months ago*
 
 ## Executive Summary
