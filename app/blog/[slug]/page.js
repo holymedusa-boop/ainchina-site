@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-ipo-wave-zhipu-minimax-2026': {
+    metaTitle: "China's AI IPO Wave: How Zhipu and MiniMax Are Rewriting the Rules of AI Capitalization",
+    metaDescription: "Something historic is happening in China's AI industry. Zhipu AI, one of China's \"Big Five\" large model companies, has seen its share price surge over 1,600% since its Hong Kong IPO, pushing its...",
+    keywords: '["China AI IPO", "Zhipu AI", "MiniMax", "China AI market", "AI valuation", "Hong Kong stock market", "DeepSeek", "AI model companies", "Chinese AI stocks", "AI investment 2026"]',
+  },
   'ai-interview-coaching-china-graduates-job-market-2026': {
     metaTitle: "AI Interview Coaching: How Chinese Graduates Are Using AI to Crack the Job Market (+120% Trend Explosion)",
     metaDescription: "With Xiaohongshu views surging 120% in one week, AI interview coaching has become the hottest trend among Chinese graduates facing a brutal job market. We analyze 6 platforms, university adoption programs, and the DeepSeek-V3 technology powering this revolution.",
