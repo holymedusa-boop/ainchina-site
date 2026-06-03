@@ -442,8 +442,19 @@ function extractDateFromSlug(slug) {
   return null
 }
 
-// Read all posts from markdown files
-function readPosts() {
+// Extract first image URL from markdown content for hero/OG fallback
+function extractFirstImageFromContent(content) {
+  const imgMatch = content.match(/!\[.*?\]\((https:\/\/images\.unsplash\.com\/[^)]+)\)/)
+  if (imgMatch) {
+    // Ensure it has proper dimensions for hero/OG
+    let url = imgMatch[1]
+    if (!url.includes('w=')) {
+      url += (url.includes('?') ? '&' : '?') + 'w=1200&h=600&fit=crop'
+    }
+    return url
+  }
+  return null
+}
   const postsDir = join(process.cwd(), 'content', 'posts')
   const files = readdirSync(postsDir).filter(f => f.endsWith('.md'))
 
@@ -501,19 +512,7 @@ function readPosts() {
       }
     }
 
-    // Extract first image URL from markdown content
-function extractFirstImageFromContent(content) {
-  const imgMatch = content.match(/!\[.*?\]\((https:\/\/images\.unsplash\.com\/[^)]+)\)/)
-  if (imgMatch) {
-    // Ensure it has proper dimensions for hero/OG
-    let url = imgMatch[1]
-    if (!url.includes('w=')) {
-      url += (url.includes('?') ? '&' : '?') + 'w=1200&h=600&fit=crop'
-    }
-    return url
-  }
-  return null
-}
+    // Fallback: extract title from content if not in frontmatter
     if (!meta.title) {
       meta.title = extractTitleFromContent(content)
     }
