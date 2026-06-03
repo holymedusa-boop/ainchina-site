@@ -175,7 +175,7 @@ export default function Home() {
                 backgroundColor: '#111', 
                 border: '1px solid #1a1a1a',
                 borderRadius: '12px',
-                padding: '28px',
+                overflow: 'hidden',
                 transition: 'all 0.2s',
                 cursor: 'pointer',
                 ':hover': {
@@ -183,43 +183,55 @@ export default function Home() {
                 }
               }}
               >
-                <div style={{ 
-                  fontSize: '11px', 
-                  fontWeight: 600, 
-                  color: '#22d3ee', 
-                  marginBottom: '12px',
-                  textTransform: 'uppercase',
-                  letterSpacing: '0.5px'
-                }}>
-                  {post.category}
-                </div>
-                
-                <Link 
-                  href={`/blog/${post.slug}/`}
-                  style={{ textDecoration: 'none', color: 'inherit' }}
-                >
-                  <h3 style={{ 
-                    fontSize: '20px', 
+                {post.image && (
+                  <div style={{ width: '100%', height: '200px', overflow: 'hidden' }}>
+                    <img
+                      src={post.image}
+                      alt={post.title}
+                      style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+                      loading="lazy"
+                    />
+                  </div>
+                )}
+                <div style={{ padding: '28px' }}>
+                  <div style={{ 
+                    fontSize: '11px', 
                     fontWeight: 600, 
+                    color: '#22d3ee', 
                     marginBottom: '12px',
-                    lineHeight: 1.4
+                    textTransform: 'uppercase',
+                    letterSpacing: '0.5px'
                   }}>
-                    {post.title}
-                  </h3>
-                </Link>
-                
-                <p style={{ fontSize: '15px', color: '#a3a3a3', lineHeight: 1.6, marginBottom: '16px' }}>
-                  {post.excerpt}
-                </p>
-                
-                <div style={{ 
-                  display: 'flex', 
-                  justifyContent: 'space-between',
-                  fontSize: '13px',
-                  color: '#737373'
-                }}>
-                  <span>{post.date}</span>
-                  <span>{post.readTime}</span>
+                    {post.category}
+                  </div>
+                  
+                  <Link 
+                    href={`/blog/${post.slug}/`}
+                    style={{ textDecoration: 'none', color: 'inherit' }}
+                  >
+                    <h3 style={{ 
+                      fontSize: '20px', 
+                      fontWeight: 600, 
+                      marginBottom: '12px',
+                      lineHeight: 1.4
+                    }}>
+                      {post.title}
+                    </h3>
+                  </Link>
+                  
+                  <p style={{ fontSize: '15px', color: '#a3a3a3', lineHeight: 1.6, marginBottom: '16px' }}>
+                    {post.excerpt}
+                  </p>
+                  
+                  <div style={{ 
+                    display: 'flex', 
+                    justifyContent: 'space-between',
+                    fontSize: '13px',
+                    color: '#737373'
+                  }}>
+                    <span>{post.date}</span>
+                    <span>{post.readTime}</span>
+                  </div>
                 </div>
               </article>
             ))}
