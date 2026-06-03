@@ -9,7 +9,6 @@ image: "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?w=1200&q=80
 slug: "ai-interview-coaching-china-graduates-job-market-2026"
 ---
 
-![Abstract neural network and data visualization overlay](https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?w=1200&q=80)
 
 *Photo: Abstract data flows and neural network visualizations. AI interview coaching platforms in China now process millions of simulated interviews monthly, analyzing everything from speech patterns to micro-expressions. Image: Unsplash*
 

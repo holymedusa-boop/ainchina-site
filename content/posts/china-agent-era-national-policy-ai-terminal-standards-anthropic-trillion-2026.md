@@ -10,7 +10,6 @@ image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&q=80
 
 # China's Agent Era Begins: National Policy Framework, AI Terminal Standards, and the Trillion-Dollar Global AI Race
 
-![AI technology and digital transformation representing the agent era in China](https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200)
 
 **Something fundamental changed in China's AI industry during the first week of May 2026.**
 

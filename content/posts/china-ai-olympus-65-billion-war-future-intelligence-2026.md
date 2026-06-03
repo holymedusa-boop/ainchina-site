@@ -10,7 +10,6 @@ image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200"
 
 # China's AI Olympus: The $65 Billion War for the Future of Intelligence
 
-![The Chinese AI landscape in May 2026: a battlefield of titans](https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200)
 
 **In seven days, Chinese AI companies raised more capital than the entire European AI sector raised in 2025. And they did it while simultaneously releasing models that collectively hold the top five positions on global open-source leaderboards. This is not a funding cycle. This is an arms race with a product launch attached.**
 

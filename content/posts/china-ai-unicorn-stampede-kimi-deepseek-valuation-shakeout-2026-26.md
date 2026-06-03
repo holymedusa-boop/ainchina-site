@@ -10,7 +10,6 @@ image: "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?w=1200"
 
 # China's AI Unicorn Stampede: Kimi's $20B Round, DeepSeek's $500B Valuation, and the Great Model Shakeout of 2026
 
-![The intense competition among China's AI giants reshaping the global technology landscape](https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?w=1200)
 
 **One $20 billion funding round. Another $500 billion valuation. Two IPOs with stock prices up 600%. And a single question on every investor's mind: Is China's AI industry about to produce its own NVIDIA?**
 

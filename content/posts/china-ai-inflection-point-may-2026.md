@@ -9,7 +9,6 @@ image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&q=80
 slug: "china-ai-inflection-point-may-2026"
 ---
 
-![Team working on AI strategy](https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&q=80)
 
 *Photo: Team collaboration — the defining image of China's AI industry in 2026. Image: Unsplash*
 
