@@ -5,7 +5,10 @@ description: "Kimi closes a $20 billion round at $200B valuation. DeepSeek's val
 date: "2026-05-26"
 author: "AI in China Team"
 tags: ["DeepSeek", "Kimi", "Zhipu AI", "MiniMax", "ByteDance", "Doubao", "China AI", "AI Funding", "IPO", "Open Source AI", "Qwen", "Alibaba"]
+keywords: ["Kimi funding", "DeepSeek valuation", "Zhipu AI IPO", "MiniMax IPO", "ByteDance Doubao", "China AI unicorn", "AI model shakeout", "Chinese AI investment", "AI stock surge", "Qwen model", "Alibaba AI"]
+excerpt: "One $20 billion funding round. Another $500 billion valuation. Two IPOs with stock prices up 600%. And a single question on every investor's mind: Is China's AI industry about to produce its own NVIDIA? This is the moment China's AI industry transforms from 'copycat' to 'category leader.'"
 image: "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?w=1200"
+readTime: "16 min read"
 ---
 
 # China's AI Unicorn Stampede: Kimi's $20B Round, DeepSeek's $500B Valuation, and the Great Model Shakeout of 2026

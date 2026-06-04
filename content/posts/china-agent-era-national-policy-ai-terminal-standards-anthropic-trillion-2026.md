@@ -5,7 +5,10 @@ description: "Three Chinese ministries issued the first national AI agent policy
 date: "2026-05-09"
 author: "AI in China Team"
 tags: ["AI Agent", "China AI Policy", "Anthropic", "AI Terminal Standards", "DeepSeek", "China AI Patent", "AI Infrastructure", "China US AI Dialogue", "Smart Agent", "GB/Z 177"]
+keywords: ["AI agent policy", "China AI regulation", "Anthropic valuation", "AI terminal standards", "DeepSeek API", "China AI patent", "AI infrastructure", "China US tech dialogue", "smart agent", "GB/Z 177", "AI policy framework"]
+excerpt: "Three Chinese ministries jointly issued the most comprehensive national policy framework for AI agent governance to date. AI terminal intelligence grading standards were released. Anthropic nears a $1 trillion valuation. And China's AI models processed 8 trillion tokens in a single week. May 2026 will be remembered as the month AI agents went mainstream."
 image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&q=80"
+readTime: "16 min read"
 ---
 
 # China's Agent Era Begins: National Policy Framework, AI Terminal Standards, and the Trillion-Dollar Global AI Race

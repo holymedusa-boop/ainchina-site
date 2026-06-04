@@ -7,6 +7,25 @@ export const metadata = {
   metadataBase: new URL('https://www.ainchina.com'),
   title: 'AI in China Blog',
   description: 'Deep insights into China\'s AI revolution — trends, companies, and market intelligence',
+  openGraph: {
+    title: 'AI in China Blog',
+    description: 'Deep insights into China\'s AI revolution — trends, companies, and market intelligence',
+    url: 'https://www.ainchina.com/blog/',
+    siteName: 'AI in China',
+    type: 'website',
+    images: [{
+      url: 'https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=600&fit=crop',
+      width: 1200,
+      height: 600,
+      alt: 'AI in China Blog',
+    }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'AI in China Blog',
+    description: 'Deep insights into China\'s AI revolution — trends, companies, and market intelligence',
+    images: ['https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=600&fit=crop'],
+  },
   alternates: {
     canonical: '/blog/',
   },
