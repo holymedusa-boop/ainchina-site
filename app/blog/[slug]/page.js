@@ -584,7 +584,7 @@ export async function generateMetadata({ params }) {
     title: title,
     description: description,
     keywords: Array.isArray(keywords) ? keywords.join(', ') : keywords,
-    authors: [{ name: 'Meeeeed', url: 'https://www.ainchina.com/about/' }],
+    authors: [{ name: 'Meeeeed@AI in China', url: 'https://www.ainchina.com/about/' }],
     openGraph: {
       title: title,
       description: description,
@@ -729,7 +729,7 @@ export default function BlogPost({ params }) {
     dateModified: new Date(post.date).toISOString(),
     author: {
       '@type': 'Organization',
-      name: 'AI in China',
+      name: 'Meeeeed@AI in China',
       url: 'https://www.ainchina.com/about/',
     },
     publisher: {
