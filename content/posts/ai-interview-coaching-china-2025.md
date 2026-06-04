@@ -6,7 +6,7 @@ category: "AI Trends"
 readTime: "16 min"
 ---
 
-![AI Interview Coaching in China](https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=1200&h=600&fit=crop)
+![AI Interview Coaching in China](https://images.unsplash.com/photo-1579621970563-eefec7560ff3e?w=1200&h=600&fit=crop)
 
 ## Executive Summary
 

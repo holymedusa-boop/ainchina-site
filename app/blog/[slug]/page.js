@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'deepseek-7-billion-fundraising-tencent-catl-api-price-war-2026': {
+    metaTitle: "DeepSeek's $7.4B Fundraising Frenzy: How 500 Billion Yuan, Tencent's Bet, and a 97.5% API Price Collapse Are Rewriting China's AI Rules",
+    metaDescription: "While Silicon Valley fixates on Anthropic's $96.5 billion valuation and its secret IPO filing, something equally seismic is unfolding in China. DeepSeek—the startup that taught the world that $5.6...",
+    keywords: '',
+  },
   'china-ai-ipo-wave-zhipu-minimax-2026': {
     metaTitle: "China's AI IPO Wave: How Zhipu and MiniMax Are Rewriting the Rules of AI Capitalization",
     metaDescription: "Something historic is happening in China's AI industry. Zhipu AI, one of China's \"Big Five\" large model companies, has seen its share price surge over 1,600% since its Hong Kong IPO, pushing its...",

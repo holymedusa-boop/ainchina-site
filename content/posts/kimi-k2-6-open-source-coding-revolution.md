@@ -5,6 +5,8 @@ date: "2026-05-02"
 category: "AI Infrastructure"
 readTime: "16 min read"
 ---
+![AI Data Center](https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&h=400&fit=crop)
+
 
 # Kimi K2.6: How a $18B Chinese Startup Is Rewriting the Rules of Open-Source AI Coding
 

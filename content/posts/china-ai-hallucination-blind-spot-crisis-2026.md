@@ -10,7 +10,7 @@ readTime: "16 min read"
 
 **On May 17, 2025, two reports dropped within hours of each other. One from Shanghai Jiao Tong University revealed that 91.5% of Chinese AI users cannot reliably detect when a large language model is hallucinating. The other, from cybersecurity giant Qianxin, disclosed that over 70 provincial and municipal governments had deployed DeepSeek—with 90% of those servers running completely unprotected. Welcome to the most dangerous phase of China's AI revolution: the moment when trust outpaces verification.**
 
-![Abstract neural network visualization suggesting the invisible nature of AI-generated misinformation](https://images.unsplash.com/photo-1526379095098-d400fd0bf935?w=1200&h=600&fit=crop)
+![Abstract neural network visualization suggesting the invisible nature of AI-generated misinformation](https://images.unsplash.com/photo-1497436072909-60f360e1d4b1?w=1200&h=600&fit=crop)
 
 ---
 

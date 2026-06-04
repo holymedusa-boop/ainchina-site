@@ -10,7 +10,7 @@ readTime: "16 min read"
 
 *Cambricon's profit surge of 185%. Hygon crossing ¥40 billion in quarterly revenue. Moore Threads flipping from red to black. And a single figure — 41% — that signals the end of Nvidia's monopoly in China's data centers. The Q1 2026 earnings season wasn't just good. It was historic.*
 
-![Semiconductor wafer technology](https://images.unsplash.com/photo-1639322537228-f710d846310a?w=1200&h=600&fit=crop)
+![Semiconductor wafer technology](https://images.unsplash.com/photo-1592659762303-90081d34b277?w=1200&h=600&fit=crop)
 *China's domestic AI chip industry has reached an inflection point — and the numbers prove it.*
 
 ---
