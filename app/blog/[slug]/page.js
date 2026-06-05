@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-june-surge-deepseek-zhipu-agentic-ai-2026': {
+    metaTitle: "China's AI June Surge: DeepSeek's $7B First Round, Zhipu's STAR Market Bid, and the Agentic AI Stack",
+    metaDescription: "DeepSeek closes its first external round at $59B. Zhipu files for a $2B STAR Market IPO. Huawei unveils an Agentic AI stack. And on June 6, China's AI industry converges on Hangzhou for a summit that signals the shift from 'model hype' to 'industrial deployment.'",
+    keywords: '["DeepSeek funding", "Zhipu AI IPO", "Huawei Agentic AI", "China AI investment 2026", "STAR Market AI", "AI agent platform", "China AI policy", "DeepSeek valuation", "AI infrastructure", "agentic core"]',
+  },
   'deepseek-7-billion-fundraising-tencent-catl-api-price-war-2026': {
     metaTitle: "DeepSeek's $7.4B Fundraising Frenzy: How 500 Billion Yuan, Tencent's Bet, and a 97.5% API Price Collapse Are Rewriting China's AI Rules",
     metaDescription: "While Silicon Valley fixates on Anthropic's $96.5 billion valuation and its secret IPO filing, something equally seismic is unfolding in China. DeepSeek—the startup that taught the world that $5.6...",
