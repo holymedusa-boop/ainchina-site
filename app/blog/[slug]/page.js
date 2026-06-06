@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'tencent-wechat-ai-agent-billion-users-china-2026': {
+    metaTitle: "Tencent's WeChat AI Agent: The 1.4 Billion-User Bet That Reshaped China's Tech Markets Overnight",
+    metaDescription: "A Financial Times report on June 2 revealed Tencent is testing an AI agent inside WeChat. The result: a $41 billion market cap surge, China's biggest agentic AI platform, and a direct challenge to Alibaba and ByteDance.",
+    keywords: '["Tencent WeChat AI agent", "WeChat agent 2026", "Tencent AI strategy", "China AI agent market", "WeChat mini program AI", "Tencent stock surge", "Hunyuan model", "ByteDance vs Tencent AI", "super app AI agent", "China tech stocks 2026"]',
+  },
   'china-ai-june-surge-deepseek-zhipu-agentic-ai-2026': {
     metaTitle: "China's AI June Surge: DeepSeek's $7B First Round, Zhipu's STAR Market Bid, and the Agentic AI Stack",
     metaDescription: "DeepSeek closes its first external round at $59B. Zhipu files for a $2B STAR Market IPO. Huawei unveils an Agentic AI stack. And on June 6, China's AI industry converges on Hangzhou for a summit that signals the shift from 'model hype' to 'industrial deployment.'",
