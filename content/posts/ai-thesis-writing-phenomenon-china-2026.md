@@ -8,7 +8,6 @@ image: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=1200&q=80
 keywords: ["AI thesis writing", "China AI education", "Kimi AI", "ChatGPT", "Claude", "academic integrity", "Chinese graduates", "AI detection", "thesis generation", "generative AI education"]
 ---
 
-![AI Thesis Writing in China](https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=1200&q=80)
 *China's 12 million graduates are facing an existential question: write their thesis themselves, or let AI do it? The answer is reshaping academia.*
 
 ## Executive Summary
