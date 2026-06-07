@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'ai-thesis-writing-phenomenon-china-2026': {
+    metaTitle: "The AI Thesis Writing Phenomenon: How Chinese Students Are Redefining Academic Work with Generative AI",
+    metaDescription: "China's graduation season is upon us, and a new phenomenon is dominating social media: AI thesis writing. On Xiaohongshu alone, searches for \"AI写论文\" (AI writing thesis) have surged 85% in just one...",
+    keywords: '["AI thesis writing", "China AI education", "Kimi AI", "ChatGPT", "Claude", "academic integrity", "Chinese graduates", "AI detection", "thesis generation", "generative AI education"]',
+  },
   'tencent-wechat-ai-agent-billion-users-china-2026': {
     metaTitle: "Tencent's WeChat AI Agent: The 1.4 Billion-User Bet That Reshaped China's Tech Markets Overnight",
     metaDescription: "A Financial Times report on June 2 revealed Tencent is testing an AI agent inside WeChat. The result: a $41 billion market cap surge, China's biggest agentic AI platform, and a direct challenge to Alibaba and ByteDance.",
