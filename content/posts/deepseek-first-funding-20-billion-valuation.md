@@ -5,6 +5,8 @@ date: "2026-04-20"
 category: "AI Infrastructure"
 readTime: "15 min read"
 ---
+![AI Data Center](https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&h=400&fit=crop)
+
 
 # DeepSeek Breaks Its Vow: Inside the $3 Billion Funding Round That Shook China's AI World
 

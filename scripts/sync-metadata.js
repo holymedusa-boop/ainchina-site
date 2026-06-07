@@ -21,8 +21,18 @@ function parseFrontmatter(content) {
   return fm
 }
 
-function extractFirstImage(content) {
-  // Extract first Unsplash image from markdown content
+function extractFirstImage(content, fmImage) {
+  // 1. Check if frontmatter has an image field
+  if (fmImage && fmImage.startsWith('https://images.unsplash.com/')) {
+    let url = fmImage
+    // Add dimensions if missing (for card display)
+    if (!url.includes('w=')) {
+      url += (url.includes('?') ? '&' : '?') + 'w=600&h=400&fit=crop'
+    }
+    return url
+  }
+
+  // 2. Extract first Unsplash image from markdown content
   const imgMatch = content.match(/!\[.*?\]\((https:\/\/images\.unsplash\.com\/[^)]+)\)/)
   if (imgMatch) {
     let url = imgMatch[1]
@@ -32,7 +42,8 @@ function extractFirstImage(content) {
     }
     return url
   }
-  // Fallback to a default image
+
+  // 3. Fallback to a default image
   return 'https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=400&fit=crop'
 }
 
@@ -162,7 +173,8 @@ function main() {
     if (fm) {
       fm.file = file
       // Extract first image from article content for card display
-      fm.image = extractFirstImage(content)
+      // Prefer frontmatter image field, then inline markdown image, then fallback
+      fm.image = extractFirstImage(content, fm.image)
       // Auto-generate excerpt if missing
       if (!fm.excerpt || fm.excerpt.trim() === '') {
         fm.excerpt = extractExcerpt(content)

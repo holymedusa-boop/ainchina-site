@@ -5,6 +5,8 @@ date: "2026-04-02"
 category: "AI Chatbots"
 readTime: "16 min read"
 ---
+![AI Data Center](https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=800&h=400&fit=crop)
+
 
 # AI Thesis Writing Explodes: How 12 Million Chinese Students Are Rewriting Academic Rules
 

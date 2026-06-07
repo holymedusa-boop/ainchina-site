@@ -5,6 +5,8 @@ date: "2026-04-28"
 category: "AI Trends"
 readTime: "15 min read"
 ---
+![AI Data Center](https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&h=400&fit=crop)
+
 
 Bytedance's AI Brain Drain: 70 Top Engineers Exit Seed Team in 12 Months
 

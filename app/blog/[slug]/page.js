@@ -5,6 +5,21 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'tencent-wechat-ai-agent-billion-users-china-2026': {
+    metaTitle: "Tencent's WeChat AI Agent: The 1.4 Billion-User Bet That Reshaped China's Tech Markets Overnight",
+    metaDescription: "A Financial Times report on June 2 revealed Tencent is testing an AI agent inside WeChat. The result: a $41 billion market cap surge, China's biggest agentic AI platform, and a direct challenge to Alibaba and ByteDance.",
+    keywords: '["Tencent WeChat AI agent", "WeChat agent 2026", "Tencent AI strategy", "China AI agent market", "WeChat mini program AI", "Tencent stock surge", "Hunyuan model", "ByteDance vs Tencent AI", "super app AI agent", "China tech stocks 2026"]',
+  },
+  'china-ai-june-surge-deepseek-zhipu-agentic-ai-2026': {
+    metaTitle: "China's AI June Surge: DeepSeek's $7B First Round, Zhipu's STAR Market Bid, and the Agentic AI Stack",
+    metaDescription: "DeepSeek closes its first external round at $59B. Zhipu files for a $2B STAR Market IPO. Huawei unveils an Agentic AI stack. And on June 6, China's AI industry converges on Hangzhou for a summit that signals the shift from 'model hype' to 'industrial deployment.'",
+    keywords: '["DeepSeek funding", "Zhipu AI IPO", "Huawei Agentic AI", "China AI investment 2026", "STAR Market AI", "AI agent platform", "China AI policy", "DeepSeek valuation", "AI infrastructure", "agentic core"]',
+  },
+  'deepseek-7-billion-fundraising-tencent-catl-api-price-war-2026': {
+    metaTitle: "DeepSeek's $7.4B Fundraising Frenzy: How 500 Billion Yuan, Tencent's Bet, and a 97.5% API Price Collapse Are Rewriting China's AI Rules",
+    metaDescription: "While Silicon Valley fixates on Anthropic's $96.5 billion valuation and its secret IPO filing, something equally seismic is unfolding in China. DeepSeek—the startup that taught the world that $5.6...",
+    keywords: '',
+  },
   'china-ai-ipo-wave-zhipu-minimax-2026': {
     metaTitle: "China's AI IPO Wave: How Zhipu and MiniMax Are Rewriting the Rules of AI Capitalization",
     metaDescription: "Something historic is happening in China's AI industry. Zhipu AI, one of China's \"Big Five\" large model companies, has seen its share price surge over 1,600% since its Hong Kong IPO, pushing its...",
@@ -22,8 +37,8 @@ const postMetadata = {
   },
   'deepseek-7b-mega-round-china-ai-capital-shift-2026': {
     metaTitle: "DeepSeek's $7.4B Mega-Round: How China's Most Secretive AI Lab Went All-In on Capital",
-    metaDescription: "This isn't just a funding round. It's a declaration that China's AI war has entered its industrial phase — where capital, not just code, determines who wins.",
-    keywords: '',
+    metaDescription: "DeepSeek — the company that built a $5.6M model to rival GPT-4 and rejected venture capital for two years — is now raising $7.4 billion in the largest AI funding round in Chinese history. Founder Liang Wenfeng is putting $2.8 billion of his own money on the table. Tencent commits $1.4 billion. CATL invests $700 million. And the valuation? A staggering $52-59 billion.",
+    keywords: '["DeepSeek", "AI funding", "China AI", "Liang Wenfeng", "Tencent AI investment", "CATL", "AI infrastructure", "Chinese AI lab", "AI mega-round", "DeepSeek valuation", "AI capital race"]',
   },
   'minimax-300m-users-arr-doubles-a-share-ipo-china-ai-export-2026': {
     metaTitle: "MiniMax Hits 300M Users and Doubles ARR in 60 Days: The Anatomy of China's Most Successful AI Export",
@@ -57,8 +72,8 @@ const postMetadata = {
   },
   'china-ai-fraud-epidemic-deepfake-panic-2026': {
     metaTitle: "China's AI Fraud Epidemic: Inside the 5.6 Billion View Deepfake Panic Reshaping Digital Trust",
-    metaDescription: "On a Tuesday afternoon in Hangzhou, a 62-year-old retired teacher named Liu received a video call from her \"son.\" The face on screen was unmistakable — same freckles, same nervous laugh, same kitchen...",
-    keywords: '',
+    metaDescription: "A 62-year-old retired teacher in Hangzhou lost ¥280,000 to an AI deepfake video call from her 'son.' The story sparked a national conversation reaching 5.6 billion views across Chinese social media — the fastest-growing AI topic at +300% week-over-week. What began as scattered fraud reports has crystallized into a full-blown public anxiety crisis, forcing regulators and AI companies into an unprecedented response.",
+    keywords: '["AI deepfake", "AI fraud", "China AI security", "deepfake video call", "digital trust", "AI regulation China", "face swap fraud", "AI crime", "social media panic", "AI ethics"]',
   },
   'ai-digital-humans-china-billion-dollar-livestream-revolution': {
     metaTitle: "China's AI Digital Human Explosion: The 100 Billion Yuan Avatar Economy Reshaping E-Commerce",
@@ -67,8 +82,8 @@ const postMetadata = {
   },
   'china-ai-unicorn-stampede-kimi-deepseek-valuation-shakeout-2026-26': {
     metaTitle: "China's AI Unicorn Stampede: Kimi's $20B Round, DeepSeek's $500B Valuation, and the Great Model Shakeout of 2026",
-    metaDescription: "On May 6, 2026, Moonshot AI (月之暗面, makers of Kimi) closed a new financing round that brought in $20 billion at a post-money valuation exceeding $200 billion — a fourfold increase in just six months....",
-    keywords: '',
+    metaDescription: "One $20 billion funding round. Another $500 billion valuation. Two IPOs with stock prices up 600%. And a single question on every investor's mind: Is China's AI industry about to produce its own NVIDIA? This is the moment China's AI industry transforms from 'copycat' to 'category leader.'",
+    keywords: '["Kimi funding", "DeepSeek valuation", "Zhipu AI IPO", "MiniMax IPO", "ByteDance Doubao", "China AI unicorn", "AI model shakeout", "Chinese AI investment", "AI stock surge", "Qwen model", "Alibaba AI"]',
   },
   'deepseek-permanent-75-percent-api-price-cut-ai-war-2026': {
     metaTitle: "DeepSeek Permanent 75% API Price Cut: AI Pricing War 2026",
@@ -137,8 +152,8 @@ const postMetadata = {
   },
   'china-ai-olympus-65-billion-war-future-intelligence-2026': {
     metaTitle: "China's AI Olympus: The $65 Billion War for the Future of Intelligence",
-    metaDescription: "On May 7, 2026, two announcements dropped within hours of each other. Moonshot AI (Kimi) confirmed it had closed a $20 billion (¥140 billion) funding round at a post-money valuation exceeding $200...",
-    keywords: '',
+    metaDescription: "In seven days, Chinese AI companies raised more capital than the entire European AI sector raised in 2025. They did it while simultaneously releasing models that collectively hold the top five positions on global open-source leaderboards. This is not a funding cycle. This is an arms race with a product launch attached.",
+    keywords: '["Kimi AI", "DeepSeek valuation", "Moonshot AI funding", "Chinese open source AI", "AI arms race", "China AI investment", "AI infrastructure", "token economy", "Cursor AI", "Alibaba AI", "China tech funding"]',
   },
   'deepseek-73b-megaround-china-ai-funding-frenzy-2026': {
     metaTitle: "DeepSeek's $7.3B Mega-Round: China's AI Funding Frenzy Hits Historic Heights",
@@ -147,8 +162,8 @@ const postMetadata = {
   },
   'china-agent-era-national-policy-ai-terminal-standards-anthropic-trillion-2026': {
     metaTitle: "China's Agent Era Begins: National Policy Framework, AI Terminal Standards, and the Trillion-Dollar Global AI Race",
-    metaDescription: "It wasn't a single model release. It wasn't a funding round. It was the simultaneous convergence of policy, standards, infrastructure, and global capital that signaled a structural shift: the age of...",
-    keywords: '',
+    metaDescription: "Three Chinese ministries jointly issued the most comprehensive national policy framework for AI agent governance to date. AI terminal intelligence grading standards were released. Anthropic nears a $1 trillion valuation. And China's AI models processed 8 trillion tokens in a single week. May 2026 will be remembered as the month AI agents went mainstream.",
+    keywords: '["AI agent policy", "China AI regulation", "Anthropic valuation", "AI terminal standards", "DeepSeek API", "China AI patent", "AI infrastructure", "China US tech dialogue", "smart agent", "GB/Z 177", "AI policy framework"]',
   },
   'china-ai-infrastructure-awakening-wuwenxinqiong-deepseek-multimodal-2026': {
     metaTitle: "China AI Infrastructure Awakens: $100M Wuwenxinqiong + 8T Tokens",
@@ -551,7 +566,9 @@ function readPosts() {
       category: meta.category || 'AI Trends',
       date: formattedDate,
       readTime: meta.readTime || '10 min read',
-      heroImage: meta.heroImage || extractFirstImageFromContent(content) || 'https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=600&fit=crop',
+      heroImage: meta.heroImage || meta.image || extractFirstImageFromContent(content) || 'https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=600&fit=crop',
+      keywords: meta.keywords || meta.tags || '',
+      excerpt: meta.excerpt || meta.description || '',
       content: content,
     }
   }
@@ -574,14 +591,15 @@ export async function generateMetadata({ params }) {
 
   // Use postMetadata if available, otherwise generate defaults from post data
   const title = meta?.metaTitle || post.title
-  const description = meta?.metaDescription || post.title
-  const keywords = meta?.keywords || 'China AI, artificial intelligence'
+  const description = meta?.metaDescription || post.excerpt || post.title
+  const keywords = meta?.keywords || post.keywords || 'China AI, artificial intelligence'
 
   return {
+    metadataBase: new URL('https://www.ainchina.com'),
     title: title,
     description: description,
-    keywords: keywords,
-    authors: [{ name: 'Meeeeed', url: 'https://www.ainchina.com/about/' }],
+    keywords: Array.isArray(keywords) ? keywords.join(', ') : keywords,
+    authors: [{ name: 'Meeeeed@AI in China', url: 'https://www.ainchina.com/about/' }],
     openGraph: {
       title: title,
       description: description,
@@ -725,8 +743,8 @@ export default function BlogPost({ params }) {
     datePublished: new Date(post.date).toISOString(),
     dateModified: new Date(post.date).toISOString(),
     author: {
-      '@type': 'Person',
-      name: 'Meeeeed',
+      '@type': 'Organization',
+      name: 'Meeeeed@AI in China',
       url: 'https://www.ainchina.com/about/',
     },
     publisher: {
@@ -741,7 +759,7 @@ export default function BlogPost({ params }) {
       '@type': 'WebPage',
       '@id': `https://www.ainchina.com/blog/${params.slug}/`,
     },
-    keywords: meta?.keywords || 'China AI, artificial intelligence',
+    keywords: Array.isArray(meta?.keywords || post.keywords) ? (meta?.keywords || post.keywords).join(', ') : (meta?.keywords || post.keywords || 'China AI, artificial intelligence'),
   }
 
   const jsonLdString = JSON.stringify(jsonLd).replace(/</g, '\\u003c')

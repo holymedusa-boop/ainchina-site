@@ -8,7 +8,7 @@ readTime: "16 min read"
 
 The 3-Minute Deck Revolution: How China's Office Workers Are Using AI to Replace PowerPoint Design
 
-![AI-powered presentation tools transforming office work across China](https://images.unsplash.com/photo-1526379095098-d400fd0bf935?w=1200&h=600&fit=crop)
+![AI-powered presentation tools transforming office work across China](https://images.unsplash.com/photo-1644088379091-d574269d422f?w=1200&h=600&fit=crop)
 
 *China's office workers are abandoning manual slide design in favor of AI tools that generate boardroom-ready presentations in under three minutes. The phenomenon has attracted 250 million views on Xiaohongshu in a single week.*
 

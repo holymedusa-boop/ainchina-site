@@ -5,6 +5,8 @@ date: "2026-05-03"
 category: "AI Safety"
 readTime: "16 min read"
 ---
+![AI Data Center](https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=800&h=400&fit=crop)
+
 
 # China's AI Deepfake Fraud Crisis: How 700,000 Annual Scams and a $40 Billion Global Threat Are Reshaping Trust in the Digital Age
 

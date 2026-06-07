@@ -5,6 +5,8 @@ date: "2026-04-01"
 category: "AI Trends"
 readTime: "16 min read"
 ---
+![AI Data Center](https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&h=400&fit=crop)
+
 
 # ByteDance's AI Obsession: How a 70% Profit Plunge Turned a Social Media Giant Into China's GPU Kingpin
 
