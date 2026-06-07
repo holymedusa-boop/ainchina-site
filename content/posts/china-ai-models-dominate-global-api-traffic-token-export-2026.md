@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1535378437327-b71042e1da31?w=1200&h=600&fit=crop"
+image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&h=600&fit=crop"
 title: "China's AI Models Dominate Global API Traffic: The Token Export Boom Silicon Valley Didn't See Coming"
 slug: "china-ai-models-dominate-global-api-traffic-token-export-2026"
 date: "2026-05-28"
@@ -12,7 +12,7 @@ author: "AIN China"
 readTime: "17 min read"
 heroImage: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&auto=format&fit=crop"
 ---
-image: "https://images.unsplash.com/photo-1535378437327-b71042e1da31?w=1200&h=600&fit=crop"
+image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&h=600&fit=crop"
 
 *In February 2026, a developer in San Francisco typed a prompt into an API client. The model that processed it wasn't GPT-5.5, Claude 4, or Gemini 2.5. It was MiniMax M2.5 — a Chinese model most American developers had never heard of. And that single interaction was one of 5 trillion tokens MiniMax processed that week alone, making it the most consumed AI model on Earth by API volume.*
 
@@ -266,7 +266,7 @@ The token export economy doesn't require users to love Chinese technology. It do
 Silicon Valley may still dominate AI headlines. But China's models are dominating AI traffic. In the infrastructure layer of intelligence — the layer that actually runs the world's applications — the balance of power has already shifted.
 
 ---
-image: "https://images.unsplash.com/photo-1535378437327-b71042e1da31?w=1200&h=600&fit=crop"
+image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&h=600&fit=crop"
 
 ## Related Articles
 
@@ -276,6 +276,6 @@ image: "https://images.unsplash.com/photo-1535378437327-b71042e1da31?w=1200&h=60
 - [DeepSeek's $7.3B Mega-Round](https://www.ainchina.com/blog/deepseek-73b-megaround-china-ai-funding-frenzy/) — The historic funding wave reshaping China's AI capital landscape
 
 ---
-image: "https://images.unsplash.com/photo-1535378437327-b71042e1da31?w=1200&h=600&fit=crop"
+image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&h=600&fit=crop"
 
 *Disclaimer: This analysis is based on publicly disclosed data from OpenRouter, company filings, media reports, and analyst estimates as of May 28, 2026. Token consumption figures fluctuate weekly and depend on promotional pricing, model updates, and router configuration. Revenue and loss figures for private companies are based on disclosed prospectus data and may not reflect current financial positions. This article does not constitute investment advice.*
