@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-agent-army-126-platforms-67-enterprise-adoption-2026': {
+    metaTitle: "China's AI Agent Army: 126 Platforms, 67% Enterprise Adoption",
+    metaDescription: "China has built 126 AI Agent platforms with 67% enterprise adoption. The strategy, scale, and enterprise-first approach look nothing like America's—and that's why it's working.",
+    keywords: 'AI Agent, China AI, Coze, enterprise automation, ByteDance, Alibaba, AI platforms, agentic AI, B2B AI, China tech',
+  },
   'ai-interview-coaching-china-graduates-job-market-2026': {
     metaTitle: "AI Interview Coaching: How Chinese Graduates Are Using AI to Crack the Job Market (+120% Trend Explosion)",
     metaDescription: "With Xiaohongshu views surging 120% in one week, AI interview coaching has become the hottest trend among Chinese graduates facing a brutal job market. We analyze 6 platforms, university adoption programs, and the DeepSeek-V3 technology powering this revolution.",
@@ -455,6 +460,8 @@ function extractFirstImageFromContent(content) {
   }
   return null
 }
+
+function readPosts() {
   const postsDir = join(process.cwd(), 'content', 'posts')
   const files = readdirSync(postsDir).filter(f => f.endsWith('.md'))
 
