@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Generated: 2026-06-09T03:40:44.515Z -->
-  <!-- Total Posts: 79 -->
+  <!-- Generated: 2026-06-09T22:40:46.767Z -->
+  <!-- Total Posts: 80 -->
 
   <!-- Homepage -->
   <url>
@@ -37,6 +37,12 @@
   </url>
 
   <!-- AI -->
+  <url>
+    <loc>https://www.ainchina.com/blog/china-embodied-ai-revolution-funding-world-models-2026/</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   <url>
     <loc>https://www.ainchina.com/blog/china-ai-agent-army-126-platforms-67-enterprise-adoption-2026/</loc>
     <lastmod>2026-06-09</lastmod>
