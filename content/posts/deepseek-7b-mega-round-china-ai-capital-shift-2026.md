@@ -1,9 +1,13 @@
 ---
 title: "DeepSeek's $7.4B Mega-Round: How China's Most Secretive AI Lab Went All-In on Capital"
 slug: "deepseek-7b-mega-round-china-ai-capital-shift-2026"
+description: "DeepSeek raises $7.4 billion in the largest AI funding round in Chinese history, with founder Liang Wenfeng putting $2.8B of his own money on the table. Tencent commits $1.4B, CATL invests $700M, and the valuation hits $52-59 billion. Here's why this changes everything."
 date: "2026-06-03"
 category: "AI Infrastructure"
 readTime: "16 min read"
+excerpt: "DeepSeek — the company that built a $5.6M model to rival GPT-4 and rejected venture capital for two years — is now raising $7.4 billion in the largest AI funding round in Chinese history. Founder Liang Wenfeng is putting $2.8 billion of his own money on the table. Tencent commits $1.4 billion. CATL invests $700 million. And the valuation? A staggering $52-59 billion."
+image: "https://images.unsplash.com/photo-1639322537228-f710d846310a?w=1200&h=600&fit=crop"
+keywords: ["DeepSeek", "AI funding", "China AI", "Liang Wenfeng", "Tencent AI investment", "CATL", "AI infrastructure", "Chinese AI lab", "AI mega-round", "DeepSeek valuation", "AI capital race"]
 ---
 
 # DeepSeek's $7.4B Mega-Round: How China's Most Secretive AI Lab Went All-In on Capital

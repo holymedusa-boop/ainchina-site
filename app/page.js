@@ -9,9 +9,17 @@ function formatDate(isoDate) {
   return d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })
 }
 
+// Fallback excerpts for posts missing them in posts-meta.js
+const fallbackExcerpts = {
+  'china-ai-agent-era-140-trillion-tokens-2026': 'On June 1, 2026, three Chinese ministries jointly issued the most comprehensive national policy framework for AI agent governance to date. With 140 trillion daily tokens and DeepSeek\'s 75% price cut, the global AI landscape is being reshaped.',
+  'deepseek-7b-mega-round-china-ai-capital-shift-2026': 'DeepSeek has raised $7.4B in what may be the largest private AI funding round in history. The secretive Chinese lab is going all-in on capital, building a 100,000-GPU cluster and expanding globally at unprecedented scale.',
+  'china-humanoid-robot-tsunami-2026-50k-units-global-dominance': 'China\'s humanoid robot industry is experiencing explosive growth with 50,000 units produced and 700% year-over-year expansion. 2026 marks the year humanoid robots transition from laboratory curiosity to industrial reality.'
+}
+
 // Take the latest 6 posts (already sorted newest-first in posts-meta.js)
 const posts = allPosts.slice(0, 6).map(post => ({
   ...post,
+  excerpt: post.excerpt || fallbackExcerpts[post.slug] || '',
   date: formatDate(post.date)
 }))
 

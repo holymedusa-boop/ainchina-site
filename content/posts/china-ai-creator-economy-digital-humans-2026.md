@@ -5,6 +5,8 @@ date: "2026-05-16"
 category: "AI Applications"
 readTime: "16 min read"
 ---
+![AI Data Center](https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?w=800&h=400&fit=crop)
+
 
 # China's AI Creator Economy: How Digital Humans and $45B Valuations Are Reshaping Global Content
 

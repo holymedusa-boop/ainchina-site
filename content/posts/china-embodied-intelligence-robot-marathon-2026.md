@@ -5,6 +5,8 @@ date: "2026-04-21"
 category: "AI Trends"
 readTime: "18 min read"
 ---
+![AI Data Center](https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&h=400&fit=crop)
+
 
 # China's Embodied Intelligence Revolution: When Robots Outrun Humans
 

@@ -9,7 +9,7 @@ metaDescription: "NDRC unveils China's national embodied intelligence infrastruc
 keywords: "China embodied intelligence, NDRC robot infrastructure, big brain small brain model, humanoid robot training, China AI policy, 15th Five-Year Plan AI, Zhiyuan robot, GAITC 2026, embodied data collection, China robot factory deployment"
 author: "AIN China"
 readTime: "16 min read"
-heroImage: "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?w=1200"
+heroImage: "https://images.unsplash.com/photo-1676299081847-824916de030a?w=1200"
 ---
 
 # China's Embodied Intelligence Infrastructure Push: NDRC Unveils National Plan to Put Robots in Factories, Malls, and Homes
@@ -20,7 +20,7 @@ On May 22, 2026, while the GAITC 2026 conference was assembling the nation's top
 
 The message was unambiguous: China is no longer content to let embodied intelligence remain a laboratory curiosity. The government is building the physical and digital backbone to train, test, and deploy humanoid robots and intelligent machines at national scale. And the timeline is aggressive: **widespread integration by 2027**.
 
-![Advanced robotics research facility with engineers working on humanoid robot prototypes](https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?w=1200)
+![Advanced robotics research facility with engineers working on humanoid robot prototypes](https://images.unsplash.com/photo-1676299081847-824916de030a?w=1200)
 *China's national embodied intelligence infrastructure plan signals a shift from lab experiments to factory-floor reality*
 
 ---

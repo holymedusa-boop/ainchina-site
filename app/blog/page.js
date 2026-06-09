@@ -1,10 +1,31 @@
 import Link from 'next/link'
 import BlogSearch from './BlogSearch'
 
+// Force rebuild: 2026-06-03-v2
+
 export const metadata = {
   metadataBase: new URL('https://www.ainchina.com'),
   title: 'AI in China Blog',
   description: 'Deep insights into China\'s AI revolution — trends, companies, and market intelligence',
+  openGraph: {
+    title: 'AI in China Blog',
+    description: 'Deep insights into China\'s AI revolution — trends, companies, and market intelligence',
+    url: 'https://www.ainchina.com/blog/',
+    siteName: 'AI in China',
+    type: 'website',
+    images: [{
+      url: 'https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=600&fit=crop',
+      width: 1200,
+      height: 600,
+      alt: 'AI in China Blog',
+    }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'AI in China Blog',
+    description: 'Deep insights into China\'s AI revolution — trends, companies, and market intelligence',
+    images: ['https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=600&fit=crop'],
+  },
   alternates: {
     canonical: '/blog/',
   },
@@ -21,8 +42,16 @@ function formatDate(isoDate) {
   return d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })
 }
 
+// Fallback excerpts for posts missing them
+const fallbackExcerpts = {
+  'china-ai-agent-era-140-trillion-tokens-2026': 'On June 1, 2026, three Chinese ministries jointly issued the most comprehensive national policy framework for AI agent governance to date. With 140 trillion daily tokens and DeepSeek\'s 75% price cut, the global AI landscape is being reshaped.',
+  'deepseek-7b-mega-round-china-ai-capital-shift-2026': 'DeepSeek has raised $7.4B in what may be the largest private AI funding round in history. The secretive Chinese lab is going all-in on capital, building a 100,000-GPU cluster and expanding globally at unprecedented scale.',
+  'china-humanoid-robot-tsunami-2026-50k-units-global-dominance': 'China\'s humanoid robot industry is experiencing explosive growth with 50,000 units produced and 700% year-over-year expansion. 2026 marks the year humanoid robots transition from laboratory curiosity to industrial reality.'
+}
+
 const posts = allPosts.map(post => ({
   ...post,
+  excerpt: post.excerpt || fallbackExcerpts[post.slug] || '',
   date: formatDate(post.date)
 }))
 

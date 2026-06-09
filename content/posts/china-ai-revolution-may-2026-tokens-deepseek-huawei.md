@@ -5,6 +5,8 @@ date: "2026-05-03"
 category: "AI Infrastructure"
 readTime: "16 min read"
 ---
+![AI Data Center](https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=400&fit=crop)
+
 
 *Image: The intersection of AI and national technology sovereignty—credit: Unsplash*
 

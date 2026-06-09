@@ -6,7 +6,7 @@ category: "AI Industry"
 readTime: "17 min read"
 ---
 
-![Futuristic digital network connecting global cities with glowing data streams](https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&q=80)
+![Futuristic digital network connecting global cities with glowing data streams](https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&q=80)
 *China's AI export model defies every precedent in technology history. Image: Unsplash*
 
 ## Executive Summary

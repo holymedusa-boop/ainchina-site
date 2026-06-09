@@ -9,7 +9,6 @@ image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&q=80
 slug: "china-ai-drama-revolution-bytedance-650m-empire-2026"
 ---
 
-![Film production studio](https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&q=80)
 
 *Photo: A modern film production studio. China's AI drama factories are replacing traditional sets with algorithms. Image: Unsplash*
 

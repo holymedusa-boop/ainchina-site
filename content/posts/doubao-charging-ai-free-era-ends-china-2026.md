@@ -1,4 +1,5 @@
 ---
+image: "https://images.unsplash.com/photo-1633431871820-ca72e0da2e2b?w=1200&h=600&fit=crop"
 title: "Doubao Starts Charging: How China's Biggest AI App Ended the Free Era — and What It Means for 345 Million Users"
 slug: "doubao-charging-ai-free-era-ends-china-2026"
 date: "2026-05-07"
@@ -11,6 +12,7 @@ author: "AIN China"
 readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?q=80&w=1200&auto=format&fit=crop"
 ---
+image: "https://images.unsplash.com/photo-1633431871820-ca72e0da2e2b?w=1200&h=600&fit=crop"
 
 *ByteDance's Doubao — the AI app used by 345 million people monthly in China — quietly added a paywall on May 4, 2026. Within hours, #DoubaoCharging trended across Weibo, Bilibili, and Xiaohongshu. The move isn't just about one app. It's the end of an era.*
 
@@ -234,6 +236,7 @@ The global significance is clear. China has been the world's largest laboratory 
 Either way, the era of the free AI lunch is over. What comes next is the era where AI must prove it's worth paying for — one token, one user, one subscription at a time.
 
 ---
+image: "https://images.unsplash.com/photo-1633431871820-ca72e0da2e2b?w=1200&h=600&fit=crop"
 
 ## Related Articles
 
@@ -243,5 +246,6 @@ Either way, the era of the free AI lunch is over. What comes next is the era whe
 - [MiniMax Talkie: China's AI Companion App Conquers Global Markets](https://www.ainchina.com/blog/minimax-talkie/) — A case study in consumer AI monetization through emotional engagement
 
 ---
+image: "https://images.unsplash.com/photo-1633431871820-ca72e0da2e2b?w=1200&h=600&fit=crop"
 
 *Disclaimer: This analysis is based on publicly disclosed data, media reports, and analyst estimates as of May 8, 2026. Pricing details for Doubao's paid tiers are subject to change as the service remains in testing. Revenue projections are speculative and depend on actual user conversion rates. This article does not constitute investment advice.*

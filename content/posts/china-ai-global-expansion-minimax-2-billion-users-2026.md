@@ -10,7 +10,7 @@ readTime: "16 min read"
 
 *In 2025, a Shanghai startup earned 73% of its revenue from overseas markets. Its AI companion app Talkie commands 70 minutes of daily user attention — nearly matching TikTok. And its API costs one-tenth of American competitors. This is the story of how Chinese AI cracked the global code.*
 
-![Global city skyline with digital overlay](https://images.unsplash.com/photo-1526379095098-d400fd0bf935?w=1200&h=600&fit=crop)
+![Global city skyline with digital overlay](https://images.unsplash.com/photo-1626908013351-800ddd734b8a?w=1200&h=600&fit=crop)
 *MiniMax, founded in Shanghai in 2021, now serves 236 million users across 200 countries — a case study in how Chinese AI companies are rewriting globalization rules.*
 
 ---

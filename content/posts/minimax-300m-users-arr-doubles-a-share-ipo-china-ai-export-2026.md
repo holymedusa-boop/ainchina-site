@@ -9,7 +9,6 @@ image: "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=1200&q=80
 slug: "minimax-300m-users-arr-doubles-a-share-ipo-china-ai-export-2026"
 ---
 
-![Laptop with global network visualization](https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=1200&q=80)
 
 *Photo: A laptop displaying global connectivity. MiniMax's AI services now reach users in 200+ countries, with 73% of revenue generated outside China. Image: Unsplash*
 
