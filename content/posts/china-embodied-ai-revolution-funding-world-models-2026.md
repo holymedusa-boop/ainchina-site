@@ -7,7 +7,7 @@ author: "AI in China Team"
 tags: ["Embodied AI", "Robotics", "ByteDance", "Unitree", "World Models", "China AI", "Funding", "IPO", "TARS Robotics", "Physical AI"]
 keywords: ["China embodied AI", "robotics funding 2026", "Unitree IPO", "ByteDance world models", "TARS Robotics", "humanoid robots China", "AI robotics investment", "Seed world models", "physical AI economy", "China robotics IPO"]
 excerpt: "China's embodied AI sector raised $3.3 billion in Q1 2026 alone, with Unitree Robotics targeting a $7 billion IPO and ByteDance declaring world models its top priority. Here's how physical AI is becoming China's next trillion-dollar industry."
-image: "https://images.unsplash.com/photo-1535378917042-10ba404dc04e?w=1200"
+image: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200"
 readTime: "14 min read"
 ---
 
@@ -43,7 +43,7 @@ What is happening in China right now is the largest-scale convergence of capital
 
 ## 1. From Software to Steel: Why Embodied AI Is China's Next Frontier
 
-![Embodied AI and robotics convergence](https://images.unsplash.com/photo-1574375927938-7f33942f8452?w=800&h=400&fit=crop)
+![Embodied AI and robotics convergence](https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&h=400&fit=crop)
 
 The shift from pure software AI to embodied intelligence is driven by three converging forces that are uniquely strong in China.
 
