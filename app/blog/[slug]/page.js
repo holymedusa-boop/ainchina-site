@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-embodied-ai-revolution-funding-world-models-2026': {
+    metaTitle: "China's Embodied AI Revolution: The $3.3 Billion Quarterly Funding Frenzy, World Models, and the Physical AI Economy",
+    metaDescription: "China's embodied AI sector raised $3.3 billion in Q1 2026 alone, with Unitree Robotics targeting a $7 billion IPO and ByteDance declaring world models its top priority. Here's how physical AI is becoming China's next trillion-dollar industry.",
+    keywords: '["China embodied AI", "robotics funding 2026", "Unitree IPO", "ByteDance world models", "TARS Robotics", "humanoid robots China", "AI robotics investment", "Seed world models", "physical AI economy", "China robotics IPO"]',
+  },
   'china-ai-agent-army-126-platforms-67-enterprise-adoption-2026': {
     metaTitle: "China's AI Agent Army: 126 Platforms, 67% Enterprise Adoption",
     metaDescription: "China has built 126 AI Agent platforms with 67% enterprise adoption. The strategy, scale, and enterprise-first approach look nothing like America's—and that's why it's working.",
