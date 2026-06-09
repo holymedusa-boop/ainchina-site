@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-agent-army-126-platforms-67-enterprise-adoption-2026': {
+    metaTitle: "China's AI Agent Army: 126 Platforms, 67% Enterprise Adoption",
+    metaDescription: "China has built 126 AI Agent platforms with 67% enterprise adoption. The strategy, scale, and enterprise-first approach look nothing like America's—and that's why it's working.",
+    keywords: 'AI Agent, China AI, Coze, enterprise automation, ByteDance, Alibaba, AI platforms, agentic AI, B2B AI, China tech',
+  },
   'ai-thesis-writing-phenomenon-china-2026': {
     metaTitle: "The AI Thesis Writing Phenomenon: How Chinese Students Are Redefining Academic Work with Generative AI",
     metaDescription: "China's graduation season is upon us, and a new phenomenon is dominating social media: AI thesis writing. On Xiaohongshu alone, searches for \"AI写论文\" (AI writing thesis) have surged 85% in just one...",
