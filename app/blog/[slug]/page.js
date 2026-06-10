@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'triple-silicon-china-ai-chip-independence-2026': {
+    metaTitle: "The Triple Silicon Gambit: How China's AI Chip Surge Is Forging an Independent Path to AGI",
+    metaDescription: "For nearly three years, the prevailing narrative in Washington, London, and Silicon Valley has been straightforward: the US ban on advanced GPU exports to China has created a \"compute moat\" that...",
+    keywords: '',
+  },
   'china-embodied-ai-revolution-funding-world-models-2026': {
     metaTitle: "China's Embodied AI Revolution: The $3.3 Billion Quarterly Funding Frenzy, World Models, and the Physical AI Economy",
     metaDescription: "China's embodied AI sector raised $3.3 billion in Q1 2026 alone, with Unitree Robotics targeting a $7 billion IPO and ByteDance declaring world models its top priority. Here's how physical AI is becoming China's next trillion-dollar industry.",
