@@ -1,7 +1,7 @@
 ---
 title: "The Gaokao Agent Wars: How China's 12.9 Million Student Exam Became Tech's Biggest AI Battleground"
 description: "Alibaba, Tencent, Baidu, and ByteDance have turned China's college entrance exam into a proxy war for AI agent supremacy. With 12.9 million students, an ¥11.6 billion market, and 80 billion yuan in cumulative app subsidies, the Gaokao is no longer just an exam. It's the stress test for China's AI consumer future."
-image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200"
+image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200"
 date: "2026-06-12"
 ---
 
