@@ -12,6 +12,41 @@
   ],
   "redirects": [
     {
+      "source": "/blog/china-embodied-ai-revolution-2026",
+      "destination": "/blog/china-embodied-ai-revolution-funding-world-models-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/china-embodied-ai-revolution-2026/:path*",
+      "destination": "/blog/china-embodied-ai-revolution-funding-world-models-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/deepseek-v4-agent-era-million-tokens-2026",
+      "destination": "/blog/deepseek-v4-million-token-china-ai-sovereignty/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/deepseek-v4-agent-era-million-tokens-2026/:path*",
+      "destination": "/blog/deepseek-v4-million-token-china-ai-sovereignty/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/china-ai-war-of-gods-deepseek-kimi-open-source-dominance",
+      "destination": "/blog/china-ai-capital-war-deepseek-kimi-funding-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/china-ai-war-of-gods-deepseek-kimi-open-source-dominance/:path*",
+      "destination": "/blog/china-ai-capital-war-deepseek-kimi-funding-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/china-ai-invisible-empire-consumer-apps-2026/:path*",
+      "destination": "/blog/china-ai-invisible-empire-consumer-apps-2026/",
+      "permanent": true
+    },
+    {
       "source": "/blog/minimax-talkie-200m-users",
       "destination": "/blog/minimax-talkie/",
       "permanent": true
