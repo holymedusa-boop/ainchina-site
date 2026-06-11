@@ -9,6 +9,9 @@
     "sync-metadata": "node scripts/sync-metadata.js",
     "sitemap": "node scripts/generate-sitemap.js",
     "check-images": "bash scripts/check-images.sh",
+    "verify-pre-push": "bash scripts/publish-verify.sh pre-push",
+    "verify-post-push": "bash scripts/publish-verify.sh post-push",
+    "verify-full": "bash scripts/publish-verify.sh full",
     "prebuild": "npm run sync-metadata && npm run check-images && npm run sitemap"
   },
   "dependencies": {
