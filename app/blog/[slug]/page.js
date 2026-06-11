@@ -790,13 +790,19 @@ export default function BlogPost({ params }) {
   const jsonLdString = JSON.stringify(jsonLd).replace(/</g, '\\u003c')
 
   // Parse markdown content to HTML-like JSX
-  function parseContent(content) {
+  function parseContent(content, options = {}) {
+    const { skipTitle, heroImage } = options
     const lines = content.split('\n')
     const elements = []
     let currentTable = null
     let currentCodeBlock = null
     let currentQuote = null
     let i = 0
+    let h1Skipped = false
+    let heroSkipped = false
+
+    // Normalize title for comparison (strip markdown formatting, lowercase)
+    const normalizedSkipTitle = skipTitle ? skipTitle.replace(/\*\*/g, '').trim().toLowerCase() : null
 
     while (i < lines.length) {
       const line = lines[i]
@@ -939,6 +945,13 @@ export default function BlogPost({ params }) {
 
       // Headings
       if (line.startsWith('# ')) {
+        const headingText = line.substring(2).trim().replace(/\*\*/g, '').toLowerCase()
+        // Skip first H1 if it matches the article title (already rendered in header)
+        if (!h1Skipped && normalizedSkipTitle && headingText === normalizedSkipTitle) {
+          h1Skipped = true
+          i++
+          continue
+        }
         elements.push(
           <h1 key={i} style={{ fontSize: '36px', fontWeight: '700', margin: '48px 0 24px', color: '#f5f5f5' }}>
             {parseInline(line.substring(2))}
@@ -971,6 +984,12 @@ export default function BlogPost({ params }) {
         // Image
         const match = line.match(/!\[([^\]]*)\]\(([^)]+)\)/)
         if (match) {
+          // Skip first image if it matches the hero image (already rendered above content)
+          if (!heroSkipped && heroImage && match[2] === heroImage) {
+            heroSkipped = true
+            i++
+            continue
+          }
           elements.push(
             <img key={i} src={match[2]} alt={match[1]} style={{ width: '100%', borderRadius: '12px', margin: '24px 0' }} />
           )
@@ -1171,7 +1190,7 @@ export default function BlogPost({ params }) {
 
           {/* Content */}
           <div>
-            {parseContent(post.content)}
+            {parseContent(post.content, { skipTitle: post.title, heroImage: post.heroImage })}
           </div>
 
           {/* Author Attribution - E-E-A-T Signal */}
