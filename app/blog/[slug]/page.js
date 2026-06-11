@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'gaokao-agent-wars-china-ai-battleground-2026': {
+    metaTitle: "The Gaokao Agent Wars: How China's 12.9 Million Student Exam Became Tech's Biggest AI Battleground",
+    metaDescription: "The gaokao has always been more than an exam. For decades, it has been the single most consequential information market in China. Every year, 12–13 million students and their families engage in a...",
+    keywords: '',
+  },
   'triple-silicon-china-ai-chip-independence-2026': {
     metaTitle: "The Triple Silicon Gambit: How China's AI Chip Surge Is Forging an Independent Path to AGI",
     metaDescription: "For nearly three years, the prevailing narrative in Washington, London, and Silicon Valley has been straightforward: the US ban on advanced GPU exports to China has created a \"compute moat\" that...",
