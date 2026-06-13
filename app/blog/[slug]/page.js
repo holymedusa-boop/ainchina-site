@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'forbes-china-ai-top-50-six-decoupling-signals-2026': {
+    metaTitle: "The Forbes China AI TOP 50: Six Decoupling Signals That Silicon Valley Can't Ignore",
+    metaDescription: "Forbes China's 2026 AI TOP 50 rankings reveal six decoupling signals across foundation models, silicon, embodied intelligence, and frontier science that prove China's AI ecosystem has fundamentally separated from Western technology at every layer.",
+    keywords: '["Forbes China AI TOP 50", "China AI ecosystem", "AI decoupling", "DeepSeek", "Cambricon", "UBTECH", "ADASPACE", "embodied intelligence", "Chinese AI companies", "AI stack independence"]',
+  },
   'gaokao-agent-wars-china-ai-battleground-2026': {
     metaTitle: "The Gaokao Agent Wars: How China's 12.9 Million Student Exam Became Tech's Biggest AI Battleground",
     metaDescription: "The gaokao has always been more than an exam. For decades, it has been the single most consequential information market in China. Every year, 12–13 million students and their families engage in a...",
