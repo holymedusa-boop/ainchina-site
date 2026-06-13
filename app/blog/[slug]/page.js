@@ -15,6 +15,11 @@ const postMetadata = {
     metaDescription: "Forbes China's 2026 AI TOP 50 rankings reveal six decoupling signals across foundation models, silicon, embodied intelligence, and frontier science that prove China's AI ecosystem has fundamentally separated from Western technology at every layer.",
     keywords: '["Forbes China AI TOP 50", "China AI ecosystem", "AI decoupling", "DeepSeek", "Cambricon", "UBTECH", "ADASPACE", "embodied intelligence", "Chinese AI companies", "AI stack independence"]',
   },
+  'glm-5-1-open-source-crown-beijing-2026': {
+    metaTitle: "GLM-5.1: The 754B-Parameter Open-Source MoE That Beat GPT-5.4 on Real-World Coding — and Trained Without NVIDIA",
+    metaDescription: "On April 7, 2026, a Chinese AI research lab quietly uploaded a set of model weights to Hugging Face. There was no splashy livestream. No Sam Altman tweet thread. No carefully choreographed product...",
+    keywords: '',
+  },
   'unitree-robotics-ipo-china-humanoid-robot-first-stock-2026': {
     metaTitle: "Unitree's IPO Sprint: How a Chinese Robot Maker Went From Zero to ¥17 Billion in Eight Years",
     metaDescription: "Unitree Technology's IPO is not merely a capital markets event. It is a structural inflection point for the entire humanoid robotics sector. The company filed its prospectus on March 20, 2026, and...",
