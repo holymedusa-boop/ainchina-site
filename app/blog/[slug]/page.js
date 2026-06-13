@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'ai-builds-ai-forgetrain-modelbest-china-2026': {
+    metaTitle: "AI Builds AI: How a Chinese Lab Taught Artificial Intelligence to Write Its Own Training Framework — and Beat NVIDIA",
+    metaDescription: "ModelBest's ForgeTrain is the world's first production-grade LLM pre-training framework written entirely by AI. It trains models 10% faster than NVIDIA's Megatron-LM on identical H100 hardware, runs on both NVIDIA and Huawei Ascend chips, and trained MiniCPM5-1B — the world's top-ranked sub-2B parameter model.",
+    keywords: '["AI builds AI", "ForgeTrain", "ModelBest", "MiniCPM5-1B", "AI-generated code", "NVIDIA Megatron", "Huawei Ascend", "AI training framework", "Tsinghua University", "OpenBMB", "distributed training", "AI self-improvement", "China AI"]',
+  },
   'china-ai-network-doctrine-miit-three-year-plan-2026': {
     metaTitle: "China's AI Network Doctrine: How the 2026-2028 Plan Is Wiring Intelligence Into Every Fiber",
     metaDescription: "China's MIIT just released a three-year implementation plan to integrate AI with information and communications networks. With 75% compute latency targets, 30+ high-value use cases, and autonomous network goals by 2028, this is not just policy—it is infrastructure-as-strategy.",
