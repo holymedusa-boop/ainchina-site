@@ -5,10 +5,20 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-network-doctrine-miit-three-year-plan-2026': {
+    metaTitle: "China's AI Network Doctrine: How the 2026-2028 Plan Is Wiring Intelligence Into Every Fiber",
+    metaDescription: "China's MIIT just released a three-year implementation plan to integrate AI with information and communications networks. With 75% compute latency targets, 30+ high-value use cases, and autonomous network goals by 2028, this is not just policy—it is infrastructure-as-strategy.",
+    keywords: '["China AI policy", "MIIT", "AI communications networks", "autonomous networks", "AI infrastructure", "China 2026-2028 AI plan", "compute latency", "intelligent agents", "5G AI", "digital infrastructure"]',
+  },
   'forbes-china-ai-top-50-six-decoupling-signals-2026': {
     metaTitle: "The Forbes China AI TOP 50: Six Decoupling Signals That Silicon Valley Can't Ignore",
     metaDescription: "Forbes China's 2026 AI TOP 50 rankings reveal six decoupling signals across foundation models, silicon, embodied intelligence, and frontier science that prove China's AI ecosystem has fundamentally separated from Western technology at every layer.",
     keywords: '["Forbes China AI TOP 50", "China AI ecosystem", "AI decoupling", "DeepSeek", "Cambricon", "UBTECH", "ADASPACE", "embodied intelligence", "Chinese AI companies", "AI stack independence"]',
+  },
+  'unitree-robotics-ipo-china-humanoid-robot-first-stock-2026': {
+    metaTitle: "Unitree's IPO Sprint: How a Chinese Robot Maker Went From Zero to ¥17 Billion in Eight Years",
+    metaDescription: "Unitree Technology's IPO is not merely a capital markets event. It is a structural inflection point for the entire humanoid robotics sector. The company filed its prospectus on March 20, 2026, and...",
+    keywords: '',
   },
   'gaokao-agent-wars-china-ai-battleground-2026': {
     metaTitle: "The Gaokao Agent Wars: How China's 12.9 Million Student Exam Became Tech's Biggest AI Battleground",
