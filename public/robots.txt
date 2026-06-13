@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
+Disallow: /en/
+Disallow: /*.asp$
+Disallow: /*.htm$
 
 Sitemap: https://www.ainchina.com/sitemap.xml
