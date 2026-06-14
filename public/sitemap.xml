@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Generated: 2026-06-13T04:51:50.516Z -->
-  <!-- Total Posts: 87 -->
+  <!-- Generated: 2026-06-14T01:47:45.434Z -->
+  <!-- Total Posts: 88 -->
 
   <!-- Homepage -->
   <url>
     <loc>https://www.ainchina.com/</loc>
-    <lastmod>2026-06-13</lastmod>
+    <lastmod>2026-06-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -15,7 +15,7 @@
   <!-- Blog Index -->
   <url>
     <loc>https://www.ainchina.com/blog/</loc>
-    <lastmod>2026-06-13</lastmod>
+    <lastmod>2026-06-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -31,40 +31,18 @@
   <!-- HTML Sitemap -->
   <url>
     <loc>https://www.ainchina.com/sitemap/</loc>
-    <lastmod>2026-06-13</lastmod>
+    <lastmod>2026-06-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
 
-  <!-- AI Technology -->
-  <url>
-    <loc>https://www.ainchina.com/blog/ai-builds-ai-forgetrain-modelbest-china-2026/</loc>
-    <lastmod>2026-06-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-
-  <!-- AI Policy -->
-  <url>
-    <loc>https://www.ainchina.com/blog/china-ai-network-doctrine-miit-three-year-plan-2026/</loc>
-    <lastmod>2026-06-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/china-six-networks-trillion-infrastructure-ai-compute-2026/</loc>
-    <lastmod>2026-05-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/china-ai-agent-revolution-2026-policy-market/</loc>
-    <lastmod>2026-04-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-
   <!-- AI -->
+  <url>
+    <loc>https://www.ainchina.com/blog/china-industrial-ai-revolution-smart-factories-2026/</loc>
+    <lastmod>2026-06-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   <url>
     <loc>https://www.ainchina.com/blog/forbes-china-ai-top-50-six-decoupling-signals-2026/</loc>
     <lastmod>2026-06-13</lastmod>
@@ -116,7 +94,7 @@
   <url>
     <loc>https://www.ainchina.com/blog/tencent-wechat-ai-agent-billion-users-china-2026/</loc>
     <lastmod>2026-06-07</lastmod>
-    <changefreq>daily</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
@@ -180,6 +158,34 @@
     <priority>0.6</priority>
   </url>
 
+  <!-- AI Technology -->
+  <url>
+    <loc>https://www.ainchina.com/blog/ai-builds-ai-forgetrain-modelbest-china-2026/</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- AI Policy -->
+  <url>
+    <loc>https://www.ainchina.com/blog/china-ai-network-doctrine-miit-three-year-plan-2026/</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/china-six-networks-trillion-infrastructure-ai-compute-2026/</loc>
+    <lastmod>2026-05-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/china-ai-agent-revolution-2026-policy-market/</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
   <!-- Market Intelligence -->
   <url>
     <loc>https://www.ainchina.com/blog/deepseek-7-billion-fundraising-tencent-catl-api-price-war-2026/</loc>
@@ -190,7 +196,7 @@
   <url>
     <loc>https://www.ainchina.com/blog/china-ai-capital-war-deepseek-kimi-funding-2026/</loc>
     <lastmod>2026-05-15</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>

@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-industrial-ai-revolution-smart-factories-2026': {
+    metaTitle: "China's 30,000 Smart Factories: Why the Real AI War Is Happening on the Factory Floor, Not in Chatbots",
+    metaDescription: "While Silicon Valley obsesses over chatbot leaderboards, China has quietly deployed 30,000 smart factories, produced 143,608 industrial robots in two months, and built an industrial AI ecosystem that triples factory output without adding workers. The numbers tell a story the West isn't hearing.",
+    keywords: '',
+  },
   'ai-builds-ai-forgetrain-modelbest-china-2026': {
     metaTitle: "AI Builds AI: How a Chinese Lab Taught Artificial Intelligence to Write Its Own Training Framework — and Beat NVIDIA",
     metaDescription: "ModelBest's ForgeTrain is the world's first production-grade LLM pre-training framework written entirely by AI. It trains models 10% faster than NVIDIA's Megatron-LM on identical H100 hardware, runs on both NVIDIA and Huawei Ascend chips, and trained MiniCPM5-1B — the world's top-ranked sub-2B parameter model.",
