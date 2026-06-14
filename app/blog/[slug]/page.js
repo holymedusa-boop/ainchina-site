@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-physical-ai-awakening-world-models-robot-ipos-295b-bet-2026': {
+    metaTitle: "China's Physical AI Awakening: World Models, Robot IPOs, and the $295 Billion Bet on Embodied Intelligence",
+    metaDescription: "In a single week, China unveiled the world's first general world foundation model, a humanoid robot maker filed for IPO, and Beijing prepared a $295 billion nationwide AI buildout. The physical AI era has arrived.",
+    keywords: '["China world model", "Physis BAAI", "embodied intelligence", "humanoid robot IPO", "EngineAI", "China AI buildout", "physical AI", "robotics China 2026", "AI liability China", "Beijing Academy of AI"]',
+  },
   'china-industrial-ai-revolution-smart-factories-2026': {
     metaTitle: "China's 30,000 Smart Factories: Why the Real AI War Is Happening on the Factory Floor, Not in Chatbots",
     metaDescription: "While Silicon Valley obsesses over chatbot leaderboards, China has quietly deployed 30,000 smart factories, produced 143,608 industrial robots in two months, and built an industrial AI ecosystem that triples factory output without adding workers. The numbers tell a story the West isn't hearing.",
