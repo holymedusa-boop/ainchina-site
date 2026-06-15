@@ -1,12 +1,13 @@
 ---
 title: "China's 30,000 Smart Factories: Why the Real AI War Is Happening on the Factory Floor, Not in Chatbots"
 slug: "china-industrial-ai-revolution-smart-factories-2026"
-heroImage: "https://images.unsplash.com/photo-1581091226825-a6a2b5aee158?w=1200&q=80"
+heroImage: "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=800&q=80"
 date: "2026-06-14"
 excerpt: "While Silicon Valley obsesses over chatbot leaderboards, China has quietly deployed 30,000 smart factories, produced 143,608 industrial robots in two months, and built an industrial AI ecosystem that triples factory output without adding workers. The numbers tell a story the West isn't hearing."
 ---
 
-![Industrial robot arm on semiconductor production line](https://images.unsplash.com/photo-1581091226825-a6a2b5aee158?w=800&q=80)
+![Industrial robot arm on semiconductor production line](https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=800&q=80)
 *A robotic arm positions chip components on a semiconductor production line in Wuxi, Jiangsu Province. China's industrial AI deployment now spans 30,000 smart factories nationwide. (Photo: Unsplash)*
 
 ## The Conventional Wisdom: China's AI Edge Is Consumer Apps
@@ -42,7 +43,7 @@ The evidence is scattered across government statistics, corporate filings, and i
 
 The table above reveals a simple but profound truth: China is not merely building AI models. It is embedding AI into the physical infrastructure of global manufacturing at a scale that has no parallel in any other country. The 31.1% year-on-year growth in industrial robot production—faster than the 27% recorded in the same period last year—suggests acceleration, not plateau. The 30,000 smart factories figure, which emerged from industry tracking in early 2026, represents a deployment base that dwarfs the combined industrial AI infrastructure of North America and Europe.
 
-![Automated assembly line in modern factory](https://images.unsplash.com/photo-1565514020167-638f94b6578b?w=800&q=80)
+![Automated assembly line in modern factory](https://images.unsplash.com/photo-1565043666747-69f6646db940?w=800&q=80)
 *An AI-enabled automated assembly line at a steel manufacturing facility in Jiangsu Province. Design efficiency has jumped 66% while headcount remained flat. (Photo: Unsplash)*
 
 ### Enterprise AI Efficiency Gains: Real Case Studies

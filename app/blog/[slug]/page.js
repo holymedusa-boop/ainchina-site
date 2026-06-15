@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-embodied-intelligence-revolution-2026': {
+    metaTitle: "China's Embodied Intelligence Revolution: From Spring Festival Gala to Factory Floor",
+    metaDescription: "Eight out of ten humanoid robots worldwide now come from China. From the CCTV Spring Festival Gala to factory floors, China's embodied intelligence industry has shifted from laboratory curiosity to mass production reality. Here's how Unitree, AgiBot, and 140+ manufacturers are building the physical AI future.",
+    keywords: '["embodied intelligence", "humanoid robots", "Unitree", "AgiBot", "China AI", "physical AI", "robotics IPO", "Tianjin World Intelligence Expo", "UBTECH", "embodied AI standards"]',
+  },
   'china-physical-ai-awakening-world-models-robot-ipos-295b-bet-2026': {
     metaTitle: "China's Physical AI Awakening: World Models, Robot IPOs, and the $295 Billion Bet on Embodied Intelligence",
     metaDescription: "In a single week, China unveiled the world's first general world foundation model, a humanoid robot maker filed for IPO, and Beijing prepared a $295 billion nationwide AI buildout. The physical AI era has arrived.",
@@ -239,11 +244,6 @@ const postMetadata = {
     metaTitle: "Kimi's $20 Billion Bet: How China's AI Token Economy Is Rewriting Global Power Dynamics",
     metaDescription: "Kimi hits a $20 billion funding round at $200 billion valuation while China's AI token consumption surges past the US for the third time. Here's what it means for the global AI landscape.",
     keywords: '',
-  },
-  'china-embodied-intelligence-revolution-2026': {
-    metaTitle: "China's Embodied Intelligence Revolution: How 230+ Companies and a $110 Billion Market Are Reshaping Global Robotics in 2026",
-    metaDescription: "China's embodied intelligence industry is surging from 1,800 humanoid robots shipped in 2025 to an anticipated 100,000+ in 2026, backed by $195 billion in annual funding and a supply chain that cuts costs to 50% of Western equivalents.",
-    keywords: 'embodied intelligence, humanoid robot, China AI, robotics industry, Unitree, UBTECH, embodied AI, VLA model, manufacturing automation',
   },
   'deepseek-v4-promo-ending-analysis': {
     metaTitle: "DeepSeek V4's 75% Promo Ends May 31: What Happens Next and Why the AI Pricing War Is Just Beginning",
