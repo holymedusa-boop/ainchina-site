@@ -10,6 +10,16 @@ const nextConfig = {
   async redirects() {
     return [
       {
+        source: '/posts/ai-avatar-revolution-china-2026',
+        destination: '/blog/china-ai-avatar-revolution-2026/',
+        permanent: true,
+      },
+      {
+        source: '/posts/ai-avatar-revolution-china-2026/:path*',
+        destination: '/blog/china-ai-avatar-revolution-2026/',
+        permanent: true,
+      },
+      {
         source: '/privacy-policy',
         destination: '/privacy/',
         permanent: true,
