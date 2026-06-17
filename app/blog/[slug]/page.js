@@ -5,6 +5,16 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-iron-cage-governance-regime-2026': {
+    metaTitle: "China's AI Iron Cage: How Beijing Built the World's Most Prescriptive Algorithmic Regulatory Regime in 1,826 Days",
+    metaDescription: "While Western policymakers debate AI safety frameworks, China has already erected a three-pillar regulatory architecture that mandates registration for every algorithm, labels every AI-generated pixel, and can fine companies up to ¥5 million—or imprison executives for seven years. This is not a draft proposal. It is live law, enforced daily.",
+    keywords: '',
+  },
+  'china-low-altitude-economy-drones-ai-500bn-airspace-2026': {
+    metaTitle: "China's Low-Altitude Economy: How Drones, AI, and eVTOLs Are Building a $500 Billion Airspace Industry",
+    metaDescription: "With 1.2 million cargo drone flights in 2025, 70% of global consumer drone production, and a $500 billion market projection by 2035, China's low-altitude economy has moved from policy concept to commercial reality. Here's how Shenzhen, Meituan, DJI, and a fleet of eVTOL startups are reshaping the skies.",
+    keywords: '["low-altitude economy", "China drones", "Meituan drone delivery", "eVTOL China", "Shenzhen low-altitude", "DJI", "EHang", "XPeng AeroHT", "China air taxi", "drone logistics"]',
+  },
   'china-embodied-intelligence-revolution-2026': {
     metaTitle: "China's Embodied Intelligence Revolution: From Spring Festival Gala to Factory Floor",
     metaDescription: "Eight out of ten humanoid robots worldwide now come from China. From the CCTV Spring Festival Gala to factory floors, China's embodied intelligence industry has shifted from laboratory curiosity to mass production reality. Here's how Unitree, AgiBot, and 140+ manufacturers are building the physical AI future.",

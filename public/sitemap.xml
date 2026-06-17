@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Generated: 2026-06-14T01:47:45.434Z -->
-  <!-- Total Posts: 88 -->
+  <!-- Generated: 2026-06-16T20:33:58.991Z -->
+  <!-- Total Posts: 90 -->
 
   <!-- Homepage -->
   <url>
     <loc>https://www.ainchina.com/</loc>
-    <lastmod>2026-06-14</lastmod>
+    <lastmod>2026-06-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -15,7 +15,7 @@
   <!-- Blog Index -->
   <url>
     <loc>https://www.ainchina.com/blog/</loc>
-    <lastmod>2026-06-14</lastmod>
+    <lastmod>2026-06-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -31,12 +31,30 @@
   <!-- HTML Sitemap -->
   <url>
     <loc>https://www.ainchina.com/sitemap/</loc>
-    <lastmod>2026-06-14</lastmod>
+    <lastmod>2026-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
 
   <!-- AI -->
+  <url>
+    <loc>https://www.ainchina.com/blog/china-low-altitude-economy-drones-ai-500bn-airspace-2026/</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/china-embodied-intelligence-revolution-2026/</loc>
+    <lastmod>2026-06-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/china-physical-ai-awakening-world-models-robot-ipos-295b-bet-2026/</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   <url>
     <loc>https://www.ainchina.com/blog/china-industrial-ai-revolution-smart-factories-2026/</loc>
     <lastmod>2026-06-14</lastmod>
@@ -82,13 +100,13 @@
   <url>
     <loc>https://www.ainchina.com/blog/china-ai-agent-army-126-platforms-67-enterprise-adoption-2026/</loc>
     <lastmod>2026-06-09</lastmod>
-    <changefreq>daily</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.ainchina.com/blog/ai-thesis-writing-phenomenon-china-2026/</loc>
     <lastmod>2026-06-08</lastmod>
-    <changefreq>daily</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
@@ -278,12 +296,6 @@
   <url>
     <loc>https://www.ainchina.com/blog/china-ai-infrastructure-awakening-wuwenxinqiong-deepseek-multimodal-2026/</loc>
     <lastmod>2026-05-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/china-embodied-intelligence-revolution-2026/</loc>
-    <lastmod>2026-05-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -508,7 +520,7 @@
   <url>
     <loc>https://www.ainchina.com/blog/china-ai-creator-economy-digital-humans-2026/</loc>
     <lastmod>2026-05-16</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
@@ -522,7 +534,7 @@
   <url>
     <loc>https://www.ainchina.com/blog/china-ai-hallucination-blind-spot-crisis-2026/</loc>
     <lastmod>2026-05-17</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
