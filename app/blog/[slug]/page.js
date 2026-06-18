@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-profit-future-gamble-ai-war-2026': {
+    metaTitle: "The Profit-for-Future Gamble: How China's Tech Giants Sacrificed $100 Billion in Profits to Win the AI War",
+    metaDescription: "ByteDance profits collapsed 70%. Alibaba committed ¥3.8 trillion. Tencent's capex surged 91%. Yet valuations soared, investors cheered, and employees got richer. Welcome to China's 'profit-for-future' AI economy — where losing money is the new winning strategy.",
+    keywords: '',
+  },
   'china-ai-iron-cage-governance-regime-2026': {
     metaTitle: "China's AI Iron Cage: How Beijing Built the World's Most Prescriptive Algorithmic Regulatory Regime in 1,826 Days",
     metaDescription: "While Western policymakers debate AI safety frameworks, China has already erected a three-pillar regulatory architecture that mandates registration for every algorithm, labels every AI-generated pixel, and can fine companies up to ¥5 million—or imprison executives for seven years. This is not a draft proposal. It is live law, enforced daily.",
