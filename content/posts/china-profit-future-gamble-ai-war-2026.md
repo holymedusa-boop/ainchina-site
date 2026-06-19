@@ -1,14 +1,11 @@
 ---
 title: "The Profit-for-Future Gamble: How China's Tech Giants Sacrificed $100 Billion in Profits to Win the AI War"
 slug: "china-profit-future-gamble-ai-war-2026"
-heroImage: "https://images.unsplash.com/photo-1611974789855-9c054b0db920?w=1200&q=80"
-image: "https://images.unsplash.com/photo-1611974789855-9c054b0db920?w=800&q=80"
+heroImage: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80"
 date: "2026-06-19"
 excerpt: "ByteDance profits collapsed 70%. Alibaba committed ¥3.8 trillion. Tencent's capex surged 91%. Yet valuations soared, investors cheered, and employees got richer. Welcome to China's 'profit-for-future' AI economy — where losing money is the new winning strategy."
 ---
-
-![Abstract visualization of financial data flows converging into an AI neural network](https://images.unsplash.com/photo-1611974789855-9c054b0db920?w=800&q=80)
-*The divergence between profit and valuation in China's AI sector has created a new investment logic: cash burn as a signal of strategic commitment. (Photo: Unsplash)*
 
 ## The Moment the Rules Changed
 

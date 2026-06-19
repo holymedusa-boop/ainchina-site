@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'baidu-apollo-go-swiss-level4-robotaxi-permit-europe-2026': {
+    metaTitle: "The Swiss Connection: How Baidu's Apollo Go Beat Waymo and Tesla to Europe's First Level 4 Robotaxi Permit",
+    metaDescription: "On June 16, 2026, Baidu's Apollo Go received a Level 4 autonomous driving permit in Switzerland — the first on European soil. With 22 million cumulative rides, 330 million kilometers logged, and a partnership with Swiss Post's PostBus, Baidu just leaped ahead of Waymo and Tesla in the global robotaxi race.",
+    keywords: '["Baidu Apollo Go", "AmiGo Switzerland", "Level 4 autonomous driving", "robotaxi Europe", "Waymo vs Baidu", "Tesla FSD", "PostBus", "FEDRO permit", "RT6 robotaxi", "China autonomous driving"]',
+  },
   'china-profit-future-gamble-ai-war-2026': {
     metaTitle: "The Profit-for-Future Gamble: How China's Tech Giants Sacrificed $100 Billion in Profits to Win the AI War",
     metaDescription: "ByteDance profits collapsed 70%. Alibaba committed ¥3.8 trillion. Tencent's capex surged 91%. Yet valuations soared, investors cheered, and employees got richer. Welcome to China's 'profit-for-future' AI economy — where losing money is the new winning strategy.",
