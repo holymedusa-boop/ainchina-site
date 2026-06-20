@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'qwen-billion-downloads-china-open-source-ai-dominance-2026': {
+    metaTitle: "Qwen's Open-Source Conquest: How China's AI Model Captured a Billion Downloads and Redrew Global Developer Economics",
+    metaDescription: "On a Tuesday in early June 2026, a developer in São Paulo refreshed the Hugging Face model page for Qwen/Qwen3.6-27B and noticed something peculiar. The cumulative download counter had vanished,...",
+    keywords: '',
+  },
   'baidu-apollo-go-swiss-level4-robotaxi-permit-europe-2026': {
     metaTitle: "The Swiss Connection: How Baidu's Apollo Go Beat Waymo and Tesla to Europe's First Level 4 Robotaxi Permit",
     metaDescription: "On June 16, 2026, Baidu's Apollo Go received a Level 4 autonomous driving permit in Switzerland — the first on European soil. With 22 million cumulative rides, 330 million kilometers logged, and a partnership with Swiss Post's PostBus, Baidu just leaped ahead of Waymo and Tesla in the global robotaxi race.",
