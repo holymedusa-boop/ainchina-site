@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'huawei-ascend-12-billion-ai-chip-surge-global-bifurcation-2026': {
+    metaTitle: "The Silicon Curtain: How Huawei's $12 Billion AI Chip Surge Is Splitting Global AI in Two",
+    metaDescription: "Huawei's AI chip revenue is projected to hit $12 billion in 2026 — a 60% surge driven by Alibaba, ByteDance, Tencent, and Baidu shifting from NVIDIA to domestic silicon. As DeepSeek trains on Ascend, ByteDance plans 350,000 custom chips, and Chinese models close within 5 points of the American frontier, the global AI infrastructure map is splitting in two.",
+    keywords: '["Huawei Ascend", "AI chip", "NVIDIA export ban", "China semiconductor", "ByteDance AI chip", "Alibaba Qwen", "DeepSeek Huawei", "AI infrastructure bifurcation", "Ascend 910C", "CANN vs CUDA", "China AI sovereignty", "US chip sanctions", "Samsung foundry", "AI compute", "domestic substitution"]',
+  },
   'qwen-billion-downloads-china-open-source-ai-dominance-2026': {
     metaTitle: "Qwen's Open-Source Conquest: How China's AI Model Captured a Billion Downloads and Redrew Global Developer Economics",
     metaDescription: "On a Tuesday in early June 2026, a developer in São Paulo refreshed the Hugging Face model page for Qwen/Qwen3.6-27B and noticed something peculiar. The cumulative download counter had vanished,...",
