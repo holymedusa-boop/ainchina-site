@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-agent-revolution-2026': {
+    metaTitle: "China's AI Agent Revolution: Why 2026 Is the Year Agents Stop Chatting and Start Working",
+    metaDescription: "While Western tech media obsesses over GPT-5 benchmarks, China's tech giants have quietly built the world's first large-scale AI agent economy. With 79% enterprise adoption, billion-user platforms embedding agents directly into WeChat, and inference costs 3-5x below Western levels, 2026 is the year AI agents stop chatting and start working.",
+    keywords: '["China AI agents", "AI agent economy", "Tencent ClawBot", "Alibaba Wukong", "ByteDance Doubao", "Baidu OpenClaw", "AI agent platform war", "China enterprise AI adoption", "AI inference cost", "AI agent monetization", "Huawei Ascend AI chips", "China AI infrastructure"]',
+  },
   'huawei-ascend-12-billion-ai-chip-surge-global-bifurcation-2026': {
     metaTitle: "The Silicon Curtain: How Huawei's $12 Billion AI Chip Surge Is Splitting Global AI in Two",
     metaDescription: "Huawei's AI chip revenue is projected to hit $12 billion in 2026 — a 60% surge driven by Alibaba, ByteDance, Tencent, and Baidu shifting from NVIDIA to domestic silicon. As DeepSeek trains on Ascend, ByteDance plans 350,000 custom chips, and Chinese models close within 5 points of the American frontier, the global AI infrastructure map is splitting in two.",
