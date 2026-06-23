@@ -12,7 +12,7 @@
     "verify-pre-push": "bash scripts/publish-verify.sh pre-push",
     "verify-post-push": "bash scripts/publish-verify.sh post-push",
     "verify-full": "bash scripts/publish-verify.sh full",
-    "prebuild": "npm run sync-metadata && npm run check-images && npm run sitemap"
+    "prebuild": "bash scripts/prebuild.sh"
   },
   "dependencies": {
     "next": "14.2.3",
