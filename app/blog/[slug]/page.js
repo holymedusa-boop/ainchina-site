@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-consumption-gambit-17-point-plan-2026': {
+    metaTitle: "China's AI+Consumption Gambit: Beijing's 17-Point Plan to Turn 1.4 Billion Shoppers Into the World's Smartest Consumers",
+    metaDescription: "On June 18, 2026, eight Chinese ministries released a sweeping 17-point policy to fuse AI with consumer life—from AI phones and smart homes to humanoid robots and brain-computer interfaces. Experts call it China's 'new energy vehicle moment' for artificial intelligence. Here's what the world's largest AI consumption experiment actually looks like.",
+    keywords: '["China AI consumption", "AI+consumption policy", "China AI strategy 2026", "smart home AI", "humanoid robots China", "AI phone China", "brain-computer interface", "China AI legislation", "AI agent regulation", "Sword Network 2026", "China AI governance", "AI retail China"]',
+  },
   'china-ai-agent-revolution-2026': {
     metaTitle: "China's AI Agent Revolution: Why 2026 Is the Year Agents Stop Chatting and Start Working",
     metaDescription: "While Western tech media obsesses over GPT-5 benchmarks, China's tech giants have quietly built the world's first large-scale AI agent economy. With 79% enterprise adoption, billion-user platforms embedding agents directly into WeChat, and inference costs 3-5x below Western levels, 2026 is the year AI agents stop chatting and start working.",
