@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-embodied-ai-revolution-robotics-awakening-2026': {
+    metaTitle: "China's Embodied AI Revolution: From Laboratory Curiosity to Trillion-Yuan Industrial Machine",
+    metaDescription: "In 2025, embodied AI barely existed in China's government vocabulary. By June 2026, the country hosts 140+ humanoid robot manufacturers, ships thousands of units globally, and is racing toward a ¥1 trillion market. How did China's physical AI industry go from zero to warp speed in eighteen months?",
+    keywords: '["embodied AI China", "humanoid robots China", "Unitree Robotics", "AgiBot", "China AI robotics 2026", "embodied intelligence market", "physical AI China", "robotics IPO China", "World Intelligence Expo 2026", "China AI standards", "smart manufacturing robots", "China robotics export"]',
+  },
   'china-ai-consumption-gambit-17-point-plan-2026': {
     metaTitle: "China's AI+Consumption Gambit: Beijing's 17-Point Plan to Turn 1.4 Billion Shoppers Into the World's Smartest Consumers",
     metaDescription: "On June 18, 2026, eight Chinese ministries released a sweeping 17-point policy to fuse AI with consumer life—from AI phones and smart homes to humanoid robots and brain-computer interfaces. Experts call it China's 'new energy vehicle moment' for artificial intelligence. Here's what the world's largest AI consumption experiment actually looks like.",
