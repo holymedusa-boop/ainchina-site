@@ -1,7 +1,7 @@
 ---
 title: "China's AI+Consumption Gambit: Beijing's 17-Point Plan to Turn 1.4 Billion Shoppers Into the World's Smartest Consumers"
 slug: "china-ai-consumption-gambit-17-point-plan-2026"
-heroImage: "https://images.unsplash.com/photo-1550009158-9ebf690569ba?w=1200&q=80"
+heroImage: "https://images.unsplash.com/photo-1556740758-90de374c12ad?w=1200&q=80"
 image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&q=80"
 date: "2026-06-24"
 excerpt: "On June 18, 2026, eight Chinese ministries released a sweeping 17-point policy to fuse AI with consumer life—from AI phones and smart homes to humanoid robots and brain-computer interfaces. Experts call it China's 'new energy vehicle moment' for artificial intelligence. Here's what the world's largest AI consumption experiment actually looks like."
