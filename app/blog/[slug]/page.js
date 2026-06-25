@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'pentagon-blacklist-alibaba-baidu-byd-china-tech-decoupling-2026': {
+    metaTitle: "The Pentagon's Blacklist Gamble: Why Adding Alibaba, Baidu, and BYD to the Military List Is Accelerating the Very Decoupling It Seeks to Prevent",
+    metaDescription: "On June 8, 2026, the Pentagon added Alibaba, Baidu, BYD, and NIO to its Chinese Military Companies list. By June 24, Alibaba had sued the U.S. government. The blacklist now covers 188 entities—a 45% expansion in one year. But the real story isn't the legal fight. It's how Washington's escalating pressure is forcing China's tech giants to build a parallel ecosystem that may soon need no American technology at all.",
+    keywords: '["Pentagon blacklist", "Chinese Military Companies list", "Alibaba lawsuit", "BYD", "Baidu", "NIO", "US China tech decoupling", "Section 1260H", "China tech sanctions", "military-civil fusion", "Huawei", "AI chips", "China semiconductor independence"]',
+  },
   'china-embodied-ai-revolution-robotics-awakening-2026': {
     metaTitle: "China's Embodied AI Revolution: From Laboratory Curiosity to Trillion-Yuan Industrial Machine",
     metaDescription: "In 2025, embodied AI barely existed in China's government vocabulary. By June 2026, the country hosts 140+ humanoid robot manufacturers, ships thousands of units globally, and is racing toward a ¥1 trillion market. How did China's physical AI industry go from zero to warp speed in eighteen months?",
