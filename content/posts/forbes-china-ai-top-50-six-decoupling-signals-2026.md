@@ -8,7 +8,7 @@ keywords: ["Forbes China AI TOP 50", "China AI ecosystem", "AI decoupling", "Dee
 heroImage: "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?w=1200"
 ---
 
-![China AI Technology](https://images.unsplash.com/photo-1526379095098-d400fd0bf935?w=1200)
+![China AI Technology](https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?w=800&q=80)
 *China's AI ecosystem is building a full-stack independent infrastructure, from foundation models to humanoid robots and space computing. Photo: Unsplash*
 
 ## The Provocation

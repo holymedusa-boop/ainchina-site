@@ -9,7 +9,7 @@ keywords: ["Baidu Apollo Go", "AmiGo Switzerland", "Level 4 autonomous driving",
 readTime: "14 min read"
 ---
 
-![Baidu's RT6 autonomous vehicle undergoing testing in Switzerland, where it became the first Level 4 robotaxi to receive a European operating permit](https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&q=80)
+![Baidu's RT6 autonomous vehicle undergoing testing in Switzerland, where it became the first Level 4 robotaxi to receive a European operating permit](https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80)
 *Baidu's RT6 autonomous vehicle, the purpose-built robotaxi behind the AmiGo service, undergoing testing in Switzerland. The June 2026 FEDRO permit marked the first Level 4 robotaxi authorization on European soil. Photo: Baidu/Apollo Go*
 
 ## The Dispatch That Changed Everything

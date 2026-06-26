@@ -12,7 +12,7 @@ readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200"
 ---
 
-![Semiconductor wafer manufacturing](https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200)
+![Semiconductor wafer manufacturing](https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&q=80)
 *China's storage chip twin giants are racing toward IPO as AI compute demand reshapes global semiconductor markets. Photo: Unsplash*
 
 ## The $10 Billion Quarter Nobody Saw Coming

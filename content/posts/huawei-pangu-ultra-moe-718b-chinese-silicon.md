@@ -20,7 +20,7 @@ On May 30, 2025, while the world was still debating whether China's AI industry 
 
 The announcement didn't generate the same viral headlines as DeepSeek's R1 launch four months earlier. But for anyone tracking the geopolitics of AI infrastructure, it was arguably more significant. Because Pangu Ultra MoE proved something that Western analysts had long doubted: China can now build frontier-scale AI models using entirely domestic hardware and software stacks.
 
-![Server room with glowing blue racks representing Huawei's Ascend AI computing infrastructure](https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200)
+![Server room with glowing blue racks representing Huawei's Ascend AI computing infrastructure](https://images.unsplash.com/photo-1526379095098-d400fd0bf935?w=800&q=80)
 *Huawei's Ascend AI computing platform — the fully domestic infrastructure behind Pangu Ultra MoE's 718 billion parameters*
 
 ---

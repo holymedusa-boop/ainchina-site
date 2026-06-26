@@ -9,7 +9,7 @@ keywords: ["low-altitude economy", "China drones", "Meituan drone delivery", "eV
 readTime: "16 min read"
 ---
 
-![A Meituan delivery drone descends toward a rooftop landing pad in Shenzhen's Nanshan district, where low-altitude logistics has become part of daily urban infrastructure](https://images.unsplash.com/photo-1473968512647-3e447244af8f?w=1200&q=80)
+![A Meituan delivery drone descends toward a rooftop landing pad in Shenzhen's Nanshan district, where low-altitude logistics has become part of daily urban infrastructure](https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&q=80)
 *A Meituan delivery drone descends toward a rooftop landing pad in Shenzhen's Nanshan district, where low-altitude logistics has become part of daily urban infrastructure. Photo: Xinhua*
 
 ## The Number That Changes Everything

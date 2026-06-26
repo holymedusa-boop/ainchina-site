@@ -10,7 +10,7 @@ readTime: "15 min read"
 category: "AI Technology"
 ---
 
-![High-tech circuit board with glowing blue neural network pathways representing AI chip infrastructure](https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80)
+![High-tech circuit board with glowing blue neural network pathways representing AI chip infrastructure](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80)
 *The global AI infrastructure landscape is splitting along geopolitical lines. While Western AI runs on NVIDIA silicon, China's tech giants are placing billion-dollar bets on Huawei's Ascend chips — creating two parallel compute ecosystems. Photo: Unsplash*
 
 **In late March 2026, a procurement memo circulated through ByteDance's Singapore headquarters that would have been unthinkable eighteen months earlier.** The company was placing a volume order for Huawei's Ascend 910C AI chips — not as a backup plan, but as a primary compute strategy. Two months later, Alibaba followed. Then Tencent. Then Baidu. By June, the Financial Times reported what insiders already knew: Huawei's AI chip revenue would grow 60% year-over-year to approximately $12 billion in 2026, with China's four largest technology companies collectively shifting from NVIDIA dependency to domestic silicon.

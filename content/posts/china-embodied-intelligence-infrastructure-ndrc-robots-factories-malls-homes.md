@@ -20,7 +20,7 @@ On May 22, 2026, while the GAITC 2026 conference was assembling the nation's top
 
 The message was unambiguous: China is no longer content to let embodied intelligence remain a laboratory curiosity. The government is building the physical and digital backbone to train, test, and deploy humanoid robots and intelligent machines at national scale. And the timeline is aggressive: **widespread integration by 2027**.
 
-![Advanced robotics research facility with engineers working on humanoid robot prototypes](https://images.unsplash.com/photo-1676299081847-824916de030a?w=1200)
+![Advanced robotics research facility with engineers working on humanoid robot prototypes](https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&q=80)
 *China's national embodied intelligence infrastructure plan signals a shift from lab experiments to factory-floor reality*
 
 ---

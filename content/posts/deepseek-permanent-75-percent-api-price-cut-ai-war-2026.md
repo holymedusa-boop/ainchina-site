@@ -12,7 +12,7 @@ readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=1200"
 ---
 
-![Financial pricing data](https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=1200)
+![Financial pricing data](https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=800&q=80)
 *DeepSeek's permanent API price reduction signals a fundamental restructuring of AI economics. Photo: Unsplash*
 
 ## The Thesis Nobody Wants to Believe

@@ -8,7 +8,7 @@ keywords: ["embodied intelligence", "humanoid robots", "Unitree", "AgiBot", "Chi
 related: ["china-industrial-ai-revolution-smart-factories-2026", "china-ai-creator-economy-digital-humans-2026", "deepseek-73b-megaround-china-ai-funding-frenzy", "doubao-12-trillion-token-explosion"]
 ---
 
-![China's embodied intelligence revolution showcased at the World Intelligence Expo 2026 in Tianjin](https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?w=1200&q=80)
+![China's embodied intelligence revolution showcased at the World Intelligence Expo 2026 in Tianjin](https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800&q=80)
 *China's embodied intelligence revolution takes center stage at the World Intelligence Expo 2026 in Tianjin, where humanoid robots boxed, did push-ups, and demonstrated package gripping for thousands of visitors.*
 
 It was a Tuesday evening in late January 2026 when roughly 800 million Chinese viewers settled in for the annual CCTV Spring Festival Gala. The stage lights dimmed. Music swelled. And then, out of the wings, a formation of humanoid robots marched in — executing synchronized martial arts, spinning handkerchiefs, and performing backflips with mechanical precision. The Unitree G1 robots, priced at just ¥99,000 ($13,600), had become the most watched dancers in China's most watched television event.

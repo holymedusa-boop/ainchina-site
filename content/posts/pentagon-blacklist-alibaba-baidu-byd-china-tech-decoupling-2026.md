@@ -10,7 +10,7 @@ readTime: "15 min read"
 category: "AI Policy"
 ---
 
-![Global digital network connections with glowing nodes representing the complex geopolitical landscape of US-China technology decoupling](https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80)
+![A desk with legal documents, old books, and a gavel symbolizing the intersection of international law and technology regulation](https://images.unsplash.com/photo-1589829085413-56de8ae18c73?w=800&q=80)
 *The Pentagon's expanding blacklist now covers 188 Chinese entities, but the designation may be accelerating the very technological independence Washington seeks to prevent. Photo: Unsplash*
 
 On the morning of June 8, 2026, the U.S. Department of Defense published an updated roster of Chinese Military Companies that would have been unthinkable in scope just two years earlier. The list—formally known as Section 1260H under the National Defense Authorization Act—had grown from roughly 130 entities to **188**. The new additions were not obscure defense contractors or state-owned shipbuilders. They were household names: **Alibaba**, China's largest e-commerce and cloud computing giant; **Baidu**, the search engine that has pivoted aggressively into AI and autonomous driving; **BYD**, the world's biggest electric vehicle manufacturer; and **NIO**, another major EV maker. Also included: **Unitree**, the robotics company whose humanoid robots had just made headlines at global tech conferences, and **WuXi AppTec**, a biotechnology firm with deep ties to American pharmaceutical companies.

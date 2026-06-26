@@ -20,7 +20,7 @@ On May 20, 2026, at the Alibaba Cloud Summit in Hangzhou, Liu Weiguang — Senio
 
 For years, Western analysts dismissed Chinese AI chips as perpetual also-rans — capable of modest inference tasks, but nowhere near NVIDIA's league for training frontier models. The Zhenwu M890 doesn't just challenge that narrative. It buries it.
 
-![Abstract visualization of neural network data flows and chip architecture](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200)
+![Abstract visualization of neural network data flows and chip architecture](https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=800&q=80)
 *The Zhenwu M890 represents a generational leap in Chinese AI chip design — 144GB HBM, 800GB/s interconnect, and native FP4 precision support for the Agentic era.*
 
 ---
