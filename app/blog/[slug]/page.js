@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-benchmark-war-caught-frontier-2026': {
+    metaTitle: "The Great AI Benchmark War: How Chinese Models Caught the Frontier in 2026",
+    metaDescription: "At dinner tables in San Francisco, investment briefings in London, and tech podcasts streamed from New York, one assumption remains unchallenged: American AI models are years ahead of Chinese...",
+    keywords: '',
+  },
   'bytedance-30-billion-ai-capex-huawei-chips-2026': {
     metaTitle: "ByteDance's $30 Billion AI Gambit: How One Budget Revision Is Rewriting China's Chip Playbook",
     metaDescription: "The story of ByteDance's budget revision is really three stories converging at once: consumer demand that blew past projections, enterprise adoption accelerating faster than planned, and a...",
