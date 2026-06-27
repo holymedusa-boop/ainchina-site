@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'bytedance-30-billion-ai-capex-huawei-chips-2026': {
+    metaTitle: "ByteDance's $30 Billion AI Gambit: How One Budget Revision Is Rewriting China's Chip Playbook",
+    metaDescription: "The story of ByteDance's budget revision is really three stories converging at once: consumer demand that blew past projections, enterprise adoption accelerating faster than planned, and a...",
+    keywords: '',
+  },
   'pentagon-blacklist-alibaba-baidu-byd-china-tech-decoupling-2026': {
     metaTitle: "The Pentagon's Blacklist Gamble: Why Adding Alibaba, Baidu, and BYD to the Military List Is Accelerating the Very Decoupling It Seeks to Prevent",
     metaDescription: "On June 8, 2026, the Pentagon added Alibaba, Baidu, BYD, and NIO to its Chinese Military Companies list. By June 24, Alibaba had sued the U.S. government. The blacklist now covers 188 entities—a 45% expansion in one year. But the real story isn't the legal fight. It's how Washington's escalating pressure is forcing China's tech giants to build a parallel ecosystem that may soon need no American technology at all.",

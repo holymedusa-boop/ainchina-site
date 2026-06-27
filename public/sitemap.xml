@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Generated: 2026-06-24T20:23:43.053Z -->
-  <!-- Total Posts: 98 -->
+  <!-- Generated: 2026-06-27T02:18:28.329Z -->
+  <!-- Total Posts: 100 -->
 
   <!-- Homepage -->
   <url>
     <loc>https://www.ainchina.com/</loc>
-    <lastmod>2026-06-24</lastmod>
+    <lastmod>2026-06-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -15,7 +15,7 @@
   <!-- Blog Index -->
   <url>
     <loc>https://www.ainchina.com/blog/</loc>
-    <lastmod>2026-06-24</lastmod>
+    <lastmod>2026-06-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -31,20 +31,134 @@
   <!-- HTML Sitemap -->
   <url>
     <loc>https://www.ainchina.com/sitemap/</loc>
-    <lastmod>2026-06-24</lastmod>
+    <lastmod>2026-06-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
 
-  <!-- AI Hardware -->
+  <!-- AI Infrastructure -->
   <url>
-    <loc>https://www.ainchina.com/blog/china-embodied-ai-revolution-robotics-awakening-2026/</loc>
-    <lastmod>2026-06-25</lastmod>
+    <loc>https://www.ainchina.com/blog/bytedance-30-billion-ai-capex-huawei-chips-2026/</loc>
+    <lastmod>2026-06-27</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/deepseek-7b-mega-round-china-ai-capital-shift-2026/</loc>
+    <lastmod>2026-06-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/alibaba-zhenwu-m890-ai-chip-china-silicon-sovereignty/</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/deepseek-permanent-75-percent-api-price-cut-ai-war-2026/</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/china-storage-twin-giants-ipo-ai-compute-2026/</loc>
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/huawei-pangu-ultra-moe-718b-chinese-silicon/</loc>
+    <lastmod>2026-05-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/china-ai-chip-renaissance-q1-2026/</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/china-ai-infrastructure-awakening-wuwenxinqiong-deepseek-multimodal-2026/</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/deepseek-v4-promo-ending-analysis/</loc>
+    <lastmod>2026-05-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/china-ai-revolution-may-2026-tokens-deepseek-huawei/</loc>
+    <lastmod>2026-05-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/kimi-k2-6-open-source-coding-revolution/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/deepseek-v4-pricing-strategy-analysis/</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/ai-compute-crunch-china-token-crisis-2026/</loc>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/deepseek-v4-million-token-china-ai-sovereignty/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/deepseek-first-funding-20-billion-valuation/</loc>
+    <lastmod>2026-04-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/china-ai-chip-war-2026-us-sanctions/</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/doubao-12-trillion-token-explosion/</loc>
+    <lastmod>2026-04-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/stepfun-terminal-ai-revolution/</loc>
+    <lastmod>2026-04-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/china-ai-april-infrastructure-2026/</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 
   <!-- AI Policy -->
+  <url>
+    <loc>https://www.ainchina.com/blog/pentagon-blacklist-alibaba-baidu-byd-china-tech-decoupling-2026/</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   <url>
     <loc>https://www.ainchina.com/blog/china-ai-consumption-gambit-17-point-plan-2026/</loc>
     <lastmod>2026-06-24</lastmod>
@@ -67,6 +181,14 @@
     <loc>https://www.ainchina.com/blog/china-ai-agent-revolution-2026-policy-market/</loc>
     <lastmod>2026-04-30</lastmod>
     <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- AI Hardware -->
+  <url>
+    <loc>https://www.ainchina.com/blog/china-embodied-ai-revolution-robotics-awakening-2026/</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
 
@@ -128,19 +250,19 @@
   <url>
     <loc>https://www.ainchina.com/blog/baidu-apollo-go-swiss-level4-robotaxi-permit-europe-2026/</loc>
     <lastmod>2026-06-20</lastmod>
-    <changefreq>daily</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.ainchina.com/blog/china-profit-future-gamble-ai-war-2026/</loc>
     <lastmod>2026-06-19</lastmod>
-    <changefreq>daily</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.ainchina.com/blog/china-ai-iron-cage-governance-regime-2026/</loc>
     <lastmod>2026-06-18</lastmod>
-    <changefreq>daily</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
@@ -260,7 +382,7 @@
   <url>
     <loc>https://www.ainchina.com/blog/china-ai-unicorn-stampede-kimi-deepseek-valuation-shakeout-2026-26/</loc>
     <lastmod>2026-05-26</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
@@ -308,116 +430,6 @@
     <priority>0.8</priority>
   </url>
 
-  <!-- AI Infrastructure -->
-  <url>
-    <loc>https://www.ainchina.com/blog/deepseek-7b-mega-round-china-ai-capital-shift-2026/</loc>
-    <lastmod>2026-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/alibaba-zhenwu-m890-ai-chip-china-silicon-sovereignty/</loc>
-    <lastmod>2026-05-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/deepseek-permanent-75-percent-api-price-cut-ai-war-2026/</loc>
-    <lastmod>2026-05-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/china-storage-twin-giants-ipo-ai-compute-2026/</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/huawei-pangu-ultra-moe-718b-chinese-silicon/</loc>
-    <lastmod>2026-05-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/china-ai-chip-renaissance-q1-2026/</loc>
-    <lastmod>2026-05-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/china-ai-infrastructure-awakening-wuwenxinqiong-deepseek-multimodal-2026/</loc>
-    <lastmod>2026-05-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/deepseek-v4-promo-ending-analysis/</loc>
-    <lastmod>2026-05-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/china-ai-revolution-may-2026-tokens-deepseek-huawei/</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/kimi-k2-6-open-source-coding-revolution/</loc>
-    <lastmod>2026-05-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/deepseek-v4-pricing-strategy-analysis/</loc>
-    <lastmod>2026-04-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/ai-compute-crunch-china-token-crisis-2026/</loc>
-    <lastmod>2026-04-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/deepseek-v4-million-token-china-ai-sovereignty/</loc>
-    <lastmod>2026-04-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/deepseek-first-funding-20-billion-valuation/</loc>
-    <lastmod>2026-04-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/china-ai-chip-war-2026-us-sanctions/</loc>
-    <lastmod>2026-04-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/doubao-12-trillion-token-explosion/</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/stepfun-terminal-ai-revolution/</loc>
-    <lastmod>2026-04-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/china-ai-april-infrastructure-2026/</loc>
-    <lastmod>2026-04-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
   <!-- Embodied AI -->
   <url>
     <loc>https://www.ainchina.com/blog/china-humanoid-robot-tsunami-2026-50k-units-global-dominance/</loc>
@@ -430,7 +442,7 @@
   <url>
     <loc>https://www.ainchina.com/blog/china-ai-models-dominate-global-api-traffic-token-export-2026/</loc>
     <lastmod>2026-05-28</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
@@ -450,7 +462,7 @@
   <url>
     <loc>https://www.ainchina.com/blog/china-ai-fraud-epidemic-deepfake-panic-2026/</loc>
     <lastmod>2026-05-27</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
 
@@ -458,7 +470,7 @@
   <url>
     <loc>https://www.ainchina.com/blog/ai-digital-humans-china-billion-dollar-livestream-revolution/</loc>
     <lastmod>2026-05-26</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
