@@ -6,7 +6,7 @@ category: "AI Infrastructure"
 readTime: "16 min read"
 ---
 
-![ByteDance AI Infrastructure](https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=600&fit=crop)
+![ByteDance AI Infrastructure](https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1200&h=600&fit=crop)
 *ByteDance's expanded AI infrastructure spending reflects a broader shift in China's tech sector toward domestic semiconductor supply chains. Image: Unsplash*
 
 # ByteDance's $30 Billion AI Gambit: How One Budget Revision Is Rewriting China's Chip Playbook
