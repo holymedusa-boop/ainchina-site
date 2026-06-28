@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'ai-on-era-mwc-shanghai-2026-china-networks-intelligent': {
+    metaTitle: "The AI-ON Era: How MWC Shanghai 2026 Marked the Moment China's Networks Became Intelligent",
+    metaDescription: "On the afternoon of June 24, 2026, in the Kerry Hotel Pudong, a few hundred telecom executives, government officials, and technology architects gathered for something that sounded deceptively...",
+    keywords: '',
+  },
   'china-ai-benchmark-war-caught-frontier-2026': {
     metaTitle: "The Great AI Benchmark War: How Chinese Models Caught the Frontier in 2026",
     metaDescription: "At dinner tables in San Francisco, investment briefings in London, and tech podcasts streamed from New York, one assumption remains unchallenged: American AI models are years ahead of Chinese...",
