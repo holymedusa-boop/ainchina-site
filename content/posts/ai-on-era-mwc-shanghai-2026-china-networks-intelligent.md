@@ -189,26 +189,3 @@ This is why MWC Shanghai 2026 matters. It was not just a trade show. It was the 
 5. [ITU-T ION-2030 Vision for Next-Generation Optical Networks](https://www.itu.int/en/ITU-T/studygroups/2022-2024/15/Pages/ion-2030.aspx)
 6. [MIIT Three-Year Implementation Plan for AI + Information and Communications](https://english.www.gov.cn/news/202606/10/content_WS6a296017c6d00ca5f9a0b876.html)
 7. [MWC Shanghai 2026 Official Website](https://www.mwcshanghai.com/)
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "The AI-ON Era: How MWC Shanghai 2026 Marked the Moment China's Networks Became Intelligent",
-  "description": "A deep dive into MWC Shanghai 2026's AI-ON Summit, where Huawei and China's operators unveiled the architecture for AI-native networks. From 10 AI-Optical Network products to token monetization.",
-  "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&q=80",
-  "datePublished": "2026-06-29",
-  "author": {
-    "@type": "Organization",
-    "name": "AI in China"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "AI in China",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://ainchina.com/logo.png"
-    }
-  }
-}
-</script>
