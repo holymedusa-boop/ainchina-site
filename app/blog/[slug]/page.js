@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-video-captured-global-creative-frontier-2026': {
+    metaTitle: "How China's AI Video Models Captured the Global Creative Frontier",
+    metaDescription: "Beijing, July 1, 2026 — In the summer of 2024, a short-video company from Beijing released an AI video generator that most Western observers dismissed as a regional curiosity. Two years later, that...",
+    keywords: '',
+  },
   'china-global-autonomous-driving-regulation-ads-gtr-2026': {
     metaTitle: "China Writes the Rules for Global Autonomous Driving: How the ADS GTR Signals a New Era of Technical Leadership",
     metaDescription: "On a Tuesday afternoon in late June, inside a conference hall on the shores of Lake Geneva, something quietly historic happened. Representatives from China, the European Union, the United Kingdom,...",
