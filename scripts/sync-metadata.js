@@ -23,13 +23,20 @@ function parseFrontmatter(content) {
 
 function extractFirstImage(content, fmImage) {
   // 1. Check if frontmatter has an image field
-  if (fmImage && fmImage.startsWith('https://images.unsplash.com/')) {
+  if (fmImage) {
     let url = fmImage
-    // Add dimensions if missing (for card display)
-    if (!url.includes('w=')) {
-      url += (url.includes('?') ? '&' : '?') + 'w=600&h=400&fit=crop'
+    // If it's a photo ID (not full URL), build the Unsplash URL
+    if (fmImage.startsWith('photo-')) {
+      url = `https://images.unsplash.com/${fmImage}?w=600&h=400&fit=crop`
+      return url
     }
-    return url
+    if (fmImage.startsWith('https://images.unsplash.com/')) {
+      // Add dimensions if missing (for card display)
+      if (!url.includes('w=')) {
+        url += (url.includes('?') ? '&' : '?') + 'w=600&h=400&fit=crop'
+      }
+      return url
+    }
   }
 
   // 2. Extract first Unsplash image from markdown content
@@ -174,7 +181,7 @@ function main() {
       fm.file = file
       // Extract first image from article content for card display
       // Prefer frontmatter image field, then inline markdown image, then fallback
-      fm.image = extractFirstImage(content, fm.image)
+      fm.image = extractFirstImage(content, fm.heroImage || fm.image)
       // Auto-generate excerpt if missing
       if (!fm.excerpt || fm.excerpt.trim() === '') {
         fm.excerpt = extractExcerpt(content)
