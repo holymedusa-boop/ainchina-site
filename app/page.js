@@ -5,8 +5,10 @@ const { allPosts } = require('../lib/posts-meta')
 
 // Helper to format ISO date (2026-04-21) → "April 21, 2026"
 function formatDate(isoDate) {
-  const d = new Date(isoDate + 'T00:00:00')
-  return d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })
+  const [year, month, day] = isoDate.split('-').map(Number)
+  const monthNames = ['January', 'February', 'March', 'April', 'May', 'June',
+    'July', 'August', 'September', 'October', 'November', 'December']
+  return `${monthNames[month - 1]} ${day}, ${year}`
 }
 
 // Fallback excerpts for posts missing them in posts-meta.js

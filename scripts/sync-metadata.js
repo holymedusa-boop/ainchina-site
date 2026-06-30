@@ -57,6 +57,11 @@ function extractFirstImage(content, fmImage) {
 function normalizeDate(dateStr) {
   // If already ISO format (YYYY-MM-DD), return as-is
   if (/^\d{4}-\d{2}-\d{2}$/.test(dateStr)) return dateStr
+  
+  // Extract YYYY-MM-DD from ISO datetime with timezone (e.g. 2026-06-30T04:20:00+08:00)
+  const isoDateMatch = dateStr.match(/^(\d{4}-\d{2}-\d{2})T/)
+  if (isoDateMatch) return isoDateMatch[1]
+
   // Parse "Month DD, YYYY" format manually (no timezone issues)
   const monthMap = {
     'January': '01', 'February': '02', 'March': '03', 'April': '04',
