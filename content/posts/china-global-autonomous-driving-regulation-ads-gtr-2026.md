@@ -6,7 +6,7 @@ date: "2026-06-30T04:20:00+08:00"
 author: "AI in China"
 readTime: "14 min"
 template: "E"
-heroImage: "photo-1507721999472-8ed4421c4af2"
+heroImage: "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?w=1200&h=600&fit=crop"
 category: "AI"
 tags: ["autonomous driving", "robotaxi", "regulation", "WP.29", "Baidu", "Momenta", "WeRide", "Pony.ai", "China tech"]
 featured: true
