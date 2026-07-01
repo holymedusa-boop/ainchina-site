@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-multimodal-ai-revolution-end-text-only-2026': {
+    metaTitle: "The End of Text-Only AI: How China's Multimodal Revolution Is Redefining What Machines Can See",
+    metaDescription: "In July 2026, China's AI industry quietly crossed a threshold that most Western observers missed. For the first time, multimodal models—systems that see, hear, and reason across images, video, and text—began outperforming their text-only predecessors on the metrics that matter: enterprise adoption, developer preference, and revenue. This is the story of how the world's largest AI market ended the text-only era.",
+    keywords: '["China AI", "multimodal AI", "large multimodal models", "DeepSeek-VL2", "Qwen3 vision", "GLM-5.1", "AI vision", "text-only AI obsolete", "Chinese AI 2026"]',
+  },
   'china-ai-video-captured-global-creative-frontier-2026': {
     metaTitle: "How China's AI Video Models Captured the Global Creative Frontier",
     metaDescription: "Beijing, July 1, 2026 — In the summer of 2024, a short-video company from Beijing released an AI video generator that most Western observers dismissed as a regional curiosity. Two years later, that...",
