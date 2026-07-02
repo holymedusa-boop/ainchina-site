@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'waic-2026-global-ai-diplomacy-shanghai': {
+    metaTitle: "WAIC 2026: The Conference That Rewrote Global AI Diplomacy",
+    metaDescription: "In eight years, Shanghai's World Artificial Intelligence Conference grew from a local trade show into the world's most consequential AI diplomacy platform. With 1,400+ international guests, 300+ global product debuts, and the inaugural WAIC Academic conference co-chaired by Turing laureate Andrew Yao and reinforcement learning pioneer Richard Sutton, WAIC 2026 is not merely an exhibition. It is a declaration of where the global AI order is heading.",
+    keywords: '["WAIC 2026", "World Artificial Intelligence Conference", "Shanghai AI", "China AI diplomacy", "WAIC Academic", "SAIL Award", "Andrew Yao", "Richard Sutton", "global AI governance", "China AI ecosystem 2026"]',
+  },
   'china-multimodal-ai-revolution-end-text-only-2026': {
     metaTitle: "The End of Text-Only AI: How China's Multimodal Revolution Is Redefining What Machines Can See",
     metaDescription: "In July 2026, China's AI industry quietly crossed a threshold that most Western observers missed. For the first time, multimodal models—systems that see, hear, and reason across images, video, and text—began outperforming their text-only predecessors on the metrics that matter: enterprise adoption, developer preference, and revenue. This is the story of how the world's largest AI market ended the text-only era.",
