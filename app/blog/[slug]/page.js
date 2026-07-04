@@ -10,6 +10,11 @@ const postMetadata = {
     metaDescription: "Eighteen months after OpenAI's Sora dazzled the world, the AI video landscape has been redrawn. ByteDance's Seedance 2.5 is launching in July 2026 with native 4K, 30-second outputs, and a $2 billion enterprise ARR. An AI-generated feature film just premiered at Cannes. And China's AI video ecosystem has grown from a curiosity into a global production infrastructure. This is the story of how the world learned to make movies with algorithms—and how China built the factory.",
     keywords: '["Seedance 2.5", "ByteDance AI video", "China AI video generation", "Sora shutdown", "Kling 3.0", "AI cinema", "Cannes Film Festival AI", "micro-drama AI", "Volcano Engine", "AI video market 2026"]',
   },
+  'lingsheng-supercomputer-china-cpu-ai-paradigm-2026': {
+    metaTitle: "LingSheng's Bet Against GPUs: How China's CPU-Only Supercomputer Could Rewrite the Rules of AI",
+    metaDescription: "China's LingSheng supercomputer just claimed the TOP500 crown with a radical proposition: what if the future of AI computing isn't about GPUs at all?",
+    keywords: '',
+  },
   'waic-2026-global-ai-diplomacy-shanghai': {
     metaTitle: "WAIC 2026: The Conference That Rewrote Global AI Diplomacy",
     metaDescription: "In eight years, Shanghai's World Artificial Intelligence Conference grew from a local trade show into the world's most consequential AI diplomacy platform. With 1,400+ international guests, 300+ global product debuts, and the inaugural WAIC Academic conference co-chaired by Turing laureate Andrew Yao and reinforcement learning pioneer Richard Sutton, WAIC 2026 is not merely an exhibition. It is a declaration of where the global AI order is heading.",
