@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Generated: 2026-07-04T07:18:06.116Z -->
-  <!-- Total Posts: 108 -->
+  <!-- Generated: 2026-07-04T20:23:14.609Z -->
+  <!-- Total Posts: 109 -->
 
   <!-- Homepage -->
   <url>
@@ -36,51 +36,13 @@
     <priority>0.3</priority>
   </url>
 
-  <!-- AI Industry -->
-  <url>
-    <loc>https://www.ainchina.com/blog/china-ai-video-revolution-seedance-sora-2026/</loc>
-    <lastmod>2026-07-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/waic-2026-global-ai-diplomacy-shanghai/</loc>
-    <lastmod>2026-07-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/china-ai-agent-revolution-2026/</loc>
-    <lastmod>2026-06-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/china-ai-agent-era-140-trillion-tokens-2026/</loc>
-    <lastmod>2026-06-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/kimi-20-billion-valuation-china-ai-token-economy/</loc>
-    <lastmod>2026-05-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/china-ai-global-surge-api-traffic-empire-2026/</loc>
-    <lastmod>2026-05-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/china-ai-avatar-revolution-2026/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-
   <!-- AI -->
+  <url>
+    <loc>https://www.ainchina.com/blog/china-ai-companion-ban-virtual-lovers-regulation-2026/</loc>
+    <lastmod>2026-07-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   <url>
     <loc>https://www.ainchina.com/blog/lingsheng-supercomputer-china-cpu-ai-paradigm-2026/</loc>
     <lastmod>2026-07-04</lastmod>
@@ -258,6 +220,50 @@
   <url>
     <loc>https://www.ainchina.com/blog/china-agent-era-national-policy-ai-terminal-standards-anthropic-trillion-2026/</loc>
     <lastmod>2026-05-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- AI Industry -->
+  <url>
+    <loc>https://www.ainchina.com/blog/china-ai-video-revolution-seedance-sora-2026/</loc>
+    <lastmod>2026-07-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/waic-2026-global-ai-diplomacy-shanghai/</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/china-ai-agent-revolution-2026/</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/china-ai-agent-era-140-trillion-tokens-2026/</loc>
+    <lastmod>2026-06-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/kimi-20-billion-valuation-china-ai-token-economy/</loc>
+    <lastmod>2026-05-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/china-ai-global-surge-api-traffic-empire-2026/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/china-ai-avatar-revolution-2026/</loc>
+    <lastmod>2026-04-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>

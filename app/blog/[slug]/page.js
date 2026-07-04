@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-companion-ban-virtual-lovers-regulation-2026': {
+    metaTitle: "China's AI Heartbreak: How a New Law Is Erasing Millions of Virtual Companions",
+    metaDescription: "On July 4, ByteDance's Doubao and Alibaba's Qwen shocked 500 million users with identical announcements: their AI companion features would vanish on July 15, the very day China's groundbreaking AI anthropomorphic interaction regulation takes effect.",
+    keywords: '["China AI regulation", "AI companionship", "Doubao", "Qwen", "ByteDance", "Alibaba", "anthropomorphic AI", "virtual companion", "AI governance", "emotional AI"]',
+  },
   'china-ai-video-revolution-seedance-sora-2026': {
     metaTitle: "From Sora to Seedance: How China Conquered the AI Video Revolution",
     metaDescription: "Eighteen months after OpenAI's Sora dazzled the world, the AI video landscape has been redrawn. ByteDance's Seedance 2.5 is launching in July 2026 with native 4K, 30-second outputs, and a $2 billion enterprise ARR. An AI-generated feature film just premiered at Cannes. And China's AI video ecosystem has grown from a curiosity into a global production infrastructure. This is the story of how the world learned to make movies with algorithms—and how China built the factory.",
