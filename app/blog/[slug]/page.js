@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-export-revolution-global-intelligence-2026': {
+    metaTitle: "The Great AI Export: How China's Intelligence Industry Is Rewiring the Global Tech Map",
+    metaDescription: "In 2026, China became the world's largest exporter of AI intelligence—not just hardware, but the algorithms, models, and solutions that power global innovation. With $16.5 billion in quarterly startup funding, 170+ countries hosting Chinese AI businesses, and a 1000-fold explosion in daily token consumption, something fundamental has shifted.",
+    keywords: '["China AI export", "Chinese AI going global", "China AI funding 2026", "AI globalization", "China AI unicorn", "StepFun", "Moonshot AI", "Kunlun Tech", "ByteDance AI", "China AI overseas"]',
+  },
   'china-ai-companion-ban-virtual-lovers-regulation-2026': {
     metaTitle: "China's AI Heartbreak: How a New Law Is Erasing Millions of Virtual Companions",
     metaDescription: "On July 4, ByteDance's Doubao and Alibaba's Qwen shocked 500 million users with identical announcements: their AI companion features would vanish on July 15, the very day China's groundbreaking AI anthropomorphic interaction regulation takes effect.",
