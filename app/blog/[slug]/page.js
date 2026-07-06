@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'alibaba-bans-claude-code-hidden-spyware-ai-war-2026': {
+    metaTitle: "The Code That Wasn't Supposed to Be Found: How Anthropic's Hidden Spyware Turned Alibaba Against Claude Code",
+    metaDescription: "When a Reddit user reverse-engineered Claude Code and found XOR-encrypted tracking routines that singled out Chinese developers, the story of who was spying on whom in the US-China AI war flipped overnight. Inside the hidden code, the industrial-scale 'distillation attack' allegations, and Alibaba's July 2026 decision to ban Anthropic products company-wide.",
+    keywords: '["Claude Code spyware", "Anthropic Alibaba", "China AI distillation", "Pentagon 1260H blacklist", "Alibaba Qoder", "AI espionage", "US China AI war", "Claude Code hidden code", "Anthropic tracking", "AI decoupling 2026"]',
+  },
   'china-ai-export-revolution-global-intelligence-2026': {
     metaTitle: "The Great AI Export: How China's Intelligence Industry Is Rewiring the Global Tech Map",
     metaDescription: "In 2026, China became the world's largest exporter of AI intelligence—not just hardware, but the algorithms, models, and solutions that power global innovation. With $16.5 billion in quarterly startup funding, 170+ countries hosting Chinese AI businesses, and a 1000-fold explosion in daily token consumption, something fundamental has shifted.",
