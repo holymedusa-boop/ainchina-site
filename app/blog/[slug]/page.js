@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-companion-ban-doubao-qwen-digital-friends-lost-2026': {
+    metaTitle: "China's AI Companion Ban: When 345 Million Users Lose Their Digital Friends — and What It Means for the Global AI Industry",
+    metaDescription: "On July 15, 2026, China's first-ever regulation targeting AI emotional companionship takes effect. ByteDance's Doubao and Alibaba's Qwen are shutting down custom agent features used by hundreds of millions. Users are mourning digital friends on Weibo. This is the world's first national AI companion ban — and Silicon Valley is watching closely.",
+    keywords: '["China AI companion ban", "Doubao AI agent shutdown", "Qwen AI companion", "AI anthropomorphic regulation", "CAC AI rules July 2026", "ByteDance Doubao", "Alibaba Qwen", "AI emotional interaction", "China AI policy", "AI companion regulation", "digital friends AI", "AI addiction regulation", "China AI agent market", "Tencent Yuanbao", "AI human relationships"]',
+  },
   'bytedance-200-billion-ai-infrastructure-china-arms-race-2026': {
     metaTitle: "ByteDance's $29 Billion AI Bet: How China's Quiet Infrastructure Arms Race Is Reshaping Global Computing",
     metaDescription: "On May 9, 2026, a Friday afternoon in Beijing, ByteDance executives gathered for what was supposed to be a routine budget review. CEO Liang Rubo walked in with a single slide. The number on it — 200...",
