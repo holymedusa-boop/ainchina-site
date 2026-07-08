@@ -190,16 +190,6 @@ const postMetadata = {
     metaDescription: "A Financial Times report on June 2 revealed Tencent is testing an AI agent inside WeChat. The result: a $41 billion market cap surge, China's biggest agentic AI platform, and a direct challenge to Alibaba and ByteDance.",
     keywords: '["Tencent WeChat AI agent", "WeChat agent 2026", "Tencent AI strategy", "China AI agent market", "WeChat mini program AI", "Tencent stock surge", "Hunyuan model", "ByteDance vs Tencent AI", "super app AI agent", "China tech stocks 2026"]',
   },
-  'china-ai-june-surge-deepseek-zhipu-agentic-ai-2026': {
-    metaTitle: "China's AI June Surge: DeepSeek's $7B First Round, Zhipu's STAR Market Bid, and the Agentic AI Stack",
-    metaDescription: "DeepSeek closes its first external round at $59B. Zhipu files for a $2B STAR Market IPO. Huawei unveils an Agentic AI stack. And on June 6, China's AI industry converges on Hangzhou for a summit that signals the shift from 'model hype' to 'industrial deployment.'",
-    keywords: '["DeepSeek funding", "Zhipu AI IPO", "Huawei Agentic AI", "China AI investment 2026", "STAR Market AI", "AI agent platform", "China AI policy", "DeepSeek valuation", "AI infrastructure", "agentic core"]',
-  },
-  'deepseek-7-billion-fundraising-tencent-catl-api-price-war-2026': {
-    metaTitle: "DeepSeek's $7.4B Fundraising Frenzy: How 500 Billion Yuan, Tencent's Bet, and a 97.5% API Price Collapse Are Rewriting China's AI Rules",
-    metaDescription: "While Silicon Valley fixates on Anthropic's $96.5 billion valuation and its secret IPO filing, something equally seismic is unfolding in China. DeepSeek—the startup that taught the world that $5.6...",
-    keywords: '',
-  },
   'china-ai-ipo-wave-zhipu-minimax-2026': {
     metaTitle: "China's AI IPO Wave: How Zhipu and MiniMax Are Rewriting the Rules of AI Capitalization",
     metaDescription: "Something historic is happening in China's AI industry. Zhipu AI, one of China's \"Big Five\" large model companies, has seen its share price surge over 1,600% since its Hong Kong IPO, pushing its...",
@@ -214,11 +204,6 @@ const postMetadata = {
     metaTitle: "China's AI Agent Era: How 140 Trillion Daily Tokens, New Regulations, and a DeepSeek Price War Are Reshaping Global AI",
     metaDescription: "On June 1, 2026, three Chinese ministries jointly issued the \"Implementation Opinions on Standardized Application and Innovative Development of AI Agents\" — the most comprehensive national policy...",
     keywords: '',
-  },
-  'deepseek-7b-mega-round-china-ai-capital-shift-2026': {
-    metaTitle: "DeepSeek's $7.4B Mega-Round: How China's Most Secretive AI Lab Went All-In on Capital",
-    metaDescription: "DeepSeek — the company that built a $5.6M model to rival GPT-4 and rejected venture capital for two years — is now raising $7.4 billion in the largest AI funding round in Chinese history. Founder Liang Wenfeng is putting $2.8 billion of his own money on the table. Tencent commits $1.4 billion. CATL invests $700 million. And the valuation? A staggering $52-59 billion.",
-    keywords: '["DeepSeek", "AI funding", "China AI", "Liang Wenfeng", "Tencent AI investment", "CATL", "AI infrastructure", "Chinese AI lab", "AI mega-round", "DeepSeek valuation", "AI capital race"]',
   },
   'minimax-300m-users-arr-doubles-a-share-ipo-china-ai-export-2026': {
     metaTitle: "MiniMax Hits 300M Users and Doubles ARR in 60 Days: The Anatomy of China's Most Successful AI Export",
@@ -259,11 +244,6 @@ const postMetadata = {
     metaTitle: "China's AI Digital Human Explosion: The 100 Billion Yuan Avatar Economy Reshaping E-Commerce",
     metaDescription: "In February 2026, Chinese regulators drew a hard line: every AI-generated face in a livestream must be labeled. Two months later, that rule hasn't slowed the industry down—it's accelerated it. With...",
     keywords: '',
-  },
-  'china-ai-unicorn-stampede-kimi-deepseek-valuation-shakeout-2026-26': {
-    metaTitle: "China's AI Unicorn Stampede: Kimi's $20B Round, DeepSeek's $500B Valuation, and the Great Model Shakeout of 2026",
-    metaDescription: "One $20 billion funding round. Another $500 billion valuation. Two IPOs with stock prices up 600%. And a single question on every investor's mind: Is China's AI industry about to produce its own NVIDIA? This is the moment China's AI industry transforms from 'copycat' to 'category leader.'",
-    keywords: '["Kimi funding", "DeepSeek valuation", "Zhipu AI IPO", "MiniMax IPO", "ByteDance Doubao", "China AI unicorn", "AI model shakeout", "Chinese AI investment", "AI stock surge", "Qwen model", "Alibaba AI"]',
   },
   'deepseek-permanent-75-percent-api-price-cut-ai-war-2026': {
     metaTitle: "DeepSeek Permanent 75% API Price Cut: AI Pricing War 2026",
@@ -315,11 +295,6 @@ const postMetadata = {
     metaDescription: "On May 6, 2026, while Western markets were digesting another quarterly earnings cycle, China's AI industry quietly delivered a one-two punch that reverberated through global venture capital....",
     keywords: '',
   },
-  'china-ai-capital-war-deepseek-kimi-funding-2026': {
-    metaTitle: "China's AI Capital War: DeepSeek Hits $50B, Kimi Raises $2B in Historic Funding Frenzy",
-    metaDescription: "> In a single week, China's AI startup valuations jumped by over $100 billion. DeepSeek went from $10B to $50B. Kimi locked in $2B fresh capital. And the entire \"Six Little Tigers\" cohort is racing...",
-    keywords: '',
-  },
   'china-ai-invisible-empire-consumer-apps-2026': {
     metaTitle: "The Invisible Empire: How China's AI Consumer Apps Quietly Conquered 2.5 Billion Users — And Why the World Barely Noticed",
     metaDescription: "While Silicon Valley obsessed over GPT-5's next token and Anthropic's march toward a trillion-dollar valuation, something extraordinary was happening on the other side of the Pacific. China's AI...",
@@ -335,20 +310,10 @@ const postMetadata = {
     metaDescription: "In seven days, Chinese AI companies raised more capital than the entire European AI sector raised in 2025. They did it while simultaneously releasing models that collectively hold the top five positions on global open-source leaderboards. This is not a funding cycle. This is an arms race with a product launch attached.",
     keywords: '["Kimi AI", "DeepSeek valuation", "Moonshot AI funding", "Chinese open source AI", "AI arms race", "China AI investment", "AI infrastructure", "token economy", "Cursor AI", "Alibaba AI", "China tech funding"]',
   },
-  'deepseek-73b-megaround-china-ai-funding-frenzy-2026': {
-    metaTitle: "DeepSeek's $7.3B Mega-Round: China's AI Funding Frenzy Hits Historic Heights",
-    metaDescription: "DeepSeek — the Hangzhou-based research lab that upended global AI markets in January 2025 with its shockingly efficient R1 reasoning model — is now seeking 500 billion yuan ($7.35 billion) in its...",
-    keywords: '',
-  },
   'china-agent-era-national-policy-ai-terminal-standards-anthropic-trillion-2026': {
     metaTitle: "China's Agent Era Begins: National Policy Framework, AI Terminal Standards, and the Trillion-Dollar Global AI Race",
     metaDescription: "Three Chinese ministries jointly issued the most comprehensive national policy framework for AI agent governance to date. AI terminal intelligence grading standards were released. Anthropic nears a $1 trillion valuation. And China's AI models processed 8 trillion tokens in a single week. May 2026 will be remembered as the month AI agents went mainstream.",
     keywords: '["AI agent policy", "China AI regulation", "Anthropic valuation", "AI terminal standards", "DeepSeek API", "China AI patent", "AI infrastructure", "China US tech dialogue", "smart agent", "GB/Z 177", "AI policy framework"]',
-  },
-  'china-ai-infrastructure-awakening-wuwenxinqiong-deepseek-multimodal-2026': {
-    metaTitle: "China AI Infrastructure Awakens: $100M Wuwenxinqiong + 8T Tokens",
-    metaDescription: "Wuwenxinqiong's $100M+ raise, DeepSeek's multimodal launch, and Alibaba's voice-first PC AI signal China's AI infrastructure layer is maturing. Analysis of the 8 trillion token economy.",
-    keywords: 'Wuwenxinqiong, China AI infrastructure, DeepSeek multimodal, Alibaba Qianwen voice AI, AI token economy, China AI compute, AI native infrastructure, Huawei Ascend, AI voice interface, China AI funding 2026',
   },
   'doubao-charging-ai-free-era-ends-china-2026': {
     metaTitle: "Doubao Charging: China's AI Free Era Ends | 345M Users",
@@ -370,11 +335,6 @@ const postMetadata = {
     metaDescription: "China's AI industry has achieved remarkable commercial success. Moonshot AI's Kimi K2.6 matches GPT-5.5 on coding benchmarks. DeepSeek V4 undercuts Western APIs by 10-30x. MiniMax filed for IPO with...",
     keywords: '',
   },
-  'china-ai-revolution-may-2026-tokens-deepseek-huawei': {
-    metaTitle: "China's AI Revolution: How 140 Trillion Tokens, DeepSeek V4 on Huawei Chips, and a $700B Arms Race Are Reshaping Global Technology",
-    metaDescription: "On April 24, 2026, DeepSeek quietly did something no frontier AI lab had ever attempted: it released its flagship V4 model—1.6 trillion parameters, million-token context windows, performance rivaling...",
-    keywords: '',
-  },
   'kimi-k2-6-open-source-coding-revolution': {
     metaTitle: "Kimi K2.6: How a $18B Chinese Startup Is Rewriting the Rules of Open-Source AI Coding",
     metaDescription: "On April 20, 2026, while Silicon Valley was still processing OpenAI's GPT-5.5 launch, a Beijing-based startup quietly shipped a model that would send shockwaves through the global developer...",
@@ -388,11 +348,6 @@ const postMetadata = {
   'china-ai-agent-revolution-2026-policy-market': {
     metaTitle: "Inside China's AI Policy Machine: How the Politburo's 'AI+ Action' Directive Is Rewriting Procurement Law",
     metaDescription: "> \"The question isn't whether AI agents will replace human workers. The question is whether companies that don't deploy agents will be replaced by companies that do.\" — Industry analyst, 36Kr Summit,...",
-    keywords: '',
-  },
-  'deepseek-v4-pricing-strategy-analysis': {
-    metaTitle: "DeepSeek V4 Pricing Strategy: How $0.14/1M Tokens Is Reshaping the Economics of Frontier AI",
-    metaDescription: "On April 24, 2026, DeepSeek released V4 — a dual-tier model family (Pro and Flash) with a pricing structure that instantly became the new global benchmark for cost-per-capability in frontier AI. The...",
     keywords: '',
   },
   'ai-compute-crunch-china-token-crisis-2026': {
@@ -413,11 +368,6 @@ const postMetadata = {
   'china-embodied-intelligence-robot-marathon-2026': {
     metaTitle: "China's Embodied Intelligence Revolution: When Robots Outrun Humans — April 2026",
     metaDescription: "Meta Title: China's Embodied Intelligence Revolution: When Robots Outrun Humans — April 2026\nMeta Description: Honor's \"Lightning\" robot breaks human half-marathon world record in 50:26. TARS raises...",
-    keywords: '',
-  },
-  'deepseek-first-funding-20-billion-valuation': {
-    metaTitle: "DeepSeek Breaks Its Vow: Inside the $3 Billion Funding Round That Shook China's AI World",
-    metaDescription: "On April 22, 2026, The Information broke the story that would send China's venture capital ecosystem into a frenzy: DeepSeek was finally taking external money.",
     keywords: '',
   },
   'china-ai-avatar-revolution-2026': {
@@ -543,11 +493,6 @@ const postMetadata = {
   'deepseek-v3-deep-dive': {
     metaTitle: "DeepSeek-V3: The $5.6M Training Run",
     metaDescription: "DeepSeek-V3 represents one of the most significant efficiency breakthroughs in AI history. Training a model competitive with GPT-4 for just $5.6 million challenges fundamental assumptions about the...",
-    keywords: '',
-  },
-  'deepseek-vs-chatgpt': {
-    metaTitle: "DeepSeek vs ChatGPT: Complete Comparison",
-    metaDescription: "Choosing between DeepSeek and ChatGPT is no longer obvious. This comprehensive comparison helps you decide which AI assistant fits your needs.",
     keywords: '',
   },
   'minimax-talkie': {

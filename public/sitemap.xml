@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Generated: 2026-07-08T04:54:23.565Z -->
-  <!-- Total Posts: 112 -->
+  <!-- Generated: 2026-07-08T04:58:21.139Z -->
+  <!-- Total Posts: 101 -->
 
   <!-- Homepage -->
   <url>
@@ -258,12 +258,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.ainchina.com/blog/china-ai-june-surge-deepseek-zhipu-agentic-ai-2026/</loc>
-    <lastmod>2026-06-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.ainchina.com/blog/china-ai-ipo-wave-zhipu-minimax-2026/</loc>
     <lastmod>2026-06-04</lastmod>
     <changefreq>monthly</changefreq>
@@ -294,20 +288,8 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.ainchina.com/blog/china-ai-unicorn-stampede-kimi-deepseek-valuation-shakeout-2026-26/</loc>
-    <lastmod>2026-05-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://www.ainchina.com/blog/china-ai-olympus-65-billion-war-future-intelligence-2026/</loc>
     <lastmod>2026-05-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/deepseek-73b-megaround-china-ai-funding-frenzy-2026/</loc>
-    <lastmod>2026-05-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -354,12 +336,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.ainchina.com/blog/deepseek-7b-mega-round-china-ai-capital-shift-2026/</loc>
-    <lastmod>2026-06-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.ainchina.com/blog/alibaba-zhenwu-m890-ai-chip-china-silicon-sovereignty/</loc>
     <lastmod>2026-05-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -390,32 +366,14 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.ainchina.com/blog/china-ai-infrastructure-awakening-wuwenxinqiong-deepseek-multimodal-2026/</loc>
-    <lastmod>2026-05-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.ainchina.com/blog/deepseek-v4-promo-ending-analysis/</loc>
     <lastmod>2026-05-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.ainchina.com/blog/china-ai-revolution-may-2026-tokens-deepseek-huawei/</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.ainchina.com/blog/kimi-k2-6-open-source-coding-revolution/</loc>
     <lastmod>2026-05-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/deepseek-v4-pricing-strategy-analysis/</loc>
-    <lastmod>2026-04-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -428,12 +386,6 @@
   <url>
     <loc>https://www.ainchina.com/blog/deepseek-v4-million-token-china-ai-sovereignty/</loc>
     <lastmod>2026-04-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/deepseek-first-funding-20-billion-valuation/</loc>
-    <lastmod>2026-04-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -476,32 +428,6 @@
     <lastmod>2026-06-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
-  </url>
-
-  <!-- Market Intelligence -->
-  <url>
-    <loc>https://www.ainchina.com/blog/deepseek-7-billion-fundraising-tencent-catl-api-price-war-2026/</loc>
-    <lastmod>2026-06-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/china-ai-capital-war-deepseek-kimi-funding-2026/</loc>
-    <lastmod>2026-05-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/chinese-ai-index-2026/</loc>
-    <lastmod>2026-03-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/chinese-ai-landscape/</loc>
-    <lastmod>2026-03-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
 
   <!-- Embodied AI -->
@@ -708,12 +634,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.ainchina.com/blog/deepseek-vs-chatgpt/</loc>
-    <lastmod>2026-03-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.ainchina.com/blog/minimax-talkie/</loc>
     <lastmod>2026-03-31</lastmod>
     <changefreq>monthly</changefreq>
@@ -738,6 +658,20 @@
     <lastmod>2026-04-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+
+  <!-- Market Intelligence -->
+  <url>
+    <loc>https://www.ainchina.com/blog/chinese-ai-index-2026/</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/chinese-ai-landscape/</loc>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 
   <!-- Technical Analysis -->

@@ -8,11 +8,9 @@ readTime: "10 min read"
 
 # StepFun's $7 Billion Bet: How China's AI Unicorn Is Winning the Terminal Race
 
-*Published: April 3, 2026 | Reading time: 18 minutes | Trending: 🔥🔥🔥🔥🔥*
+*The Shanghai AI lab that abandoned the consumer chatbot race is now inside 42 million smartphones and 40,000 vehicles. Its bet: the real money isn't in cloud models—it's in the physical world.*
 
 ![StepFun AI Terminal Strategy](https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?w=1200)
-
----
 
 ## The Announcement That Shook China's AI Industry
 

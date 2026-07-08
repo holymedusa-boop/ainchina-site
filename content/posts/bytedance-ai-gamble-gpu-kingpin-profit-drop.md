@@ -10,25 +10,7 @@ readTime: "16 min read"
 
 # ByteDance's AI Obsession: How a 70% Profit Plunge Turned a Social Media Giant Into China's GPU Kingpin
 
-**ByteDance bet everything on AI — and lost $70 billion in profit. Then something stranger happened: its biggest rivals started paying it for the very chips that caused the damage.**
-
----
-
-## Executive Summary
-
-| Metric | Detail |
-|--------|--------|
-| **Company** | ByteDance (TikTok/Douyin parent) |
-| **2025 Net Profit Decline** | Over 70% year-on-year |
-| **Primary Cause** | Massive AI R&D and infrastructure spending |
-| **GPU Inventory** | ~100,000 GPU modules (estimated $100B value) |
-| **Notable Deal** | Tencent purchased ~$285M of GPU compute from ByteDance (Q1 2026) |
-| **Second Buyer** | Alibaba also placed GPU orders post-DeepSeek boom |
-| **Key Product** | Doubao (domestic AI chatbot), Coze (AI agent platform) |
-| **Talent Initiative** | Top Seed 2026 — recruiting 30 elite PhDs |
-| **Strategic Shift** | From content platform to AI infrastructure provider |
-
----
+*The company that built its empire on 15-second dance videos just lost 70% of its profit to AI spending. Then its biggest rivals started paying it for the very chips that caused the damage.*
 
 On April 20, 2026, *Securities Times* dropped a bombshell that rippled through China's tech ecosystem: **ByteDance's 2025 net profit had collapsed by more than 70%** compared to the previous year. The reason wasn't a failed product launch or regulatory crackdown. It was something far more deliberate — and far more expensive.
 
