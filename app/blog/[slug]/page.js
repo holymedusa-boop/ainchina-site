@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-companion-law-countdown-doubao-qwen-shutdown-2026': {
+    metaTitle: "Seven Days to Digital Heartbreak: Inside China's AI Companion Law Countdown",
+    metaDescription: "Beijing, July 8, 2026 — In exactly seven days, China's landmark AI Anthropomorphic Interaction Regulation takes effect. ByteDance's Doubao (345M MAU) and Alibaba's Qwen (1B+ downloads) have both...",
+    keywords: '["China AI Companion Law", "ByteDance Doubao", "Alibaba Qwen", "AI regulation China 2026", "virtual companion ban", "AI anthropomorphic interaction", "CAC regulation", "AI ethics China", "Doubao 345 million users", "Qwen companion shutdown"]',
+  },
   'alibaba-bans-claude-code-hidden-spyware-ai-war-2026': {
     metaTitle: "The Code That Wasn't Supposed to Be Found: How Anthropic's Hidden Spyware Turned Alibaba Against Claude Code",
     metaDescription: "When a Reddit user reverse-engineered Claude Code and found XOR-encrypted tracking routines that singled out Chinese developers, the story of who was spying on whom in the US-China AI war flipped overnight. Inside the hidden code, the industrial-scale 'distillation attack' allegations, and Alibaba's July 2026 decision to ban Anthropic products company-wide.",

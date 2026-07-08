@@ -94,6 +94,16 @@ const nextConfig = {
         destination: '/blog/china-ai-april-infrastructure-2026/',
         permanent: true,
       },
+      {
+        source: '/index.jsp',
+        destination: '/',
+        permanent: true,
+      },
+      {
+        source: '/index.jsp/:path*',
+        destination: '/',
+        permanent: true,
+      },
     ];
   },
 };
