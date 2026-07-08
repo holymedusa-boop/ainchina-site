@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'bytedance-200-billion-ai-infrastructure-china-arms-race-2026': {
+    metaTitle: "ByteDance's $29 Billion AI Bet: How China's Quiet Infrastructure Arms Race Is Reshaping Global Computing",
+    metaDescription: "On May 9, 2026, a Friday afternoon in Beijing, ByteDance executives gathered for what was supposed to be a routine budget review. CEO Liang Rubo walked in with a single slide. The number on it — 200...",
+    keywords: '["ByteDance AI investment", "China AI infrastructure", "AI capex 2026", "Doubao", "NVIDIA H200", "Huawei Ascend", "AI data center", "China tech spending", "AI chip shortage", "global AI competition"]',
+  },
   'china-ai-companion-law-countdown-doubao-qwen-shutdown-2026': {
     metaTitle: "Seven Days to Digital Heartbreak: Inside China's AI Companion Law Countdown",
     metaDescription: "Beijing, July 8, 2026 — In exactly seven days, China's landmark AI Anthropomorphic Interaction Regulation takes effect. ByteDance's Doubao (345M MAU) and Alibaba's Qwen (1B+ downloads) have both...",
@@ -377,7 +382,7 @@ const postMetadata = {
   },
   'stanford-ai-index-2026-china-rise': {
     metaTitle: "Stanford AI Index 2026: China's 'Parallel Run' Era Has Arrived",
-    metaDescription: "> Alibaba ranks #3 globally and #1 in China. The performance gap between top Chinese and US AI models has narrowed to just 2.7%.",
+    metaDescription: "This is not empty rhetoric. The report substantiates this conclusion with three key metrics:",
     keywords: '',
   },
   'alibaba-token-hub-100b-gambit': {
