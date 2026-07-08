@@ -9,8 +9,6 @@ readTime: "17 min read"
 ![China AI Model War 2026](https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&q=80)
 *The AI model wars: Chinese tech giants battle for dominance in the world's largest AI market. Photo by Google DeepMind / Unsplash*
 
-## Executive Summary
-
 The first week of April 2026 will be remembered as the moment China's AI industry fundamentally shifted gears. What started as a typical news week quickly escalated into an unprecedented flurry of model releases, pricing shocks, and strategic repositioning that signals the end of China's AI price war and the beginning of a new era focused on performance, sustainability, and global competitiveness.
 
 **Key Metrics at a Glance:**

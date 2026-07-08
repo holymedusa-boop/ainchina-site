@@ -14,23 +14,6 @@ China's AI revolution is facing an unexpected bottleneck. In April 2026, as Deep
 
 ---
 
-## Executive Summary: The Numbers Behind the Crisis
-
-| Metric | Figure | Source Period |
-|--------|--------|---------------|
-| Daily Token Consumption (China) | 180 trillion+ | February 2026 |
-| Cloud Price Increases | 5%–463% | March–April 2026 |
-| DeepSeek V4 Cost Reduction | 60% vs V3.2 | April 2026 |
-| Huawei Ascend 950PR Orders | 460,000+ units | Q1 2026 |
-| MiniMax API Failure Rate | Intermittent overload | April 2026 |
-| Kimi "Peak Compute" Alerts | Frequent since February 2026 | User reports |
-| AI Agent Token Multiplier | 7–50x vs standard chat | Industry estimate |
-| China-US AI Gap (Stanford Index) | 2.7% | 2026 Report |
-| Tencent/Alibaba DeepSeek Bid | $20B+ valuation | April 2026 (reported) |
-| Zhipu AI Stock Performance | +570% from IPO | April 2026 |
-| MiniMax Stock Performance | +470% from IPO | April 2026 |
-| Stanford AI Index 2026 Length | 423 pages | March 2026 |
-
 *Table 1: Key metrics defining China's AI compute crunch in April 2026*
 
 ---

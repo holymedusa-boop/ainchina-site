@@ -14,22 +14,6 @@ MiniMax Files for IPO: How China's AI Companion Empire Built 212 Million Users a
 
 ---
 
-## Executive Summary
-
-| Metric | Data Point | Significance |
-|--------|-----------|--------------|
-| **IPO Filing** | Secretly submitted April 23, 2026 | First major Chinese AI consumer company to go public |
-| **Total Users** | 212 million (Talkie + 星野) | Largest AI companion user base globally |
-| **Monthly Active Users** | 27.6 million | Sustained engagement at scale |
-| **Global Reach** | 200 countries | Most international Chinese AI consumer app |
-| **Peak App Store Ranking** | #2 Free App (US App Store) | Briefly surpassed Instagram and TikTok |
-| **Valuation at IPO** | $2.5 billion | Makes MiniMax a unicorn twice over |
-| **Founding Team** | Former Sensetime VP + Alibaba executives | Proven AI and consumer tech pedigree |
-| **Core Technology** | M2.7 MoE model | Latest generation multimodal AI |
-| **Content Generated** | 70 billion+ messages exchanged | Massive conversational data moat |
-
----
-
 ## Why This Matters: The AI Companion Tipping Point
 
 On April 23, 2026, MiniMax quietly filed for an initial public offering—a move that went largely unnoticed in Western tech media but represents one of the most significant milestones in consumer AI history. The filing revealed numbers that demand attention: **212 million total users** and **27.6 million monthly active users** across its Talkie (international) and 星野/Xingye (domestic) platforms.

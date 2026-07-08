@@ -14,7 +14,6 @@ heroImage: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200"
 
 # Huawei Pangu Ultra MoE: The 718-Billion-Parameter Model Built Entirely on Chinese Silicon
 
-*Published: May 22, 2026 | Reading time: 16 minutes | Trending: 🔥🔥🔥🔥*
 
 On May 30, 2025, while the world was still debating whether China's AI industry could survive without NVIDIA GPUs, Huawei did something that changed the conversation permanently. From its Shenzhen headquarters, the company unveiled **Pangu Ultra MoE** — a 718-billion-parameter large language model trained from scratch to final deployment on Huawei's own **Ascend** AI computing platform. No NVIDIA chips. No AMD accelerators. No foreign silicon of any kind.
 
@@ -24,8 +23,6 @@ The announcement didn't generate the same viral headlines as DeepSeek's R1 launc
 *Huawei's Ascend AI computing platform — the fully domestic infrastructure behind Pangu Ultra MoE's 718 billion parameters*
 
 ---
-
-## Executive Summary: The Numbers That Matter
 
 Before diving into architecture and geopolitics, here's what you need to know about Pangu Ultra MoE:
 

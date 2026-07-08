@@ -16,8 +16,6 @@ image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&h=60
 
 *In February 2026, a developer in San Francisco typed a prompt into an API client. The model that processed it wasn't GPT-5.5, Claude 4, or Gemini 2.5. It was MiniMax M2.5 — a Chinese model most American developers had never heard of. And that single interaction was one of 5 trillion tokens MiniMax processed that week alone, making it the most consumed AI model on Earth by API volume.*
 
-## Executive Summary: The Token Map Has Been Redrawn
-
 For decades, the narrative of global AI has been simple: America invents, China copies, the world consumes American products. That narrative died in early 2026 — not with a keynote, but with a spreadsheet.
 
 OpenRouter, the world's largest API aggregation platform for large language models, published weekly token consumption data that revealed a staggering reversal. Chinese models didn't just compete with American counterparts. They **dominated** them.

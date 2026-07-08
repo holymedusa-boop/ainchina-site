@@ -15,8 +15,6 @@ readTime: "16 min read"
 
 ---
 
-## Executive Summary: The Quarter Nobody Expected
-
 For years, China's AI chip industry was defined by what it couldn't do. Couldn't access the most advanced manufacturing. Couldn't match Nvidia's software ecosystem. Couldn't turn a profit. The narrative was clear: domestic silicon was a political necessity, not a commercial winner.
 
 **The Q1 2026 earnings reports destroyed that narrative.**

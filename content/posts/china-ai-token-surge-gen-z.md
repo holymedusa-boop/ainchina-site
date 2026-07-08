@@ -18,16 +18,6 @@ This isn't merely a statistical milestone. It represents a fundamental rebalanci
 
 ---
 
-## Executive Summary: The Numbers Behind the Shift
-
-| Metric | China | USA | Global Total |
-|--------|-------|-----|--------------|
-| Weekly Tokens (Apr 5) | 12.96 trillion | 3.03 trillion | 27 trillion |
-| Week-over-Week Growth | +31.48% | +0.76% | +18.9% |
-| Global Market Share | 48% | 11.2% | 100% |
-| Consecutive Weeks Leading | 5 weeks | — | — |
-| Top 10 Models (China) | 6 models | 4 models | 10 models |
-
 The data, aggregated from OpenRouter—the world's largest AI model API platform serving over 400 models from 60+ providers—reveals a stark acceleration. What began as a single-week anomaly in February has solidified into a sustained trend. Chinese models now account for nearly half of all global token consumption, a figure that would have seemed impossible just 18 months ago.
 
 OpenRouter's user base is predominantly international developers, with 47% based in the United States and only 6% from China. This makes the data even more significant: Chinese models aren't just winning at home; they're capturing global developer mindshare.

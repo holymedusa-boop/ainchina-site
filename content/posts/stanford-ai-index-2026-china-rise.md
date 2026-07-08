@@ -11,10 +11,6 @@ readTime: "16 min read"
 
 ---
 
-## Executive Summary
-
-> Alibaba ranks #3 globally and #1 in China. The performance gap between top Chinese and US AI models has narrowed to just 2.7%.
-
 **April 17, 2026, Beijing** — The Stanford Institute for Human-Centered Artificial Intelligence (HAI) released the **AI Index Report 2026** yesterday. This 423-page comprehensive study, widely recognized as the most authoritative annual report in the AI field, reveals a historic inflection point: **the capability gap between top-tier Chinese and US AI models has "effectively closed."**
 
 This is not empty rhetoric. The report substantiates this conclusion with three key metrics:

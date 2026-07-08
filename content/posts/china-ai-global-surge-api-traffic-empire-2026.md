@@ -9,8 +9,6 @@ readTime: "17 min read"
 ![Futuristic digital network connecting global cities with glowing data streams](https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&q=80)
 *China's AI export model defies every precedent in technology history. Image: Unsplash*
 
-## Executive Summary
-
 China's technology exports have always followed a familiar playbook: manufacture hardware cheaply, sell globally, gradually move up the value chain. Smartphones took a decade. Solar panels took fifteen years. Electric vehicles are still climbing.
 
 **Chinese AI models accomplished in 18 months what none of those industries achieved in a decade.**

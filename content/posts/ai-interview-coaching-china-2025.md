@@ -8,8 +8,6 @@ readTime: "16 min"
 
 ![AI Interview Coaching in China](https://images.unsplash.com/photo-1521791136064-7986c2920216?w=1200&h=600&fit=crop)
 
-## Executive Summary
-
 China's job market has become a battleground for millions of fresh graduates, and a surprising new weapon has emerged: AI interview coaches. In the past week alone, searches for "AI interview coaching" surged **120%** on Xiaohongshu, accumulating **180 million views** across the platform. Chinese AI applications—Kimi, Doubao, and Tongyi Qianwen—are being repurposed as mock interview partners, career strategists, and negotiation advisors.
 
 This phenomenon reflects both the desperation of China's youth employment crisis and the unexpected utility of large language models in high-stakes personal situations. Unlike casual chatbot usage, interview preparation demands precision, consistency, and emotional intelligence—exactly where these Chinese AI tools have been quietly improving.

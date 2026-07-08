@@ -16,8 +16,6 @@ These aren't just numbers on a spreadsheet. They're the financial engine powerin
 
 *A developer workspace showing AI-powered digital human rendering and real-time content generation pipelines.*
 
-## Executive Summary: The Creator Economy Meets Frontier AI
-
 Before we dissect the architecture of this transformation, here's what the data reveals:
 
 | Metric | China AI Creator Economy | Global Comparison | Significance |

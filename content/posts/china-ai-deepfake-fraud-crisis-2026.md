@@ -16,21 +16,6 @@ readTime: "16 min read"
 
 ---
 
-## Executive Summary: The Two Faces of China's AI Revolution
-
-| Metric | Figure | Period |
-|--------|--------|--------|
-| **AI Digital Human Market (China)** | ¥102.4 billion projected | 2026 |
-| **Xiaohongshu AI Digital Human Views** | 410 million | Early 2026 |
-| **Xiaohongshu AI Fraud Prevention Views** | 560 million | Early 2026 |
-| **Annual Telecom Fraud Cases (China)** | 700,000+ | 2025 |
-| **Annual Fraud Losses (China)** | ¥200 billion+ ($27.6B) | 2025 |
-| **AI Deepfake Fraud Growth** | +3,000% | 2023 |
-| **AI Face-Swap Fraud Cases (China)** | +230% YoY | 2024 |
-| **Deloitte Deepfake Loss Projection** | $40 billion globally | 2027 |
-| **FBI IC3 AI Complaints (US)** | 22,000 cases, $890M | 2025 |
-| **Single MCN Fine for AI Violation** | ¥1.5 million ($207K) | Jan 2026 |
-
 China's AI industry has achieved remarkable commercial success. Moonshot AI's Kimi K2.6 matches GPT-5.5 on coding benchmarks. DeepSeek V4 undercuts Western APIs by 10-30x. MiniMax filed for IPO with 212 million users. But alongside these headlines, a parallel digital crisis has reached epidemic proportions.
 
 In January 2026, a Chinese MCN agency was fined ¥1.5 million, had its business license revoked, and saw its director criminally detained — all for using AI face-swap technology to forge celebrity endorsements for fraudulent investment products. The video racked up 5 million views before authorities intervened. This case encapsulates a broader reality: China's AI revolution has a shadow economy, and it's growing faster than the legitimate one.

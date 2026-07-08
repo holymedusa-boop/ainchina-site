@@ -10,8 +10,6 @@ readTime: "16 min read"
 
 *AI digital humans are becoming indistinguishable from real creators, sparking a revolution in China's content economy*
 
-## Executive Summary
-
 The creator economy in China has reached an inflection point. A single hashtag on Xiaohongshu—**"AI数字人" (AI Digital Human)**—has accumulated **410 million views** with a staggering **+200% growth** in just one week of April 2025. This isn't just a viral trend; it's the emergence of a new content production paradigm that is fundamentally reshaping how businesses and individuals create video content.
 
 Behind this explosive growth stands **Guiji AI (硅基智能)**, China's largest digital human company, which recently filed for a Hong Kong IPO with a valuation of **$440 million (3.15 billion RMB)**. With **80,000 digital humans** already deployed across telecom, finance, and e-commerce sectors, Guiji has captured **32.2% of China's digital human agent market**—making it the domestic leader and the world's second-largest player after Synthesia.

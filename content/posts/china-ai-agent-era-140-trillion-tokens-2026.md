@@ -14,20 +14,6 @@ readTime: "17 min read"
 
 ---
 
-## Executive Summary
-
-| Metric | Data Point | Significance |
-|--------|-----------|--------------|
-| **Daily Token Consumption (China)** | 140 trillion | China's AI ecosystem now processes more tokens daily than the rest of the world combined, confirming agentic AI as the dominant paradigm |
-| **DeepSeek V4 Pro Price Cut** | Permanent 75% reduction | Resets global API pricing benchmarks; puts pressure on OpenAI, Anthropic, and domestic rivals |
-| **New Regulation** | Three ministries jointly issue "Agent Application & Innovation Implementation Opinions" | First comprehensive national framework for AI agent governance, standardization, and industry development |
-| **Baidu Wenxin 5.1 Launch** | New flagship model announced June 1 | Baidu's response to DeepSeek pricing pressure; signals the end of China's "free inference" era |
-| **Inner Mongolia Token Exchange** | First national green computing full-stack AI platform | Creates a regulated marketplace for token trading, linking computing power, models, and applications |
-| **NVIDIA GTC Taipei (June 1)** | Vera CPU, Isaac GROOT robot platform, PC chip entry | Same-day timing with China's agent regulations highlights the deepening US-China AI divergence |
-| **Global AI Programming Calls** | 1.4 billion monthly | China's ecosystem accounts for a disproportionate share, driven by agent-based automation |
-
----
-
 ## The Policy Pivot: China's Agent Framework
 
 On **June 1, 2026**, three Chinese ministries jointly issued the **"Implementation Opinions on Standardized Application and Innovative Development of AI Agents"** — the most comprehensive national policy framework for AI agent governance to date. This was not a reactionary measure; it was a strategic declaration that China views the agentic AI paradigm as both inevitable and worthy of sovereign-level industrial planning.

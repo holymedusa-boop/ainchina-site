@@ -14,7 +14,6 @@ heroImage: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200"
 
 # Alibaba's Zhenwu M890: The 3x AI Chip That Just Shipped 560,000 Units and Rewrote China's Silicon Playbook
 
-*Published: May 30, 2026 | Reading time: 17 minutes | Trending: 🔥🔥🔥🔥🔥*
 
 On May 20, 2026, at the Alibaba Cloud Summit in Hangzhou, Liu Weiguang — Senior Vice President of Alibaba Cloud — stood on stage and said something that would have sounded delusional just three years earlier: *"What we're building is China's AI factory."* Behind him, the numbers told the story. **560,000 AI chips shipped.** 400+ enterprise customers across 20 industries. A 128-card supernode server with sub-150-nanosecond peer-to-peer latency. And a new chip, the **Zhenwu M890**, that delivers **3x the performance** of its predecessor in a single generation.
 
@@ -24,8 +23,6 @@ For years, Western analysts dismissed Chinese AI chips as perpetual also-rans �
 *The Zhenwu M890 represents a generational leap in Chinese AI chip design — 144GB HBM, 800GB/s interconnect, and native FP4 precision support for the Agentic era.*
 
 ---
-
-## Executive Summary: Why This Chip Matters Now
 
 Here's what you need to know about the Zhenwu M890 in 60 seconds:
 

@@ -24,22 +24,6 @@ The message is unmistakable: **China's AI industry has transitioned from contend
 
 ---
 
-## Executive Summary: The Week That Rewrote the Rules
-
-| Event | Company | Amount / Valuation | Lead Investor / Status | Global Significance |
-|-------|---------|-------------------|----------------------|-------------------|
-| **Kimi Mega-Round** | Moonshot AI | $20B raised / $200B valuation | Undisclosed consortium | Largest private AI raise outside US in 2026 |
-| **DeepSeek First External** | DeepSeek | $450B valuation (negotiating) | National IC Fund | First external round; signals policy-level support |
-| **InfiniGence AI Infra** | 无问芯穹 | ¥700M+ ($100M+) | Hangzhou Gov + Huiyuan | Total funding now ¥2.2B+; AI compute backbone |
-| **Zhipu AI Stock Surge** | 智谱AI | +570% from IPO | Public market | Market cap briefly exceeded Baidu |
-| **MiniMax Cap Beat** | MiniMax | +470% from IPO | Public market | Briefly surpassed Baidu's market capitalization |
-| **Kimi K2.6 Release** | Moonshot AI | Open source, 1T params MoE | Self-published | Reclaimed #1 open-source model globally |
-| **DeepSeek V4 Release** | DeepSeek | Open source, multimodal | Self-published | #2 open-source; 4 days after K2.6 |
-| **Cursor Kimi Admission** | Cursor (US) | Built on Kimi K2.5 | N/A | First major US startup to depend on Chinese base model |
-| **Alibaba Token Hub** | Alibaba | Reorganized 5 AI units | Internal restructure | "Create tokens, deliver tokens, apply tokens" |
-
-> **Sources:** LatePost, Sina Finance, 36Kr, QbitAI, Fortune China, The Information, Bloomberg, official company announcements, OpenRouter, Artificial Analysis
-
 **What distinguishes this moment:** In previous cycles, Chinese AI funding chased Western benchmarks — "China's ChatGPT," "China's Anthropic." This wave is defining its own metrics. The models are open-source. The token consumption is global. The capital is strategic, not speculative. And the architecture is being adopted by American developers before Silicon Valley VCs have finished their due diligence.
 
 ---

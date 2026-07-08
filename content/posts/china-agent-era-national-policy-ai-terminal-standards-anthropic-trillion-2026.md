@@ -30,25 +30,6 @@ This wasn't a normal week. This was the week the agent economy became real.
 
 ---
 
-## Executive Summary: The Week Agents Went Mainstream
-
-| Event | Entity | Date | Significance | Strategic Signal |
-|-------|--------|------|------------|------------------|
-| **AI Agent National Policy** | CAC + NDRC + MIIT | May 8 | First national-level agent definition + 19 scenarios | China is building the regulatory foundation for agent economy |
-| **AI Terminal Intelligence Standards** | MIIT + SAMR + MOFCOM | May 8 | L1–L4 grading for 7 device categories | Hardware-software convergence officially standardized |
-| **Anthropic $50B Raise** | Anthropic | May 8 | $900B pre-money; potential $1T post-money | Global AI capital war intensifies; revenue now trumps hype |
-| **China Mobile Trillion Token Package** | China Mobile | May 8 | Free token credits for enterprise AI adoption | Infrastructure layer betting on demand explosion |
-| **China-US AI Dialogue** | Foreign Ministry | May 8 | Potential AI talks during mid-May Beijing summit | Geopolitical thaw on AI governance possible |
-| **DeepSeek V4 Multimodal** | DeepSeek | May 1–7 | Gray-scale testing; vision + text | Last major capability gap vs. Western models closed |
-| **Zhiyuan Robot 10,000th Unit** | Zhiyuan Robotics | May 2026 | Expedition A3 humanoid mass production | Embodied AI crosses the commercial threshold |
-| **China AI Patents 60% Global Share** | People's Daily | May 3 | China overtakes US as top AI patent holder | Innovation output now structurally dominant |
-
-> **Source:** Xinhua, CAC official website, Financial Times, 36Kr, People's Daily, China Mobile, MIIT announcements
-
-What unifies these eight events is a single narrative: **2026 is the year AI transitions from chatbot to agent, from experiment to infrastructure, and from hype to revenue.** China's policy framework gives the industry guardrails. The terminal standards give hardware makers a roadmap. And the global capital surge — Anthropic's potential trillion-dollar valuation — proves that investors now believe agent-based AI is the next computing platform.
-
----
-
 ## 1. The Three-Ministry Policy: China's First National Agent Framework
 
 ### 1.1 What the Policy Actually Says

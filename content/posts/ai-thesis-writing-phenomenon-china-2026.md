@@ -10,8 +10,6 @@ keywords: ["AI thesis writing", "China AI education", "Kimi AI", "ChatGPT", "Cla
 
 *China's 12 million graduates are facing an existential question: write their thesis themselves, or let AI do it? The answer is reshaping academia.*
 
-## Executive Summary
-
 China's graduation season is upon us, and a new phenomenon is dominating social media: **AI thesis writing**. On Xiaohongshu alone, searches for "AI写论文" (AI writing thesis) have surged **85%** in just one week, accumulating **3.2 billion views** and generating **1.25 million user posts** sharing tips, tutorials, and cautionary tales. Chinese students—facing the pressure of graduating from a record **12.2 million** university cohort—are increasingly turning to generative AI tools to draft, edit, and sometimes fully generate their academic papers.
 
 This isn't a fringe trend. Research from **MyCos** (麦可思), a leading Chinese education data company, reveals that **99%** of university teachers and students have used generative AI, with nearly **60%** using it frequently. Among students, approximately **30%** primarily use AI for writing papers and assignments. The tools of choice—**Kimi, ChatGPT, Claude, and Yuanbao**—are being repurposed from general chatbots into academic writing assistants, literature review generators, and formatting wizards.

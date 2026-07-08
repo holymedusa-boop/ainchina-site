@@ -14,19 +14,6 @@ China's AI Revolution: Education Reform, National Standards, and Ecosystem Break
 
 ---
 
-## Executive Summary
-
-| Metric | Data Point | Significance |
-|--------|------------|--------------|
-| **AI University Reform** | SJTU "AI Ten Initiatives" launched April 20 | First top-tier university comprehensive AI transformation |
-| **Robot Standards** | First national humanoid robot standards approved | Industry-wide standardization milestone |
-| **AI Users** | 249 million Chinese users (17.7% population) | Mass adoption of generative AI achieved |
-| **Daily Token Usage** | 140 trillion tokens/day | 40% increase from Q1 2026 |
-| **Model Performance** | Huawei PanGu Ultra matches DeepSeek-R1 | Domestic models reach international parity |
-| **Enterprise Adoption** | 80.1% of key enterprises use AI tools | Widespread industrial deployment |
-
----
-
 ## Why This Matters: China's AI Inflection Point
 
 April 2026 marks a watershed moment for China's artificial intelligence ecosystem. While Western observers have focused on DeepSeek's rise, a broader transformation has been unfolding—one that encompasses education reform, industrial standardization, and domestic model capabilities reaching parity with international leaders.

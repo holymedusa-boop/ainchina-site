@@ -20,8 +20,6 @@ This isn't a funding story. This isn't a model benchmark story. This is a story 
 
 ---
 
-## Executive Summary: The Scale of China's Consumer AI
-
 Before diving into individual companies and trends, let's establish the magnitude of what we're looking at. China's AI consumer market has reached a scale that demands recalibration of how the global industry measures success.
 
 | Metric | Figure | Context |

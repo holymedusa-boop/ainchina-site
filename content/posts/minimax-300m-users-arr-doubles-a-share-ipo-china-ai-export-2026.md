@@ -14,8 +14,6 @@ slug: "minimax-300m-users-arr-doubles-a-share-ipo-china-ai-export-2026"
 
 ---
 
-## Executive Summary
-
 On May 28, 2026, MiniMax co-founder and COO Yunye Wei sat down with Bloomberg and dropped three numbers that reset the global AI industry's understanding of Chinese startups: **300 million users**, **annual recurring revenue that doubled in two months**, and **over 1 million enterprise and developer clients**—a 5x increase in six months.
 
 The company that most Western investors had never heard of has become the most successful Chinese AI export since TikTok. MiniMax's revenue model is starkly different from American AI companies: **73% of its $79 million in 2025 revenue came from international markets**, with the United States and Singapore as the top two markets. Its products—Talkie (AI companion), Hailuo AI (video generation), and a developer API platform—have found product-market fit across 200 countries.

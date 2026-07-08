@@ -15,8 +15,6 @@ readTime: "17 min read"
 ![AI Agent Network](https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=1200&h=600&fit=crop)
 *China's AI policy shift from optional pilot programs to mandatory procurement represents a structural change in how technology adoption is governed.*
 
-## Executive Summary
-
 On April 28, 2026, the Politburo of the Communist Party's Central Committee issued a directive that few outside China's technology policy circles fully appreciated. At just 47 Chinese characters — "deepen the AI+ action, vigorously develop artificial intelligence, and support the procurement of large models and intelligent agent services" — it quietly transformed AI from an experimental efficiency tool into a **budget line item for government agencies, state-owned enterprises, and publicly funded institutions nationwide**.
 
 This article examines the **policy mechanics** behind China's AI agent acceleration: how the Politburo directive interacts with existing procurement law, what the CAICT white paper's ¥449 billion forecast actually measures, and why the combination of top-down mandate and bottom-up market dynamics creates a deployment velocity that Western democracies structurally cannot match.

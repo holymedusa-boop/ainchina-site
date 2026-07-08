@@ -16,22 +16,6 @@ readTime: "18 min read"
 
 ---
 
-## Executive Summary
-
-| Metric | Data Point | Significance |
-|--------|-----------|--------------|
-| Robot Half-Marathon Record | 50:26 (Honor "Lightning") | First time robots beat human world record (57:20) |
-| Race Scale Growth | 102 teams vs 20 teams YoY | 5× expansion in one year |
-| Completion Rate | 47 teams finished (45%+) | Up from 6 teams (30%) in 2025 |
-| Autonomous Navigation | ~40% of teams | From zero autonomous teams in 2025 |
-| TARS Pre-A Funding | $455M (largest in sector history) | 20+ top-tier investors including Hillhouse, Sequoia |
-| Q1 2026 Embodied AI Funding | 269 deals, ~$4.8B total | +60% YoY growth |
-| Beijing Yizhuang Ecosystem | 300+ embodied intelligence companies | Complete supply chain from components to systems |
-| Honor Team Age | 1 year since formation | Smartphone expertise transferred to robotics |
-| Peak Robot Speed | 10 m/s (approaching Bolt's 10.44 m/s) | Near-human sprint capability demonstrated |
-
----
-
 ## Why This Matters: The Physical AI Tipping Point
 
 April 2026 will be remembered as the month when artificial intelligence stopped being merely a digital phenomenon and began asserting itself in the physical world with undeniable force.

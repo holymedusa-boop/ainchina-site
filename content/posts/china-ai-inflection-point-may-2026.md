@@ -14,8 +14,6 @@ slug: "china-ai-inflection-point-may-2026"
 
 ---
 
-## Executive Summary
-
 May 2026 will be remembered as the month China's AI industry stopped pretending it was a science experiment and started acting like a business.
 
 The evidence is overwhelming. DeepSeek—long the industry's poster child for "we don't need your money"—opened its cap table to outside investors for the first time, at a valuation of **$45–51.5 billion**. Alibaba announced that **AI-related revenue now exceeds 50%** of its cloud business. Baidu reported the same milestone. ByteDance committed **$23 billion** in annual AI infrastructure spend. And Kuaishou prepared to spin off its Kling video-AI unit at a **$20 billion** valuation.

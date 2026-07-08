@@ -23,22 +23,6 @@ This is not just another product launch. It is the moment when China's most powe
 
 ---
 
-## Executive Summary: The Numbers That Shook Hong Kong
-
-| Metric | Value | Context |
-|--------|-------|---------|
-| **Tencent stock surge** | +10.46% | Largest single-day gain since January 2021 |
-| **Market cap added** | ~HK$415.8B (~US$53.2B) | Equivalent to nearly all of Meituan's market value |
-| **Post-surge market cap** | ~HK$4.25 trillion | ~US$544 billion; among top 20 global companies |
-| **WeChat MAU** | 1.4 billion | China's largest single-app user base |
-| **Mini-program users** | 949 million (as of Oct 2024) | "Light apps" that run inside WeChat without installation |
-| **Mini-program developers** | 9.49 million | Ecosystem of services covering every vertical |
-| **Monthly usage per capita** | 1.7 hours / 70 sessions | Deep integration into daily life |
-
-> **Sources:** Financial Times, Caixin, Tencent Q4 2025 earnings, WeChat Open Platform data, Hong Kong Exchanges and Clearing
-
----
-
 ## 1. The FT Report: How a Single Story Moved a Trillion-Dollar Company
 
 ### 1.1 What the Financial Times Revealed

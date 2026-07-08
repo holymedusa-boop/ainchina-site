@@ -15,8 +15,6 @@ readTime: "16 min read"
 
 ---
 
-## Executive Summary: The $1.5 Billion ARR Club
-
 On March 2, 2026, MiniMax released its first annual report as a publicly traded company — and in doing so, delivered something the global AI industry had never seen: **audited financial proof that a Chinese foundation model company could scale internationally**.
 
 The numbers are striking:

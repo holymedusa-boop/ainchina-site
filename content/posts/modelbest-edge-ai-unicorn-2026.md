@@ -8,8 +8,6 @@ readTime: "17 min"
 
 ![ModelBest Edge AI Revolution](https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=1200&h=600&fit=crop)
 
-## Executive Summary
-
 A quiet revolution in artificial intelligence is happening on the smallest screens. While tech giants battle for cloud dominance, **ModelBest**—a Tsinghua University spinoff barely three years old—has just achieved **unicorn status** with a valuation exceeding $1 billion, becoming China's newest AI heavyweight.
 
 In April 2026, ModelBest announced its second major funding round of the year, bringing its Q1 2026 total to over **$150 million RMB ($20+ million USD)**. Led by Shenzhen Capital Group (深创投) and Huichuan Investment (汇川产投), this funding represents a historic "dual-city bet" by Beijing and Shenzhen, China's two innovation powerhouses.

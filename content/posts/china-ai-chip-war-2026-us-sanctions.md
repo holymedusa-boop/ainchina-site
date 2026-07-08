@@ -13,8 +13,6 @@ readTime: "17 min read"
 ![AI Chips Technology](https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=600&fit=crop)
 *The global AI chip landscape is being redrawn as Chinese companies pivot to domestic alternatives*
 
-## Executive Summary: The Wall That Wasn't
-
 In January 2025, when the Biden administration imposed sweeping restrictions on AI chip exports to China, the consensus in Silicon Valley was clear: Chinese AI development would slow dramatically. The thinking was simple—without Nvidia's cutting-edge GPUs, Chinese labs couldn't compete.
 
 **That prediction aged poorly.**

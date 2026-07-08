@@ -8,8 +8,6 @@ readTime: "17 min read"
 
 ![China's six-network infrastructure vision — credit: Unsplash](https://images.unsplash.com/photo-1594915440248-1e419eba6611?w=1200)
 
-## Executive Summary
-
 On April 28, 2026, China's Politburo did something unprecedented: it elevated **compute networks** (算力网) to the same strategic tier as water networks, power grids, and logistics networks. In a single directive, AI infrastructure was officially classified as national strategic infrastructure—no longer a "tech industry concern" but a civilizational utility on par with drinking water and electricity.
 
 The directive, part of the "Six Networks" (六张网) infrastructure blueprint, commits over **7 trillion yuan** (~$970 billion) in annual investment across six critical network categories. The compute network alone is projected to receive over 1 trillion yuan in direct investment, with indirect spillover into power grids, communications, and data center construction pushing the AI-relevant total significantly higher.

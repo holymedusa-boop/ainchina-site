@@ -14,7 +14,6 @@ heroImage: "https://images.unsplash.com/photo-1676299081847-824916de030a?w=1200"
 
 # China's Embodied Intelligence Infrastructure Push: NDRC Unveils National Plan to Put Robots in Factories, Malls, and Homes
 
-*Published: May 23, 2026 | Reading time: 16 minutes | Trending: 🔥🔥🔥🔥🔥*
 
 On May 22, 2026, while the GAITC 2026 conference was assembling the nation's top AI minds in Hangzhou, China's National Development and Reform Commission (NDRC) dropped something far more consequential than any single product launch. From its Beijing press conference, the NDRC announced a comprehensive national infrastructure plan for **embodied intelligence** — the physical manifestation of AI that moves, manipulates, and operates in the real world.
 
@@ -24,8 +23,6 @@ The message was unambiguous: China is no longer content to let embodied intellig
 *China's national embodied intelligence infrastructure plan signals a shift from lab experiments to factory-floor reality*
 
 ---
-
-## Executive Summary: The Five Pillars of China's Embodied Intelligence Infrastructure
 
 Before diving into policy specifics and technical architecture, here's what the NDRC's announcement actually means:
 

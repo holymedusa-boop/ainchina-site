@@ -8,8 +8,6 @@ readTime: "17 min"
 
 ![Alibaba Token Hub Revolution](https://images.unsplash.com/photo-1631914730601-6295d106b459?w=1200&h=600&fit=crop)
 
-## Executive Summary
-
 On March 16, 2026, **Alibaba** did something unprecedented in corporate history: it named a core business unit after a technical metric. The **Alibaba Token Hub (ATH)**—a name that would make most boardrooms cringe—became the company's third strategic pillar, alongside its cloud and e-commerce empires.
 
 This isn't mere rebranding. It's a $100 billion bet on the fundamental unit of AI value: the **Token**. While competitors chase parameter counts and benchmark scores, Alibaba is building an industrial infrastructure around Token production, distribution, and consumption.

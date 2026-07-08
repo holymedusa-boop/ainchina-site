@@ -8,7 +8,6 @@ readTime: "10 min read"
 
 # Doubao's 12 Trillion Token Explosion: How ByteDance Is Quietly Winning the Global AI Race
 
-*Published: April 4, 2026 | Reading time: 16 minutes | Trending: 🔥🔥🔥🔥🔥*
 
 ![ByteDance AI Token Growth](https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=1200)
 *The exponential rise of China's AI ecosystem is reshaping global technology markets*

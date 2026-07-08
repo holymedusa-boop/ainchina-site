@@ -10,8 +10,6 @@ readTime: "16 min read"
 
 *China's AI Agent ecosystem spans 126 development platforms and serves millions of enterprise users across manufacturing, e-commerce, and financial services.*
 
-## Executive Summary: The Numbers Behind China's Agent Revolution
-
 The Chinese AI Agent market has crossed a critical threshold in 2025. What began as experimental pilots in 2023 has evolved into a full-scale industrial deployment, with enterprises moving from "testing AI" to "operationalizing agents at scale."
 
 | Key Metric | 2024 | H1 2025 | Growth |

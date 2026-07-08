@@ -15,8 +15,6 @@ readTime: "16 min read"
 
 ---
 
-## Executive Summary: The Coaching Arms Race
-
 In the seven days leading up to May 20, 2026, Chinese social media platform Xiaohongshu recorded a **120% week-over-week surge** in searches for "AI interview coaching" (AI面试辅导). The topic accumulated **180 million views** and generated **680,000 user-generated posts** — making it the fastest-growing AI-related trend on the platform, outpacing even AI thesis writing (+85%) and AI PPT generation (+45%).
 
 Behind this explosion lies a perfect storm: a record **12.2 million university graduates** entering China's job market in 2026, youth unemployment rates that refuse to normalize, and AI chatbots — Kimi, Doubao, and Tongyi Qianwen — that have quietly become sophisticated enough to serve as credible interview preparation partners.

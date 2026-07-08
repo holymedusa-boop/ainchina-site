@@ -14,21 +14,6 @@ The 3-Minute Deck Revolution: How China's Office Workers Are Using AI to Replace
 
 ---
 
-## Executive Summary
-
-| Metric | Data Point | Significance |
-|--------|-----------|--------------|
-| **Xiaohongshu Topic Views** | 250 million (+45% weekly growth) | Strongest signal yet of enterprise AI adoption reaching mainstream office workers |
-| **Total Notes Created** | 890,000 user-generated posts | Grassroots demand, not top-down corporate mandate |
-| **Primary Apps Mentioned** | WPS AI, iSlide AI, Gamma, Beautiful.ai | Mix of domestic and international tools indicates open competitive landscape |
-| **Core Use Case** | "3-minute high-end PPT" for salary review / client pitch | Time pressure, not novelty, drives adoption |
-| **Secondary Use Case** | Academic presentations, thesis defense slides | Overlap with China's 12 million annual graduates |
-| **Demographic** | Ages 22–35, tier-1 and tier-2 cities | Young professionals with high digital literacy |
-| **Related Trend** | AI thesis writing (320M views, +85%) | Presentation and writing tools form a unified productivity stack |
-| **Market Size (Global)** | $1.94B in 2025 → $4.79B by 2029 (25.7% CAGR) | AI presentation is one of fastest-growing software categories |
-
----
-
 ## The Xiaohongshu Phenomenon: 250 Million Views Can't Be Wrong
 
 In the week ending May 17, 2026, Chinese social media platform Xiaohongshu (Little Red Book) recorded an extraordinary surge in AI-related content. The topic "AI做PPT" — literally "AI makes PowerPoint" — accumulated **250 million views** from 890,000 user-generated notes, representing a **+45% week-over-week growth rate**. This places it firmly in the platform's top-10 trending topics, alongside AI thesis writing and AI interview coaching.

@@ -16,8 +16,6 @@ image: "https://images.unsplash.com/photo-1633431871820-ca72e0da2e2b?w=1200&h=60
 
 *ByteDance's Doubao — the AI app used by 345 million people monthly in China — quietly added a paywall on May 4, 2026. Within hours, #DoubaoCharging trended across Weibo, Bilibili, and Xiaohongshu. The move isn't just about one app. It's the end of an era.*
 
-## Executive Summary
-
 On May 4, 2026, ByteDance updated the Doubao app listing on Apple's App Store with a "Paid Services Statement" — three subscription tiers ranging from ¥68/month ($9.50) to ¥500/month ($72). Basic chat remains free. Premium features — PPT generation, data analysis, video production, long-document processing — will carry a price tag.
 
 **Key Metrics at a Glance**

@@ -10,8 +10,6 @@ keywords: ["China AI IPO", "Zhipu AI", "MiniMax", "China AI market", "AI valuati
 
 *China's AI unicorns are trading at valuations that would have seemed impossible just 18 months ago*
 
-## Executive Summary
-
 Something historic is happening in China's AI industry. **Zhipu AI**, one of China's "Big Five" large model companies, has seen its share price surge **over 1,600%** since its Hong Kong IPO, pushing its market capitalization to **HK$880 billion** (~$113 billion USD). Meanwhile, rival **MiniMax** has just filed for a **Shanghai STAR Market** IPO, marking the first major AI model company to go public on mainland China's tech-focused board.
 
 Adding to the momentum, both companies will be **added to the Hang Seng Tech Index** on June 8, 2026—an inclusion that will trigger billions in passive fund flows and cement their status as must-hold tech stocks for global investors.

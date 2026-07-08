@@ -16,16 +16,6 @@ Bytedance's AI Brain Drain: 70 Top Engineers Exit Seed Team in 12 Months
 
 ---
 
-## Executive Summary
-
-| Metric | Figure |
-|--------|--------|
-| **Engineers Lost** | ~70 core AI researchers |
-| **Primary Destination** | Tencent (30+ hires) |
-| **Secondary Destinations** | Alibaba, Moonshot AI, MiniMax |
-| **Timeframe** | April 2025 - April 2026 |
-| **Retention Attempts** | Enhanced stock options (failed) |
-
 China's AI sector has entered a ruthless talent war. While Bytedance's Seed team was supposed to be the crown jewel of its AI ambitions—developing large language models to rival OpenAI's GPT series—the reality paints a different picture. The mass departure, first reported by Chinese tech media in April 2026, reveals cracks in even the most well-funded AI labs.
 
 ---

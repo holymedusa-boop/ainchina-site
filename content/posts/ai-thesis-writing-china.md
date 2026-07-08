@@ -10,7 +10,6 @@ readTime: "16 min read"
 
 # AI Thesis Writing Explodes: How 12 Million Chinese Students Are Rewriting Academic Rules
 
-*Published: April 2, 2026 | Reading time: 16 minutes | Trending: 🔥🔥🔥🔥🔥*
 
 ---
 

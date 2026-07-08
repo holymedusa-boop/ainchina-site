@@ -14,8 +14,6 @@ slug: "ai-interview-coaching-china-graduates-job-market-2026"
 
 ---
 
-## Executive Summary
-
 On June 2, 2026, a single hashtag on Xiaohongshu—China's Instagram-meets-Pinterest hybrid—hit **180 million views** and was growing at **+120% week-over-week**. The topic wasn't K-pop, skincare, or travel. It was **AI interview coaching** (#AI面试辅导), and it signals something profound about both China's job market and its AI application ecosystem.
 
 China's 2025 graduating class numbered **11.79 million students**, the largest in history. With economic headwinds, corporate hiring freezes, and intensifying competition for white-collar positions, graduates are turning to AI tools that can simulate interviews, critique resumes, analyze body language via webcam, and generate personalized coaching reports. The market has exploded from a niche productivity hack to a mainstream survival tool.

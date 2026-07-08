@@ -14,8 +14,6 @@ readTime: "16 min read"
 
 ---
 
-## Executive Summary: When Trust Becomes a Weapon
-
 China's generative AI adoption has reached a scale unmatched by any nation: **249 million users**—17.7% of the population—now interact with large language models regularly. But beneath this milestone lies a cognitive crisis that security experts, policymakers, and the AI companies themselves have barely begun to address.
 
 | Crisis Dimension | Key Finding | Source / Period |

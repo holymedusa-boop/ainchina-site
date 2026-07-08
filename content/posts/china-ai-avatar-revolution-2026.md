@@ -13,8 +13,6 @@ readTime: "16 min read"
 
 # China's AI Avatar Revolution: How 410 Million Views Signal a Global Content Creation Shift
 
-## Executive Summary: The Numbers Behind the Phenomenon
-
 China's AI avatar market has reached an inflection point. With **410 million views** on the topic "AI数字人" (AI Digital Humans) on Xiaohongshu alone, and a staggering **200% weekly growth rate**, this isn't just another tech trend—it's a fundamental shift in how content is created and consumed.
 
 | Key Metric | Value | Significance |

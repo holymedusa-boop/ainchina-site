@@ -16,8 +16,6 @@ Three days. That's the gap between GPT-5.5's headline-grabbing debut and Kimi K2
 
 *An abstract visualization of multi-agent AI swarm intelligence orchestrating complex software development workflows.*
 
-## Executive Summary: The Numbers That Matter
-
 Before diving into architecture and benchmarks, here's what you need to know:
 
 | Metric | Kimi K2.6 | GPT-5.4 | Claude Opus 4.7 | Significance |

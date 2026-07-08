@@ -14,22 +14,6 @@ Tars Raises $455M: How China's "Robot Brain" Startup Cracked the Embodied Intell
 
 ---
 
-## Executive Summary
-
-| Metric | Data Point | Significance |
-|--------|-----------|--------------|
-| **Pre-A Funding** | $455 million (3.07B RMB) | China's largest-ever embodied intelligence single round |
-| **Total Funding (14 months)** | ~$697 million | Nearly 10× Figure AI's first-year funding |
-| **Valuation** | ~$3 billion (20B RMB) | Pre-revenue, pre-mass-production valuation |
-| **Lead Investors** | Hillhouse Capital + Sequoia China | First-ever joint lead in Chinese robotics |
-| **Strategic Investors** | Meituan, TCL Ventures, Beijing Robot Fund | Four-dimensional capital matrix (financial, strategic, industrial, state) |
-| **Founded** | February 5, 2025 | Just 14 months old at funding |
-| **Core Tech** | AWE 3.0 general embodied model | World's first "can actually work" general embodied AI |
-| **World Record** | 105 sub-millimeter assemblies/hour | First Guinness record for Chinese embodied intelligence |
-| **Founders** | Chen Yilun (CEO, ex-Huawei) + Li Zhenyu (Chairman, ex-Baidu) | Dual heavyweight autonomous driving pedigree |
-
----
-
 ## Why This Matters: The Global Robot Brain Club Just Got a Chinese Member
 
 On April 16, 2026, Tars (它石智航) announced a $455 million Pre-A funding round that simultaneously broke two Chinese records: the highest single-round funding and the largest Pre-A round in embodied intelligence history. The investment was co-led by Hillhouse Capital and Sequoia China—two firms that famously compete rather than collaborate—creating a signal that transcends the specific deal.
