@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-terminals-overtake-humanoid-robot-factory-2026': {
+    metaTitle: "China's AI Terminal Revolution: How Smart Devices and Humanoid Robots Overtook the Old World",
+    metaDescription: "2026 is the year AI devices overtook non-AI in China. With 100 million+ AI terminals shipped, 100,000 humanoid robots entering factories, and a trillion-RMB industry growing at 30%+, China's consumer tech landscape has crossed an irreversible threshold.",
+    keywords: '["China AI terminal", "AI phone China", "AI PC China", "humanoid robot 2026", "WAIC 2026", "China AI device sales", "smart terminal", "AI manufacturing China", "embodied intelligence", "Shanghai AI industry", "Unitree humanoid", "AI plus consumption", "China AI ecosystem", "Huawei AI chip", "robot factory China"]',
+  },
   'china-ai-companion-ban-doubao-qwen-digital-friends-lost-2026': {
     metaTitle: "China's AI Companion Ban: When 345 Million Users Lose Their Digital Friends — and What It Means for the Global AI Industry",
     metaDescription: "On July 15, 2026, China's first-ever regulation targeting AI emotional companionship takes effect. ByteDance's Doubao and Alibaba's Qwen are shutting down custom agent features used by hundreds of millions. Users are mourning digital friends on Weibo. This is the world's first national AI companion ban — and Silicon Valley is watching closely.",
