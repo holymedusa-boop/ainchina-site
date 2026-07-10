@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-humanoid-robot-100000-units-production-milestone-2026': {
+    metaTitle: "The 100,000 Robot Year: How China's Humanoid Industry Crossed the Mass Production Threshold",
+    metaDescription: "China's humanoid robot production is set to exceed 100,000 units in 2026 — a staggering leap from 1,800 the year before. From factory floors in Shanghai to supply chains in Shenzhen, the world's largest robot manufacturing ecosystem is hitting its stride.",
+    keywords: '["China humanoid robot", "humanoid robot production", "AgiBot", "Unitree", "UBTECH", "WAIC 2026", "embodied intelligence", "robot manufacturing China", "AI factory", "humanoid robot market share", "China robotics supply chain", "industrial automation", "robot cost reduction", "Tiangong robot"]',
+  },
   'china-ai-terminals-overtake-humanoid-robot-factory-2026': {
     metaTitle: "China's AI Terminal Revolution: How Smart Devices and Humanoid Robots Overtook the Old World",
     metaDescription: "2026 is the year AI devices overtook non-AI in China. With 100 million+ AI terminals shipped, 100,000 humanoid robots entering factories, and a trillion-RMB industry growing at 30%+, China's consumer tech landscape has crossed an irreversible threshold.",
