@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'deepseek-7-4-billion-funding-deal-china-ai-map-2026': {
+    metaTitle: "DeepSeek's $7.4 Billion Question: The Deal That Changed China's AI Map",
+    metaDescription: "When DeepSeek closed its $7.4 billion funding round at a $50 billion valuation, it became China's most valuable AI startup. But beneath the headline lies a deal structure that could define the future of state-capital collaboration in Chinese technology.",
+    keywords: '["DeepSeek", "AI funding", "China AI investment", "Liang Wenfeng", "VIE structure", "state-owned AI", "AI valuation", "China venture capital", "AI policy", "DeepSeek IPO"]',
+  },
   'china-humanoid-robot-100000-units-production-milestone-2026': {
     metaTitle: "The 100,000 Robot Year: How China's Humanoid Industry Crossed the Mass Production Threshold",
     metaDescription: "China's humanoid robot production is set to exceed 100,000 units in 2026 — a staggering leap from 1,800 the year before. From factory floors in Shanghai to supply chains in Shenzhen, the world's largest robot manufacturing ecosystem is hitting its stride.",
