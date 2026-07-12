@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'meituan-longcat-2-trillion-domestic-chips-china-ai-independence-2026': {
+    metaTitle: "How Meituan Built a Trillion-Parameter AI Model on 50,000 Domestic Chips — And Open-Sourced It",
+    metaDescription: "Meituan's LongCat-2.0 is the world's first trillion-parameter model trained entirely on domestic Chinese chips. Here's why that matters for the global AI race.",
+    keywords: '',
+  },
   'deepseek-7-4-billion-funding-deal-china-ai-map-2026': {
     metaTitle: "DeepSeek's $7.4 Billion Question: The Deal That Changed China's AI Map",
     metaDescription: "When DeepSeek closed its $7.4 billion funding round at a $50 billion valuation, it became China's most valuable AI startup. But beneath the headline lies a deal structure that could define the future of state-capital collaboration in Chinese technology.",
