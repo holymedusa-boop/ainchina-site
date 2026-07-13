@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-midyear-reckoning-three-forces-2026': {
+    metaTitle: "China's AI Midyear Reckoning: Three Converging Forces Reshaping the Global Technology Order",
+    metaDescription: "On July 15, 2026, China's consumer AI agent ecosystem faces its most consequential regulatory reset yet. Simultaneously, Huawei Ascend chips capture over half the domestic AI chip market, and Chinese humanoid robot exports surge 210%. These are not isolated events. They are the three faces of a single strategic pivot.",
+    keywords: '',
+  },
   'meituan-longcat-2-trillion-domestic-chips-china-ai-independence-2026': {
     metaTitle: "How Meituan Built a Trillion-Parameter AI Model on 50,000 Domestic Chips — And Open-Sourced It",
     metaDescription: "Meituan's LongCat-2.0 is the world's first trillion-parameter model trained entirely on domestic Chinese chips. Here's why that matters for the global AI race.",
