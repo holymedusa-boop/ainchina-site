@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-agent-wars-tencent-alibaba-bytedance-2026': {
+    metaTitle: "The Agent Wars: How Tencent, Alibaba, and ByteDance Are Fighting for China's AI Future",
+    metaDescription: "In mid-2026, China's tech giants have stopped competing on model parameters and started a far more consequential battle: who controls the AI agents that will run the next billion digital tasks. Inside the trillion-yuan race between Tencent's WeChat-integrated WorkBuddy, Alibaba's consolidated QoderWork platform, and ByteDance's Doubao empire.",
+    keywords: '["China AI agents", "Tencent WorkBuddy", "Alibaba QoderWork", "ByteDance Doubao", "AI agent wars 2026", "Chinese tech giants AI", "OpenClaw China", "混元3 Hy3", "AI productivity tools China", "agent economy"]',
+  },
   'china-ai-midyear-reckoning-three-forces-2026': {
     metaTitle: "China's AI Midyear Reckoning: Three Converging Forces Reshaping the Global Technology Order",
     metaDescription: "On July 15, 2026, China's consumer AI agent ecosystem faces its most consequential regulatory reset yet. Simultaneously, Huawei Ascend chips capture over half the domestic AI chip market, and Chinese humanoid robot exports surge 210%. These are not isolated events. They are the three faces of a single strategic pivot.",
