@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-price-revolution-silicon-valley-waic-2026': {
+    metaTitle: "The $0.07 Model: How China's AI Price Revolution Is Forcing Silicon Valley to Rethink Everything",
+    metaDescription: "In July 2026, a Chinese AI model costs $0.07 per million tokens while its Western equivalent charges $1.25. Goldman Sachs is recommending Chinese models to Wall Street clients. And President Xi Jinping is about to walk into the World AI Conference in Shanghai. This is not a market trend. It is a structural inversion of the global AI order.",
+    keywords: '["China AI models", "Qwen 3.5", "DeepSeek", "ByteDance Seedream", "AI pricing", "WAIC 2026", "Goldman Sachs China AI", "Silicon Valley AI competition", "Chinese AI benchmarks", "AI model cost comparison"]',
+  },
   'china-ai-agent-wars-tencent-alibaba-bytedance-2026': {
     metaTitle: "The Agent Wars: How Tencent, Alibaba, and ByteDance Are Fighting for China's AI Future",
     metaDescription: "In mid-2026, China's tech giants have stopped competing on model parameters and started a far more consequential battle: who controls the AI agents that will run the next billion digital tasks. Inside the trillion-yuan race between Tencent's WeChat-integrated WorkBuddy, Alibaba's consolidated QoderWork platform, and ByteDance's Doubao empire.",
