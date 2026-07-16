@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-embodied-ai-13-billion-funding-boom-2026': {
+    metaTitle: "The $13.8 Billion Awakening: China's Embodied AI Sector Hits Escape Velocity",
+    metaDescription: "In the first half of 2026, China's embodied AI sector attracted $13.8 billion across 322 deals—a fivefold increase from a year ago. With Unitree Robotics clearing its STAR Market IPO in a record 104 days, Momenta listing as the 'physical AI first stock' at 414x oversubscription, and 22 unicorns now roaming the landscape, China's robotics industry has shifted from laboratory curiosity to capital market heavyweight.",
+    keywords: '["embodied AI", "humanoid robot", "Unitree IPO", "Momenta listing", "China robotics funding", "AI unicorn", "STAR Market", "physical AI", "Tesla Optimus", "ZhiPu"]',
+  },
   'china-ai-price-revolution-silicon-valley-waic-2026': {
     metaTitle: "The $0.07 Model: How China's AI Price Revolution Is Forcing Silicon Valley to Rethink Everything",
     metaDescription: "In July 2026, a Chinese AI model costs $0.07 per million tokens while its Western equivalent charges $1.25. Goldman Sachs is recommending Chinese models to Wall Street clients. And President Xi Jinping is about to walk into the World AI Conference in Shanghai. This is not a market trend. It is a structural inversion of the global AI order.",
