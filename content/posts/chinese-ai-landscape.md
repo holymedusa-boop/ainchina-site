@@ -435,6 +435,37 @@ China's AI ecosystem is reshaping global markets:
 4. **Talent Flow**: Bidirectional movement increasing
 5. **Regulatory Models**: Different approaches to AI governance
 
+
+---
+
+## Social Media Perspectives
+
+**Zhihu (知乎)**
+> "中国AI生态最可怕的不是某一家公司有多强，而是'全栈自主'。从芯片（华为昇腾）到框架（MindSpore、PaddlePaddle）到模型（DeepSeek、Kimi）到应用（抖音、淘宝），全部可以自己搞定。美国制裁反而加速了国产化进程。"
+>
+> "The scariest thing about China's AI ecosystem isn't how strong any single company is — it's the 'full-stack independence.' From chips (Huawei Ascend) to frameworks (MindSpore, PaddlePaddle) to models (DeepSeek, Kimi) to applications (TikTok, Taobao), everything can be handled domestically. US sanctions have actually accelerated the localization process."
+
+**Twitter/X**
+> "People keep comparing Chinese AI to Silicon Valley as if it's a single market. It's not. Chinese AI is better understood as a parallel ecosystem with its own dynamics, funding patterns, and competitive logic. The fact that DeepSeek trained V3 for $5.6M while OpenAI spent $100M+ on GPT-4 isn't just about efficiency — it's about fundamentally different approaches to the problem."
+
+**36Kr Comments**
+> "这个生态图谱漏了一个重要的维度：机器人。2026年中国人形机器人产量要突破10万台，宇树、智元、傅利叶这些公司正在把AI从屏幕里搬到现实世界中。 embodied intelligence 可能是下一个爆发点。"
+>
+> "This ecosystem map is missing an important dimension: robotics. In 2026, China's humanoid robot production is expected to exceed 100,000 units. Companies like Unitree, AgiBot, and Fourier are moving AI from screens into the real world. Embodied intelligence might be the next explosion point."
+
+**Xiaohongshu (小红书)**
+> "作为一个在AI行业工作5年的人，感觉2024-2026是中国AI从'追赶'到'并行'的转折点。以前我们讨论的是'中国什么时候能追上OpenAI'，现在讨论的是'哪个中国模型更适合我的场景'。这个心态变化本身就是最大的变化。"
+>
+> "As someone who's worked in the AI industry for 5 years, I feel that 2024-2026 is the turning point when Chinese AI went from 'catching up' to 'running parallel.' We used to discuss 'when will China catch up to OpenAI'; now we discuss 'which Chinese model is better for my use case.' This change in mindset itself is the biggest change."
+
+**Weibo (微博)**
+> "中国AI生态确实强大，但也有隐忧。一是芯片卡脖子问题还没解决，二是很多公司靠烧钱换增长不可持续，三是人才流失——很多顶尖AI研究者去了美国。这些问题不解决，现在的繁荣可能只是泡沫。"
+>
+> "China's AI ecosystem is indeed powerful, but there are also hidden worries. First, the chip bottleneck hasn't been resolved. Second, many companies' growth through burning cash isn't sustainable. Third, brain drain — many top AI researchers have gone to the US. Without solving these problems, the current prosperity might just be a bubble."
+
+**GitHub**
+> "This ecosystem map is comprehensive but I'd add one more layer: the open-source community. China's open-source AI contributions have exploded in the past two years. Models like Qwen, ChatGLM, and DeepSeek are not just open weights — they're actively maintained with strong community engagement. This open-source culture is a significant strategic advantage that doesn't show up in company valuations."
+
 ## Conclusion: A Bifurcated Future
 
 ![Future Technology](https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=800&h=400&fit=crop)

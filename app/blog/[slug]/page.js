@@ -531,9 +531,9 @@ const postMetadata = {
     keywords: '',
   },
   'chinese-ai-index-2026': {
-    metaTitle: "Chinese AI Index: 103 Companies Tracking",
-    metaDescription: "The Chinese AI ecosystem has reached an inflection point. With over 103 significant companies spanning foundation models, application layers, and infrastructure, China's AI sector is now a global...",
-    keywords: '',
+    metaTitle: "The Chinese AI Index 2026: Mapping 103 Companies That Are Reshaping Global Technology",
+    metaDescription: "It wasn't a single model release. It wasn't a funding round. It was the realization that China had built an AI ecosystem so comprehensive, so densely interconnected, that it could no longer be...",
+    keywords: '["Chinese AI companies", "AI ecosystem China", "foundation models China", "AI infrastructure", "DeepSeek", "Kimi", "ByteDance", "AI investment China"]',
   },
   'deepseek-v3-deep-dive': {
     metaTitle: "DeepSeek-V3: The $5.6M Training Run",

@@ -468,6 +468,37 @@ China AI video generation market:
 - Content moderation systems
 - Compliance infrastructure
 
+
+---
+
+## Social Media Perspectives
+
+**Zhihu (知乎)**
+> "Kling和Vidu的技术确实牛，但最让我惊讶的是价格。快手的Kling 2.3生成一个5秒视频只要几毛钱，这比请一个初级动画师便宜100倍。以后短视频行业可能要彻底洗牌了。"
+>
+> "Kling and Vidu's technology is indeed impressive, but what surprises me most is the price. Kuaishou's Kling 2.3 generates a 5-second video for just a few cents — that's 100 times cheaper than hiring a junior animator. The short-video industry might be completely reshuffled in the future."
+
+**Twitter/X**
+> "China's AI video generation tools are approaching Sora-level quality at a fraction of the cost. What's fascinating is the different approaches: Kling focuses on physical simulation accuracy, Vidu on cinematic fidelity, and Seedance on creative control. Unlike the US where one company (OpenAI) dominates the narrative, China has 5+ serious competitors pushing each other forward."
+
+**Bilibili Comments**
+> "用Kling做了几个视频发B站，评论区都在问是不是用了AI。现在AI视频的质量真的已经到了以假乱真的地步了。不过目前最大的问题是人物一致性还不够好，同一个人在不同镜头里长得不一样。"
+>
+> "I made a few videos with Kling and posted them on Bilibili. The comment section was all asking if AI was used. The quality of AI video has really reached the point of being indistinguishable from real footage. However, the biggest problem right now is that character consistency isn't good enough — the same person looks different in different shots."
+
+**Xiaohongshu (小红书)**
+> "测试了快手的Kling 2.3和字节的Seedance，说实话Seedance的质量明显更高，但价格也贵很多。如果是做商业项目，用Seedance；如果是做自媒体，Kling的性价比更高。"
+>
+> "I tested Kuaishou's Kling 2.3 and ByteDance's Seedance. Honestly, Seedance's quality is noticeably higher, but the price is also much more expensive. For commercial projects, use Seedance; for self-media, Kling offers better value for money."
+
+**Weibo (微博)**
+> "AI视频工具对电影行业的冲击已经开始显现了。有导演朋友告诉我，现在拍广告片，前期用AI生成概念视频给客户看，客户确认后再实拍，效率提高了至少3倍。以后可能连实拍都不需要了。"
+>
+> "The impact of AI video tools on the film industry is already becoming visible. A director friend told me that now when shooting commercials, they first use AI to generate concept videos for clients to review, and only shoot after client confirmation. Efficiency has improved by at least 3x. In the future, actual filming might not even be necessary."
+
+**YouTube Comments**
+> "As a filmmaker in Los Angeles, I've been testing Chinese AI video tools for the past 3 months. The quality gap with Sora is narrowing faster than I expected. Kling's physical simulation is actually better than Sora for certain types of motion. The pricing is absurdly cheap compared to US alternatives. If these tools get English-language interfaces, they'll capture the global market quickly."
+
 ## Conclusion: A Two-Speed Market
 
 Chinese AI video generation tools demonstrate that innovation isn't confined to Silicon Valley:

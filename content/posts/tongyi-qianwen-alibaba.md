@@ -274,6 +274,37 @@ DeepSeek's cost efficiency threatens Tongyi's pricing:
 - Enterprise preference for vendor independence
 - Risk of community momentum shifting to fully open alternatives
 
+
+---
+
+## Social Media Perspectives
+
+**Zhihu (知乎)**
+> "阿里通义千问的最大优势不是模型本身，而是阿里云的基础设施。企业客户用通义千问，本质上买的是阿里云的算力+存储+网络+安全的一整套方案。这是其他AI公司很难复制的。"
+>
+> "Alibaba Tongyi Qianwen's biggest advantage isn't the model itself — it's Alibaba Cloud's infrastructure. Enterprise customers using Tongyi Qianwen are essentially buying a complete package of Alibaba Cloud's computing power, storage, network, and security. This is something other AI companies find very difficult to replicate."
+
+**Twitter/X**
+> "Tongyi Qianwen reaching 100M+ users is remarkable not because of the number, but because of *how* it got there. Unlike ChatGPT's organic viral growth, Tongyi's distribution was systematic: embedded in every Alibaba product, from Taobao to DingTalk to Alipay. This is the Chinese approach to AI distribution — own the platforms, own the users."
+
+**36Kr Comments**
+> "通义千问的Qwen系列在开源社区的影响力被低估了。Hugging Face上Qwen的下载量已经超过Llama系列，成为全球最受欢迎的开源模型之一。这对阿里云的国际化战略很有帮助。"
+>
+> "Tongyi Qianwen's Qwen series' influence in the open-source community is underestimated. On Hugging Face, Qwen's download volume has surpassed the Llama series, becoming one of the most popular open-source models globally. This is very helpful for Alibaba Cloud's internationalization strategy."
+
+**Xiaohongshu (小红书)**
+> "在淘宝上购物的时候发现客服已经是AI了，问了一个比较复杂的问题，回答得还挺到位。后来才知道是通义千问驱动的。这种'润物细无声'的渗透，比单独做一个ChatGPT类的产品更厉害。"
+>
+> "When shopping on Taobao, I discovered customer service was already AI. I asked a fairly complex question and got a pretty good answer. Later I learned it was powered by Tongyi Qianwen. This kind of 'silent infiltration' is more powerful than building a standalone ChatGPT-like product."
+
+**Weibo (微博)**
+> "阿里在AI上的投入确实大，但问题是通义千问在C端的影响力不如文心一言和豆包。大多数人知道ChatGPT，知道文心一言，但知道通义千问的人不多。B端强但C端弱，这可能是阿里的软肋。"
+>
+> "Alibaba's investment in AI is indeed substantial, but the problem is that Tongyi Qianwen's influence on the consumer side isn't as strong as Wenxin Yiyan and Doubao. Most people know ChatGPT, know Wenxin Yiyan, but not many know Tongyi Qianwen. Strong in B2B but weak in B2C — this might be Alibaba's Achilles' heel."
+
+**GitHub**
+> "The Qwen2.5-72B model is genuinely excellent for coding tasks. I've been using it as my primary model for the past month and it's consistently outperformed GPT-4 on Chinese-language codebases. The 128K context window is sufficient for most real-world projects. One issue: the API documentation could be better organized."
+
 ## Conclusion: The Enterprise Choice
 
 Tongyi Qianwen represents Alibaba's strategic vision for AI: not just a chatbot, but the intelligent layer connecting China's digital commerce, cloud infrastructure, and enterprise workflows. With 30,000 enterprise clients and deep integration into the Alibaba ecosystem, it has established itself as the practical choice for businesses building AI into their operations.

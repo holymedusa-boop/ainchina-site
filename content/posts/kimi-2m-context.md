@@ -273,6 +273,35 @@ Moonshot has outlined ambitious plans:
 **Long-term Vision:**
 Moonshot aims to achieve AGI through efficient scaling, positioning Kimi as the foundation for autonomous AI systems.
 
+
+---
+
+## Social Media Perspectives
+
+**Zhihu (知乎)**
+> "Kimi的2M上下文窗口不是噱头，是真的能处理整本小说。我试过上传一本30万字的小说，让它总结人物关系，结果比我自己整理的还清楚。Cursor用Kimi做Composer 2.0的底层，说明中国模型已经得到国际认可了。"
+>
+> "Kimi's 2M context window isn't a gimmick — it can actually process entire novels. I tried uploading a 300,000-word novel and asked it to summarize character relationships. The result was clearer than what I had organized myself. Cursor using Kimi as the backbone for Composer 2.0 shows that Chinese models have gained international recognition."
+
+**Twitter/X**
+> "The most underrated aspect of Kimi K2.5 isn't the trillion parameters or the 256K context — it's the Agent Swarm architecture. Having multiple specialized agents collaborate on complex tasks is a fundamentally different approach to AI than the monolithic models Western companies are building. This could be the path to more reliable AI systems."
+
+**Hacker News**
+> "MuonClip is the real innovation here. Training a trillion-parameter model without loss spikes is genuinely impressive — most labs see at least one catastrophic spike per training run. The QK-Clip mechanism is elegant: instead of trying to prevent attention explosion through architecture, it clips the dot products directly. Simple, effective, and probably transferable to other models."
+
+**Xiaohongshu (小红书)**
+> "用Kimi写代码真的比GPT-4强，特别是处理中文注释和文档的时候。而且价格便宜很多，对于我们这种小团队来说，成本差别很大。"
+>
+> "Using Kimi for coding is genuinely better than GPT-4, especially when handling Chinese comments and documentation. And it's much cheaper — for a small team like ours, the cost difference is significant."
+
+**Weibo (微博)**
+> "Kimi K2.5的1万亿参数听起来吓人，但实际推理成本并不高，因为MoE架构每次只激活320亿参数。这就是为什么它能做到$0.60/1M tokens的价格。不过和DeepSeek的$0.14比起来还是贵了不少，性价比不如DeepSeek。"
+>
+> "Kimi K2.5's 1 trillion parameters sounds scary, but the actual inference cost isn't high because the MoE architecture only activates 32 billion parameters per token. That's why it can achieve a price of $0.60/1M tokens. But compared to DeepSeek's $0.14, it's still quite a bit more expensive — the cost-performance ratio isn't as good as DeepSeek's."
+
+**GitHub**
+> "Tested Kimi K2.5 on our SWE-bench evaluation. The 62.1% score is impressive — it matches GPT-5.4 and surpasses Claude 4. But what's more interesting is the consistency: unlike some models that excel at specific task types, K2.5 performs well across the board. The Agent Swarm feature is particularly promising for complex refactoring tasks where multiple specialized agents can collaborate."
+
 ## Conclusion
 
 Kimi K2.5 represents a maturation of Chinese AI capabilities. It's not just catching up—it's pioneering new approaches to scale and capability. The combination of trillion-parameter capacity, efficient MoE architecture, and innovative features like Agent Swarm positions Kimi as a genuine alternative to Western models.
