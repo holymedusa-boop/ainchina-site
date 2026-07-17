@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'apple-intelligence-qwen-china-regulatory-approval-2026': {
+    metaTitle: "Apple Intelligence Clears China: How the Qwen Partnership and a 22-Month Regulatory Marathon Reshaped Global AI's Borderlines",
+    metaDescription: "At 9:47 AM Beijing time on July 15, 2026, the Cyberspace Administration of China (CAC) published a routine-looking registration notice on its official WeChat account. The post listed seven newly...",
+    keywords: '["Apple Intelligence", "Qwen", "Alibaba", "China AI regulation", "CAC approval", "on-device AI", "Apple China", "generative AI governance", "smartphone AI", "Qwen integration", "Baidu AI", "Huawei Xiaoyi", "Xiaomi HyperOS AI", "OPPO AndesGPT", "vivo BlueLM", "Samsung Galaxy AI", "Nubia Doubao", "cross-border data security", "iPhone 18"]',
+  },
   'china-embodied-ai-13-billion-funding-boom-2026': {
     metaTitle: "The $13.8 Billion Awakening: China's Embodied AI Sector Hits Escape Velocity",
     metaDescription: "In the first half of 2026, China's embodied AI sector attracted $13.8 billion across 322 deals—a fivefold increase from a year ago. With Unitree Robotics clearing its STAR Market IPO in a record 104 days, Momenta listing as the 'physical AI first stock' at 414x oversubscription, and 22 unicorns now roaming the landscape, China's robotics industry has shifted from laboratory curiosity to capital market heavyweight.",
