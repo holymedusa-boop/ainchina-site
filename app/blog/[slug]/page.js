@@ -10,6 +10,11 @@ const postMetadata = {
     metaDescription: "In the first half of 2026, China's embodied AI sector attracted $13.8 billion across 322 deals—a fivefold increase from a year ago. With Unitree Robotics clearing its STAR Market IPO in a record 104 days, Momenta listing as the 'physical AI first stock' at 414x oversubscription, and 22 unicorns now roaming the landscape, China's robotics industry has shifted from laboratory curiosity to capital market heavyweight.",
     keywords: '["embodied AI", "humanoid robot", "Unitree IPO", "Momenta listing", "China robotics funding", "AI unicorn", "STAR Market", "physical AI", "Tesla Optimus", "ZhiPu"]',
   },
+  'kimi-k3-moonshot-2-5-trillion-open-source-ai-2026': {
+    metaTitle: "Kimi K3 and the 2.5 Trillion-Parameter Question: What Moonshot's Leap Means for the Open-Source AI Race",
+    metaDescription: "On July 14, 2026, a promotional page on the Kimi Open Platform leaked early. It revealed a \"K3 launch\" top-up bonus starting July 15 at midnight Beijing time. The page was pulled within hours, but by...",
+    keywords: '',
+  },
   'china-ai-price-revolution-silicon-valley-waic-2026': {
     metaTitle: "The $0.07 Model: How China's AI Price Revolution Is Forcing Silicon Valley to Rethink Everything",
     metaDescription: "In July 2026, a Chinese AI model costs $0.07 per million tokens while its Western equivalent charges $1.25. Goldman Sachs is recommending Chinese models to Wall Street clients. And President Xi Jinping is about to walk into the World AI Conference in Shanghai. This is not a market trend. It is a structural inversion of the global AI order.",
