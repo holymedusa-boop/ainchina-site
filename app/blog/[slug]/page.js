@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'chinese-ai-models-46-percent-us-enterprise-invasion-2026': {
+    metaTitle: "The 46% Invasion: How Chinese AI Models Quietly Conquered American Enterprise",
+    metaDescription: "OpenRouter data reveals a shocking reversal: US enterprises now route 46% of their AI model calls to Chinese systems like DeepSeek, Zhipu GLM, and Qwen. At WAIC 2026 in Shanghai, the industry is celebrating a victory that Washington never saw coming.",
+    keywords: '["Chinese AI models", "DeepSeek", "Zhipu GLM", "OpenRouter", "US enterprise AI", "WAIC 2026", "AI model pricing", "China AI market share", "Lindy AI", "Coinbase", "AI cost reduction", "open source AI", "Qwen", "ByteDance Doubao"]',
+  },
   'apple-intelligence-qwen-china-regulatory-approval-2026': {
     metaTitle: "Apple Intelligence Clears China: How the Qwen Partnership and a 22-Month Regulatory Marathon Reshaped Global AI's Borderlines",
     metaDescription: "At 9:47 AM Beijing time on July 15, 2026, the Cyberspace Administration of China (CAC) published a routine-looking registration notice on its official WeChat account. The post listed seven newly...",
