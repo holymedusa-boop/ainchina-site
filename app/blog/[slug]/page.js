@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'waic-2026-live-china-ai-ships-products-humanoid-robot-mass-production': {
+    metaTitle: "WAIC 2026 Live: When China's AI Industry Stopped Competing on Parameters and Started Shipping Products",
+    metaDescription: "At the 2026 World AI Conference in Shanghai, 1,100 companies showcased 3,000 exhibits across 100,000 square meters. But the real story wasn't the numbers. It was the moment China's AI industry stopped chasing benchmark scores and started shipping products that work.",
+    keywords: '["WAIC 2026", "World Artificial Intelligence Conference", "Shanghai AI", "humanoid robot", "embodied intelligence", "AI agent phone", "Unitree", "ZTE", "MiniMax M3", "China AI commercialization", "robot mass production", "AI smart device"]',
+  },
   'chinese-ai-models-46-percent-us-enterprise-invasion-2026': {
     metaTitle: "The 46% Invasion: How Chinese AI Models Quietly Conquered American Enterprise",
     metaDescription: "OpenRouter data reveals a shocking reversal: US enterprises now route 46% of their AI model calls to Chinese systems like DeepSeek, Zhipu GLM, and Qwen. At WAIC 2026 in Shanghai, the industry is celebrating a victory that Washington never saw coming.",
