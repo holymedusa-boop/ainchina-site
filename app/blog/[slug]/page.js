@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'kimi-k3-moonshot-28-trillion-open-ai-2026': {
+    metaTitle: "The 2.8-Trillion Parameter Gambit: How Moonshot's Kimi K3 Is Rewriting the Rules of Open AI",
+    metaDescription: "Moonshot AI's Kimi K3 delivers 2.8 trillion parameters with open weights, challenging the closed-source dominance of GPT-5.6 and Claude Fable 5 while proving China's open-source AI strategy is no longer just viable — it's winning.",
+    keywords: '["Kimi K3", "Moonshot AI", "open source AI", "China AI models", "MoE architecture", "Kimi Delta Attention", "Yang Zhilin", "2.8 trillion parameters", "AI benchmarks 2026", "China vs US AI"]',
+  },
   'waic-2026-live-china-ai-ships-products-humanoid-robot-mass-production': {
     metaTitle: "WAIC 2026 Live: When China's AI Industry Stopped Competing on Parameters and Started Shipping Products",
     metaDescription: "At the 2026 World AI Conference in Shanghai, 1,100 companies showcased 3,000 exhibits across 100,000 square meters. But the real story wasn't the numbers. It was the moment China's AI industry stopped chasing benchmark scores and started shipping products that work.",
