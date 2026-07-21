@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-july-tipping-point-chips-models-capital-2026': {
+    metaTitle: "The July Tipping Point: How China's AI Industry Crossed the Threshold From Catching Up to Setting the Pace",
+    metaDescription: "The Kimi K3 release was not the first Chinese model to rattle Western markets. DeepSeek had done that in January 2025, triggering a $600 billion single-day wipeout in NVIDIA's market cap. But K3 was...",
+    keywords: '',
+  },
   'kimi-k3-moonshot-28-trillion-open-ai-2026': {
     metaTitle: "The 2.8-Trillion Parameter Gambit: How Moonshot's Kimi K3 Is Rewriting the Rules of Open AI",
     metaDescription: "Moonshot AI's Kimi K3 delivers 2.8 trillion parameters with open weights, challenging the closed-source dominance of GPT-5.6 and Claude Fable 5 while proving China's open-source AI strategy is no longer just viable — it's winning.",
