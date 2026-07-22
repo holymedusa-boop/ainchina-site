@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'apple-intelligence-china-qwen-baidu-ai-approval-2026': {
+    metaTitle: "The Two-Year Wait Is Over: How Apple Intelligence Cracked China's AI Wall",
+    metaDescription: "After two years of regulatory limbo, Apple Intelligence finally won approval in China through an unprecedented partnership with Alibaba's Qwen and Baidu. Here's what it means for the global AI order.",
+    keywords: 'Apple Intelligence China, Alibaba Qwen Apple, Baidu Apple partnership, China AI regulation, CAC approval Apple AI, iPhone AI China, smartphone AI market',
+  },
   'china-ai-july-tipping-point-chips-models-capital-2026': {
     metaTitle: "The July Tipping Point: How China's AI Industry Crossed the Threshold From Catching Up to Setting the Pace",
     metaDescription: "The Kimi K3 release was not the first Chinese model to rattle Western markets. DeepSeek had done that in January 2025, triggering a $600 billion single-day wipeout in NVIDIA's market cap. But K3 was...",
