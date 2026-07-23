@@ -1,5 +1,10 @@
 # HEARTBEAT.md
 
+**Next Article (2026-07-24)**: China AI Companion Ban — "China Just Unplugged 345 Million Virtual Lovers" — Template A (Big Picture/Overview)
+- Slug: `china-ai-companion-ban-doubao-qwen-yuanbao-july-2026`
+- Key angle: World's first AI companion ban, demographic crisis driving regulation
+- Published: 2026-07-24
+
 **Next Article (2026-07-17)**: Kimi K3 — "Kimi K3 and the 2.5 Trillion-Parameter Question" — Template B (Contrarian Take)
 - Slug: `kimi-k3-moonshot-2-5-trillion-open-source-ai-2026`
 - Research prepped in `prep/kimi-k3-2026-07-17.md`
