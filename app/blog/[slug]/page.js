@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-companion-ban-doubao-qwen-yuanbao-july-2026': {
+    metaTitle: "China Just Unplugged 345 Million Virtual Lovers: Inside the World's First AI Companion Ban",
+    metaDescription: "Yan Yongqi is 19 years old, a university student in China, and she is grieving. Not over a person who died, but over a person who never existed.",
+    keywords: '["China AI companion ban", "AI anthropomorphic interaction", "Doubao agent shutdown", "Qwen companion", "Yuanbao AI", "ByteDance AI regulation", "China birth rate", "AI emotional dependency", "virtual boyfriend", "AI girlfriend", "CAC regulation", "China demographic crisis"]',
+  },
   'apple-intelligence-china-qwen-baidu-ai-approval-2026': {
     metaTitle: "The Two-Year Wait Is Over: How Apple Intelligence Cracked China's AI Wall",
     metaDescription: "After two years of regulatory limbo, Apple Intelligence finally won approval in China through an unprecedented partnership with Alibaba's Qwen and Baidu. Here's what it means for the global AI order.",
