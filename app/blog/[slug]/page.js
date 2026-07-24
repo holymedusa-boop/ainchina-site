@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-compute-crunch-custom-chips-silicon-wall-2026': {
+    metaTitle: "The Silicon Wall: How China's AI Revolution Ran Out of Chips — And Started Building Its Own",
+    metaDescription: "At 3:14 AM on July 19, 2026, Moonshot AI made a decision no fast-growing startup wants to make: it stopped selling. Kimi K3 had grown too popular, too fast. The story of what happened next reveals the hidden battle that will shape the future of global AI.",
+    keywords: '["China AI chips", "DeepSeek", "Zhipu AI", "Kimi K3", "AI compute crisis", "custom AI chips", "NVIDIA sanctions", "Moonshot AI", "Huawei Ascend", "domestic chips", "AI inference", "compute shortage", "WAIC 2026", "open source AI"]',
+  },
   'china-ai-companion-ban-doubao-qwen-yuanbao-july-2026': {
     metaTitle: "China Just Unplugged 345 Million Virtual Lovers: Inside the World's First AI Companion Ban",
     metaDescription: "Yan Yongqi is 19 years old, a university student in China, and she is grieving. Not over a person who died, but over a person who never existed.",
