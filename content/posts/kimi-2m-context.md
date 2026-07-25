@@ -148,7 +148,7 @@ K2.5 uses a custom vision transformer architecture:
 
 K2.5 demonstrates frontier-level performance across all major benchmarks:
 
-![Data Analysis](https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=400&fit=crop)
+![Data Analysis](https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?w=800&h=400&fit=crop)
 *Performance metrics and benchmark analysis*
 
 ### Reasoning Benchmarks

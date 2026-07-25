@@ -5,14 +5,14 @@ excerpt: "In the first half of 2026, China's embodied AI sector attracted $13.8 
 slug: "china-embodied-ai-13-billion-funding-boom-2026"
 category: "AI Industry"
 readTime: "16 min read"
-heroImage: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&q=80"
+heroImage: "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?w=1200&h=600&fit=crop"
 author: "AI in China Research Desk"
 keywords: ["embodied AI", "humanoid robot", "Unitree IPO", "Momenta listing", "China robotics funding", "AI unicorn", "STAR Market", "physical AI", "Tesla Optimus", "ZhiPu"]
 ---
 
 # The $13.8 Billion Awakening: China's Embodied AI Sector Hits Escape Velocity
 
-![Humanoid robot in a futuristic factory setting](https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=600&fit=crop)
+![Humanoid robot in a futuristic factory setting](https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?w=1200&h=600&fit=crop)
 *China's embodied AI sector has shifted from laboratory curiosity to capital market heavyweight in 2026. Photo: Unsplash*
 
 ## The Numbers That Changed Everything
@@ -87,7 +87,7 @@ This mix of venture capital, state funds, and industrial strategic investors cre
 | Galaxea AI | Manufacturing robots | >20 | >2.9 | Jinding Capital |
 | Spirit AI | Universal robot brain | >10 | >1.5 | HongShan, Xiaomi |
 
-![AI chip and neural network processing for robotics](https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80)
+![AI chip and neural network processing for robotics](https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&h=400&fit=crop)
 *The "brain" layer of embodied AI—vision-language-action models running on specialized silicon—is attracting capital at unprecedented scale. Photo: Unsplash*
 
 ## From Demo to Delivery: The Shift That Separates Winners from Hype

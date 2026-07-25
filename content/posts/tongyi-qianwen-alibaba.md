@@ -104,7 +104,7 @@ Tongyi Qianwen is built on Alibaba's Qwen (通义千问) foundation models—a c
 
 ### E-commerce Sellers
 
-![Seller Dashboard](https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=400&fit=crop)
+![Seller Dashboard](https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=800&h=400&fit=crop)
 *AI-powered tools help millions of sellers optimize listings*
 
 **Testimonials from Taobao sellers:**

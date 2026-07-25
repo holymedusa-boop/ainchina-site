@@ -163,7 +163,7 @@ What is certain is that the global AI landscape has crossed a threshold. The era
 ![Data visualization showing China's AI market growth](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=400&fit=crop)
 *China's AI assistant market has grown exponentially, with domestic players achieving massive scale before Western competitors gained regulatory approval. Image: Unsplash*
 
-![Circuit board representing AI chip technology](https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=400&fit=crop)
+![Circuit board representing AI chip technology](https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?w=800&h=400&fit=crop)
 *The hybrid AI architecture powering Apple Intelligence in China represents a new paradigm for cross-border technology deployment. Image: Unsplash*
 
 ---

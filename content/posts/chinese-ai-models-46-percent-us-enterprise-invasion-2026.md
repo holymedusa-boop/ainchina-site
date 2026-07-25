@@ -211,7 +211,7 @@ The US government imposes effective restrictions on Chinese model usage — not 
 
 The most likely outcome is some combination of A and C: a bifurcated market with regulatory barriers in sensitive sectors and open competition everywhere else. But the direction of travel is clear. The era in which "Chinese AI" was automatically prefixed with "behind" or "copycat" is over. The question American enterprises are now asking is not whether Chinese models are good enough. It is whether they can afford *not* to use them.
 
-![Abstract digital network connections representing global AI model routing](https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80)
+![Abstract digital network connections representing global AI model routing](https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&h=400&fit=crop)
 *The global AI model routing network. API calls that once flowed north-to-south — from US labs to global users — are now flowing east-to-west in unprecedented volumes. Photo: Unsplash*
 
 ---

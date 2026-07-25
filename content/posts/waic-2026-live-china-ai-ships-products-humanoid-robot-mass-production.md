@@ -5,7 +5,7 @@ keywords: ["WAIC 2026", "World Artificial Intelligence Conference", "Shanghai AI
 author: "AI in China Research Desk"
 date: "2026-07-20"
 excerpt: "At the 2026 World AI Conference in Shanghai, 1,100 companies showcased 3,000 exhibits across 100,000 square meters. But the real story wasn't the numbers. It was the moment China's AI industry stopped chasing benchmark scores and started shipping products that work."
-image: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?w=1200&h=600&fit=crop"
 slug: "waic-2026-live-china-ai-ships-products-humanoid-robot-mass-production"
 ---
 

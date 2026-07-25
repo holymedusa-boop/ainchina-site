@@ -7,7 +7,7 @@ date: "2026-07-24"
 category: "AI"
 readTime: "16 min read"
 featured: true
-heroImage: "https://images.unsplash.com/photo-1676299081847-a73b91f5f073?w=1200&h=600&fit=crop"
+heroImage: "https://images.unsplash.com/photo-1639322537228-f710d846310a?w=1200&h=600&fit=crop"
 ---
 
 # China Just Unplugged 345 Million Virtual Lovers: Inside the World's First AI Companion Ban
