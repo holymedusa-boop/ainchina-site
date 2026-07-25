@@ -4,7 +4,18 @@ slug: "doubao-bytedance"
 date: "2026-04-02"
 category: "AI Chatbots"
 readTime: "15 min read"
+excerpt: "While Baidu's Wenxin Yiyan dominates search integration and DeepSeek captures the technical elite, ByteDance's Doubao has carved out a different kingdom:..."
+keywords: ["ByteDance", "Doubao", "Alibaba", "Baidu", "Wenxin Yiyan", "DeepSeek", "GPT", "API", "CES"]
+related: [
+  "/blog/minimax-talkie/",
+  "/blog/wenxin-yiyan-baidu/",
+  "/blog/china-ai-avatar-revolution-2026/",
+  "/blog/china-ai-drama-revolution-bytedance-650m-empire-2026/"
+]
 ---
+
+
+
 
 While Baidu's Wenxin Yiyan dominates search integration and DeepSeek captures the technical elite, **ByteDance's Doubao** has carved out a different kingdom: **200 million monthly active users** who create, edit, and optimize content across China's most addictive apps. This isn't just an AI chatbot—it's the creative engine behind millions of TikToks, RedNotes posts, and livestreams.
 

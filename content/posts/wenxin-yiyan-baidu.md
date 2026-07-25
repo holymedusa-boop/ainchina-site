@@ -4,7 +4,18 @@ slug: "wenxin-yiyan-baidu"
 date: "2026-04-01"
 category: "AI Chatbots"
 readTime: "14 min read"
+excerpt: "When international headlines celebrate DeepSeek's cost efficiency and Kimi's technical innovations, Baidu's Wenxin Yiyan has quietly achieved something..."
+keywords: ["Alibaba", "Tongyi Qianwen", "Baidu", "Wenxin Yiyan", "Kimi", "DeepSeek", "GPU", "OpenAI", "GPT", "Claude"]
+related: [
+  "/blog/doubao-bytedance/",
+  "/blog/minimax-talkie/",
+  "/blog/china-ai-global-expansion-minimax-2-billion-users-2026/",
+  "/blog/ai-thesis-writing-china/"
+]
 ---
+
+
+
 ![AI Data Center](https://images.unsplash.com/photo-1526379095098-d400fd0bf935?w=800&h=400&fit=crop)
 
 

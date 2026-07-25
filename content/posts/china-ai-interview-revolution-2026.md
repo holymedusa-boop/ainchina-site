@@ -4,7 +4,18 @@ slug: "china-ai-interview-revolution-2026"
 date: "2026-05-20"
 category: "AI Trends"
 readTime: "16 min read"
+excerpt: "AI Interview Coaching: China's 2026 Grad Job Market Hack Xiaohongshu searches for "AI interview coaching" surged 120% in one week. Six hundred eighty..."
+keywords: ["ByteDance", "Doubao", "Alibaba", "Tongyi Qianwen", "Moonshot AI", "Kimi", "CES"]
+related: [
+  "/blog/ai-interview-coaching-china-2025/",
+  "/blog/ai-interview-coaching-china-graduates-job-market-2026/",
+  "/blog/china-ai-avatar-revolution-2025/",
+  "/blog/china-ai-ppt-revolution-3-minute-decks-2026/"
+]
 ---
+
+
+
 
 # AI Interview Coaching: China's 2026 Grad Job Market Hack
 

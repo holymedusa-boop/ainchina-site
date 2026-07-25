@@ -8,7 +8,14 @@ excerpt: "On June 18, 2026, eight Chinese ministries released a sweeping 17-poin
 keywords: ["China AI consumption", "AI+consumption policy", "China AI strategy 2026", "smart home AI", "humanoid robots China", "AI phone China", "brain-computer interface", "China AI legislation", "AI agent regulation", "Sword Network 2026", "China AI governance", "AI retail China"]
 readTime: "15 min read"
 category: "AI Policy"
+related: [
+  "/blog/china-ai-network-doctrine-miit-three-year-plan-2026/",
+  "/blog/china-physical-ai-awakening-world-models-robot-ipos-295b-bet-2026/",
+  "/blog/china-ai-terminals-overtake-humanoid-robot-factory-2026/",
+  "/blog/china-low-altitude-economy-drones-ai-500bn-airspace-2026/"
+]
 ---
+
 
 ![A futuristic retail scene in a Chinese shopping district where digital signage and AI interfaces blend with traditional storefronts, representing the fusion of AI and consumer life](https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&q=80)
 *Beijing's new AI+consumption policy aims to weave artificial intelligence into every transaction, every home, and every device. Photo: Unsplash*

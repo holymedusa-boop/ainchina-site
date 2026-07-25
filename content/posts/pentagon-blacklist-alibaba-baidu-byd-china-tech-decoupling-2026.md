@@ -8,7 +8,14 @@ excerpt: "On June 8, 2026, the Pentagon added Alibaba, Baidu, BYD, and NIO to it
 keywords: ["Pentagon blacklist", "Chinese Military Companies list", "Alibaba lawsuit", "BYD", "Baidu", "NIO", "US China tech decoupling", "Section 1260H", "China tech sanctions", "military-civil fusion", "Huawei", "AI chips", "China semiconductor independence"]
 readTime: "15 min read"
 category: "AI Policy"
+related: [
+  "/blog/baidu-apollo-go-swiss-level4-robotaxi-permit-europe-2026/",
+  "/blog/china-ai-consumption-gambit-17-point-plan-2026/",
+  "/blog/unitree-robotics-ipo-china-humanoid-robot-first-stock-2026/",
+  "/blog/apple-intelligence-china-qwen-baidu-ai-approval-2026/"
+]
 ---
+
 
 ![A desk with legal documents, old books, and a gavel symbolizing the intersection of international law and technology regulation](https://images.unsplash.com/photo-1589829085413-56de8ae18c73?w=800&q=80)
 *The Pentagon's expanding blacklist now covers 188 Chinese entities, but the designation may be accelerating the very technological independence Washington seeks to prevent. Photo: Unsplash*

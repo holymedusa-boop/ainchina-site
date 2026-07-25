@@ -20,7 +20,16 @@ related:
   - /blog/meituan-longcat-2-trillion-domestic-chips-china-ai-independence-2026/
   - /blog/unitree-robotics-ipo-china-humanoid-robot-first-stock-2026/
   - /blog/triple-silicon-china-ai-chip-independence-2026/
+keywords: ["AI agent", "Shanghai", "ByteDance", "Doubao", "Alibaba", "Tongyi Qianwen", "Baidu", "Tencent", "Moonshot AI", "Kimi"]
+related: [
+  "/blog/china-ai-companion-ban-doubao-qwen-digital-friends-lost-2026/",
+  "/blog/china-ai-companion-ban-virtual-lovers-regulation-2026/",
+  "/blog/china-ai-model-wars-april-2026/",
+  "/blog/china-ai-creator-economy-digital-humans-2026/"
+]
 ---
+
+
 
 # China's AI Midyear Reckoning: Three Converging Forces Reshaping the Global Technology Order
 

@@ -10,7 +10,14 @@ keywords: "Changxin IPO, Yangtze Memory IPO, China storage chip, DRAM NAND, AI c
 author: "AIN China"
 readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200"
+related: [
+  "/blog/china-ai-chip-renaissance-q1-2026/",
+  "/blog/bytedance-200-billion-ai-infrastructure-china-arms-race-2026/",
+  "/blog/stepfun-terminal-ai-revolution/",
+  "/blog/china-profit-future-gamble-ai-war-2026/"
+]
 ---
+
 
 ![Semiconductor wafer manufacturing](https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&q=80)
 *China's storage chip twin giants are racing toward IPO as AI compute demand reshapes global semiconductor markets. Photo: Unsplash*

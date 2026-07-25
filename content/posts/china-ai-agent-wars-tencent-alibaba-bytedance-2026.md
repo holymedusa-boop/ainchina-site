@@ -8,7 +8,14 @@ readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&q=80"
 author: "AI in China Research Desk"
 keywords: ["China AI agents", "Tencent WorkBuddy", "Alibaba QoderWork", "ByteDance Doubao", "AI agent wars 2026", "Chinese tech giants AI", "OpenClaw China", "混元3 Hy3", "AI productivity tools China", "agent economy"]
+related: [
+  "/blog/china-ai-model-wars-april-2026/",
+  "/blog/gaokao-agent-wars-china-ai-battleground-2026/",
+  "/blog/china-ai-agent-revolution-2026/",
+  "/blog/tencent-wechat-ai-agent-billion-users-china-2026/"
+]
 ---
+
 
 # The Agent Wars: How Tencent, Alibaba, and ByteDance Are Fighting for China's AI Future
 

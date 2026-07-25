@@ -5,7 +5,16 @@ excerpt: "Kimi hits a $20 billion funding round at $200 billion valuation while 
 readTime: "16 min read"
 category: "AI Industry"
 image: "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=1200&q=80"
+keywords: ["Chinese AI", "Moonshot AI", "Kimi", "DeepSeek", "MiniMax", "Zhipu AI", "funding", "venture capital", "startup", "API"]
+related: [
+  "/blog/china-ai-token-surge-gen-z/",
+  "/blog/china-embodied-ai-revolution-funding-world-models-2026/",
+  "/blog/china-ai-creator-economy-digital-humans-2026/",
+  "/blog/china-ai-olympus-65-billion-war-future-intelligence-2026/"
+]
 ---
+
+
 
 **In the span of six months, Moonshot AI's Kimi has raised more money than most tech startups do in a decade. The Chinese AI unicorn just closed a $2 billion funding round at a $20 billion valuation, bringing its total capital raised in 2026 alone to $3.9 billion. Meanwhile, OpenRouter data reveals Chinese AI models consumed 7.94 trillion tokens in a single week, nearly 2.5 times America's 3.26 trillion, marking the third time China has overtaken the US in this critical metric.**
 

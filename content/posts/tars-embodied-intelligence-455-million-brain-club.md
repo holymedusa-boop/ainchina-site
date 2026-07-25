@@ -4,7 +4,18 @@ slug: "tars-embodied-intelligence-455-million-brain-club"
 date: "2026-04-01"
 category: "AI Robotics"
 readTime: "16 min read"
+excerpt: "Tars Raises $455M: How China's "Robot Brain" Startup Cracked the Embodied Intelligence Code Tars' AWE 3.0-powered A1 robot set a Guinness World Record for..."
+keywords: ["Beijing", "Shanghai", "NVIDIA", "funding", "investment", "startup", "API", "robotics", "CES"]
+related: [
+  "/blog/china-physical-ai-awakening-world-models-robot-ipos-295b-bet-2026/",
+  "/blog/china-embodied-intelligence-robot-marathon-2026/",
+  "/blog/apple-intelligence-china-qwen-baidu-ai-approval-2026/",
+  "/blog/china-embodied-ai-revolution-funding-world-models-2026/"
+]
 ---
+
+
+
 
 Tars Raises $455M: How China's "Robot Brain" Startup Cracked the Embodied Intelligence Code
 

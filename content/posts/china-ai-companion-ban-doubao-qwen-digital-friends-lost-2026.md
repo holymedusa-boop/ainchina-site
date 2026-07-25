@@ -9,7 +9,14 @@ keywords: ["China AI companion ban", "Doubao AI agent shutdown", "Qwen AI compan
 image: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=1200&q=80"
 author: "AI in China Editorial"
 excerpt: "On July 15, 2026, China's first-ever regulation targeting AI emotional companionship takes effect. ByteDance's Doubao and Alibaba's Qwen are shutting down custom agent features used by hundreds of millions. Users are mourning digital friends on Weibo. This is the world's first national AI companion ban — and Silicon Valley is watching closely."
+related: [
+  "/blog/minimax-ipo-212-million-users-ai-companion-empire/",
+  "/blog/doubao-charging-ai-free-era-ends-china-2026/",
+  "/blog/china-ai-companion-ban-virtual-lovers-regulation-2026/",
+  "/blog/china-ai-midyear-reckoning-three-forces-2026/"
+]
 ---
+
 
 ![Silhouette against city lights at dusk — the moment between human and digital connection](https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=1200&q=80)
 *The moment between human and digital — as China's AI companion era reaches its regulatory endpoint*

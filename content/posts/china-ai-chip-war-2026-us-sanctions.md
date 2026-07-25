@@ -4,7 +4,18 @@ slug: "china-ai-chip-war-2026-us-sanctions"
 date: "2026-04-12"
 category: "AI Infrastructure"
 readTime: "17 min read"
+excerpt: "The Great Silicon Wall: How China's AI Industry Is Defying U.S. Chip Sanctions in 2026 ByteDance's $5.6 billion bet on Huawei. DeepSeek V4 launching on..."
+keywords: ["Chinese AI", "ByteDance", "Doubao", "DeepSeek", "Huawei", "Ascend", "NVIDIA", "GPU", "AI chip", "startup"]
+related: [
+  "/blog/alibaba-zhenwu-m890-ai-chip-china-silicon-sovereignty/",
+  "/blog/huawei-ascend-12-billion-ai-chip-surge-global-bifurcation-2026/",
+  "/blog/triple-silicon-china-ai-chip-independence-2026/",
+  "/blog/china-ai-export-revolution-global-intelligence-2026/"
+]
 ---
+
+
+
 
 # The Great Silicon Wall: How China's AI Industry Is Defying U.S. Chip Sanctions in 2026
 

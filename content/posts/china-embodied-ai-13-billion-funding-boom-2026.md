@@ -8,7 +8,14 @@ readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?w=1200&h=600&fit=crop"
 author: "AI in China Research Desk"
 keywords: ["embodied AI", "humanoid robot", "Unitree IPO", "Momenta listing", "China robotics funding", "AI unicorn", "STAR Market", "physical AI", "Tesla Optimus", "ZhiPu"]
+related: [
+  "/blog/china-physical-ai-awakening-world-models-robot-ipos-295b-bet-2026/",
+  "/blog/china-embodied-ai-revolution-funding-world-models-2026/",
+  "/blog/china-embodied-ai-revolution-robotics-awakening-2026/",
+  "/blog/china-embodied-intelligence-infrastructure-ndrc-robots-factories-malls-homes/"
+]
 ---
+
 
 # The $13.8 Billion Awakening: China's Embodied AI Sector Hits Escape Velocity
 

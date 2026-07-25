@@ -4,7 +4,18 @@ slug: "stepfun-terminal-ai-revolution"
 date: "2026-04-03"
 category: "AI Infrastructure"
 readTime: "10 min read"
+excerpt: "StepFun's $7 Billion Bet: How China's AI Unicorn Is Winning the Terminal Race The Shanghai AI lab that abandoned the consumer chatbot race is now inside..."
+keywords: ["Chinese AI", "Shanghai", "Alibaba", "Tencent", "DeepSeek", "GPT", "funding", "API", "robotics", "embodied AI"]
+related: [
+  "/blog/doubao-12-trillion-token-explosion/",
+  "/blog/deepseek-7-4-billion-funding-deal-china-ai-map-2026/",
+  "/blog/bytedance-200-billion-ai-infrastructure-china-arms-race-2026/",
+  "/blog/china-embodied-ai-13-billion-funding-boom-2026/"
+]
 ---
+
+
+
 
 # StepFun's $7 Billion Bet: How China's AI Unicorn Is Winning the Terminal Race
 

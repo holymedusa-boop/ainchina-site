@@ -7,7 +7,17 @@ category: "AI Infrastructure"
 readTime: "16 min read"
 keywords: ["ByteDance AI investment", "China AI infrastructure", "AI capex 2026", "Doubao", "NVIDIA H200", "Huawei Ascend", "AI data center", "China tech spending", "AI chip shortage", "global AI competition"]
 image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&q=80"
+excerpt: "ByteDance's $29 Billion AI Bet: How China's Quiet Infrastructure Arms Race Is Reshaping Global Computing Photo by NASA on Unsplash
+related: [
+  "/blog/doubao-12-trillion-token-explosion/",
+  "/blog/bytedance-30-billion-ai-capex-huawei-chips-2026/",
+  "/blog/china-ai-model-wars-april-2026/",
+  "/blog/stepfun-terminal-ai-revolution/"
+]
 ---
+  The Number That..."
+---
+
 
 # ByteDance's $29 Billion AI Bet: How China's Quiet Infrastructure Arms Race Is Reshaping Global Computing
 

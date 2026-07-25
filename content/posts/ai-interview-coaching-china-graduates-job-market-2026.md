@@ -7,7 +7,14 @@ date: "2026-06-03"
 excerpt: "With Xiaohongshu views surging 120% in one week, AI interview coaching has become the hottest trend among Chinese graduates facing a brutal job market. We analyze 6 platforms, university adoption programs, and the DeepSeek-V3 technology powering this revolution."
 image: "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?w=1200&q=80"
 slug: "ai-interview-coaching-china-graduates-job-market-2026"
+related: [
+  "/blog/ai-interview-coaching-china-2025/",
+  "/blog/china-ai-interview-revolution-2026/",
+  "/blog/ai-thesis-writing-china/",
+  "/blog/china-ai-avatar-revolution-2025/"
+]
 ---
+
 
 
 *Photo: Abstract data flows and neural network visualizations. AI interview coaching platforms in China now process millions of simulated interviews monthly, analyzing everything from speech patterns to micro-expressions. Image: Unsplash*

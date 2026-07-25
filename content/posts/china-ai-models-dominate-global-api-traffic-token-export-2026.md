@@ -11,7 +11,14 @@ keywords: "China AI API, OpenRouter, token export, MiniMax M2.5, Kimi K2.5, Deep
 author: "AIN China"
 readTime: "17 min read"
 heroImage: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&auto=format&fit=crop"
+related: [
+  "/blog/china-ai-token-surge-gen-z/",
+  "/blog/china-ai-export-revolution-global-intelligence-2026/",
+  "/blog/doubao-12-trillion-token-explosion/",
+  "/blog/kimi-20-billion-valuation-china-ai-token-economy/"
+]
 ---
+
 image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&h=600&fit=crop"
 
 *In February 2026, a developer in San Francisco typed a prompt into an API client. The model that processed it wasn't GPT-5.5, Claude 4, or Gemini 2.5. It was MiniMax M2.5 — a Chinese model most American developers had never heard of. And that single interaction was one of 5 trillion tokens MiniMax processed that week alone, making it the most consumed AI model on Earth by API volume.*

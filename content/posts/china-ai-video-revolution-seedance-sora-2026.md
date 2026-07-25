@@ -8,7 +8,14 @@ readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=1200&q=80"
 author: "AI in China Research Desk"
 keywords: ["Seedance 2.5", "ByteDance AI video", "China AI video generation", "Sora shutdown", "Kling 3.0", "AI cinema", "Cannes Film Festival AI", "micro-drama AI", "Volcano Engine", "AI video market 2026"]
+related: [
+  "/blog/china-ai-global-surge-api-traffic-empire-2026/",
+  "/blog/china-embodied-intelligence-revolution-2026/",
+  "/blog/china-ai-agent-revolution-2026/",
+  "/blog/china-embodied-ai-revolution-robotics-awakening-2026/"
+]
 ---
+
 
 # From Sora to Seedance: How China Conquered the AI Video Revolution
 

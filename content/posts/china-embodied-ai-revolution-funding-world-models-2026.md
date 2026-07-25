@@ -9,7 +9,14 @@ keywords: ["China embodied AI", "robotics funding 2026", "Unitree IPO", "ByteDan
 excerpt: "China's embodied AI sector raised $3.3 billion in Q1 2026 alone, with Unitree Robotics targeting a $7 billion IPO and ByteDance declaring world models its top priority. Here's how physical AI is becoming China's next trillion-dollar industry."
 image: "https://images.unsplash.com/photo-1567789884554-0b844b597180?w=1200"
 readTime: "14 min read"
+related: [
+  "/blog/china-physical-ai-awakening-world-models-robot-ipos-295b-bet-2026/",
+  "/blog/china-ai-invisible-empire-consumer-apps-2026/",
+  "/blog/china-embodied-ai-13-billion-funding-boom-2026/",
+  "/blog/china-embodied-ai-revolution-robotics-awakening-2026/"
+]
 ---
+
 
 # China's Embodied AI Revolution: The $3.3 Billion Quarterly Funding Frenzy, World Models, and the Physical AI Economy
 

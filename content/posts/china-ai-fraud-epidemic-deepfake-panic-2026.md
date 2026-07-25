@@ -8,7 +8,14 @@ readTime: "16 min read"
 excerpt: "A 62-year-old retired teacher in Hangzhou lost ¥280,000 to an AI deepfake video call from her 'son.' The story sparked a national conversation reaching 5.6 billion views across Chinese social media — the fastest-growing AI topic at +300% week-over-week. What began as scattered fraud reports has crystallized into a full-blown public anxiety crisis, forcing regulators and AI companies into an unprecedented response."
 image: "https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?w=1200&h=600&fit=crop"
 keywords: ["AI deepfake", "AI fraud", "China AI security", "deepfake video call", "digital trust", "AI regulation China", "face swap fraud", "AI crime", "social media panic", "AI ethics"]
+related: [
+  "/blog/china-ai-deepfake-fraud-crisis-2026/",
+  "/blog/ai-digital-humans-china-billion-dollar-livestream-revolution/",
+  "/blog/china-ai-digital-human-revolution/",
+  "/blog/bytedance-200-billion-ai-infrastructure-china-arms-race-2026/"
+]
 ---
+
 
 On a Tuesday afternoon in Hangzhou, a 62-year-old retired teacher named Liu received a video call from her "son." The face on screen was unmistakable — same freckles, same nervous laugh, same kitchen background. He sounded distressed, claimed he'd been detained after a traffic accident, and urgently needed ¥280,000 for legal fees. Liu transferred the money within 20 minutes. The real son was at work, completely unaware. The face was flawless. The voice was cloned. The crime took 8 minutes.
 

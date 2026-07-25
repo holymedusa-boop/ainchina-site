@@ -4,7 +4,18 @@ slug: "china-ai-global-expansion-minimax-2-billion-users-2026"
 date: "2026-05-21"
 category: "AI Trends"
 readTime: "16 min read"
+excerpt: "China AI Goes Global: How MiniMax Built a 236 Million User Empire from Shanghai In 2025, a Shanghai startup earned 73% of its revenue from overseas..."
+keywords: ["Chinese AI", "Shanghai", "ByteDance", "Kimi", "DeepSeek", "MiniMax", "Zhipu AI", "GPT", "IPO", "startup"]
+related: [
+  "/blog/minimax-ipo-212-million-users-ai-companion-empire/",
+  "/blog/minimax-talkie/",
+  "/blog/china-ai-invisible-empire-consumer-apps-2026/",
+  "/blog/china-ai-model-wars-april-2026/"
+]
 ---
+
+
+
 
 # China AI Goes Global: How MiniMax Built a 236 Million User Empire from Shanghai
 

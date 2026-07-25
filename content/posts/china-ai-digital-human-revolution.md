@@ -4,7 +4,18 @@ slug: "china-ai-digital-human-revolution"
 date: "2026-04-05"
 category: "AI Applications"
 readTime: "16 min read"
+excerpt: "AI digital humans are becoming indistinguishable from real creators, sparking a revolution in China's content economy The creator economy in China has..."
+keywords: ["Doubao", "Tongyi Qianwen", "Kimi", "GPT", "Claude", "funding", "IPO", "API", "digital human", "CES"]
+related: [
+  "/blog/china-ai-avatar-revolution-2025/",
+  "/blog/china-ai-creator-economy-digital-humans-2026/",
+  "/blog/china-ai-avatar-revolution-2026/",
+  "/blog/ai-digital-humans-china-billion-dollar-livestream-revolution/"
+]
 ---
+
+
+
 
 ![AI Digital Human Technology Visualization](https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&q=80)
 

@@ -5,7 +5,16 @@ heroImage: "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=1200&
 image: "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=800&q=80"
 date: "2026-06-14"
 excerpt: "While Silicon Valley obsesses over chatbot leaderboards, China has quietly deployed 30,000 smart factories, produced 143,608 industrial robots in two months, and built an industrial AI ecosystem that triples factory output without adding workers. The numbers tell a story the West isn't hearing."
+keywords: ["artificial intelligence", "Doubao", "Kimi", "DeepSeek", "semiconductor", "enterprise AI", "API", "robotics", "compute", "CES"]
+related: [
+  "/blog/china-embodied-intelligence-revolution-2026/",
+  "/blog/china-ai-invisible-empire-consumer-apps-2026/",
+  "/blog/china-ai-april-infrastructure-2026/",
+  "/blog/china-ai-agent-army-126-platforms-67-enterprise-adoption-2026/"
+]
 ---
+
+
 
 ![Industrial robot arm on semiconductor production line](https://images.unsplash.com/photo-1565043666747-69f6646db940?w=800&q=80)
 *A robotic arm positions chip components on a semiconductor production line in Wuxi, Jiangsu Province. China's industrial AI deployment now spans 30,000 smart factories nationwide. (Photo: Unsplash)*

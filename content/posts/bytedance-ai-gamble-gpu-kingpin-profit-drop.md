@@ -4,7 +4,18 @@ slug: "bytedance-ai-gamble-gpu-kingpin-profit-drop"
 date: "2026-04-01"
 category: "AI Trends"
 readTime: "16 min read"
+excerpt: "ByteDance's AI Obsession: How a 70% Profit Plunge Turned a Social Media Giant Into China's GPU Kingpin The company that built its empire on 15-second..."
+keywords: ["artificial intelligence", "large language model", "AI agent", "ByteDance", "Alibaba", "Tencent", "DeepSeek", "NVIDIA", "GPU", "API"]
+related: [
+  "/blog/minimax-ipo-212-million-users-ai-companion-empire/",
+  "/blog/china-ai-agent-wars-tencent-alibaba-bytedance-2026/",
+  "/blog/china-profit-future-gamble-ai-war-2026/",
+  "/blog/bytedance-seed-brain-drain-70-engineers/"
+]
 ---
+
+
+
 ![AI Data Center](https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&h=400&fit=crop)
 
 

@@ -4,7 +4,18 @@ slug: "ai-interview-coaching-china-2025"
 date: "2026-04-08"
 category: "AI Trends"
 readTime: "16 min"
+excerpt: "China's job market has become a battleground for millions of fresh graduates, and a surprising new weapon has emerged: AI interview coaches. In the past..."
+keywords: ["large language model", "LLM", "Chinese AI", "ByteDance", "Doubao", "Alibaba", "Tongyi Qianwen", "Moonshot AI", "Kimi", "CES"]
+related: [
+  "/blog/ai-interview-coaching-china-graduates-job-market-2026/",
+  "/blog/china-ai-interview-revolution-2026/",
+  "/blog/ai-thesis-writing-phenomenon-china-2026/",
+  "/blog/ai-thesis-writing-china/"
+]
 ---
+
+
+
 
 ![AI Interview Coaching in China](https://images.unsplash.com/photo-1521791136064-7986c2920216?w=1200&h=600&fit=crop)
 

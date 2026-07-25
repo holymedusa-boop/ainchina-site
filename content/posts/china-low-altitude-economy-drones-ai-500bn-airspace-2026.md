@@ -7,7 +7,14 @@ image: "https://images.unsplash.com/photo-1473968512647-3e447244af8f?w=1200&q=80
 heroImage: "https://images.unsplash.com/photo-1473968512647-3e447244af8f?w=1200&q=80"
 keywords: ["low-altitude economy", "China drones", "Meituan drone delivery", "eVTOL China", "Shenzhen low-altitude", "DJI", "EHang", "XPeng AeroHT", "China air taxi", "drone logistics"]
 readTime: "16 min read"
+related: [
+  "/blog/china-embodied-ai-revolution-funding-world-models-2026/",
+  "/blog/china-ai-invisible-empire-consumer-apps-2026/",
+  "/blog/china-ai-consumption-gambit-17-point-plan-2026/",
+  "/blog/ai-digital-humans-china-billion-dollar-livestream-revolution/"
+]
 ---
+
 
 ![A Meituan delivery drone descends toward a rooftop landing pad in Shenzhen's Nanshan district, where low-altitude logistics has become part of daily urban infrastructure](https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&q=80)
 *A Meituan delivery drone descends toward a rooftop landing pad in Shenzhen's Nanshan district, where low-altitude logistics has become part of daily urban infrastructure. Photo: Xinhua*

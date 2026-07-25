@@ -4,7 +4,18 @@ slug: "china-ai-chip-renaissance-q1-2026"
 date: "2026-05-19"
 category: "AI Infrastructure"
 readTime: "16 min read"
+excerpt: "China's AI Chip Renaissance: The Quarter That Changed Everything Cambricon's profit surge of 185%. Hygon crossing ¥40 billion in quarterly revenue. Moore..."
+keywords: ["machine learning", "Shanghai", "DeepSeek", "Huawei", "Ascend", "NVIDIA", "AI chip", "semiconductor", "Llama", "cloud computing"]
+related: [
+  "/blog/china-ai-model-war-april-2026-week-changed-everything/",
+  "/blog/deepseek-permanent-75-percent-api-price-cut-ai-war-2026/",
+  "/blog/china-ai-chip-war-2026-us-sanctions/",
+  "/blog/china-humanoid-robot-tsunami-2026-50k-units-global-dominance/"
+]
 ---
+
+
+
 
 # China's AI Chip Renaissance: The Quarter That Changed Everything
 

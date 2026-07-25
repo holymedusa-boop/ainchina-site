@@ -4,7 +4,18 @@ slug: "bytedance-30-billion-ai-capex-huawei-chips-2026"
 date: "2026-06-27"
 category: "AI Infrastructure"
 readTime: "16 min read"
+excerpt: "ByteDance's Beijing headquarters. The company's expanded AI infrastructure spending reflects a broader shift toward domestic semiconductor supply chains...."
+keywords: ["large language model", "Beijing", "ByteDance", "Doubao", "semiconductor", "investment", "API", "inference", "training", "compute"]
+related: [
+  "/blog/bytedance-200-billion-ai-infrastructure-china-arms-race-2026/",
+  "/blog/doubao-12-trillion-token-explosion/",
+  "/blog/china-ai-invisible-empire-consumer-apps-2026/",
+  "/blog/stepfun-terminal-ai-revolution/"
+]
 ---
+
+
+
 
 ![ByteDance headquarters in Beijing, with the company's branding visible on the facade](https://assets.pandaily.com/uploads/2022/05/bytedance.jpeg?w=1200&h=600&fit=crop)
 *ByteDance's Beijing headquarters. The company's expanded AI infrastructure spending reflects a broader shift toward domestic semiconductor supply chains. Image: Pandaily*

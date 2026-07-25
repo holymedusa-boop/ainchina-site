@@ -8,7 +8,18 @@ tags: ["Doubao", "MiniMax", "ByteDance", "consumer AI", "China AI apps", "AI dig
 image: "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=1200&h=600&fit=crop"
 readTime: "16 min read"
 category: "AI Business"
+excerpt: "The Invisible Empire: How China's AI Consumer Apps Quietly Conquered 2.5 Billion Users — And Why the World Barely Noticed While Silicon Valley obsessed..."
+keywords: ["Chinese AI", "Shanghai", "ByteDance", "Doubao", "Alibaba", "Tongyi Qianwen", "Baidu", "Wenxin Yiyan", "Moonshot AI", "Kimi"]
+related: [
+  "/blog/china-embodied-ai-revolution-funding-world-models-2026/",
+  "/blog/china-ai-global-expansion-minimax-2-billion-users-2026/",
+  "/blog/minimax-ipo-212-million-users-ai-companion-empire/",
+  "/blog/china-ai-olympus-65-billion-war-future-intelligence-2026/"
+]
 ---
+
+
+
 
 # The Invisible Empire: How China's AI Consumer Apps Quietly Conquered 2.5 Billion Users — And Why the World Barely Noticed
 

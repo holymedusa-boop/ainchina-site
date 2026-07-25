@@ -4,7 +4,18 @@ slug: "china-ai-model-war-april-2026-week-changed-everything"
 date: "2026-04-13"
 category: "AI Trends"
 readTime: "17 min read"
+excerpt: "The AI model wars: Chinese tech giants battle for dominance in the world's largest AI market. Photo by Google DeepMind / Unsplash The first week of April..."
+keywords: ["Chinese AI", "Beijing", "Doubao", "Alibaba", "Kimi", "GPT", "funding", "API", "embodied AI", "inference"]
+related: [
+  "/blog/china-ai-model-wars-april-2026/",
+  "/blog/china-ai-chip-renaissance-q1-2026/",
+  "/blog/china-ai-price-revolution-silicon-valley-waic-2026/",
+  "/blog/deepseek-7-4-billion-funding-deal-china-ai-map-2026/"
+]
 ---
+
+
+
 
 ![China AI Model War 2026](https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&q=80)
 *The AI model wars: Chinese tech giants battle for dominance in the world's largest AI market. Photo by Google DeepMind / Unsplash*

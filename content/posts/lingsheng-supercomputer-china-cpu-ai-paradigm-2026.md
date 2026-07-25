@@ -15,7 +15,16 @@ keywords:
   - national supercomputing center
 heroImage: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&h=600&fit=crop"
 readingTime: 16
+keywords: ["Beijing", "Shenzhen", "NVIDIA", "GPU", "API", "training", "compute", "CES", "export control"]
+related: [
+  "/blog/forbes-china-ai-top-50-six-decoupling-signals-2026/",
+  "/blog/china-multimodal-ai-revolution-end-text-only-2026/",
+  "/blog/china-global-autonomous-driving-regulation-ads-gtr-2026/",
+  "/blog/triple-silicon-china-ai-chip-independence-2026/"
+]
 ---
+
+
 
 ![Earth from space with technology overlay](https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&h=600&fit=crop)
 *China's LingSheng supercomputer at the National Supercomputing Center in Shenzhen represents a fundamentally different vision of what exascale computing should be — one that doesn't depend on GPUs at all.*

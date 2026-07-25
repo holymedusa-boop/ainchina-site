@@ -9,7 +9,14 @@ keywords: ["DeepSeek", "AI funding", "China AI investment", "Liang Wenfeng", "VI
 image: "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=1200&q=80"
 author: "AI in China Editorial"
 excerpt: "When DeepSeek closed its $7.4 billion funding round at a $50 billion valuation, it became China's most valuable AI startup. But beneath the headline lies a deal structure that could define the future of state-capital collaboration in Chinese technology."
+related: [
+  "/blog/stepfun-terminal-ai-revolution/",
+  "/blog/china-ai-model-war-april-2026-week-changed-everything/",
+  "/blog/china-embodied-ai-13-billion-funding-boom-2026/",
+  "/blog/deepseek-permanent-75-percent-api-price-cut-ai-war-2026/"
+]
 ---
+
 
 ![A modern data center corridor with rows of server racks illuminated by blue LED lights — the physical infrastructure behind China's most valuable AI startup](https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=1200&q=80)
 *The Ulanqab data center in Inner Mongolia, where DeepSeek trains its models on clusters of Huawei Ascend chips — a physical manifestation of China's AI sovereignty strategy*

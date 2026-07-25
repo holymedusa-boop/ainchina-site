@@ -7,7 +7,16 @@ category: "AI Policy"
 readTime: "16 min read"
 image: "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=1200&q=80"
 keywords: ["China AI Companion Law", "ByteDance Doubao", "Alibaba Qwen", "AI regulation China 2026", "virtual companion ban", "AI anthropomorphic interaction", "CAC regulation", "AI ethics China", "Doubao 345 million users", "Qwen companion shutdown"]
+excerpt: "Seven Days to Digital Heartbreak: Inside China's AI Companion Law Countdown Beijing, July 8, 2026 — In exactly seven days, China's landmark AI..."
+related: [
+  "/blog/china-ai-companion-ban-doubao-qwen-digital-friends-lost-2026/",
+  "/blog/china-ai-companion-ban-virtual-lovers-regulation-2026/",
+  "/blog/china-ai-companion-ban-doubao-qwen-yuanbao-july-2026/",
+  "/blog/minimax-talkie/"
+]
 ---
+
+
 
 # Seven Days to Digital Heartbreak: Inside China's AI Companion Law Countdown
 

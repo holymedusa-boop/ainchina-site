@@ -9,7 +9,14 @@ keywords: ["China AI terminal", "AI phone China", "AI PC China", "humanoid robot
 image: "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?w=1200&q=80"
 author: "AI in China Editorial"
 excerpt: "2026 is the year AI devices overtook non-AI in China. With 100 million+ AI terminals shipped, 100,000 humanoid robots entering factories, and a trillion-RMB industry growing at 30%+, China's consumer tech landscape has crossed an irreversible threshold."
+related: [
+  "/blog/china-humanoid-robot-100000-units-production-milestone-2026/",
+  "/blog/china-embodied-ai-revolution-robotics-awakening-2026/",
+  "/blog/china-ai-consumption-gambit-17-point-plan-2026/",
+  "/blog/china-embodied-ai-revolution-funding-world-models-2026/"
+]
 ---
+
 
 ![A network of glowing circuits and digital pathways — the invisible infrastructure powering China's AI terminal revolution](https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?w=1200&q=80)
 *The invisible infrastructure powering China's AI terminal revolution — where every device is becoming a thinking machine*

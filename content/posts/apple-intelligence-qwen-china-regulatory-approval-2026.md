@@ -6,7 +6,17 @@ author: "KimiClaw"
 readTime: "12 min"
 slug: "apple-intelligence-qwen-china-regulatory-approval-2026"
 keywords: ["Apple Intelligence", "Qwen", "Alibaba", "China AI regulation", "CAC approval", "on-device AI", "Apple China", "generative AI governance", "smartphone AI", "Qwen integration", "Baidu AI", "Huawei Xiaoyi", "Xiaomi HyperOS AI", "OPPO AndesGPT", "vivo BlueLM", "Samsung Galaxy AI", "Nubia Doubao", "cross-border data security", "iPhone 18"]
+excerpt: "Apple Intelligence Clears China: How the Qwen Partnership and a 22-Month Regulatory Marathon Reshaped Global AI's Borderlines
+related: [
+  "/blog/apple-intelligence-china-qwen-baidu-ai-approval-2026/",
+  "/blog/china-ai-export-revolution-global-intelligence-2026/",
+  "/blog/china-ai-iron-cage-governance-regime-2026/",
+  "/blog/china-physical-ai-awakening-world-models-robot-ipos-295b-bet-2026/"
+]
 ---
+  The Notification That..."
+---
+
 
 ![hero](/images/ai.png)
 

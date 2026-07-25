@@ -6,7 +6,18 @@ date: "2026-07-17"
 category: "AI Chatbots"
 readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?w=1200&h=600&fit=crop"
+excerpt: "The economics of context — not parameters — will define the next phase of AI competition On July 14, 2026, a promotional page on the Kimi Open Platform..."
+keywords: ["Beijing", "Kimi", "DeepSeek", "GPU", "OpenAI", "GPT", "Claude", "inference", "CES"]
+related: [
+  "/blog/kimi-k3-moonshot-28-trillion-open-ai-2026/",
+  "/blog/kimi-k2-6-open-source-coding-revolution/",
+  "/blog/kimi-2m-context/",
+  "/blog/meituan-longcat-2-trillion-domestic-chips-china-ai-independence-2026/"
+]
 ---
+
+
+
 
 ![Quantum Computing Abstract](https://images.unsplash.com/photo-1526379095098-d400fd0bf935?w=1200&h=600&fit=crop)
 *The economics of context — not parameters — will define the next phase of AI competition*

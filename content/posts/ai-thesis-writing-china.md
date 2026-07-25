@@ -4,7 +4,19 @@ slug: "ai-thesis-writing-china"
 date: "2026-04-02"
 category: "AI Chatbots"
 readTime: "16 min read"
+excerpt: "AI Thesis Writing Explodes: How 12 Million Chinese Students Are Rewriting Academic Rules
+keywords: ["Chinese AI", "ByteDance", "Doubao", "Alibaba", "Tongyi Qianwen", "Tencent", "Kimi", "GPT", "Claude", "data center"]
+related: [
+  "/blog/ai-thesis-writing-phenomenon-china-2026/",
+  "/blog/kimi-k2-6-open-source-coding-revolution/",
+  "/blog/wenxin-yiyan-baidu/",
+  "/blog/ai-interview-coaching-china-2025/"
+]
 ---
+
+  The Phenomenon: A Quiet Academic Revolution In the months..."
+---
+
 ![AI Data Center](https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=800&h=400&fit=crop)
 
 

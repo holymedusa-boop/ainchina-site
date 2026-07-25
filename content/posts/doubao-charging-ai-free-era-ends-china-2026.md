@@ -11,7 +11,14 @@ keywords: "Doubao, ByteDance AI, China AI monetization, AI subscription, token e
 author: "AIN China"
 readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?q=80&w=1200&auto=format&fit=crop"
+related: [
+  "/blog/china-ai-companion-ban-doubao-qwen-digital-friends-lost-2026/",
+  "/blog/china-ai-invisible-empire-consumer-apps-2026/",
+  "/blog/china-ai-global-expansion-minimax-2-billion-users-2026/",
+  "/blog/china-ai-model-war-april-2026-week-changed-everything/"
+]
 ---
+
 image: "https://images.unsplash.com/photo-1633431871820-ca72e0da2e2b?w=1200&h=600&fit=crop"
 
 *ByteDance's Doubao — the AI app used by 345 million people monthly in China — quietly added a paywall on May 4, 2026. Within hours, #DoubaoCharging trended across Weibo, Bilibili, and Xiaohongshu. The move isn't just about one app. It's the end of an era.*

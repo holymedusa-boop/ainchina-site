@@ -8,7 +8,14 @@ readTime: "18 min read"
 excerpt: "In a single week, China unveiled the world's first general world foundation model, a humanoid robot maker filed for IPO, and Beijing prepared a $295 billion nationwide AI buildout. The physical AI era has arrived."
 image: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200"
 keywords: ["China world model", "Physis BAAI", "embodied intelligence", "humanoid robot IPO", "EngineAI", "China AI buildout", "physical AI", "robotics China 2026", "AI liability China", "Beijing Academy of AI"]
+related: [
+  "/blog/china-embodied-ai-revolution-funding-world-models-2026/",
+  "/blog/china-embodied-ai-13-billion-funding-boom-2026/",
+  "/blog/china-embodied-intelligence-infrastructure-ndrc-robots-factories-malls-homes/",
+  "/blog/tars-embodied-intelligence-455-million-brain-club/"
+]
 ---
+
 
 # China's Physical AI Awakening: World Models, Robot IPOs, and the $295 Billion Bet on Embodied Intelligence
 

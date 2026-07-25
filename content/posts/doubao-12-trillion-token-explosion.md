@@ -4,7 +4,18 @@ slug: "doubao-12-trillion-token-explosion"
 date: "2026-04-04"
 category: "AI Infrastructure"
 readTime: "10 min read"
+excerpt: "Doubao's 12 Trillion Token Explosion: How ByteDance Is Quietly Winning the Global AI Race The exponential rise of China's AI ecosystem is reshaping global..."
+keywords: ["large language model", "Chinese AI", "ByteDance", "Doubao", "Alibaba", "Moonshot AI", "Kimi", "DeepSeek", "MiniMax", "OpenAI"]
+related: [
+  "/blog/bytedance-200-billion-ai-infrastructure-china-arms-race-2026/",
+  "/blog/stepfun-terminal-ai-revolution/",
+  "/blog/china-ai-token-surge-gen-z/",
+  "/blog/china-ai-invisible-empire-consumer-apps-2026/"
+]
 ---
+
+
+
 
 # Doubao's 12 Trillion Token Explosion: How ByteDance Is Quietly Winning the Global AI Race
 

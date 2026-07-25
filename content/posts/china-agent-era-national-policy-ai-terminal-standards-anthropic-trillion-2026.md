@@ -9,7 +9,14 @@ keywords: ["AI agent policy", "China AI regulation", "Anthropic valuation", "AI 
 excerpt: "Three Chinese ministries jointly issued the most comprehensive national policy framework for AI agent governance to date. AI terminal intelligence grading standards were released. Anthropic nears a $1 trillion valuation. And China's AI models processed 8 trillion tokens in a single week. May 2026 will be remembered as the month AI agents went mainstream."
 image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80"
 readTime: "16 min read"
+related: [
+  "/blog/china-ai-agent-era-140-trillion-tokens-2026/",
+  "/blog/doubao-12-trillion-token-explosion/",
+  "/blog/stepfun-terminal-ai-revolution/",
+  "/blog/china-ai-export-revolution-global-intelligence-2026/"
+]
 ---
+
 
 # China's Agent Era Begins: National Policy Framework, AI Terminal Standards, and the Trillion-Dollar Global AI Race
 

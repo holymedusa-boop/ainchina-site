@@ -10,7 +10,14 @@ keywords: "DeepSeek API price cut, DeepSeek V4 Pro pricing, AI API pricing war, 
 author: "AIN China"
 readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=1200"
+related: [
+  "/blog/china-ai-chip-renaissance-q1-2026/",
+  "/blog/china-ai-model-war-april-2026-week-changed-everything/",
+  "/blog/deepseek-7-4-billion-funding-deal-china-ai-map-2026/",
+  "/blog/deepseek-v4-million-token-china-ai-sovereignty/"
+]
 ---
+
 
 ![Financial pricing data](https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=800&q=80)
 *DeepSeek's permanent API price reduction signals a fundamental restructuring of AI economics. Photo: Unsplash*

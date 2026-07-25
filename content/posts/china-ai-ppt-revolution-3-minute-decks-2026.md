@@ -4,7 +4,18 @@ slug: "china-ai-ppt-revolution-3-minute-decks-2026"
 date: "2026-05-18"
 category: "AI Applications"
 readTime: "16 min read"
+excerpt: "The 3-Minute Deck Revolution: How China's Office Workers Are Using AI to Replace PowerPoint Design China's office workers are abandoning manual slide..."
+keywords: ["training", "CES", "artificial intelligence", "China tech", "AI industry", "machine learning", "technology"]
+related: [
+  "/blog/china-ai-avatar-revolution-2025/",
+  "/blog/china-ai-avatar-revolution-2026/",
+  "/blog/china-ai-interview-revolution-2026/",
+  "/blog/china-ai-digital-human-revolution/"
+]
 ---
+
+
+
 
 The 3-Minute Deck Revolution: How China's Office Workers Are Using AI to Replace PowerPoint Design
 

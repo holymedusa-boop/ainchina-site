@@ -8,7 +8,14 @@ excerpt: "Huawei's AI chip revenue is projected to hit $12 billion in 2026 — a
 keywords: ["Huawei Ascend", "AI chip", "NVIDIA export ban", "China semiconductor", "ByteDance AI chip", "Alibaba Qwen", "DeepSeek Huawei", "AI infrastructure bifurcation", "Ascend 910C", "CANN vs CUDA", "China AI sovereignty", "US chip sanctions", "Samsung foundry", "AI compute", "domestic substitution"]
 readTime: "15 min read"
 category: "AI Technology"
+related: [
+  "/blog/huawei-pangu-ultra-moe-718b-chinese-silicon/",
+  "/blog/china-ai-chip-war-2026-us-sanctions/",
+  "/blog/triple-silicon-china-ai-chip-independence-2026/",
+  "/blog/bytedance-200-billion-ai-infrastructure-china-arms-race-2026/"
+]
 ---
+
 
 ![High-tech circuit board with glowing blue neural network pathways representing AI chip infrastructure](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80)
 *The global AI infrastructure landscape is splitting along geopolitical lines. While Western AI runs on NVIDIA silicon, China's tech giants are placing billion-dollar bets on Huawei's Ascend chips — creating two parallel compute ecosystems. Photo: Unsplash*

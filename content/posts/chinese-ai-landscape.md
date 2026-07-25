@@ -4,7 +4,18 @@ slug: "chinese-ai-landscape"
 date: "2026-03-30"
 category: "Market Intelligence"
 readTime: "20 min read"
+excerpt: "China's AI ecosystem has evolved from a fragmented collection of research labs into a comprehensive industrial stack that rivals Silicon Valley...."
+keywords: ["artificial intelligence", "neural network", "Chinese AI", "Shanghai", "Doubao", "Alibaba", "Tencent", "Hunyuan", "Kimi", "DeepSeek"]
+related: [
+  "/blog/huawei-pangu-ultra-moe-718b-chinese-silicon/",
+  "/blog/chinese-ai-index-2026/",
+  "/blog/ai-builds-ai-forgetrain-modelbest-china-2026/",
+  "/blog/huawei-ascend-12-billion-ai-chip-surge-global-bifurcation-2026/"
+]
 ---
+
+
+
 
 China's AI ecosystem has evolved from a fragmented collection of research labs into a comprehensive industrial stack that rivals Silicon Valley. Understanding this landscape—from domestic chip manufacturers to consumer applications—is essential for anyone tracking the future of artificial intelligence.
 

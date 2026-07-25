@@ -4,7 +4,18 @@ slug: "china-ai-deepfake-fraud-crisis-2026"
 date: "2026-05-03"
 category: "AI Safety"
 readTime: "16 min read"
+excerpt: "China's AI Deepfake Fraud Crisis: How 700,000 Annual Scams and a $40 Billion Global Threat Are Reshaping Trust in the Digital Age China's AI digital human..."
+keywords: ["generative AI", "Moonshot AI", "Kimi", "DeepSeek", "MiniMax", "GPT", "IPO", "investment", "API", "digital human"]
+related: [
+  "/blog/china-ai-fraud-epidemic-deepfake-panic-2026/",
+  "/blog/china-ai-creator-economy-digital-humans-2026/",
+  "/blog/china-ai-digital-human-revolution/",
+  "/blog/bytedance-200-billion-ai-infrastructure-china-arms-race-2026/"
+]
 ---
+
+
+
 ![AI Data Center](https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=800&h=400&fit=crop)
 
 

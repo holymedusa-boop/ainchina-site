@@ -10,7 +10,14 @@ keywords: "China embodied intelligence, NDRC robot infrastructure, big brain sma
 author: "AIN China"
 readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1676299081847-824916de030a?w=1200"
+related: [
+  "/blog/china-physical-ai-awakening-world-models-robot-ipos-295b-bet-2026/",
+  "/blog/china-embodied-intelligence-robot-marathon-2026/",
+  "/blog/china-ai-network-doctrine-miit-three-year-plan-2026/",
+  "/blog/china-embodied-ai-13-billion-funding-boom-2026/"
+]
 ---
+
 
 # China's Embodied Intelligence Infrastructure Push: NDRC Unveils National Plan to Put Robots in Factories, Malls, and Homes
 

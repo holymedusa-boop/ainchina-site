@@ -8,7 +8,14 @@ readTime: "15 min read"
 heroImage: "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=1200&q=80"
 author: "AI in China Research Desk"
 keywords: ["WAIC 2026", "World Artificial Intelligence Conference", "Shanghai AI", "China AI diplomacy", "WAIC Academic", "SAIL Award", "Andrew Yao", "Richard Sutton", "global AI governance", "China AI ecosystem 2026"]
+related: [
+  "/blog/waic-2026-live-china-ai-ships-products-humanoid-robot-mass-production/",
+  "/blog/deepseek-7-4-billion-funding-deal-china-ai-map-2026/",
+  "/blog/chinese-ai-index-2026/",
+  "/blog/china-ai-export-revolution-global-intelligence-2026/"
+]
 ---
+
 
 # WAIC 2026: The Conference That Rewrote Global AI Diplomacy
 

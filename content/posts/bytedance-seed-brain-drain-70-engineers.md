@@ -4,7 +4,19 @@ slug: "bytedance-seed-brain-drain-70-engineers"
 date: "2026-04-28"
 category: "AI Trends"
 readTime: "15 min read"
+excerpt: "Bytedance's AI Brain Drain: 70 Top Engineers Exit Seed Team in 12 Months
+keywords: ["large language model", "LLM", "generative AI", "Chinese AI", "Beijing", "Shanghai", "ByteDance", "Doubao", "Alibaba", "Tencent"]
+related: [
+  "/blog/bytedance-ai-gamble-gpu-kingpin-profit-drop/",
+  "/blog/doubao-12-trillion-token-explosion/",
+  "/blog/china-ai-token-surge-gen-z/",
+  "/blog/tars-embodied-intelligence-455-million-brain-club/"
+]
 ---
+
+ Bytedance, the TikTok parent company that once seemed unstoppable in China's..."
+---
+
 ![AI Data Center](https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&h=400&fit=crop)
 
 

@@ -4,7 +4,18 @@ slug: "kimi-k2-6-open-source-coding-revolution"
 date: "2026-05-02"
 category: "AI Infrastructure"
 readTime: "16 min read"
+excerpt: "Kimi K2.6: How a $18B Chinese Startup Is Rewriting the Rules of Open-Source AI Coding On April 20, 2026, while Silicon Valley was still processing..."
+keywords: ["Beijing", "Moonshot AI", "Kimi", "OpenAI", "GPT", "Claude", "venture capital", "startup", "API", "compute"]
+related: [
+  "/blog/kimi-k3-moonshot-28-trillion-open-ai-2026/",
+  "/blog/glm-5-1-open-source-crown-beijing-2026/",
+  "/blog/kimi-k3-moonshot-2-5-trillion-open-source-ai-2026/",
+  "/blog/huawei-pangu-ultra-moe-718b-chinese-silicon/"
+]
 ---
+
+
+
 ![AI Data Center](https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&h=400&fit=crop)
 
 

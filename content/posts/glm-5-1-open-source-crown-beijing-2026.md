@@ -5,7 +5,18 @@ date: "2026-06-13"
 category: "AI"
 readTime: "16 min read"
 image: "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=1200"
+excerpt: "On April 7, 2026, a Chinese AI research lab quietly uploaded a set of model weights to Hugging Face. There was no splashy livestream. No carefully..."
+keywords: ["Chinese AI", "Moonshot AI", "Kimi", "Zhipu AI", "Huawei", "Ascend", "NVIDIA", "OpenAI", "GPT", "Claude"]
+related: [
+  "/blog/kimi-k2-6-open-source-coding-revolution/",
+  "/blog/meituan-longcat-2-trillion-domestic-chips-china-ai-independence-2026/",
+  "/blog/qwen-billion-downloads-china-open-source-ai-dominance-2026/",
+  "/blog/ai-builds-ai-forgetrain-modelbest-china-2026/"
+]
 ---
+
+
+
 
 On April 7, 2026, a Chinese AI research lab quietly uploaded a set of model weights to Hugging Face. There was no splashy livestream. No Sam Altman tweet thread. No carefully choreographed product demo. Just a repository named `zai-org/GLM-5` and a one-line release note: "GLM-5.1 is now available under the MIT License."
 

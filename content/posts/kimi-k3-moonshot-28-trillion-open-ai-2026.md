@@ -7,7 +7,14 @@ author: "AI in China Editorial"
 readingTime: 16
 keywords: ["Kimi K3", "Moonshot AI", "open source AI", "China AI models", "MoE architecture", "Kimi Delta Attention", "Yang Zhilin", "2.8 trillion parameters", "AI benchmarks 2026", "China vs US AI"]
 heroImage: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&h=600&fit=crop"
+related: [
+  "/blog/kimi-k3-moonshot-2-5-trillion-open-source-ai-2026/",
+  "/blog/kimi-k2-6-open-source-coding-revolution/",
+  "/blog/meituan-longcat-2-trillion-domestic-chips-china-ai-independence-2026/",
+  "/blog/kimi-2m-context/"
+]
 ---
+
 
 *At 2:47 AM on July 16, 2026, Yang Zhilin stared at the terminal in Moonshot AI's Beijing headquarters. The final training run for Kimi K3 had completed. The loss curves had flattened. And the benchmark numbers — the ones his team had been chasing for 14 months — were finally real.*
 

@@ -4,7 +4,18 @@ slug: "china-ai-agent-era-140-trillion-tokens-2026"
 date: "2026-06-03"
 category: "AI Industry"
 readTime: "17 min read"
+excerpt: "China's AI Agent Era: How 140 Trillion Daily Tokens, New Regulations, and a DeepSeek Price War Are Reshaping Global AI June 2026 marks a watershed moment..."
+keywords: ["AI agent", "Chinese AI", "Beijing", "DeepSeek", "NVIDIA", "API", "AI regulation", "inference", "data center", "CES"]
+related: [
+  "/blog/china-agent-era-national-policy-ai-terminal-standards-anthropic-trillion-2026/",
+  "/blog/china-ai-agent-explosion-2025-enterprise-deployment/",
+  "/blog/china-ai-model-wars-april-2026/",
+  "/blog/china-ai-export-revolution-global-intelligence-2026/"
+]
 ---
+
+
+
 
 # China's AI Agent Era: How 140 Trillion Daily Tokens, New Regulations, and a DeepSeek Price War Are Reshaping Global AI
 

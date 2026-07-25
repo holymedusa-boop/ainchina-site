@@ -9,7 +9,14 @@ keywords: ["Tencent WeChat AI agent", "WeChat agent 2026", "Tencent AI strategy"
 excerpt: "A Financial Times report on June 2 revealed Tencent is testing an AI agent inside WeChat. The result: a $41 billion market cap surge, China's biggest agentic AI platform, and a direct challenge to Alibaba and ByteDance."
 image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200"
 readTime: "16 min read"
+related: [
+  "/blog/china-ai-agent-wars-tencent-alibaba-bytedance-2026/",
+  "/blog/gaokao-agent-wars-china-ai-battleground-2026/",
+  "/blog/china-profit-future-gamble-ai-war-2026/",
+  "/blog/deepseek-v4-million-token-china-ai-sovereignty/"
+]
 ---
+
 
 # Tencent's WeChat AI Agent: The 1.4 Billion-User Bet That Reshaped China's Tech Markets Overnight
 

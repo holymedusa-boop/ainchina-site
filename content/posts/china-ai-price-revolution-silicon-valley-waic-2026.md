@@ -8,7 +8,14 @@ readTime: "18 min read"
 heroImage: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1200&q=80"
 author: "AI in China Research Desk"
 keywords: ["China AI models", "Qwen 3.5", "DeepSeek", "ByteDance Seedream", "AI pricing", "WAIC 2026", "Goldman Sachs China AI", "Silicon Valley AI competition", "Chinese AI benchmarks", "AI model cost comparison"]
+related: [
+  "/blog/china-ai-model-war-april-2026-week-changed-everything/",
+  "/blog/china-ai-agent-revolution-2026/",
+  "/blog/china-ai-model-wars-april-2026/",
+  "/blog/china-multimodal-ai-revolution-end-text-only-2026/"
+]
 ---
+
 
 # The $0.07 Model: How China's AI Price Revolution Is Forcing Silicon Valley to Rethink Everything
 

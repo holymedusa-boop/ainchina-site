@@ -7,7 +7,14 @@ date: "2026-06-02"
 excerpt: "In 60 days, MiniMax doubled its annual recurring revenue to approximately $300M, crossed 300 million global users, and launched its A-share IPO process. With 73% of revenue from international markets, the company has built the most successful Chinese AI export since TikTok—and the financials reveal both extraordinary growth and a brutal path to profitability."
 image: "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=1200&q=80"
 slug: "minimax-300m-users-arr-doubles-a-share-ipo-china-ai-export-2026"
+related: [
+  "/blog/china-ai-global-expansion-minimax-2-billion-users-2026/",
+  "/blog/minimax-ipo-212-million-users-ai-companion-empire/",
+  "/blog/china-ai-invisible-empire-consumer-apps-2026/",
+  "/blog/china-ai-iron-cage-governance-regime-2026/"
+]
 ---
+
 
 
 *Photo: A laptop displaying global connectivity. MiniMax's AI services now reach users in 200+ countries, with 73% of revenue generated outside China. Image: Unsplash*

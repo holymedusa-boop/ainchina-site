@@ -7,7 +7,16 @@ category: "Market Intelligence"
 readTime: "18 min read"
 keywords: ["Chinese AI companies", "AI ecosystem China", "foundation models China", "AI infrastructure", "DeepSeek", "Kimi", "ByteDance", "AI investment China"]
 image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80"
+excerpt: "The Chinese AI Index 2026: Mapping 103 Companies That Are Reshaping Global Technology Photo by Joshua Sortino on Unsplash In March 2026, something changed..."
+related: [
+  "/blog/china-ai-model-wars-april-2026/",
+  "/blog/bytedance-200-billion-ai-infrastructure-china-arms-race-2026/",
+  "/blog/chinese-ai-landscape/",
+  "/blog/china-ai-creator-economy-digital-humans-2026/"
+]
 ---
+
+
 
 # The Chinese AI Index 2026: Mapping 103 Companies That Are Reshaping Global Technology
 

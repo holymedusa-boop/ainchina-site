@@ -8,7 +8,16 @@ category: "AI"
 readTime: "16 min read"
 featured: true
 heroImage: "https://images.unsplash.com/photo-1639322537228-f710d846310a?w=1200&h=600&fit=crop"
+excerpt: "China Just Unplugged 345 Million Virtual Lovers: Inside the World's First AI Companion Ban On July 15, 2026, Beijing flipped a switch and millions of..."
+related: [
+  "/blog/china-ai-companion-ban-doubao-qwen-digital-friends-lost-2026/",
+  "/blog/china-ai-companion-ban-virtual-lovers-regulation-2026/",
+  "/blog/china-ai-companion-law-countdown-doubao-qwen-shutdown-2026/",
+  "/blog/minimax-talkie/"
+]
 ---
+
+
 
 # China Just Unplugged 345 Million Virtual Lovers: Inside the World's First AI Companion Ban
 

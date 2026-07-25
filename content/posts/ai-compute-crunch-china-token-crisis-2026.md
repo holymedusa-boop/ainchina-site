@@ -4,7 +4,18 @@ slug: "ai-compute-crunch-china-token-crisis-2026"
 date: "2026-04-29"
 category: "AI Infrastructure"
 readTime: "17 min read"
+excerpt: "China's AI revolution is facing an unexpected bottleneck. In April 2026, as DeepSeek launched its highly anticipated V4 model and Kimi pushed out K2.6,..."
+keywords: ["AI agent", "Beijing", "Alibaba", "Baidu", "Tencent", "Hunyuan", "Moonshot AI", "Kimi", "DeepSeek", "MiniMax"]
+related: [
+  "/blog/china-ai-chip-war-2026-us-sanctions/",
+  "/blog/deepseek-v4-million-token-china-ai-sovereignty/",
+  "/blog/china-ai-model-war-april-2026-week-changed-everything/",
+  "/blog/china-ai-olympus-65-billion-war-future-intelligence-2026/"
+]
 ---
+
+
+
 ![AI Data Center](https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?w=800&h=400&fit=crop)
 
 

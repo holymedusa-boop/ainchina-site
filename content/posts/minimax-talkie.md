@@ -4,7 +4,18 @@ slug: "minimax-talkie"
 date: "2026-03-31"
 category: "AI Chatbots"
 readTime: "16 min read"
+excerpt: "While ByteDance's Doubao dominates content creation and DeepSeek captures the technical elite, MiniMax has built something arguably more intimate: 212..."
+keywords: ["Chinese AI", "ByteDance", "Doubao", "Alibaba", "Baidu", "DeepSeek", "MiniMax", "GPT", "IPO", "API"]
+related: [
+  "/blog/minimax-ipo-212-million-users-ai-companion-empire/",
+  "/blog/doubao-bytedance/",
+  "/blog/china-ai-global-expansion-minimax-2-billion-users-2026/",
+  "/blog/wenxin-yiyan-baidu/"
+]
 ---
+
+
+
 
 While ByteDance's Doubao dominates content creation and DeepSeek captures the technical elite, **MiniMax** has built something arguably more intimate: **212 million users** who have formed emotional bonds with AI companions across 200 countries. This isn't just a chatbot company—it's the world's largest provider of artificial relationships.
 

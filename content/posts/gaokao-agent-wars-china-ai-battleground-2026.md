@@ -3,7 +3,18 @@ title: "The Gaokao Agent Wars: How China's 12.9 Million Student Exam Became Tech
 description: "Alibaba, Tencent, Baidu, and ByteDance have turned China's college entrance exam into a proxy war for AI agent supremacy. With 12.9 million students, an ¥11.6 billion market, and 80 billion yuan in cumulative app subsidies, the Gaokao is no longer just an exam. It's the stress test for China's AI consumer future."
 image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200"
 date: "2026-06-12"
+excerpt: "The Gaokao Agent Wars: How China's 12.9 Million Student Exam Became Tech's Biggest AI Battleground It was 11:47 PM on June 10, 2026, and 17-year-old Liu..."
+keywords: ["AI agent", "Beijing", "ByteDance", "Doubao", "Alibaba", "Tencent", "DeepSeek", "funding", "API", "CES"]
+related: [
+  "/blog/china-ai-agent-wars-tencent-alibaba-bytedance-2026/",
+  "/blog/tencent-wechat-ai-agent-billion-users-china-2026/",
+  "/blog/china-ai-companion-ban-doubao-qwen-yuanbao-july-2026/",
+  "/blog/china-ai-model-wars-april-2026/"
+]
 ---
+
+
+
 
 # The Gaokao Agent Wars: How China's 12.9 Million Student Exam Became Tech's Biggest AI Battleground
 

@@ -8,7 +8,14 @@ readTime: "16 min"
 tags: ["Apple Intelligence", "Alibaba", "Qwen", "Baidu", "China AI Regulation", "Smartphone AI", "CAC", "iPhone China"]
 keywords: "Apple Intelligence China, Alibaba Qwen Apple, Baidu Apple partnership, China AI regulation, CAC approval Apple AI, iPhone AI China, smartphone AI market"
 heroImage: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1200&h=600&fit=crop"
+related: [
+  "/blog/apple-intelligence-qwen-china-regulatory-approval-2026/",
+  "/blog/tars-embodied-intelligence-455-million-brain-club/",
+  "/blog/china-physical-ai-awakening-world-models-robot-ipos-295b-bet-2026/",
+  "/blog/china-ai-agent-wars-tencent-alibaba-bytedance-2026/"
+]
 ---
+
 
 ![Apple Intelligence China Approval](https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1200&h=600&fit=crop)
 *The intersection of Western technology and Chinese AI regulation represents one of the most consequential corporate negotiations of the decade. Image: Unsplash*

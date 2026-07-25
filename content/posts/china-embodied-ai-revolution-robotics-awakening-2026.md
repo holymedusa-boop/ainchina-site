@@ -8,7 +8,14 @@ excerpt: "In 2025, embodied AI barely existed in China's government vocabulary. 
 keywords: ["embodied AI China", "humanoid robots China", "Unitree Robotics", "AgiBot", "China AI robotics 2026", "embodied intelligence market", "physical AI China", "robotics IPO China", "World Intelligence Expo 2026", "China AI standards", "smart manufacturing robots", "China robotics export"]
 readTime: "16 min read"
 category: "AI Hardware"
+related: [
+  "/blog/china-embodied-intelligence-revolution-2026/",
+  "/blog/china-embodied-ai-13-billion-funding-boom-2026/",
+  "/blog/china-embodied-ai-revolution-funding-world-models-2026/",
+  "/blog/china-humanoid-robot-100000-units-production-milestone-2026/"
+]
 ---
+
 
 ![A humanoid robot arm assembling precision components in a modern Chinese factory, symbolizing the fusion of AI and physical manufacturing](https://images.unsplash.com/photo-1551434678-e076c223a692?w=800&q=80)
 *China's embodied AI industry has evolved from laboratory prototypes to factory-floor deployment in under two years. Photo: Unsplash*

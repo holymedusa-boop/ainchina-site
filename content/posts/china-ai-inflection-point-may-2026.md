@@ -7,7 +7,14 @@ date: "2026-05-29"
 excerpt: "May 2026 delivered the clearest signal yet that China's AI industry has shifted from a cash-burning sprint to a revenue-generating marathon. DeepSeek accepted its first external funding, Alibaba reported AI revenue exceeding 50% of total cloud income, and ByteDance committed $23 billion to infrastructure. Here's the full breakdown."
 image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&q=80"
 slug: "china-ai-inflection-point-may-2026"
+related: [
+  "/blog/china-ai-july-tipping-point-chips-models-capital-2026/",
+  "/blog/deepseek-7-4-billion-funding-deal-china-ai-map-2026/",
+  "/blog/china-ai-creator-economy-digital-humans-2026/",
+  "/blog/china-embodied-ai-revolution-funding-world-models-2026/"
+]
 ---
+
 
 
 *Photo: Team collaboration — the defining image of China's AI industry in 2026. Image: Unsplash*

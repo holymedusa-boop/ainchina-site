@@ -4,7 +4,18 @@ slug: "deepseek-v4-promo-ending-analysis"
 date: "2026-05-05"
 category: "AI Infrastructure"
 readTime: "16 min read"
+excerpt: "DeepSeek V4 launched on April 24, 2026, with a 75% promotional discount on its flagship Pro model. Originally set to expire on May 5, the offer has been..."
+keywords: ["DeepSeek", "GPT", "Claude", "Gemini", "API", "CES"]
+related: [
+  "/blog/deepseek-permanent-75-percent-api-price-cut-ai-war-2026/",
+  "/blog/deepseek-v4-million-token-china-ai-sovereignty/",
+  "/blog/kimi-k3-moonshot-2-5-trillion-open-source-ai-2026/",
+  "/blog/deepseek-v3-deep-dive/"
+]
 ---
+
+
+
 
 DeepSeek V4 launched on April 24, 2026, with a 75% promotional discount on its flagship Pro model. Originally set to expire on May 5, the offer has been extended to May 31 — but the clock is ticking. Here's what developers and enterprises need to know before standard pricing kicks in.
 

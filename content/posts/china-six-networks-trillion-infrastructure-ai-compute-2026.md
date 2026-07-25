@@ -4,7 +4,18 @@ slug: "china-six-networks-trillion-infrastructure-ai-compute-2026"
 date: "2026-05-13"
 category: "AI Policy"
 readTime: "17 min read"
+excerpt: "On April 28, 2026, China's Politburo did something unprecedented: it elevated compute networks (算力网) to the same strategic tier as water networks, power..."
+keywords: ["investment", "API", "compute", "data center", "CES"]
+related: [
+  "/blog/china-agent-era-national-policy-ai-terminal-standards-anthropic-trillion-2026/",
+  "/blog/china-ai-companion-ban-doubao-qwen-digital-friends-lost-2026/",
+  "/blog/china-embodied-ai-revolution-robotics-awakening-2026/",
+  "/blog/ai-compute-crunch-china-token-crisis-2026/"
+]
 ---
+
+
+
 
 ![China's six-network infrastructure vision — credit: Unsplash](https://images.unsplash.com/photo-1594915440248-1e419eba6611?w=1200)
 

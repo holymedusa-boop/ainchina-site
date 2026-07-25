@@ -5,7 +5,16 @@ heroImage: "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=1200&
 image: "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=800&q=80"
 date: "2026-06-18"
 excerpt: "While Western policymakers debate AI safety frameworks, China has already erected a three-pillar regulatory architecture that mandates registration for every algorithm, labels every AI-generated pixel, and can fine companies up to ¥5 million—or imprison executives for seven years. This is not a draft proposal. It is live law, enforced daily."
+keywords: ["large language model", "LLM", "generative AI", "Beijing", "venture capital", "startup", "API", "training", "CES"]
+related: [
+  "/blog/minimax-300m-users-arr-doubles-a-share-ipo-china-ai-export-2026/",
+  "/blog/apple-intelligence-qwen-china-regulatory-approval-2026/",
+  "/blog/china-ai-drama-revolution-bytedance-650m-empire-2026/",
+  "/blog/china-ai-invisible-empire-consumer-apps-2026/"
+]
 ---
+
+
 
 # China's AI Iron Cage: How Beijing Built the World's Most Prescriptive Algorithmic Regulatory Regime in 1,826 Days
 

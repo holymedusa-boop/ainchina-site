@@ -4,7 +4,18 @@ slug: "china-humanoid-robot-tsunami-2026-50k-units-global-dominance"
 date: "2026-05-31"
 category: "Embodied AI"
 readTime: "16 min read"
+excerpt: "China's humanoid robot industry is scaling from thousands to tens of thousands of units in a single year—a shift that is redefining global robotics..."
+keywords: ["Shanghai", "Huawei", "venture capital", "IPO", "startup", "API", "robotics", "humanoid robot", "embodied AI"]
+related: [
+  "/blog/china-humanoid-robot-100000-units-production-milestone-2026/",
+  "/blog/china-ai-model-war-april-2026-week-changed-everything/",
+  "/blog/china-ai-chip-renaissance-q1-2026/",
+  "/blog/tars-embodied-intelligence-455-million-brain-club/"
+]
 ---
+
+
+
 
 ![Humanoid Robot Production Line](https://images.unsplash.com/photo-1676299081847-824916de030a?w=1200&h=600&fit=crop)
 *China's humanoid robot industry is scaling from thousands to tens of thousands of units in a single year—a shift that is redefining global robotics economics*

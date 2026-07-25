@@ -4,7 +4,18 @@ slug: "ai-digital-humans-china-billion-dollar-livestream-revolution"
 date: "2026-05-26"
 category: "AI Video"
 readTime: "16 min read"
+excerpt: "In February 2026, Chinese regulators drew a hard line: every AI-generated face in a livestream must be labeled. Two months later, that rule hasn't slowed..."
+keywords: ["ByteDance", "SaaS", "API", "digital human", "CES"]
+related: [
+  "/blog/china-ai-digital-human-revolution/",
+  "/blog/china-ai-creator-economy-digital-humans-2026/",
+  "/blog/china-ai-deepfake-fraud-crisis-2026/",
+  "/blog/china-ai-fraud-epidemic-deepfake-panic-2026/"
+]
 ---
+
+
+
 
 In February 2026, Chinese regulators drew a hard line: **every AI-generated face in a livestream must be labeled**. Two months later, that rule hasn't slowed the industry down—it's accelerated it. With **410 million views** on Xiaohongshu and **200% week-over-week growth**, AI digital humans have become China's most explosive AI trend of 2026.
 

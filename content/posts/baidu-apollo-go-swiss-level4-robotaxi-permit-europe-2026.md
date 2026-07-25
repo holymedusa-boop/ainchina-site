@@ -7,7 +7,14 @@ date: "2026-06-20"
 excerpt: "On June 16, 2026, Baidu's Apollo Go received a Level 4 autonomous driving permit in Switzerland — the first on European soil. With 22 million cumulative rides, 330 million kilometers logged, and a partnership with Swiss Post's PostBus, Baidu just leaped ahead of Waymo and Tesla in the global robotaxi race."
 keywords: ["Baidu Apollo Go", "AmiGo Switzerland", "Level 4 autonomous driving", "robotaxi Europe", "Waymo vs Baidu", "Tesla FSD", "PostBus", "FEDRO permit", "RT6 robotaxi", "China autonomous driving"]
 readTime: "14 min read"
+related: [
+  "/blog/pentagon-blacklist-alibaba-baidu-byd-china-tech-decoupling-2026/",
+  "/blog/apple-intelligence-china-qwen-baidu-ai-approval-2026/",
+  "/blog/minimax-ipo-212-million-users-ai-companion-empire/",
+  "/blog/china-ai-export-revolution-global-intelligence-2026/"
+]
 ---
+
 
 ![Baidu's RT6 autonomous vehicle undergoing testing in Switzerland, where it became the first Level 4 robotaxi to receive a European operating permit](https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80)
 *Baidu's RT6 autonomous vehicle, the purpose-built robotaxi behind the AmiGo service, undergoing testing in Switzerland. The June 2026 FEDRO permit marked the first Level 4 robotaxi authorization on European soil. Photo: Baidu/Apollo Go*

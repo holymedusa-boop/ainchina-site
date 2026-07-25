@@ -8,7 +8,14 @@ excerpt: "While Western tech media obsesses over GPT-5 benchmarks, China's tech 
 keywords: ["China AI agents", "AI agent economy", "Tencent ClawBot", "Alibaba Wukong", "ByteDance Doubao", "Baidu OpenClaw", "AI agent platform war", "China enterprise AI adoption", "AI inference cost", "AI agent monetization", "Huawei Ascend AI chips", "China AI infrastructure"]
 readTime: "14 min read"
 category: "AI Industry"
+related: [
+  "/blog/china-ai-agent-wars-tencent-alibaba-bytedance-2026/",
+  "/blog/china-ai-agent-army-126-platforms-67-enterprise-adoption-2026/",
+  "/blog/china-ai-price-revolution-silicon-valley-waic-2026/",
+  "/blog/china-ai-avatar-revolution-2026/"
+]
 ---
+
 
 ![Developer workstation with multiple screens showing AI agent interfaces and automation workflows, representing the new era of AI-powered productivity](https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=800&q=80)
 *China's AI agent revolution is happening in the apps people already use — not in new platforms they'd need to learn. Photo: Unsplash*

@@ -8,7 +8,16 @@ readTime: "16 min read"
 image: "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?w=1200"
 metaTitle: "China's AI Agent Army: 126 Platforms, 67% Enterprise Adoption"
 metaDescription: "China has built 126 AI Agent platforms with 67% enterprise adoption. The strategy, scale, and enterprise-first approach look nothing like America's—and that's why it's working."
+excerpt: "Image: The abstract architecture of AI Agent networks — Photo by Unsplash The Western narrative about China's AI Agent ecosystem is almost comically wrong."
+related: [
+  "/blog/china-ai-agent-explosion-2025-enterprise-deployment/",
+  "/blog/forbes-china-ai-top-50-six-decoupling-signals-2026/",
+  "/blog/china-ai-agent-revolution-2026/",
+  "/blog/china-ai-agent-wars-tencent-alibaba-bytedance-2026/"
+]
 ---
+
+
 
 ![AI Agent ecosystem visualization - abstract neural network connections](https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?w=800)
 *Image: The abstract architecture of AI Agent networks — Photo by Unsplash*

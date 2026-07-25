@@ -8,7 +8,14 @@ readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1200&q=80"
 author: "AI in China Research Desk"
 keywords: ["China AI", "multimodal AI", "large multimodal models", "DeepSeek-VL2", "Qwen3 vision", "GLM-5.1", "AI vision", "text-only AI obsolete", "Chinese AI 2026"]
+related: [
+  "/blog/china-ai-price-revolution-silicon-valley-waic-2026/",
+  "/blog/china-ai-terminals-overtake-humanoid-robot-factory-2026/",
+  "/blog/china-embodied-ai-revolution-robotics-awakening-2026/",
+  "/blog/china-ai-agent-revolution-2026/"
+]
 ---
+
 
 # The End of Text-Only AI: How China's Multimodal Revolution Is Redefining What Machines Can See
 

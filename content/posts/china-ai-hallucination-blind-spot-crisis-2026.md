@@ -4,7 +4,18 @@ slug: "china-ai-hallucination-blind-spot-crisis-2026"
 date: "2026-05-17"
 category: "AI Safety"
 readTime: "16 min read"
+excerpt: "The Hallucination Blind Spot: How China's 249M AI Users Became Perfect Prey for a Deception Epidemic On May 17, 2025, two reports dropped within hours of..."
+keywords: ["neural network", "large language model", "generative AI", "Chinese AI", "Shanghai", "DeepSeek", "CES"]
+related: [
+  "/blog/china-ai-deepfake-fraud-crisis-2026/",
+  "/blog/china-ai-fraud-epidemic-deepfake-panic-2026/",
+  "/blog/doubao-charging-ai-free-era-ends-china-2026/",
+  "/blog/china-ai-invisible-empire-consumer-apps-2026/"
+]
 ---
+
+
+
 
 # The Hallucination Blind Spot: How China's 249M AI Users Became Perfect Prey for a Deception Epidemic
 

@@ -3,7 +3,18 @@ title: "The Triple Silicon Gambit: How China's AI Chip Surge Is Forging an Indep
 description: "China is tripling AI chip production to 75 million units in 2026 while racing to build world models and embodied intelligence. The convergence of domestic silicon, open-source software, and industrial deployment may be creating a more resilient AI ecosystem than anyone expected."
 image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200"
 date: "2026-06-11"
+excerpt: "The Triple Silicon Gambit: How China's AI Chip Surge Is Forging an Independent Path to AGI The conventional wisdom says US semiconductor export controls..."
+keywords: ["artificial intelligence", "Chinese AI", "Beijing", "ByteDance", "DeepSeek", "Huawei", "Ascend", "NVIDIA", "GPU", "AI chip"]
+related: [
+  "/blog/china-ai-chip-war-2026-us-sanctions/",
+  "/blog/forbes-china-ai-top-50-six-decoupling-signals-2026/",
+  "/blog/huawei-ascend-12-billion-ai-chip-surge-global-bifurcation-2026/",
+  "/blog/alibaba-zhenwu-m890-ai-chip-china-silicon-sovereignty/"
+]
 ---
+
+
+
 
 # The Triple Silicon Gambit: How China's AI Chip Surge Is Forging an Independent Path to AGI
 

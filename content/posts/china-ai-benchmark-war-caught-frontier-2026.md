@@ -7,7 +7,18 @@ readTime: "16 min read"
 author: "AI in China"
 image: https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200
 imageAlt: "Abstract data visualization and neural network patterns"
+excerpt: "The Myth That Won't Die At dinner tables in San Francisco, investment briefings in London, and tech podcasts streamed from New York, one assumption..."
+keywords: ["neural network", "ByteDance", "Doubao", "Alibaba", "Baidu", "Kimi", "DeepSeek", "MiniMax", "Zhipu AI", "Huawei"]
+related: [
+  "/blog/kimi-k2-6-open-source-coding-revolution/",
+  "/blog/chinese-ai-models-46-percent-us-enterprise-invasion-2026/",
+  "/blog/china-ai-video-captured-global-creative-frontier-2026/",
+  "/blog/china-ai-model-war-april-2026-week-changed-everything/"
+]
 ---
+
+
+
 
 ![Abstract data visualization and neural network patterns](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200)
 

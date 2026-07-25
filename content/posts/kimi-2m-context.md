@@ -4,7 +4,18 @@ slug: "kimi-2m-context"
 date: "2026-03-30"
 category: "AI Chatbots"
 readTime: "16 min read"
+excerpt: "When Cursor announced that Composer 2.0 was built on Kimi K2.5 rather than GPT-4 or Claude, the message was clear: Chinese foundation models had reached..."
+keywords: ["neural network", "large language model", "Moonshot AI", "Kimi", "DeepSeek", "GPU", "GPT", "Claude", "inference", "training"]
+related: [
+  "/blog/kimi-k3-moonshot-28-trillion-open-ai-2026/",
+  "/blog/kimi-k3-moonshot-2-5-trillion-open-source-ai-2026/",
+  "/blog/deepseek-v3-deep-dive/",
+  "/blog/meituan-longcat-2-trillion-domestic-chips-china-ai-independence-2026/"
+]
 ---
+
+
+
 
 When Cursor announced that Composer 2.0 was built on Kimi K2.5 rather than GPT-4 or Claude, the message was clear: Chinese foundation models had reached parity with Western alternatives. But Kimi isn't just matching competitors—it's pioneering capabilities like Agent Swarm orchestration and trillion-parameter efficiency that redefine what's possible with large language models.
 

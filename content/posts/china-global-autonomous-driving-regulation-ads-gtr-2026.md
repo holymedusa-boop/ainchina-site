@@ -11,7 +11,18 @@ category: "AI"
 tags: ["autonomous driving", "robotaxi", "regulation", "WP.29", "Baidu", "Momenta", "WeRide", "Pony.ai", "China tech"]
 featured: true
 displayCategory: "AI"
+excerpt: "China Writes the Rules for Global Autonomous Driving: How the ADS GTR Signals a New Era of Technical Leadership On a Tuesday afternoon in late June,..."
+keywords: ["Beijing", "Shanghai", "Shenzhen", "Baidu", "Huawei", "venture capital", "API", "autonomous driving", "CES"]
+related: [
+  "/blog/china-agent-era-national-policy-ai-terminal-standards-anthropic-trillion-2026/",
+  "/blog/china-ai-token-surge-gen-z/",
+  "/blog/ai-on-era-mwc-shanghai-2026-china-networks-intelligent/",
+  "/blog/lingsheng-supercomputer-china-cpu-ai-paradigm-2026/"
+]
 ---
+
+
+
 
 # China Writes the Rules for Global Autonomous Driving: How the ADS GTR Signals a New Era of Technical Leadership
 

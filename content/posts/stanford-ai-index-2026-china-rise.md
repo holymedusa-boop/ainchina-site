@@ -4,7 +4,19 @@ slug: "stanford-ai-index-2026-china-rise"
 date: "2026-04-17"
 category: "AI Trends"
 readTime: "16 min read"
+excerpt: "The Stanford campus at dusk, where the world's most authoritative AI report originates
+keywords: ["artificial intelligence", "Chinese AI", "Beijing", "Alibaba", "DeepSeek", "MiniMax", "OpenAI", "GPT", "Claude", "CES"]
+related: [
+  "/blog/china-ai-model-war-april-2026-week-changed-everything/",
+  "/blog/china-ai-model-wars-april-2026/",
+  "/blog/china-ai-token-surge-gen-z/",
+  "/blog/china-embodied-intelligence-robot-marathon-2026/"
+]
 ---
+
+ April 17, 2026, Beijing — The Stanford Institute for..."
+---
+
 
 ![Hero Image](https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=1200&h=600&fit=crop)
 *The Stanford campus at dusk, where the world's most authoritative AI report originates*

@@ -6,7 +6,14 @@ excerpt: "Forbes China's 2026 AI TOP 50 rankings reveal six decoupling signals a
 category: "AI"
 keywords: ["Forbes China AI TOP 50", "China AI ecosystem", "AI decoupling", "DeepSeek", "Cambricon", "UBTECH", "ADASPACE", "embodied intelligence", "Chinese AI companies", "AI stack independence"]
 heroImage: "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?w=1200"
+related: [
+  "/blog/china-ai-agent-army-126-platforms-67-enterprise-adoption-2026/",
+  "/blog/alibaba-zhenwu-m890-ai-chip-china-silicon-sovereignty/",
+  "/blog/triple-silicon-china-ai-chip-independence-2026/",
+  "/blog/deepseek-v4-million-token-china-ai-sovereignty/"
+]
 ---
+
 
 ![China AI Technology](https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?w=800&q=80)
 *China's AI ecosystem is building a full-stack independent infrastructure, from foundation models to humanoid robots and space computing. Photo: Unsplash*

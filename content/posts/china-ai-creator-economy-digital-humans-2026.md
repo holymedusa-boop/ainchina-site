@@ -4,7 +4,18 @@ slug: "china-ai-creator-economy-digital-humans-2026"
 date: "2026-05-16"
 category: "AI Applications"
 readTime: "16 min read"
+excerpt: "China's AI Creator Economy: How Digital Humans and $45B Valuations Are Reshaping Global Content On May 6, 2026, while Western markets were digesting..."
+keywords: ["Chinese AI", "Shanghai", "Moonshot AI", "Kimi", "DeepSeek", "MiniMax", "funding", "venture capital", "investment", "API"]
+related: [
+  "/blog/china-ai-digital-human-revolution/",
+  "/blog/china-ai-deepfake-fraud-crisis-2026/",
+  "/blog/china-ai-avatar-revolution-2026/",
+  "/blog/china-ai-model-wars-april-2026/"
+]
 ---
+
+
+
 ![AI Data Center](https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?w=800&h=400&fit=crop)
 
 

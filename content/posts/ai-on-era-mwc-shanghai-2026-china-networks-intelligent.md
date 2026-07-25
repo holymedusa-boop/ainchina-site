@@ -7,7 +7,18 @@ readTime: "16 min read"
 author: "AI in China"
 image: https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&q=80
 imageAlt: "Fiber optic network cables with glowing data streams"
+excerpt: "The Summit That Changed Everything On the afternoon of June 24, 2026, in the Kerry Hotel Pudong, a few hundred telecom executives, government officials,..."
+keywords: ["artificial intelligence", "large language model", "AI agent", "Shanghai", "Huawei", "CES", "MWC"]
+related: [
+  "/blog/china-ai-network-doctrine-miit-three-year-plan-2026/",
+  "/blog/apple-intelligence-china-qwen-baidu-ai-approval-2026/",
+  "/blog/china-physical-ai-awakening-world-models-robot-ipos-295b-bet-2026/",
+  "/blog/china-ai-agent-wars-tencent-alibaba-bytedance-2026/"
+]
 ---
+
+
+
 
 ![Fiber optic network cables with glowing data streams](https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&q=80)
 

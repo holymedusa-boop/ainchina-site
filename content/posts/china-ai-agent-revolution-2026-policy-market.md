@@ -4,7 +4,18 @@ slug: "china-ai-agent-revolution-2026-policy-market"
 date: "2026-04-30"
 category: "AI Policy"
 readTime: "17 min read"
+excerpt: ""The question isn't whether AI agents will replace human workers. The question is whether companies that don't deploy agents will be replaced by companies..."
+keywords: ["artificial intelligence", "AI agent", "funding", "training", "compute", "CES"]
+related: [
+  "/blog/china-embodied-ai-revolution-robotics-awakening-2026/",
+  "/blog/china-ai-consumption-gambit-17-point-plan-2026/",
+  "/blog/china-ai-agent-explosion-2025-enterprise-deployment/",
+  "/blog/china-ai-network-doctrine-miit-three-year-plan-2026/"
+]
 ---
+
+
+
 
 > "The question isn't whether AI agents will replace human workers. The question is whether companies that don't deploy agents will be replaced by companies that do." — Industry analyst, 36Kr Summit, April 2026
 

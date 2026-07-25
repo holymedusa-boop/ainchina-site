@@ -4,7 +4,18 @@ slug: "china-embodied-intelligence-robot-marathon-2026"
 date: "2026-04-21"
 category: "AI Trends"
 readTime: "18 min read"
+excerpt: "China's Embodied Intelligence Revolution: When Robots Outrun Humans Meta Title: China's Embodied Intelligence Revolution: When Robots Outrun Humans —..."
+keywords: ["artificial intelligence", "Beijing", "funding", "investment", "API", "robotics", "humanoid robot", "training", "data center"]
+related: [
+  "/blog/china-embodied-intelligence-revolution-2026/",
+  "/blog/tars-embodied-intelligence-455-million-brain-club/",
+  "/blog/china-embodied-intelligence-infrastructure-ndrc-robots-factories-malls-homes/",
+  "/blog/china-ai-april-infrastructure-2026/"
+]
 ---
+
+
+
 ![AI Data Center](https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&h=400&fit=crop)
 
 

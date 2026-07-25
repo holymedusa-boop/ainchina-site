@@ -5,7 +5,16 @@ heroImage: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=8
 image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80"
 date: "2026-06-19"
 excerpt: "ByteDance profits collapsed 70%. Alibaba committed ¥3.8 trillion. Tencent's capex surged 91%. Yet valuations soared, investors cheered, and employees got richer. Welcome to China's 'profit-for-future' AI economy — where losing money is the new winning strategy."
+keywords: ["artificial intelligence", "AI agent", "ByteDance", "Doubao", "Alibaba", "Baidu", "Tencent", "Hunyuan", "NVIDIA", "GPU"]
+related: [
+  "/blog/china-ai-olympus-65-billion-war-future-intelligence-2026/",
+  "/blog/china-embodied-ai-13-billion-funding-boom-2026/",
+  "/blog/bytedance-ai-gamble-gpu-kingpin-profit-drop/",
+  "/blog/china-embodied-ai-revolution-funding-world-models-2026/"
+]
 ---
+
+
 
 ## The Moment the Rules Changed
 

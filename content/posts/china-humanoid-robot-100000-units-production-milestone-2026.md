@@ -9,7 +9,14 @@ keywords: ["China humanoid robot", "humanoid robot production", "AgiBot", "Unitr
 image: "https://images.unsplash.com/photo-1676299081847-824916de030a?w=1200&q=80"
 author: "AI in China Editorial"
 excerpt: "China's humanoid robot production is set to exceed 100,000 units in 2026 — a staggering leap from 1,800 the year before. From factory floors in Shanghai to supply chains in Shenzhen, the world's largest robot manufacturing ecosystem is hitting its stride."
+related: [
+  "/blog/china-humanoid-robot-tsunami-2026-50k-units-global-dominance/",
+  "/blog/china-embodied-ai-revolution-robotics-awakening-2026/",
+  "/blog/china-ai-terminals-overtake-humanoid-robot-factory-2026/",
+  "/blog/china-ai-july-tipping-point-chips-models-capital-2026/"
+]
 ---
+
 
 ![A humanoid robot arm reaching toward a holographic interface — the physical form of China's AI ambition taking shape on factory floors across the Yangtze River Delta](https://images.unsplash.com/photo-1676299081847-824916de030a?w=1200&q=80)
 *The physical form of China's AI ambition — humanoid robots are rolling off production lines at a pace that would have seemed impossible eighteen months ago*

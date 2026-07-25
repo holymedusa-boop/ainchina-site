@@ -4,7 +4,18 @@ slug: "china-ai-agent-explosion-2025-enterprise-deployment"
 date: "2026-04-15"
 category: "AI Trends"
 readTime: "16 min read"
+excerpt: "China's AI Agent ecosystem spans 126 development platforms and serves millions of enterprise users across manufacturing, e-commerce, and financial..."
+keywords: ["AI agent", "Chinese AI", "Beijing", "ByteDance", "Alibaba", "Baidu", "Tencent", "Kimi", "Zhipu AI", "GPT"]
+related: [
+  "/blog/china-ai-agent-army-126-platforms-67-enterprise-adoption-2026/",
+  "/blog/china-ai-agent-era-140-trillion-tokens-2026/",
+  "/blog/china-ai-model-wars-april-2026/",
+  "/blog/china-ai-global-expansion-minimax-2-billion-users-2026/"
+]
 ---
+
+
+
 
 ![AI Agent Network Visualization](https://images.unsplash.com/photo-1526379095098-d400fd0bf935?w=1200&h=600&fit=crop)
 

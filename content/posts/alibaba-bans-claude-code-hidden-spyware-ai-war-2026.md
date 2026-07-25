@@ -8,7 +8,14 @@ readTime: "18 min read"
 heroImage: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80"
 author: "AI in China Research Desk"
 keywords: ["Claude Code spyware", "Anthropic Alibaba", "China AI distillation", "Pentagon 1260H blacklist", "Alibaba Qoder", "AI espionage", "US China AI war", "Claude Code hidden code", "Anthropic tracking", "AI decoupling 2026"]
+related: [
+  "/blog/alibaba-zhenwu-m890-ai-chip-china-silicon-sovereignty/",
+  "/blog/china-ai-agent-wars-tencent-alibaba-bytedance-2026/",
+  "/blog/china-ai-model-wars-april-2026/",
+  "/blog/china-ai-price-revolution-silicon-valley-waic-2026/"
+]
 ---
+
 
 # The Code That Wasn't Supposed to Be Found: How Anthropic's Hidden Spyware Turned Alibaba Against Claude Code
 

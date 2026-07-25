@@ -10,7 +10,14 @@ keywords: "Alibaba Zhenwu M890, T-Head AI chip, China AI chip, NVIDIA alternativ
 author: "AIN China"
 readTime: "17 min read"
 heroImage: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200"
+related: [
+  "/blog/china-ai-chip-war-2026-us-sanctions/",
+  "/blog/forbes-china-ai-top-50-six-decoupling-signals-2026/",
+  "/blog/triple-silicon-china-ai-chip-independence-2026/",
+  "/blog/china-ai-chip-renaissance-q1-2026/"
+]
 ---
+
 
 # Alibaba's Zhenwu M890: The 3x AI Chip That Just Shipped 560,000 Units and Rewrote China's Silicon Playbook
 

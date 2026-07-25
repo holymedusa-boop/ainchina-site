@@ -21,7 +21,16 @@ related:
   - /blog/lingsheng-supercomputer-china-cpu-ai-paradigm-2026/
   - /blog/deepseek-73b-megaround-china-ai-funding-frenzy/
   - /blog/waic-2026-global-ai-diplomacy-shanghai/
+keywords: ["Chinese AI", "Beijing", "DeepSeek", "Huawei", "Ascend", "NVIDIA", "GPU", "AI chip", "OpenAI", "GPT"]
+related: [
+  "/blog/huawei-pangu-ultra-moe-718b-chinese-silicon/",
+  "/blog/kimi-k3-moonshot-28-trillion-open-ai-2026/",
+  "/blog/glm-5-1-open-source-crown-beijing-2026/",
+  "/blog/kimi-k3-moonshot-2-5-trillion-open-source-ai-2026/"
+]
 ---
+
+
 
 ![A close-up of a microprocessor circuit board illuminated by blue light, symbolizing the intricate architecture of AI chips](https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200)
 *The architecture of independence: China's domestic chip ecosystem reaches a new threshold. Photo: Unsplash*

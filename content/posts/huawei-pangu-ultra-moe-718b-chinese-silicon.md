@@ -10,7 +10,14 @@ keywords: "Huawei Pangu Ultra MoE, Ascend AI chip, China AI sovereignty, 718 bil
 author: "AIN China"
 readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200"
+related: [
+  "/blog/huawei-ascend-12-billion-ai-chip-surge-global-bifurcation-2026/",
+  "/blog/meituan-longcat-2-trillion-domestic-chips-china-ai-independence-2026/",
+  "/blog/chinese-ai-landscape/",
+  "/blog/ai-builds-ai-forgetrain-modelbest-china-2026/"
+]
 ---
+
 
 # Huawei Pangu Ultra MoE: The 718-Billion-Parameter Model Built Entirely on Chinese Silicon
 

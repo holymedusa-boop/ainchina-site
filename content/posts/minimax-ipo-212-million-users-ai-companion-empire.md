@@ -4,7 +4,18 @@ slug: "minimax-ipo-212-million-users-ai-companion-empire"
 date: "2026-04-01"
 category: "AI Robotics"
 readTime: "16 min read"
+excerpt: "MiniMax Files for IPO: How China's AI Companion Empire Built 212 Million Users and Challenged the Global Social Landscape MiniMax's Talkie and 星野 apps..."
+keywords: ["artificial intelligence", "Chinese AI", "ByteDance", "DeepSeek", "MiniMax", "venture capital", "IPO", "investment", "startup", "SaaS"]
+related: [
+  "/blog/china-ai-global-expansion-minimax-2-billion-users-2026/",
+  "/blog/minimax-talkie/",
+  "/blog/china-ai-companion-ban-doubao-qwen-digital-friends-lost-2026/",
+  "/blog/china-ai-avatar-revolution-2026/"
+]
 ---
+
+
+
 
 MiniMax Files for IPO: How China's AI Companion Empire Built 212 Million Users and Challenged the Global Social Landscape
 

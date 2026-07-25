@@ -4,7 +4,18 @@ slug: "ai-video-tools-china"
 date: "2026-03-31"
 category: "AI Video"
 readTime: "15 min read"
+excerpt: "While OpenAI's Sora captured global attention with its demonstration videos, Chinese companies have been quietly building video generation tools that are..."
+keywords: ["Chinese AI", "MiniMax", "OpenAI", "API", "AI video", "training", "CES"]
+related: [
+  "/blog/china-ai-video-captured-global-creative-frontier-2026/",
+  "/blog/chinese-ai-landscape/",
+  "/blog/china-ai-global-surge-api-traffic-empire-2026/",
+  "/blog/china-ai-video-revolution-seedance-sora-2026/"
+]
 ---
+
+
+
 
 While OpenAI's Sora captured global attention with its demonstration videos, Chinese companies have been quietly building video generation tools that are already in production use. Kling, Vidu, and Hailuo AI offer capabilities that rival or exceed Sora in specific domains—and they're available today.
 

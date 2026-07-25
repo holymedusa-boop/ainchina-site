@@ -3,7 +3,18 @@ title: "Unitree's IPO Sprint: How a Chinese Robot Maker Went From Zero to ¥17 B
 description: "Unitree Technology passed its STAR Market IPO review in just 73 days, becoming China's first publicly listed humanoid robot company. With ¥17 billion in 2025 revenue, 59% gross margins, and a global quadruped market share of 60-70%, this Hangzhou startup is rewriting the rules of robotics finance."
 image: "https://images.unsplash.com/photo-1676299081847-824916de030a?w=1200"
 date: "2026-06-13"
+excerpt: "Unitree's IPO Sprint: How a Chinese Robot Maker Went From Zero to ¥17 Billion in Eight Years On the morning of June 1, 2026, Wang Xingxing sat in a..."
+keywords: ["Shanghai", "IPO", "investment", "API", "robotics", "humanoid robot"]
+related: [
+  "/blog/china-embodied-ai-revolution-robotics-awakening-2026/",
+  "/blog/china-physical-ai-awakening-world-models-robot-ipos-295b-bet-2026/",
+  "/blog/china-embodied-intelligence-revolution-2026/",
+  "/blog/china-ai-july-tipping-point-chips-models-capital-2026/"
+]
 ---
+
+
+
 
 # Unitree's IPO Sprint: How a Chinese Robot Maker Went From Zero to ¥17 Billion in Eight Years
 

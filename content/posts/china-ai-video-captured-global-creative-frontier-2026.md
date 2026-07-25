@@ -43,7 +43,18 @@ citations:
     url: "https://lushbinary.com/blog/ai-video-generation-sora-veo-kling-seedance-comparison/"
     source: "Lush Binary"
     date: "2026-04-07"
+excerpt: "Beijing, July 1, 2026 — In the summer of 2024, a short-video company from Beijing released an AI video generator that most Western observers dismissed as..."
+keywords: ["Chinese AI", "Beijing", "ByteDance", "Doubao", "OpenAI", "investment", "API", "AI video", "training", "CES"]
+related: [
+  "/blog/china-ai-global-expansion-minimax-2-billion-users-2026/",
+  "/blog/qwen-billion-downloads-china-open-source-ai-dominance-2026/",
+  "/blog/china-ai-avatar-revolution-2026/",
+  "/blog/bytedance-200-billion-ai-infrastructure-china-arms-race-2026/"
+]
 ---
+
+
+
 
 *Beijing, July 1, 2026* — In the summer of 2024, a short-video company from Beijing released an AI video generator that most Western observers dismissed as a regional curiosity. Two years later, that same product — Kling AI — has become the fastest-commercializing standalone AI video platform in history, crossing $300 million in annualized revenue and powering 600 million video generations for 60 million creators worldwide. Its rival, ByteDance's Seedance, announced its 2.5 iteration on June 23, 2026, with native 30-second generation and 50 multimodal reference inputs, while its enterprise platform already commands a $2 billion annual revenue run rate.
 

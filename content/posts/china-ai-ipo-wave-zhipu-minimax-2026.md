@@ -6,7 +6,16 @@ author: "AI in China Research Team"
 readTime: "16 min"
 image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&h=600&fit=crop"
 keywords: ["China AI IPO", "Zhipu AI", "MiniMax", "China AI market", "AI valuation", "Hong Kong stock market", "DeepSeek", "AI model companies", "Chinese AI stocks", "AI investment 2026"]
+excerpt: "China's AI unicorns are trading at valuations that would have seemed impossible just 18 months ago Something historic is happening in China's AI industry."
+related: [
+  "/blog/china-ai-global-expansion-minimax-2-billion-users-2026/",
+  "/blog/minimax-300m-users-arr-doubles-a-share-ipo-china-ai-export-2026/",
+  "/blog/china-profit-future-gamble-ai-war-2026/",
+  "/blog/stepfun-terminal-ai-revolution/"
+]
 ---
+
+
 
 *China's AI unicorns are trading at valuations that would have seemed impossible just 18 months ago*
 

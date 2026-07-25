@@ -8,7 +8,14 @@ readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1200&q=80"
 author: "AI in China Research Desk"
 keywords: ["China AI export", "Chinese AI going global", "China AI funding 2026", "AI globalization", "China AI unicorn", "StepFun", "Moonshot AI", "Kunlun Tech", "ByteDance AI", "China AI overseas"]
+related: [
+  "/blog/china-ai-chip-war-2026-us-sanctions/",
+  "/blog/china-ai-models-dominate-global-api-traffic-token-export-2026/",
+  "/blog/china-ai-companion-ban-doubao-qwen-digital-friends-lost-2026/",
+  "/blog/china-ai-network-doctrine-miit-three-year-plan-2026/"
+]
 ---
+
 
 # The Great AI Export: How China's Intelligence Industry Is Rewiring the Global Tech Map
 
