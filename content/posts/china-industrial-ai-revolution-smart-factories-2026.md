@@ -202,6 +202,6 @@ The factory floor is not the most glamorous stage for AI. It does not generate t
 
 - [China's AI Chip Renaissance: How Q1 2026 Data Reveals a Domestic Silicon Ecosystem Taking Shape](/blog/china-ai-chip-renaissance-q1-2026/)
 - [China's Embodied AI Revolution: From Robot Marathons to Factory Floors](/blog/china-embodied-ai-revolution-funding-world-models-2026/)
-- [Triple Silicon: China's AI Chip Independence and the Three-Horse Race](/blog/triple-silicon-china-ai-chip-independence-2026/)
-- [China's AI Infrastructure Awakening: The WuWenXinQiong and DeepSeek Multimodal Push](/blog/china-ai-infrastructure-awakening-wuwenxinqiong-deepseek-multimodal-2026/)
+- [Triple Silicon: China's AI Chip Independence and the Three-Horse Race](/blog/china-ai-chip-renaissance-q1-2026/)
+- [China's AI Infrastructure Awakening: The WuWenXinQiong and DeepSeek Multimodal Push](/blog/deepseek-v4-million-token-china-ai-sovereignty/)
 - [Forbes China AI TOP 50: Six Decoupling Signals That Silicon Valley Can't Ignore](/blog/forbes-china-ai-top-50-six-decoupling-signals-2026/)

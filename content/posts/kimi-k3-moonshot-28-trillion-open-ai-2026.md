@@ -235,7 +235,7 @@ What is already clear: the assumption that open-source AI would always trail clo
 ---
 
 **Related Articles:**
-- [DeepSeek's Disruption: How a Chinese Lab Reshaped AI Economics](/blog/deepseek-73b-megaround-china-ai-funding-frenzy/)
+- DeepSeek's Disruption: How a Chinese Lab Reshaped AI Economics]
 - [The $13.8 Billion Awakening: China's Embodied AI Sector Hits Escape Velocity](/blog/china-embodied-ai-13-billion-funding-boom-2026/)
 - [ByteDance's AI Obsession: How a Social Media Giant Became China's GPU Kingpin](/blog/bytedance-ai-gamble-gpu-kingpin-profit-drop/)
-- [LingSheng's Bet Against GPUs: China's CPU-Only Supercomputer Could Rewrite AI Rules](/blog/lingsheng-supercomputer-china-cpu-ai-paradigm-2026/)
+- LingSheng's Bet Against GPUs: China's CPU-Only Supercomputer Could Rewrite AI Rules]

@@ -13,6 +13,7 @@ related: [
   "/blog/china-ai-drama-revolution-bytedance-650m-empire-2026/"
 ]
 ---
+heroImage: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200"
 
 
 

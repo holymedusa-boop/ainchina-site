@@ -13,6 +13,7 @@ related: [
   "/blog/stepfun-terminal-ai-revolution/"
 ]
 ---
+heroImage: "https://images.unsplash.com/photo-1563770660941-20978e870e26?w=1200"
 
 
 

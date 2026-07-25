@@ -4,7 +4,7 @@ title: "The Great AI Benchmark War: How Chinese Models Caught the Frontier in 20
 lead: "The conventional wisdom says Western AI still leads by a wide margin. The mid-2026 benchmark numbers from SuperCLUE, LMArena, and SWE-bench tell a radically different story."
 description: "A deep dive into the mid-2026 benchmark data comparing Chinese frontier models (DeepSeek V4, Qwen 3.5, Doubao Seed 2.0) against Western counterparts (GPT-5.5, Claude Opus, Gemini 3.1). Chinese models are now in the same performance tier, at a fraction of the cost."
 date: 2026-06-28
-readTime: "16 min read"
+readTime: '23 min read'
 author: "AI in China"
 image: https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200
 imageAlt: "Abstract data visualization and neural network patterns"
@@ -18,6 +18,7 @@ related: [
 ]
 category: "AI Industry"
 ---
+heroImage: "https://images.unsplash.com/photo-1537531383496-f4749b8032cf?w=1200"
 
 
 

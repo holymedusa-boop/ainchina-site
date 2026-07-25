@@ -13,6 +13,7 @@ related: [
   "/blog/deepseek-v3-deep-dive/"
 ]
 ---
+heroImage: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200"
 
 
 
@@ -332,6 +333,6 @@ For developers, the playbook is clear: **maximize the promo window for high-valu
 
 
 
-- [DeepSeek V4 Pricing Strategy: How $0.14/1M Tokens Is Reshaping the Economics of Frontier AI](/blog/deepseek-v4-pricing-strategy-analysis/)
+- DeepSeek V4 Pricing Strategy: How $0.14/1M Tokens Is Reshaping the Economics of Frontier AI]
 - [DeepSeek V4 Unleashed: How China's Open-Source AI Champion Is Winning the Agent Era with Million-Token Superpowers](/blog/deepseek-v4-million-token-china-ai-sovereignty/)
-- [DeepSeek Breaks Its Vow: Inside the $3 Billion Funding Round That Shook China's AI World](/blog/deepseek-first-funding-20-billion-valuation/)
+- DeepSeek Breaks Its Vow: Inside the $3 Billion Funding Round That Shook China's AI World]

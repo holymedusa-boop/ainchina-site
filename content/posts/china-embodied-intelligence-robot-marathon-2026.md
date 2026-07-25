@@ -13,6 +13,7 @@ related: [
   "/blog/china-ai-april-infrastructure-2026/"
 ]
 ---
+heroImage: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200"
 
 
 

@@ -14,6 +14,7 @@ related: [
   '/blog/triple-silicon-china-ai-chip-independence-2026/'
 ]
 ---
+heroImage: "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=1200"
 
 ![Network cables and data center infrastructure](https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200)
 *China's MIIT three-year plan will wire AI directly into the nation's communications backbone, from metropolitan data centers to last-mile fiber. Photo: Unsplash*

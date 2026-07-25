@@ -18,6 +18,7 @@ related: [
 ]
 category: "AI Applications"
 ---
+heroImage: "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=1200"
 
 
 
@@ -189,10 +190,10 @@ This is why MWC Shanghai 2026 matters. It was not just a trade show. It was the 
 
 ## Related Articles
 
-- [The Great AI Benchmark War: How Chinese Models Caught the Frontier in 2026](/blog/china-ai-benchmark-war-caught-frontier-2026)
+- [The Great AI Benchmark War: How Chinese Models Caught the Frontier in 2026](/blog/china-ai-model-wars-april-2026)
 - [ByteDance's $30 Billion AI Gambit: How One Budget Revision Is Rewriting China's Chip Playbook](/blog/bytedance-30-billion-ai-capex-huawei-chips-2026)
 - [China's AI Network Doctrine: How the 2026-2028 Plan Is Wiring Intelligence Into Every Fiber](/blog/china-ai-network-doctrine-miit-three-year-plan-2026)
-- [The Triple Silicon Gambit: How China's AI Chip Surge Is Forging an Independent Path to AGI](/blog/triple-silicon-china-ai-chip-independence-2026)
+- [The Triple Silicon Gambit: How China's AI Chip Surge Is Forging an Independent Path to AGI](/blog/china-ai-chip-renaissance-q1-2026)
 
 ## Sources and Further Reading
 

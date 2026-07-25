@@ -51,6 +51,32 @@ This analysis misses three critical realities:
 
 **Third**, and most importantly: **this isn't a price war. It's a cost-structure war.** DeepSeek is demonstrating that when you control the full stack — from chip design (Ascend) to model architecture (MoE) to data centers (state-backed) — inference costs collapse to levels that make Western pricing models look like legacy enterprise software from the 1990s.
 
+## The Historical Arc: From V2's "Price Killer" to V4's "Permanent Floor"
+
+To understand why the May 22 announcement matters, you need to see DeepSeek's two-year pricing trajectory. Each release has reset market expectations downward.
+
+**Table 1.5: DeepSeek Pricing History (2024–2026)**
+
+| Date | Model | Cached Input | Output | Market Context |
+|------|-------|-------------|--------|---------------|
+| May 2024 | V2 | ¥0.10/1M | ¥2/1M | "Price killer" — 10x cheaper than GPT-4 |
+| Dec 2024 | V3 | ¥0.10/1M | ¥2/1M | Maintained V2 pricing despite 3x capability gain |
+| Apr 2026 | V4-Pro launch | ¥0.10/1M | ¥24/1M | Initial pricing (later discounted 75%) |
+| Apr 26 | V4 2.5 discount | ¥0.025/1M | ¥6/1M | Limited-time promotion |
+| **May 22** | **Permanent** | **¥0.025/1M** | **¥6/1M** | **"This is the floor, forever"** |
+
+*Source: DeepSeek official API documentation, archived pricing pages*
+
+The pattern is clear: **DeepSeek has never raised prices.** Every new model either maintained or reduced pricing. In an industry where OpenAI and Anthropic have steadily increased prices (GPT-4 launched at $30/1M output; GPT-4o launched at $10 — but capabilities increased disproportionately), DeepSeek's consistent downward trajectory is unprecedented.
+
+**The V2 Moment (May 2024):** When V2 launched at ¥2/1M output tokens — roughly 10x cheaper than GPT-4 — competitors dismissed it as a promotional stunt. Zhipu AI matched the pricing within weeks. Baidu and Alibaba followed within months. By the end of 2024, Chinese LLM API prices had fallen 80% across the board.
+
+**The V3 Moment (December 2024):** V3 delivered GPT-4-class capabilities at V2 prices. The $5.6M training cost revealed that DeepSeek's cost advantage wasn't subsidized pricing — it was genuine efficiency. Competitors could no longer dismiss the low prices as unsustainable.
+
+**The V4 Moment (April-May 2026):** The permanent 75% cut signals that DeepSeek believes its cost advantage is structural, not tactical. The company isn't racing to the bottom — it's declaring that the bottom is where it lives.
+
+---
+
 ## The Four Weeks That Broke AI Pricing
 
 To understand why this permanent cut matters, you need to see the velocity of DeepSeek's pricing strategy. In exactly 28 days, the company executed four separate pricing moves:
@@ -257,5 +283,5 @@ Whether that bet pays off will define the next decade of the industry.
 **Related Articles:**
 - [Huawei Pangu Ultra MoE: 718B Parameters on Chinese Chips](/blog/huawei-pangu-ultra-moe-718b-chinese-silicon/)
 - [China's Storage Twin Giants Race to IPO](/blog/china-storage-twin-giants-ipo-ai-compute-2026/)
-- [DeepSeek V4 Pricing Strategy Analysis](/blog/deepseek-v4-pricing-strategy-analysis/)
+- DeepSeek V4 Pricing Strategy Analysis]
 - [China's AI Chip Renaissance: Q1 2026](/blog/china-ai-chip-renaissance-q1-2026/)

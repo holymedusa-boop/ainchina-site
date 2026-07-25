@@ -18,6 +18,7 @@ related: [
 ]
 category: "AI Applications"
 ---
+heroImage: "https://images.unsplash.com/photo-1537531383496-f4749b8032cf?w=1200"
 
 
 
@@ -396,8 +397,8 @@ The critical question for the next 18 months: **Which approach produces better a
 
 Continue exploring China's AI landscape:
 
-- [China's AI "War of the Gods": DeepSeek Hits $45B, Kimi Raises $2B](/blog/china-ai-capital-war-deepseek-kimi-funding-2026/)
-- [China's AI Infrastructure Awakens: Wuwenxinqiou's $100M Bet](/blog/china-ai-infrastructure-awakening-wuwenxinqiong-deepseek-multimodal-2026/)
+- China's AI "War of the Gods": DeepSeek Hits $45B, Kimi Raises $2B]
+- [China's AI Infrastructure Awakens: Wuwenxinqiou's $100M Bet](/blog/deepseek-v4-million-token-china-ai-sovereignty/)
 - [The Great AI Compute Crunch: 8 Trillion Tokens and Counting](/blog/ai-compute-crunch-china-token-crisis-2026/)
 - [The End of Free AI: Doubao Paywalls, Unitree Mass Production, and Regulation](/blog/doubao-charging-ai-free-era-ends-china-2026/)
 

@@ -15,6 +15,7 @@ related: [
   "/blog/bytedance-200-billion-ai-infrastructure-china-arms-race-2026/"
 ]
 ---
+heroImage: "https://images.unsplash.com/photo-1537531383496-f4749b8032cf?w=1200"
 
 
 On a Tuesday afternoon in Hangzhou, a 62-year-old retired teacher named Liu received a video call from her "son." The face on screen was unmistakable — same freckles, same nervous laugh, same kitchen background. He sounded distressed, claimed he'd been detained after a traffic accident, and urgently needed ¥280,000 for legal fees. Liu transferred the money within 20 minutes. The real son was at work, completely unaware. The face was flawless. The voice was cloned. The crime took 8 minutes.

@@ -13,6 +13,7 @@ related: [
   "/blog/china-ai-olympus-65-billion-war-future-intelligence-2026/"
 ]
 ---
+heroImage: "https://images.unsplash.com/photo-1537531383496-f4749b8032cf?w=1200"
 
 
 

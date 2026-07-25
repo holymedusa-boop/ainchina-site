@@ -16,6 +16,7 @@ related: [
 ]
 category: "AI Business"
 ---
+heroImage: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200"
 
 
 
@@ -272,7 +273,7 @@ MiniMax's IPO filing requires a credible profitability narrative. Based on curre
 ## Related Articles
 
 - [China's AI Models Dominate Global API Traffic: The Token Export Revolution](/blog/china-ai-models-dominate-global-api-traffic-token-export-2026/)
-- [DeepSeek's $51.5B Valuation: The Anti-Startup Startup Bows to Capital](/blog/deepseek-first-funding-20-billion-valuation/)
+- DeepSeek's $51.5B Valuation: The Anti-Startup Startup Bows to Capital]
 - [China's AI Drama Revolution: How ByteDance Built a $650M Short-Content Empire](/blog/china-ai-drama-revolution-bytedance-650m-empire-2026/)
 - [Alibaba's Zhenwu M890 AI Chip: China's Silicon Sovereignty Push](/blog/alibaba-zhenwu-m890-ai-chip-china-silicon-sovereignty/)
 

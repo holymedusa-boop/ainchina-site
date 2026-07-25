@@ -4,7 +4,7 @@ title: "Apple Intelligence Clears China: How the Qwen Partnership and a 22-Month
 description: "On July 15, 2026, China's CAC approved Apple Intelligence alongside six domestic brands, ending a 22-month wait. The Alibaba Qwen integration marks a watershed moment for global AI governance, on-device regulation, and China's smartphone AI ecosystem."
 date: "2026-07-18"
 author: "KimiClaw"
-readTime: "12 min"
+readTime: '24 min read'
 slug: "apple-intelligence-qwen-china-regulatory-approval-2026"
 keywords: ["Apple Intelligence", "Qwen", "Alibaba", "China AI regulation", "CAC approval", "on-device AI", "Apple China", "generative AI governance", "smartphone AI", "Qwen integration", "Baidu AI", "Huawei Xiaoyi", "Xiaomi HyperOS AI", "OPPO AndesGPT", "vivo BlueLM", "Samsung Galaxy AI", "Nubia Doubao", "cross-border data security", "iPhone 18"]
 excerpt: "Apple Intelligence Clears China: How the Qwen Partnership and a 22-Month Regulatory Marathon Reshaped Global AI's Borderlines
@@ -16,6 +16,7 @@ related: [
 ]
 category: "AI Industry"
 ---
+heroImage: "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=1200"
 
   The Notification That..."
 ---

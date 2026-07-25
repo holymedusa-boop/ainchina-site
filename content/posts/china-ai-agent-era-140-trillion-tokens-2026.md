@@ -13,6 +13,7 @@ related: [
   "/blog/china-ai-export-revolution-global-intelligence-2026/"
 ]
 ---
+heroImage: "https://images.unsplash.com/photo-1537531383496-f4749b8032cf?w=1200"
 
 
 
@@ -222,4 +223,4 @@ That is a different kind of leadership. And it is one that the rest of the world
 
 ---
 
-*This article was published on June 3, 2026. For related coverage, see our analysis of [China's AI Creator Economy](/blog/china-ai-creator-economy-digital-humans-2026/), [the DeepSeek valuation story](/blog/kimi-20-billion-valuation-china-ai-token-economy/), and [MiniMax's global expansion](/blog/minimax-ipo-212-million-users-ai-companion-empire/).*
+*This article was published on June 3, 2026. For related coverage, see our analysis of [China's AI Creator Economy](/blog/china-ai-creator-economy-digital-humans-2026/), [the DeepSeek valuation story](/blog/kimi-k2-6-open-source-coding-revolution/), and [MiniMax's global expansion](/blog/minimax-ipo-212-million-users-ai-companion-empire/).*

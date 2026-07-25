@@ -16,6 +16,7 @@ related: [
   "/blog/deepseek-permanent-75-percent-api-price-cut-ai-war-2026/"
 ]
 ---
+heroImage: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200"
 
 
 ![A modern data center corridor with rows of server racks illuminated by blue LED lights — the physical infrastructure behind China's most valuable AI startup](https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=1200&q=80)

@@ -18,6 +18,7 @@ related: [
 ]
 category: "AI Robotics"
 ---
+heroImage: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200"
 
 
 

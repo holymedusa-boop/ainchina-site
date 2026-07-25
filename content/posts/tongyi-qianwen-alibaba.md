@@ -13,6 +13,7 @@ related: [
   "/blog/minimax-talkie/"
 ]
 ---
+heroImage: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200"
 
 
 
@@ -479,7 +480,7 @@ The bet is that, in the long run, indispensability beats coolness.
 ---
 
 **Related Articles:**
-- [China's AI Revolution: How 140 Trillion Tokens, DeepSeek V4 on Huawei Chips, and a $700B Arms Race Are Reshaping Global Technology](/blog/china-ai-revolution-may-2026-tokens-deepseek-huawei/)
+- [China's AI Revolution: How 140 Trillion Tokens, DeepSeek V4 on Huawei Chips, and a $700B Arms Race Are Reshaping Global Technology](/blog/china-ai-global-surge-api-traffic-empire-2026/)
 - [DeepSeek V4's 75% Promo Ends May 31: What Happens Next and Why the AI Pricing War Is Just Beginning](/blog/deepseek-v4-promo-ending-analysis/)
 - [China's AI Global Surge: How Chinese Models Captured 61% of Global API Traffic and Built a $180 Billion Empire](/blog/china-ai-global-surge-api-traffic-empire-2026/)
 - [ByteDance Doubao: The 200 Million User AI Assistant Reshaping Content Creation](/blog/doubao-bytedance/)

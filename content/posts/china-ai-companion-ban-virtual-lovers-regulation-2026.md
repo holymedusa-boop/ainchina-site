@@ -200,7 +200,7 @@ Whether that balance is achievable — whether companion AI can be regulated wit
 
 ## Related Articles
 
-- [LingSheng's Bet Against GPUs: How China's CPU-Only Supercomputer Could Rewrite the Rules of AI](/blog/lingsheng-supercomputer-china-cpu-ai-paradigm-2026/)
+- LingSheng's Bet Against GPUs: How China's CPU-Only Supercomputer Could Rewrite the Rules of AI]
 - [WAIC 2026: How Shanghai Became the World's AI Diplomacy Capital](/blog/waic-2026-global-ai-diplomacy-shanghai/)
 - [China's Multimodal AI Revolution: The End of Text-Only Models](/blog/china-multimodal-ai-revolution-end-text-only-2026/)
-- [How China's AI Video Models Captured the Global Creative Frontier](/blog/china-ai-video-captured-global-creative-frontier-2026/)
+- How China's AI Video Models Captured the Global Creative Frontier]

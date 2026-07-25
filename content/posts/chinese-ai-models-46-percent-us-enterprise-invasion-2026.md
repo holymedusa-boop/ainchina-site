@@ -14,6 +14,7 @@ related: [
   '/blog/deepseek-v3-deep-dive/'
 ]
 ---
+heroImage: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200"
 
 ![Shanghai skyline at dusk, symbolizing the rise of China's AI industry](https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200&q=80)
 *The Shanghai skyline. While Washington focused on chip sanctions, Chinese AI companies built something export controls could not touch: better models at prices American startups could actually afford. Photo: Unsplash*

@@ -15,6 +15,7 @@ related: [
   "/blog/stepfun-terminal-ai-revolution/"
 ]
 ---
+heroImage: "https://images.unsplash.com/photo-1537531383496-f4749b8032cf?w=1200"
   The Number That..."
 ---
 
@@ -238,7 +239,7 @@ The race for AI infrastructure is not a sprint. It's a marathon. And China just 
 ---
 
 *Related articles:*
-- [China's Triple Silicon Gambit: 75 Million AI Chips and the Road to AGI](/blog/triple-silicon-china-ai-chip-independence-2026/)
+- [China's Triple Silicon Gambit: 75 Million AI Chips and the Road to AGI](/blog/china-ai-chip-renaissance-q1-2026/)
 - [ByteDance's AI Obsession: From 70% Profit Plunge to GPU Kingpin](/blog/bytedance-ai-gamble-gpu-kingpin-profit-drop/)
 - [The AI Compute Crunch: How China's Boom Is Running Out of Tokens](/blog/ai-compute-crunch-china-token-crisis-2026/)
 - [Alibaba's Zhenwu M890: The Chip That Could Free China From NVIDIA](/blog/alibaba-zhenwu-m890-ai-chip-china-silicon-sovereignty/)

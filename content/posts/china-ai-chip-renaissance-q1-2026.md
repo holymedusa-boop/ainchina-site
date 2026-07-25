@@ -13,6 +13,7 @@ related: [
   "/blog/china-humanoid-robot-tsunami-2026-50k-units-global-dominance/"
 ]
 ---
+heroImage: "https://images.unsplash.com/photo-1563770660941-20978e870e26?w=1200"
 
 
 
@@ -320,4 +321,4 @@ The silicon wall that Washington tried to build? Q1 2026 proved it has a door â€
 - [The Great Silicon Wall: How China's AI Industry Is Defying US Sanctions](/blog/china-ai-chip-war-2026-us-sanctions/)
 - [China's AI Revolution: Education Reform, National Standards, and Ecosystem Breakthroughs](/blog/china-ai-april-infrastructure-2026/)
 - [DeepSeek V4: The Million-Token API Update That Signals China's AI Sovereignty Shift](/blog/deepseek-v4-million-token-china-ai-sovereignty/)
-- [China's AI Revolution: 140 Trillion Tokens, DeepSeek V4 on Huawei, and the $700B Arms Race](/blog/china-ai-revolution-may-2026-tokens-deepseek-huawei/)
+- [China's AI Revolution: 140 Trillion Tokens, DeepSeek V4 on Huawei, and the $700B Arms Race](/blog/china-ai-global-surge-api-traffic-empire-2026/)

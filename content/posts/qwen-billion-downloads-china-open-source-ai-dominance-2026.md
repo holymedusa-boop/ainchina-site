@@ -13,6 +13,7 @@ related: [
   "/blog/china-ai-video-captured-global-creative-frontier-2026/"
 ]
 ---
+heroImage: "https://images.unsplash.com/photo-1537531383496-f4749b8032cf?w=1200"
 
 
 

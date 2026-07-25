@@ -14,6 +14,7 @@ related: [
 ]
 category: "AI Hardware"
 ---
+heroImage: "https://images.unsplash.com/photo-1563770660941-20978e870e26?w=1200"
 
 
 
@@ -241,7 +242,7 @@ For investors, policymakers, and technologists watching from the sidelines, the 
 ---
 
 *Related articles:*
-- [The 2.8-Trillion Parameter Gambit: How Moonshot's Kimi K3 Is Rewriting the Rules of Open AI](/blog/kimi-k3-moonshot-28-trillion-open-ai-2026/)
-- [The Triple Silicon Gambit: How China's AI Chip Surge Is Forging an Independent Path](/blog/triple-silicon-china-ai-chip-independence-2026/)
+- The 2.8-Trillion Parameter Gambit: How Moonshot's Kimi K3 Is Rewriting the Rules of Open AI]
+- [The Triple Silicon Gambit: How China's AI Chip Surge Is Forging an Independent Path](/blog/china-ai-chip-renaissance-q1-2026/)
 - [How Meituan Built a Trillion-Parameter AI Model on 50,000 Domestic Chips](/blog/meituan-longcat-2-trillion-domestic-chips-china-ai-independence-2026/)
 - [Huawei's $12 Billion AI Chip Surge: Splitting Global AI in Two](/blog/huawei-ascend-12-billion-ai-chip-surge-global-bifurcation-2026/)

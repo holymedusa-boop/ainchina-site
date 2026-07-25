@@ -4,7 +4,7 @@ title: "The Silicon Wall: How China's AI Revolution Ran Out of Chips — And Sta
 category: "AI Industry"
 excerpt: "At 3:14 AM on July 19, 2026, Moonshot AI made a decision no fast-growing startup wants to make: it stopped selling. Kimi K3 had grown too popular, too fast. The story of what happened next reveals the hidden battle that will shape the future of global AI."
 date: 2026-07-25
-readTime: 16 min read
+readTime: '22 min read'
 image: "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&h=600&fit=crop"
 keywords: ["China AI chips", "DeepSeek", "Zhipu AI", "Kimi K3", "AI compute crisis", "custom AI chips", "NVIDIA sanctions", "Moonshot AI", "Huawei Ascend", "domestic chips", "AI inference", "compute shortage", "WAIC 2026", "open source AI"]
 related: [
@@ -14,6 +14,7 @@ related: [
   '/blog/deepseek-v3-deep-dive/'
 ]
 ---
+heroImage: "https://images.unsplash.com/photo-1563770660941-20978e870e26?w=1200"
 
 ![Close-up of a silicon wafer with circuit patterns, symbolizing the semiconductor foundation of AI](https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&h=600&fit=crop)
 *A silicon wafer. Behind every AI model headline is a physical reality: someone, somewhere, had to manufacture the chips that run it. For China's AI industry, that reality became a crisis — and then an opportunity. Photo: Unsplash*
@@ -267,4 +268,4 @@ All of them are trying to solve the same problem: how to keep the AI revolution 
 
 ---
 
-*For more on China's AI ecosystem, read our coverage of the [46% US enterprise invasion](/blog/chinese-ai-models-46-percent-us-enterprise-invasion-2026/), the [Kimi K3 launch](/blog/kimi-k3-moonshot-28-trillion-open-ai-2026/), and our [DeepSeek technical deep dive](/blog/deepseek-v3-deep-dive/).*
+*For more on China's AI ecosystem, read our coverage of the [46% US enterprise invasion](/blog/chinese-ai-models-46-percent-us-enterprise-invasion-2026/), the Kimi K3 launch], and our [DeepSeek technical deep dive](/blog/deepseek-v3-deep-dive/).*

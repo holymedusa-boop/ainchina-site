@@ -9,7 +9,7 @@ tags: ["Kimi", "DeepSeek", "Moonshot AI", "MiniMax", "Zhipu AI", "InfiniGence AI
 keywords: ["Kimi AI", "DeepSeek valuation", "Moonshot AI funding", "Chinese open source AI", "AI arms race", "China AI investment", "AI infrastructure", "token economy", "Cursor AI", "Alibaba AI", "China tech funding"]
 excerpt: "In seven days, Chinese AI companies raised more capital than the entire European AI sector raised in 2025. They did it while simultaneously releasing models that collectively hold the top five positions on global open-source leaderboards. This is not a funding cycle. This is an arms race with a product launch attached."
 image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200"
-readTime: "16 min read"
+readTime: '22 min read'
 related: [
   "/blog/china-ai-invisible-empire-consumer-apps-2026/",
   "/blog/kimi-20-billion-valuation-china-ai-token-economy/",
@@ -18,6 +18,7 @@ related: [
 ]
 category: "AI Business"
 ---
+heroImage: "https://images.unsplash.com/photo-1537531383496-f4749b8032cf?w=1200"
 
 
 
@@ -387,8 +388,8 @@ The war for AI Olympus isn't over. But the battlefield has been redrawn — and 
 
 ## Related Articles
 
-- [DeepSeek's $7.3B Mega-Round: Inside the Historic Funding Frenzy](/blog/deepseek-73b-megaround-china-ai-funding-frenzy/)
-- [Kimi's $20 Billion Bet: How China's Token Economy Is Rewriting Global Power](/blog/kimi-20-billion-valuation-china-ai-token-economy/)
+- DeepSeek's $7.3B Mega-Round: Inside the Historic Funding Frenzy]
+- [Kimi's $20 Billion Bet: How China's Token Economy Is Rewriting Global Power](/blog/kimi-k2-6-open-source-coding-revolution/)
 - [MiniMax IPO: How China's AI Companion Empire Built 212 Million Users](/blog/minimax-ipo-212-million-users-ai-companion-empire/)
 - [Doubao Starts Charging: How China's Biggest AI App Ended the Free Era](/blog/doubao-charging-ai-free-era-ends-china-2026/)
 

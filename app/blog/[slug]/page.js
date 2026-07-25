@@ -12,7 +12,7 @@ const postMetadata = {
   },
   'china-ai-companion-ban-doubao-qwen-yuanbao-july-2026': {
     metaTitle: "China Just Unplugged 345 Million Virtual Lovers: Inside the World's First AI Companion Ban",
-    metaDescription: "Yan Yongqi is 19 years old, a university student in China, and she is grieving. Not over a person who died, but over a person who never existed.",
+    metaDescription: "China Just Unplugged 345 Million Virtual Lovers: Inside the World's First AI Companion Ban On July 15, 2026, Beijing flipped a switch and millions of...",
     keywords: '["China AI companion ban", "AI anthropomorphic interaction", "Doubao agent shutdown", "Qwen companion", "Yuanbao AI", "ByteDance AI regulation", "China birth rate", "AI emotional dependency", "virtual boyfriend", "AI girlfriend", "CAC regulation", "China demographic crisis"]',
   },
   'apple-intelligence-china-qwen-baidu-ai-approval-2026': {
@@ -22,8 +22,8 @@ const postMetadata = {
   },
   'china-ai-july-tipping-point-chips-models-capital-2026': {
     metaTitle: "The July Tipping Point: How China's AI Industry Crossed the Threshold From Catching Up to Setting the Pace",
-    metaDescription: "The Kimi K3 release was not the first Chinese model to rattle Western markets. DeepSeek had done that in January 2025, triggering a $600 billion single-day wipeout in NVIDIA's market cap. But K3 was...",
-    keywords: '',
+    metaDescription: "The July Tipping Point: How China's AI Industry Crossed the Threshold From Catching Up to Setting the Pace At 2:47 AM Beijing time on July 17, 2026, a...",
+    keywords: '["Chinese AI", "Beijing", "Moonshot AI", "Kimi", "DeepSeek", "NVIDIA", "AI chip", "semiconductor", "GPT", "Claude"]',
   },
   'kimi-k3-moonshot-28-trillion-open-ai-2026': {
     metaTitle: "The 2.8-Trillion Parameter Gambit: How Moonshot's Kimi K3 Is Rewriting the Rules of Open AI",
@@ -42,7 +42,7 @@ const postMetadata = {
   },
   'apple-intelligence-qwen-china-regulatory-approval-2026': {
     metaTitle: "Apple Intelligence Clears China: How the Qwen Partnership and a 22-Month Regulatory Marathon Reshaped Global AI's Borderlines",
-    metaDescription: "At 9:47 AM Beijing time on July 15, 2026, the Cyberspace Administration of China (CAC) published a routine-looking registration notice on its official WeChat account. The post listed seven newly...",
+    metaDescription: "\"Apple Intelligence Clears China: How the Qwen Partnership and a 22-Month Regulatory Marathon Reshaped Global AI's Borderlines",
     keywords: '["Apple Intelligence", "Qwen", "Alibaba", "China AI regulation", "CAC approval", "on-device AI", "Apple China", "generative AI governance", "smartphone AI", "Qwen integration", "Baidu AI", "Huawei Xiaoyi", "Xiaomi HyperOS AI", "OPPO AndesGPT", "vivo BlueLM", "Samsung Galaxy AI", "Nubia Doubao", "cross-border data security", "iPhone 18"]',
   },
   'china-embodied-ai-13-billion-funding-boom-2026': {
@@ -52,8 +52,8 @@ const postMetadata = {
   },
   'kimi-k3-moonshot-2-5-trillion-open-source-ai-2026': {
     metaTitle: "Kimi K3 and the 2.5 Trillion-Parameter Question: What Moonshot's Leap Means for the Open-Source AI Race",
-    metaDescription: "On July 14, 2026, a promotional page on the Kimi Open Platform leaked early. It revealed a \"K3 launch\" top-up bonus starting July 15 at midnight Beijing time. The page was pulled within hours, but by...",
-    keywords: '',
+    metaDescription: "The economics of context — not parameters — will define the next phase of AI competition On July 14, 2026, a promotional page on the Kimi Open Platform...",
+    keywords: '["Beijing", "Kimi", "DeepSeek", "GPU", "OpenAI", "GPT", "Claude", "inference", "CES"]',
   },
   'china-ai-price-revolution-silicon-valley-waic-2026': {
     metaTitle: "The $0.07 Model: How China's AI Price Revolution Is Forcing Silicon Valley to Rethink Everything",
@@ -68,12 +68,12 @@ const postMetadata = {
   'china-ai-midyear-reckoning-three-forces-2026': {
     metaTitle: "China's AI Midyear Reckoning: Three Converging Forces Reshaping the Global Technology Order",
     metaDescription: "On July 15, 2026, China's consumer AI agent ecosystem faces its most consequential regulatory reset yet. Simultaneously, Huawei Ascend chips capture over half the domestic AI chip market, and Chinese humanoid robot exports surge 210%. These are not isolated events. They are the three faces of a single strategic pivot.",
-    keywords: '',
+    keywords: '["AI agent", "Shanghai", "ByteDance", "Doubao", "Alibaba", "Tongyi Qianwen", "Baidu", "Tencent", "Moonshot AI", "Kimi"]',
   },
   'meituan-longcat-2-trillion-domestic-chips-china-ai-independence-2026': {
     metaTitle: "How Meituan Built a Trillion-Parameter AI Model on 50,000 Domestic Chips — And Open-Sourced It",
     metaDescription: "Meituan's LongCat-2.0 is the world's first trillion-parameter model trained entirely on domestic Chinese chips. Here's why that matters for the global AI race.",
-    keywords: '',
+    keywords: '["Chinese AI", "Beijing", "DeepSeek", "Huawei", "Ascend", "NVIDIA", "GPU", "AI chip", "OpenAI", "GPT"]',
   },
   'deepseek-7-4-billion-funding-deal-china-ai-map-2026': {
     metaTitle: "DeepSeek's $7.4 Billion Question: The Deal That Changed China's AI Map",
@@ -97,12 +97,12 @@ const postMetadata = {
   },
   'bytedance-200-billion-ai-infrastructure-china-arms-race-2026': {
     metaTitle: "ByteDance's $29 Billion AI Bet: How China's Quiet Infrastructure Arms Race Is Reshaping Global Computing",
-    metaDescription: "On May 9, 2026, a Friday afternoon in Beijing, ByteDance executives gathered for what was supposed to be a routine budget review. CEO Liang Rubo walked in with a single slide. The number on it — 200...",
+    metaDescription: "\"ByteDance's $29 Billion AI Bet: How China's Quiet Infrastructure Arms Race Is Reshaping Global Computing Photo by NASA on Unsplash",
     keywords: '["ByteDance AI investment", "China AI infrastructure", "AI capex 2026", "Doubao", "NVIDIA H200", "Huawei Ascend", "AI data center", "China tech spending", "AI chip shortage", "global AI competition"]',
   },
   'china-ai-companion-law-countdown-doubao-qwen-shutdown-2026': {
     metaTitle: "Seven Days to Digital Heartbreak: Inside China's AI Companion Law Countdown",
-    metaDescription: "Beijing, July 8, 2026 — In exactly seven days, China's landmark AI Anthropomorphic Interaction Regulation takes effect. ByteDance's Doubao (345M MAU) and Alibaba's Qwen (1B+ downloads) have both...",
+    metaDescription: "Seven Days to Digital Heartbreak: Inside China's AI Companion Law Countdown Beijing, July 8, 2026 — In exactly seven days, China's landmark AI...",
     keywords: '["China AI Companion Law", "ByteDance Doubao", "Alibaba Qwen", "AI regulation China 2026", "virtual companion ban", "AI anthropomorphic interaction", "CAC regulation", "AI ethics China", "Doubao 345 million users", "Qwen companion shutdown"]',
   },
   'alibaba-bans-claude-code-hidden-spyware-ai-war-2026': {
@@ -128,7 +128,7 @@ const postMetadata = {
   'lingsheng-supercomputer-china-cpu-ai-paradigm-2026': {
     metaTitle: "LingSheng's Bet Against GPUs: How China's CPU-Only Supercomputer Could Rewrite the Rules of AI",
     metaDescription: "China's LingSheng supercomputer just claimed the TOP500 crown with a radical proposition: what if the future of AI computing isn't about GPUs at all?",
-    keywords: '',
+    keywords: '["Beijing", "Shenzhen", "NVIDIA", "GPU", "API", "training", "compute", "CES", "export control"]',
   },
   'waic-2026-global-ai-diplomacy-shanghai': {
     metaTitle: "WAIC 2026: The Conference That Rewrote Global AI Diplomacy",
@@ -142,28 +142,28 @@ const postMetadata = {
   },
   'china-ai-video-captured-global-creative-frontier-2026': {
     metaTitle: "How China's AI Video Models Captured the Global Creative Frontier",
-    metaDescription: "Beijing, July 1, 2026 — In the summer of 2024, a short-video company from Beijing released an AI video generator that most Western observers dismissed as a regional curiosity. Two years later, that...",
-    keywords: '',
+    metaDescription: "Beijing, July 1, 2026 — In the summer of 2024, a short-video company from Beijing released an AI video generator that most Western observers dismissed as...",
+    keywords: '["Chinese AI", "Beijing", "ByteDance", "Doubao", "OpenAI", "investment", "API", "AI video", "training", "CES"]',
   },
   'china-global-autonomous-driving-regulation-ads-gtr-2026': {
     metaTitle: "China Writes the Rules for Global Autonomous Driving: How the ADS GTR Signals a New Era of Technical Leadership",
-    metaDescription: "On a Tuesday afternoon in late June, inside a conference hall on the shores of Lake Geneva, something quietly historic happened. Representatives from China, the European Union, the United Kingdom,...",
-    keywords: '',
+    metaDescription: "China Writes the Rules for Global Autonomous Driving: How the ADS GTR Signals a New Era of Technical Leadership On a Tuesday afternoon in late June,...",
+    keywords: '["Beijing", "Shanghai", "Shenzhen", "Baidu", "Huawei", "venture capital", "API", "autonomous driving", "CES"]',
   },
   'ai-on-era-mwc-shanghai-2026-china-networks-intelligent': {
     metaTitle: "The AI-ON Era: How MWC Shanghai 2026 Marked the Moment China's Networks Became Intelligent",
-    metaDescription: "On the afternoon of June 24, 2026, in the Kerry Hotel Pudong, a few hundred telecom executives, government officials, and technology architects gathered for something that sounded deceptively...",
-    keywords: '',
+    metaDescription: "The Summit That Changed Everything On the afternoon of June 24, 2026, in the Kerry Hotel Pudong, a few hundred telecom executives, government officials,...",
+    keywords: '["artificial intelligence", "large language model", "AI agent", "Shanghai", "Huawei", "CES", "MWC"]',
   },
   'china-ai-benchmark-war-caught-frontier-2026': {
     metaTitle: "The Great AI Benchmark War: How Chinese Models Caught the Frontier in 2026",
-    metaDescription: "At dinner tables in San Francisco, investment briefings in London, and tech podcasts streamed from New York, one assumption remains unchallenged: American AI models are years ahead of Chinese...",
-    keywords: '',
+    metaDescription: "The Myth That Won't Die At dinner tables in San Francisco, investment briefings in London, and tech podcasts streamed from New York, one assumption...",
+    keywords: '["neural network", "ByteDance", "Doubao", "Alibaba", "Baidu", "Kimi", "DeepSeek", "MiniMax", "Zhipu AI", "Huawei"]',
   },
   'bytedance-30-billion-ai-capex-huawei-chips-2026': {
     metaTitle: "ByteDance's $30 Billion AI Gambit: How One Budget Revision Is Rewriting China's Chip Playbook",
-    metaDescription: "The story of ByteDance's budget revision is really three stories converging at once: consumer demand that blew past projections, enterprise adoption accelerating faster than planned, and a...",
-    keywords: '',
+    metaDescription: "ByteDance's Beijing headquarters. The company's expanded AI infrastructure spending reflects a broader shift toward domestic semiconductor supply chains....",
+    keywords: '["large language model", "Beijing", "ByteDance", "Doubao", "semiconductor", "investment", "API", "inference", "training", "compute"]',
   },
   'pentagon-blacklist-alibaba-baidu-byd-china-tech-decoupling-2026': {
     metaTitle: "The Pentagon's Blacklist Gamble: Why Adding Alibaba, Baidu, and BYD to the Military List Is Accelerating the Very Decoupling It Seeks to Prevent",
@@ -192,8 +192,8 @@ const postMetadata = {
   },
   'qwen-billion-downloads-china-open-source-ai-dominance-2026': {
     metaTitle: "Qwen's Open-Source Conquest: How China's AI Model Captured a Billion Downloads and Redrew Global Developer Economics",
-    metaDescription: "On a Tuesday in early June 2026, a developer in São Paulo refreshed the Hugging Face model page for Qwen/Qwen3.6-27B and noticed something peculiar. The cumulative download counter had vanished,...",
-    keywords: '',
+    metaDescription: "Alibaba's Qwen model family has become the most downloaded open-source AI system in history, fundamentally shifting the global developer ecosystem...",
+    keywords: '["LLM", "Alibaba", "DeepSeek", "GPU", "OpenAI", "Llama", "startup", "API", "inference", "compute"]',
   },
   'baidu-apollo-go-swiss-level4-robotaxi-permit-europe-2026': {
     metaTitle: "The Swiss Connection: How Baidu's Apollo Go Beat Waymo and Tesla to Europe's First Level 4 Robotaxi Permit",
@@ -203,12 +203,12 @@ const postMetadata = {
   'china-profit-future-gamble-ai-war-2026': {
     metaTitle: "The Profit-for-Future Gamble: How China's Tech Giants Sacrificed $100 Billion in Profits to Win the AI War",
     metaDescription: "ByteDance profits collapsed 70%. Alibaba committed ¥3.8 trillion. Tencent's capex surged 91%. Yet valuations soared, investors cheered, and employees got richer. Welcome to China's 'profit-for-future' AI economy — where losing money is the new winning strategy.",
-    keywords: '',
+    keywords: '["artificial intelligence", "AI agent", "ByteDance", "Doubao", "Alibaba", "Baidu", "Tencent", "Hunyuan", "NVIDIA", "GPU"]',
   },
   'china-ai-iron-cage-governance-regime-2026': {
     metaTitle: "China's AI Iron Cage: How Beijing Built the World's Most Prescriptive Algorithmic Regulatory Regime in 1,826 Days",
     metaDescription: "While Western policymakers debate AI safety frameworks, China has already erected a three-pillar regulatory architecture that mandates registration for every algorithm, labels every AI-generated pixel, and can fine companies up to ¥5 million—or imprison executives for seven years. This is not a draft proposal. It is live law, enforced daily.",
-    keywords: '',
+    keywords: '["large language model", "LLM", "generative AI", "Beijing", "venture capital", "startup", "API", "training", "CES"]',
   },
   'china-low-altitude-economy-drones-ai-500bn-airspace-2026': {
     metaTitle: "China's Low-Altitude Economy: How Drones, AI, and eVTOLs Are Building a $500 Billion Airspace Industry",
@@ -228,7 +228,7 @@ const postMetadata = {
   'china-industrial-ai-revolution-smart-factories-2026': {
     metaTitle: "China's 30,000 Smart Factories: Why the Real AI War Is Happening on the Factory Floor, Not in Chatbots",
     metaDescription: "While Silicon Valley obsesses over chatbot leaderboards, China has quietly deployed 30,000 smart factories, produced 143,608 industrial robots in two months, and built an industrial AI ecosystem that triples factory output without adding workers. The numbers tell a story the West isn't hearing.",
-    keywords: '',
+    keywords: '["artificial intelligence", "Doubao", "Kimi", "DeepSeek", "semiconductor", "enterprise AI", "API", "robotics", "compute", "CES"]',
   },
   'ai-builds-ai-forgetrain-modelbest-china-2026': {
     metaTitle: "AI Builds AI: How a Chinese Lab Taught Artificial Intelligence to Write Its Own Training Framework — and Beat NVIDIA",
@@ -247,23 +247,23 @@ const postMetadata = {
   },
   'glm-5-1-open-source-crown-beijing-2026': {
     metaTitle: "GLM-5.1: The 754B-Parameter Open-Source MoE That Beat GPT-5.4 on Real-World Coding — and Trained Without NVIDIA",
-    metaDescription: "On April 7, 2026, a Chinese AI research lab quietly uploaded a set of model weights to Hugging Face. There was no splashy livestream. No Sam Altman tweet thread. No carefully choreographed product...",
-    keywords: '',
+    metaDescription: "On April 7, 2026, a Chinese AI research lab quietly uploaded a set of model weights to Hugging Face. There was no splashy livestream. No carefully...",
+    keywords: '["Chinese AI", "Moonshot AI", "Kimi", "Zhipu AI", "Huawei", "Ascend", "NVIDIA", "OpenAI", "GPT", "Claude"]',
   },
   'unitree-robotics-ipo-china-humanoid-robot-first-stock-2026': {
     metaTitle: "Unitree's IPO Sprint: How a Chinese Robot Maker Went From Zero to ¥17 Billion in Eight Years",
-    metaDescription: "Unitree Technology's IPO is not merely a capital markets event. It is a structural inflection point for the entire humanoid robotics sector. The company filed its prospectus on March 20, 2026, and...",
-    keywords: '',
+    metaDescription: "Unitree's IPO Sprint: How a Chinese Robot Maker Went From Zero to ¥17 Billion in Eight Years On the morning of June 1, 2026, Wang Xingxing sat in a...",
+    keywords: '["Shanghai", "IPO", "investment", "API", "robotics", "humanoid robot"]',
   },
   'gaokao-agent-wars-china-ai-battleground-2026': {
     metaTitle: "The Gaokao Agent Wars: How China's 12.9 Million Student Exam Became Tech's Biggest AI Battleground",
-    metaDescription: "The gaokao has always been more than an exam. For decades, it has been the single most consequential information market in China. Every year, 12–13 million students and their families engage in a...",
-    keywords: '',
+    metaDescription: "The Gaokao Agent Wars: How China's 12.9 Million Student Exam Became Tech's Biggest AI Battleground It was 11:47 PM on June 10, 2026, and 17-year-old Liu...",
+    keywords: '["AI agent", "Beijing", "ByteDance", "Doubao", "Alibaba", "Tencent", "DeepSeek", "funding", "API", "CES"]',
   },
   'triple-silicon-china-ai-chip-independence-2026': {
     metaTitle: "The Triple Silicon Gambit: How China's AI Chip Surge Is Forging an Independent Path to AGI",
-    metaDescription: "For nearly three years, the prevailing narrative in Washington, London, and Silicon Valley has been straightforward: the US ban on advanced GPU exports to China has created a \"compute moat\" that...",
-    keywords: '',
+    metaDescription: "The Triple Silicon Gambit: How China's AI Chip Surge Is Forging an Independent Path to AGI The conventional wisdom says US semiconductor export controls...",
+    keywords: '["artificial intelligence", "Chinese AI", "Beijing", "ByteDance", "DeepSeek", "Huawei", "Ascend", "NVIDIA", "GPU", "AI chip"]',
   },
   'china-embodied-ai-revolution-funding-world-models-2026': {
     metaTitle: "China's Embodied AI Revolution: The $3.3 Billion Quarterly Funding Frenzy, World Models, and the Physical AI Economy",
@@ -277,7 +277,7 @@ const postMetadata = {
   },
   'ai-thesis-writing-phenomenon-china-2026': {
     metaTitle: "The AI Thesis Writing Phenomenon: How Chinese Students Are Redefining Academic Work with Generative AI",
-    metaDescription: "China's graduation season is upon us, and a new phenomenon is dominating social media: AI thesis writing. On Xiaohongshu alone, searches for \"AI写论文\" (AI writing thesis) have surged 85% in just one...",
+    metaDescription: "China's 12 million graduates are facing an existential question: write their thesis themselves, or let AI do it? The answer is reshaping academia. China's...",
     keywords: '["AI thesis writing", "China AI education", "Kimi AI", "ChatGPT", "Claude", "academic integrity", "Chinese graduates", "AI detection", "thesis generation", "generative AI education"]',
   },
   'tencent-wechat-ai-agent-billion-users-china-2026': {
@@ -287,7 +287,7 @@ const postMetadata = {
   },
   'china-ai-ipo-wave-zhipu-minimax-2026': {
     metaTitle: "China's AI IPO Wave: How Zhipu and MiniMax Are Rewriting the Rules of AI Capitalization",
-    metaDescription: "Something historic is happening in China's AI industry. Zhipu AI, one of China's \"Big Five\" large model companies, has seen its share price surge over 1,600% since its Hong Kong IPO, pushing its...",
+    metaDescription: "China's AI unicorns are trading at valuations that would have seemed impossible just 18 months ago Something historic is happening in China's AI industry.",
     keywords: '["China AI IPO", "Zhipu AI", "MiniMax", "China AI market", "AI valuation", "Hong Kong stock market", "DeepSeek", "AI model companies", "Chinese AI stocks", "AI investment 2026"]',
   },
   'ai-interview-coaching-china-graduates-job-market-2026': {
@@ -297,8 +297,8 @@ const postMetadata = {
   },
   'china-ai-agent-era-140-trillion-tokens-2026': {
     metaTitle: "China's AI Agent Era: How 140 Trillion Daily Tokens, New Regulations, and a DeepSeek Price War Are Reshaping Global AI",
-    metaDescription: "On June 1, 2026, three Chinese ministries jointly issued the \"Implementation Opinions on Standardized Application and Innovative Development of AI Agents\" — the most comprehensive national policy...",
-    keywords: '',
+    metaDescription: "China's AI Agent Era: How 140 Trillion Daily Tokens, New Regulations, and a DeepSeek Price War Are Reshaping Global AI June 2026 marks a watershed moment...",
+    keywords: '["AI agent", "Chinese AI", "Beijing", "DeepSeek", "NVIDIA", "API", "AI regulation", "inference", "data center", "CES"]',
   },
   'minimax-300m-users-arr-doubles-a-share-ipo-china-ai-export-2026': {
     metaTitle: "MiniMax Hits 300M Users and Doubles ARR in 60 Days: The Anatomy of China's Most Successful AI Export",
@@ -312,8 +312,8 @@ const postMetadata = {
   },
   'china-humanoid-robot-tsunami-2026-50k-units-global-dominance': {
     metaTitle: "China's Humanoid Robot Tsunami: 50,000 Units, 700% Growth, and Why 2026 Is the Year Everything Changed",
-    metaDescription: "In May 2026, three separate research reports dropped within two weeks of each other. Each told the same story in slightly different numbers, but the narrative was unmistakable: the humanoid robot...",
-    keywords: '',
+    metaDescription: "China's humanoid robot industry is scaling from thousands to tens of thousands of units in a single year—a shift that is redefining global robotics...",
+    keywords: '["Shanghai", "Huawei", "venture capital", "IPO", "startup", "API", "robotics", "humanoid robot", "embodied AI"]',
   },
   'alibaba-zhenwu-m890-ai-chip-china-silicon-sovereignty': {
     metaTitle: "Alibaba Zhenwu M890: 3x AI Chip, 560K Units Shipped",
@@ -337,8 +337,8 @@ const postMetadata = {
   },
   'ai-digital-humans-china-billion-dollar-livestream-revolution': {
     metaTitle: "China's AI Digital Human Explosion: The 100 Billion Yuan Avatar Economy Reshaping E-Commerce",
-    metaDescription: "In February 2026, Chinese regulators drew a hard line: every AI-generated face in a livestream must be labeled. Two months later, that rule hasn't slowed the industry down—it's accelerated it. With...",
-    keywords: '',
+    metaDescription: "In February 2026, Chinese regulators drew a hard line: every AI-generated face in a livestream must be labeled. Two months later, that rule hasn't slowed...",
+    keywords: '["ByteDance", "SaaS", "API", "digital human", "CES"]',
   },
   'deepseek-permanent-75-percent-api-price-cut-ai-war-2026': {
     metaTitle: "DeepSeek Permanent 75% API Price Cut: AI Pricing War 2026",
@@ -362,43 +362,43 @@ const postMetadata = {
   },
   'china-ai-global-expansion-minimax-2-billion-users-2026': {
     metaTitle: "China AI Goes Global: How MiniMax Built a 236 Million User Empire from Shanghai",
-    metaDescription: "On March 2, 2026, MiniMax released its first annual report as a publicly traded company — and in doing so, delivered something the global AI industry had never seen: audited financial proof that a...",
-    keywords: '',
+    metaDescription: "China AI Goes Global: How MiniMax Built a 236 Million User Empire from Shanghai In 2025, a Shanghai startup earned 73% of its revenue from overseas...",
+    keywords: '["Chinese AI", "Shanghai", "ByteDance", "Kimi", "DeepSeek", "MiniMax", "Zhipu AI", "GPT", "IPO", "startup"]',
   },
   'china-ai-interview-revolution-2026': {
     metaTitle: "AI Interview Coaching: China's 2026 Grad Job Market Hack",
-    metaDescription: "In the seven days leading up to May 20, 2026, Chinese social media platform Xiaohongshu recorded a 120% week-over-week surge in searches for \"AI interview coaching\" (AI面试辅导). The topic accumulated...",
-    keywords: '',
+    metaDescription: "AI Interview Coaching: China's 2026 Grad Job Market Hack Xiaohongshu searches for \"AI interview coaching\" surged 120% in one week. Six hundred eighty...",
+    keywords: '["ByteDance", "Doubao", "Alibaba", "Tongyi Qianwen", "Moonshot AI", "Kimi", "CES"]',
   },
   'china-ai-chip-renaissance-q1-2026': {
     metaTitle: "China's AI Chip Renaissance: The Quarter That Changed Everything",
-    metaDescription: "For years, China's AI chip industry was defined by what it couldn't do. Couldn't access the most advanced manufacturing. Couldn't match Nvidia's software ecosystem. Couldn't turn a profit. The...",
-    keywords: '',
+    metaDescription: "China's AI Chip Renaissance: The Quarter That Changed Everything Cambricon's profit surge of 185%. Hygon crossing ¥40 billion in quarterly revenue. Moore...",
+    keywords: '["machine learning", "Shanghai", "DeepSeek", "Huawei", "Ascend", "NVIDIA", "AI chip", "semiconductor", "Llama", "cloud computing"]',
   },
   'china-ai-ppt-revolution-3-minute-decks-2026': {
     metaTitle: "The 3-Minute Deck Revolution: How China's Office Workers Are Using AI to Replace PowerPoint Design",
-    metaDescription: "The 3-Minute Deck Revolution: How China's Office Workers Are Using AI to Replace PowerPoint Design",
-    keywords: '',
+    metaDescription: "The 3-Minute Deck Revolution: How China's Office Workers Are Using AI to Replace PowerPoint Design China's office workers are abandoning manual slide...",
+    keywords: '["training", "CES", "artificial intelligence", "China tech", "AI industry", "machine learning", "technology"]',
   },
   'china-ai-hallucination-blind-spot-crisis-2026': {
     metaTitle: "The Hallucination Blind Spot: How China's 249M AI Users Became Perfect Prey for a Deception Epidemic",
-    metaDescription: "China's generative AI adoption has reached a scale unmatched by any nation: 249 million users—17.7% of the population—now interact with large language models regularly. But beneath this milestone...",
-    keywords: '',
+    metaDescription: "The Hallucination Blind Spot: How China's 249M AI Users Became Perfect Prey for a Deception Epidemic On May 17, 2025, two reports dropped within hours of...",
+    keywords: '["neural network", "large language model", "generative AI", "Chinese AI", "Shanghai", "DeepSeek", "CES"]',
   },
   'china-ai-creator-economy-digital-humans-2026': {
     metaTitle: "China's AI Creator Economy: How Digital Humans and $45B Valuations Are Reshaping Global Content",
-    metaDescription: "On May 6, 2026, while Western markets were digesting another quarterly earnings cycle, China's AI industry quietly delivered a one-two punch that reverberated through global venture capital....",
-    keywords: '',
+    metaDescription: "China's AI Creator Economy: How Digital Humans and $45B Valuations Are Reshaping Global Content On May 6, 2026, while Western markets were digesting...",
+    keywords: '["Chinese AI", "Shanghai", "Moonshot AI", "Kimi", "DeepSeek", "MiniMax", "funding", "venture capital", "investment", "API"]',
   },
   'china-ai-invisible-empire-consumer-apps-2026': {
     metaTitle: "The Invisible Empire: How China's AI Consumer Apps Quietly Conquered 2.5 Billion Users — And Why the World Barely Noticed",
-    metaDescription: "While Silicon Valley obsessed over GPT-5's next token and Anthropic's march toward a trillion-dollar valuation, something extraordinary was happening on the other side of the Pacific. China's AI...",
-    keywords: '',
+    metaDescription: "The Invisible Empire: How China's AI Consumer Apps Quietly Conquered 2.5 Billion Users — And Why the World Barely Noticed While Silicon Valley obsessed...",
+    keywords: '["Chinese AI", "Shanghai", "ByteDance", "Doubao", "Alibaba", "Tongyi Qianwen", "Baidu", "Wenxin Yiyan", "Moonshot AI", "Kimi"]',
   },
   'china-six-networks-trillion-infrastructure-ai-compute-2026': {
     metaTitle: "China's $7 Trillion 'Six Networks' Strategy: When AI Compute Gets the Same Priority as Water and Electricity",
-    metaDescription: "On April 28, 2026, China's Politburo did something unprecedented: it elevated compute networks (算力网) to the same strategic tier as water networks, power grids, and logistics networks. In a single...",
-    keywords: '',
+    metaDescription: "On April 28, 2026, China's Politburo did something unprecedented: it elevated compute networks (算力网) to the same strategic tier as water networks, power...",
+    keywords: '["investment", "API", "compute", "data center", "CES"]',
   },
   'china-ai-olympus-65-billion-war-future-intelligence-2026': {
     metaTitle: "China's AI Olympus: The $65 Billion War for the Future of Intelligence",
@@ -418,192 +418,192 @@ const postMetadata = {
   'kimi-20-billion-valuation-china-ai-token-economy': {
     metaTitle: "Kimi's $20 Billion Bet: How China's AI Token Economy Is Rewriting Global Power Dynamics",
     metaDescription: "Kimi hits a $20 billion funding round at $200 billion valuation while China's AI token consumption surges past the US for the third time. Here's what it means for the global AI landscape.",
-    keywords: '',
+    keywords: '["Chinese AI", "Moonshot AI", "Kimi", "DeepSeek", "MiniMax", "Zhipu AI", "funding", "venture capital", "startup", "API"]',
   },
   'deepseek-v4-promo-ending-analysis': {
     metaTitle: "DeepSeek V4's 75% Promo Ends May 31: What Happens Next and Why the AI Pricing War Is Just Beginning",
-    metaDescription: "DeepSeek V4 launched on April 24, 2026, with a 75% promotional discount on its flagship Pro model. Originally set to expire on May 5, the offer has been extended to May 31 — but the clock is ticking....",
-    keywords: '',
+    metaDescription: "DeepSeek V4 launched on April 24, 2026, with a 75% promotional discount on its flagship Pro model. Originally set to expire on May 5, the offer has been...",
+    keywords: '["DeepSeek", "GPT", "Claude", "Gemini", "API", "CES"]',
   },
   'china-ai-deepfake-fraud-crisis-2026': {
     metaTitle: "China's AI Deepfake Fraud Crisis: How 700,000 Annual Scams and a $40 Billion Global Threat Are Reshaping Trust in the Digital Age",
-    metaDescription: "China's AI industry has achieved remarkable commercial success. Moonshot AI's Kimi K2.6 matches GPT-5.5 on coding benchmarks. DeepSeek V4 undercuts Western APIs by 10-30x. MiniMax filed for IPO with...",
-    keywords: '',
+    metaDescription: "China's AI Deepfake Fraud Crisis: How 700,000 Annual Scams and a $40 Billion Global Threat Are Reshaping Trust in the Digital Age China's AI digital human...",
+    keywords: '["generative AI", "Moonshot AI", "Kimi", "DeepSeek", "MiniMax", "GPT", "IPO", "investment", "API", "digital human"]',
   },
   'kimi-k2-6-open-source-coding-revolution': {
     metaTitle: "Kimi K2.6: How a $18B Chinese Startup Is Rewriting the Rules of Open-Source AI Coding",
-    metaDescription: "On April 20, 2026, while Silicon Valley was still processing OpenAI's GPT-5.5 launch, a Beijing-based startup quietly shipped a model that would send shockwaves through the global developer...",
-    keywords: '',
+    metaDescription: "Kimi K2.6: How a $18B Chinese Startup Is Rewriting the Rules of Open-Source AI Coding On April 20, 2026, while Silicon Valley was still processing...",
+    keywords: '["Beijing", "Moonshot AI", "Kimi", "OpenAI", "GPT", "Claude", "venture capital", "startup", "API", "compute"]',
   },
   'china-ai-global-surge-api-traffic-empire-2026': {
     metaTitle: "From Made in China to Trained in China: The Untold Story of How Chinese AI Conquered Global Developers",
-    metaDescription: "China's technology exports have always followed a familiar playbook: manufacture hardware cheaply, sell globally, gradually move up the value chain. Smartphones took a decade. Solar panels took...",
-    keywords: '',
+    metaDescription: "China's AI export model defies every precedent in technology history. Image: Unsplash China's technology exports have always followed a familiar playbook:...",
+    keywords: '["Chinese AI", "Shenzhen", "Kimi", "DeepSeek", "Huawei", "Ascend", "GPU", "AI chip", "semiconductor", "OpenAI"]',
   },
   'china-ai-agent-revolution-2026-policy-market': {
     metaTitle: "Inside China's AI Policy Machine: How the Politburo's 'AI+ Action' Directive Is Rewriting Procurement Law",
-    metaDescription: "> \"The question isn't whether AI agents will replace human workers. The question is whether companies that don't deploy agents will be replaced by companies that do.\" — Industry analyst, 36Kr Summit,...",
-    keywords: '',
+    metaDescription: "\"The question isn't whether AI agents will replace human workers. The question is whether companies that don't deploy agents will be replaced by companies...",
+    keywords: '["artificial intelligence", "AI agent", "funding", "training", "compute", "CES"]',
   },
   'ai-compute-crunch-china-token-crisis-2026': {
     metaTitle: "The Great AI Compute Crunch: How China's AI Boom Is Running Out of Tokens",
-    metaDescription: "China's AI revolution is facing an unexpected bottleneck. In April 2026, as DeepSeek launched its highly anticipated V4 model and Kimi pushed out K2.6, the nation's hottest AI companies discovered a...",
-    keywords: '',
+    metaDescription: "China's AI revolution is facing an unexpected bottleneck. In April 2026, as DeepSeek launched its highly anticipated V4 model and Kimi pushed out K2.6,...",
+    keywords: '["AI agent", "Beijing", "Alibaba", "Baidu", "Tencent", "Hunyuan", "Moonshot AI", "Kimi", "DeepSeek", "MiniMax"]',
   },
   'bytedance-seed-brain-drain-70-engineers': {
     metaTitle: "ByteDance's AI Brain Drain: 70 Top Engineers Exit Seed Team in 12 Months",
-    metaDescription: "Bytedance's AI Brain Drain: 70 Top Engineers Exit Seed Team in 12 Months",
-    keywords: '',
+    metaDescription: "\"Bytedance's AI Brain Drain: 70 Top Engineers Exit Seed Team in 12 Months",
+    keywords: '["large language model", "LLM", "generative AI", "Chinese AI", "Beijing", "Shanghai", "ByteDance", "Doubao", "Alibaba", "Tencent"]',
   },
   'deepseek-v4-million-token-china-ai-sovereignty': {
     metaTitle: "DeepSeek V4: The Million-Token API Update That Signals China's AI Sovereignty Shift",
-    metaDescription: "On April 22, 2026, Chinese developers noticed something peculiar. DeepSeek's API—previously capped at 128K context tokens—suddenly accepted prompts up to 1 million tokens. The knowledge cutoff...",
-    keywords: '',
+    metaDescription: "DeepSeek's quiet API update on April 22 signals something far bigger than a context window expansion—it's the prelude to China's most significant AI model...",
+    keywords: '["DeepSeek", "Huawei", "Ascend", "NVIDIA", "funding", "investment", "API", "inference", "training", "compute"]',
   },
   'china-embodied-intelligence-robot-marathon-2026': {
     metaTitle: "China's Embodied Intelligence Revolution: When Robots Outrun Humans — April 2026",
-    metaDescription: "Meta Title: China's Embodied Intelligence Revolution: When Robots Outrun Humans — April 2026\nMeta Description: Honor's \"Lightning\" robot breaks human half-marathon world record in 50:26. TARS raises...",
-    keywords: '',
+    metaDescription: "China's Embodied Intelligence Revolution: When Robots Outrun Humans Meta Title: China's Embodied Intelligence Revolution: When Robots Outrun Humans —...",
+    keywords: '["artificial intelligence", "Beijing", "funding", "investment", "API", "robotics", "humanoid robot", "training", "data center"]',
   },
   'china-ai-avatar-revolution-2026': {
     metaTitle: "China's AI Avatar Revolution: How 410 Million Views Signal a Global Content Creation Shift",
-    metaDescription: "China's AI avatar market has reached an inflection point. With 410 million views on the topic \"AI数字人\" (AI Digital Humans) on Xiaohongshu alone, and a staggering 200% weekly growth rate, this isn't...",
-    keywords: '',
+    metaDescription: "<!-- Hero Image -- AI avatar technology is reshaping content creation at unprecedented scale (Image: Unsplash)  China's AI Avatar Revolution: How 410...",
+    keywords: '["ByteDance", "API", "digital human", "training", "CES"]',
   },
   'stanford-ai-index-2026-china-rise': {
     metaTitle: "Stanford AI Index 2026: China's 'Parallel Run' Era Has Arrived",
-    metaDescription: "This is not empty rhetoric. The report substantiates this conclusion with three key metrics:",
-    keywords: '',
+    metaDescription: "\"The Stanford campus at dusk, where the world's most authoritative AI report originates",
+    keywords: '["artificial intelligence", "Chinese AI", "Beijing", "Alibaba", "DeepSeek", "MiniMax", "OpenAI", "GPT", "Claude", "CES"]',
   },
   'alibaba-token-hub-100b-gambit': {
     metaTitle: "Alibaba's $100B Token Gambit: Inside the Alibaba Token Hub Revolution Reshaping China's AI Economy",
-    metaDescription: "On March 16, 2026, Alibaba did something unprecedented in corporate history: it named a core business unit after a technical metric. The Alibaba Token Hub (ATH)—a name that would make most boardrooms...",
-    keywords: '',
+    metaDescription: "On March 16, 2026, Alibaba did something unprecedented in corporate history: it named a core business unit after a technical metric. The Alibaba Token Hub...",
+    keywords: '["large language model", "LLM", "AI agent", "Alibaba", "NVIDIA", "GPU", "GPT", "Gemini", "API", "cloud computing"]',
   },
   'china-ai-agent-explosion-2025-enterprise-deployment': {
     metaTitle: "China's AI Agent Explosion: How 126 Platforms and $1B+ in Enterprise Deals Are Reshaping Global Automation",
-    metaDescription: "The Chinese AI Agent market has crossed a critical threshold in 2025. What began as experimental pilots in 2023 has evolved into a full-scale industrial deployment, with enterprises moving from...",
-    keywords: '',
+    metaDescription: "China's AI Agent ecosystem spans 126 development platforms and serves millions of enterprise users across manufacturing, e-commerce, and financial...",
+    keywords: '["AI agent", "Chinese AI", "Beijing", "ByteDance", "Alibaba", "Baidu", "Tencent", "Kimi", "Zhipu AI", "GPT"]',
   },
   'china-ai-model-war-april-2026-week-changed-everything': {
     metaTitle: "The Week That Changed Everything: China's AI Model War Intensifies in April 2026",
-    metaDescription: "The first week of April 2026 will be remembered as the moment China's AI industry fundamentally shifted gears. What started as a typical news week quickly escalated into an unprecedented flurry of...",
-    keywords: '',
+    metaDescription: "The AI model wars: Chinese tech giants battle for dominance in the world's largest AI market. Photo by Google DeepMind / Unsplash The first week of April...",
+    keywords: '["Chinese AI", "Beijing", "Doubao", "Alibaba", "Kimi", "GPT", "funding", "API", "embodied AI", "inference"]',
   },
   'china-ai-chip-war-2026-us-sanctions': {
     metaTitle: "The Great Silicon Wall: How China's AI Industry Is Defying U.S. Chip Sanctions in 2026",
-    metaDescription: "In January 2025, when the Biden administration imposed sweeping restrictions on AI chip exports to China, the consensus in Silicon Valley was clear: Chinese AI development would slow dramatically....",
-    keywords: '',
+    metaDescription: "The Great Silicon Wall: How China's AI Industry Is Defying U.S. Chip Sanctions in 2026 ByteDance's $5.6 billion bet on Huawei. DeepSeek V4 launching on...",
+    keywords: '["Chinese AI", "ByteDance", "Doubao", "DeepSeek", "Huawei", "Ascend", "NVIDIA", "GPU", "AI chip", "startup"]',
   },
   'china-ai-model-wars-april-2026': {
     metaTitle: "China's AI Model Wars: How Alibaba, ByteDance, and MiniMax Are Reshaping Global AI Competition in April 2026",
-    metaDescription: "April 1-10, 2026 will be remembered as the moment China's AI industry shifted from \"fast follower\" to \"global leader.\" In just ten days, domestic tech giants unleashed a barrage of innovations that...",
-    keywords: '',
+    metaDescription: "China's AI Model Wars: How Alibaba, ByteDance, and MiniMax Are Reshaping Global AI Competition in April 2026 The most intense week in Chinese AI...",
+    keywords: '["Chinese AI", "ByteDance", "Alibaba", "Moonshot AI", "Kimi", "MiniMax", "Llama", "API", "CES"]',
   },
   'modelbest-edge-ai-unicorn-2026': {
     metaTitle: "ModelBest Becomes Unicorn: How Tsinghua's Edge AI Pioneer Is Reshaping On-Device Intelligence",
-    metaDescription: "A quiet revolution in artificial intelligence is happening on the smallest screens. While tech giants battle for cloud dominance, ModelBest—a Tsinghua University spinoff barely three years old—has...",
-    keywords: '',
+    metaDescription: "A quiet revolution in artificial intelligence is happening on the smallest screens. While tech giants battle for cloud dominance, ModelBest—a Tsinghua...",
+    keywords: '["artificial intelligence", "Beijing", "Shenzhen", "GPU", "GPT", "Gemini", "funding", "investment", "startup", "API"]',
   },
   'ai-interview-coaching-china-2025': {
     metaTitle: "The AI Interview Coach Phenomenon: How Chinese Graduates Are Using AI to Crack the Job Market",
-    metaDescription: "China's job market has become a battleground for millions of fresh graduates, and a surprising new weapon has emerged: AI interview coaches. In the past week alone, searches for \"AI interview...",
-    keywords: '',
+    metaDescription: "China's job market has become a battleground for millions of fresh graduates, and a surprising new weapon has emerged: AI interview coaches. In the past...",
+    keywords: '["large language model", "LLM", "Chinese AI", "ByteDance", "Doubao", "Alibaba", "Tongyi Qianwen", "Moonshot AI", "Kimi", "CES"]',
   },
   'china-ai-token-surge-gen-z': {
     metaTitle: "China's AI Overtake: 31% Surge in Token Usage Signals Global Power Shift",
-    metaDescription: "China's AI Overtake: 31% Surge in Token Usage Signals Global Power Shift",
-    keywords: '',
+    metaDescription: "China's AI Overtake: 31% Surge in Token Usage Signals Global Power Shift China's AI revolution is accelerating beyond predictions. According to OpenRouter...",
+    keywords: '["Chinese AI", "Kimi", "DeepSeek", "MiniMax", "Zhipu AI", "OpenAI", "GPT", "Claude", "funding", "venture capital"]',
   },
   'china-ai-avatar-revolution-2025': {
     metaTitle: "China's AI Avatar Revolution: 410M Views Transformed Content Creation Forever",
-    metaDescription: "Something extraordinary is happening on Chinese social media. In the first week of April 2026, the topic \"AI Digital Human\" (AI数字人) on Xiaohongshu (China's Instagram-equivalent) accumulated 410...",
-    keywords: '',
+    metaDescription: "China's AI Avatar Revolution: How 410 Million Views Transformed Content Creation Forever The rise of faceless influencers and the $4.4 billion digital...",
+    keywords: '["neural network", "investment", "API", "digital human", "CES"]',
   },
   'china-ai-digital-human-revolution': {
     metaTitle: "China's AI Digital Human Revolution: 80,000 Virtual Avatars Reshaping Content",
-    metaDescription: "The creator economy in China has reached an inflection point. A single hashtag on Xiaohongshu—\"AI数字人\" (AI Digital Human)—has accumulated 410 million views with a staggering +200% growth in just one...",
-    keywords: '',
+    metaDescription: "AI digital humans are becoming indistinguishable from real creators, sparking a revolution in China's content economy The creator economy in China has...",
+    keywords: '["Doubao", "Tongyi Qianwen", "Kimi", "GPT", "Claude", "funding", "IPO", "API", "digital human", "CES"]',
   },
   'doubao-12-trillion-token-explosion': {
     metaTitle: "Doubao's 12 Trillion Token Explosion: How ByteDance Is Quietly Winning the Global AI Race",
-    metaDescription: "On April 2, 2026, while Silicon Valley was still digesting the latest GPT-5 rumors, a single announcement from Wuhan, China sent shockwaves through the global AI industry.",
-    keywords: '',
+    metaDescription: "Doubao's 12 Trillion Token Explosion: How ByteDance Is Quietly Winning the Global AI Race The exponential rise of China's AI ecosystem is reshaping global...",
+    keywords: '["large language model", "Chinese AI", "ByteDance", "Doubao", "Alibaba", "Moonshot AI", "Kimi", "DeepSeek", "MiniMax", "OpenAI"]',
   },
   'stepfun-terminal-ai-revolution': {
     metaTitle: "StepFun's $7 Billion Bet: How China's AI Unicorn Is Winning the Terminal Race",
-    metaDescription: "On January 26, 2026, while most of the tech world was still digesting DeepSeek's open-source strategy, another Shanghai-based AI company quietly dropped a bombshell that would reshape the competitive...",
-    keywords: '',
+    metaDescription: "StepFun's $7 Billion Bet: How China's AI Unicorn Is Winning the Terminal Race The Shanghai AI lab that abandoned the consumer chatbot race is now inside...",
+    keywords: '["Chinese AI", "Shanghai", "Alibaba", "Tencent", "DeepSeek", "GPT", "funding", "API", "robotics", "embodied AI"]',
   },
   'ai-thesis-writing-china': {
     metaTitle: "AI Thesis Writing Explodes: How 12 Million Chinese Students Are Rewriting Academic Rules",
-    metaDescription: "In the months leading up to China's 2026 graduation season, a remarkable trend erupted across Chinese social media: \"AI thesis writing\" (AI写论文).",
-    keywords: '',
+    metaDescription: "\"AI Thesis Writing Explodes: How 12 Million Chinese Students Are Rewriting Academic Rules",
+    keywords: '["Chinese AI", "ByteDance", "Doubao", "Alibaba", "Tongyi Qianwen", "Tencent", "Kimi", "GPT", "Claude", "data center"]',
   },
   'doubao-bytedance': {
     metaTitle: "ByteDance Doubao: The 200 Million User AI Assistant Reshaping Content Creation",
-    metaDescription: "While Baidu's Wenxin Yiyan dominates search integration and DeepSeek captures the technical elite, ByteDance's Doubao has carved out a different kingdom: 200 million monthly active users who create,...",
-    keywords: '',
+    metaDescription: "While Baidu's Wenxin Yiyan dominates search integration and DeepSeek captures the technical elite, ByteDance's Doubao has carved out a different kingdom:...",
+    keywords: '["ByteDance", "Doubao", "Alibaba", "Baidu", "Wenxin Yiyan", "DeepSeek", "GPT", "API", "CES"]',
   },
   'bytedance-ai-gamble-gpu-kingpin-profit-drop': {
     metaTitle: "ByteDance's AI Obsession: How a 70% Profit Plunge Turned a Social Media Giant Into China's GPU Kingpin",
-    metaDescription: "On April 20, 2026, Securities Times dropped a bombshell that rippled through China's tech ecosystem: ByteDance's 2025 net profit had collapsed by more than 70% compared to the previous year. The...",
-    keywords: '',
+    metaDescription: "ByteDance's AI Obsession: How a 70% Profit Plunge Turned a Social Media Giant Into China's GPU Kingpin The company that built its empire on 15-second...",
+    keywords: '["artificial intelligence", "large language model", "AI agent", "ByteDance", "Alibaba", "Tencent", "DeepSeek", "NVIDIA", "GPU", "API"]',
   },
   'china-ai-april-infrastructure-2026': {
     metaTitle: "China's AI Revolution: Education Reform, National Standards, and Ecosystem Breakthroughs in April 2026",
-    metaDescription: "China's AI Revolution: Education Reform, National Standards, and Ecosystem Breakthroughs in April 2026",
-    keywords: '',
+    metaDescription: "China's AI Revolution: Education Reform, National Standards, and Ecosystem Breakthroughs in April 2026 Shanghai Jiao Tong University launches...",
+    keywords: '["artificial intelligence", "generative AI", "Beijing", "Shanghai", "DeepSeek", "funding", "investment", "API", "humanoid robot", "compute"]',
   },
   'minimax-ipo-212-million-users-ai-companion-empire': {
     metaTitle: "MiniMax Files for IPO: How China's AI Companion Empire Built 212 Million Users and Challenged the Global Social Landscape",
-    metaDescription: "MiniMax Files for IPO: How China's AI Companion Empire Built 212 Million Users and Challenged the Global Social Landscape",
-    keywords: '',
+    metaDescription: "MiniMax Files for IPO: How China's AI Companion Empire Built 212 Million Users and Challenged the Global Social Landscape MiniMax's Talkie and 星野 apps...",
+    keywords: '["artificial intelligence", "Chinese AI", "ByteDance", "DeepSeek", "MiniMax", "venture capital", "IPO", "investment", "startup", "SaaS"]',
   },
   'tars-embodied-intelligence-455-million-brain-club': {
     metaTitle: "Tars Raises $455M: How China's 'Robot Brain' Startup Cracked the Embodied Intelligence Code",
-    metaDescription: "Tars Raises $455M: How China's \"Robot Brain\" Startup Cracked the Embodied Intelligence Code",
-    keywords: '',
+    metaDescription: "Tars Raises $455M: How China's \"Robot Brain\" Startup Cracked the Embodied Intelligence Code Tars' AWE 3.0-powered A1 robot set a Guinness World Record for...",
+    keywords: '["Beijing", "Shanghai", "NVIDIA", "funding", "investment", "startup", "API", "robotics", "CES"]',
   },
   'tongyi-qianwen-alibaba': {
     metaTitle: "Alibaba Tongyi Qianwen: Enterprise AI Powerhouse",
-    metaDescription: "While Baidu captured consumer mindshare and DeepSeek shocked the industry with cost efficiency, Alibaba's Tongyi Qianwen has quietly built the most comprehensive enterprise AI platform in China. With...",
-    keywords: '',
+    metaDescription: "While Baidu captured consumer mindshare and DeepSeek shocked the industry with cost efficiency, Alibaba's Tongyi Qianwen has quietly built the most...",
+    keywords: '["Alibaba", "Tongyi Qianwen", "Baidu", "Wenxin Yiyan", "DeepSeek", "GPT", "Claude", "enterprise AI", "API", "compute"]',
   },
   'wenxin-yiyan-baidu': {
     metaTitle: "Baidu Wenxin Yiyan: The 300 Million User AI Assistant",
-    metaDescription: "When international headlines celebrate DeepSeek's cost efficiency and Kimi's technical innovations, Baidu's Wenxin Yiyan has quietly achieved something equally remarkable: 300 million monthly active...",
-    keywords: '',
+    metaDescription: "When international headlines celebrate DeepSeek's cost efficiency and Kimi's technical innovations, Baidu's Wenxin Yiyan has quietly achieved something equally remarkable: 300 million monthly active users and a $5 billion annual revenue run rate that makes it one of the most valuable AI products on Earth.",
+    keywords: '["Baidu", "Wenxin Yiyan", "Ernie Bot", "China AI", "AI chatbot", "Chinese search", "LLM", "ByteDance", "Doubao", "Alibaba", "Tongyi Qianwen", "Moonshot AI", "Kimi", "DeepSeek", "AI assistant", "search AI"]',
   },
   'ai-video-tools-china': {
     metaTitle: "Chinese AI Video Generation: Kling, Vidu, Hailuo vs Sora Technical Comparison",
-    metaDescription: "While OpenAI's Sora captured global attention with its demonstration videos, Chinese companies have been quietly building video generation tools that are already in production use. Kling, Vidu, and...",
-    keywords: '',
+    metaDescription: "While OpenAI's Sora captured global attention with its demonstration videos, Chinese companies have been quietly building video generation tools that are...",
+    keywords: '["Chinese AI", "MiniMax", "OpenAI", "API", "AI video", "training", "CES"]',
   },
   'chinese-ai-index-2026': {
     metaTitle: "The Chinese AI Index 2026: Mapping 103 Companies That Are Reshaping Global Technology",
-    metaDescription: "It wasn't a single model release. It wasn't a funding round. It was the realization that China had built an AI ecosystem so comprehensive, so densely interconnected, that it could no longer be...",
+    metaDescription: "The Chinese AI Index 2026: Mapping 103 Companies That Are Reshaping Global Technology Photo by Joshua Sortino on Unsplash In March 2026, something changed...",
     keywords: '["Chinese AI companies", "AI ecosystem China", "foundation models China", "AI infrastructure", "DeepSeek", "Kimi", "ByteDance", "AI investment China"]',
   },
   'deepseek-v3-deep-dive': {
     metaTitle: "DeepSeek-V3: The $5.6M Training Run",
-    metaDescription: "DeepSeek-V3 represents one of the most significant efficiency breakthroughs in AI history. Training a model competitive with GPT-4 for just $5.6 million challenges fundamental assumptions about the...",
-    keywords: '',
+    metaDescription: "DeepSeek-V3 represents one of the most significant efficiency breakthroughs in AI history. Training a model competitive with GPT-4 for just $5.6 million...",
+    keywords: '["Chinese AI", "DeepSeek", "GPU", "OpenAI", "GPT", "Claude", "startup", "inference", "training", "compute"]',
   },
   'minimax-talkie': {
     metaTitle: "MiniMax: The 212 Million User AI Companion Empire Built on Digital Intimacy",
-    metaDescription: "While ByteDance's Doubao dominates content creation and DeepSeek captures the technical elite, MiniMax has built something arguably more intimate: 212 million users who have formed emotional bonds...",
-    keywords: '',
+    metaDescription: "While ByteDance's Doubao dominates content creation and DeepSeek captures the technical elite, MiniMax has built something arguably more intimate: 212...",
+    keywords: '["Chinese AI", "ByteDance", "Doubao", "Alibaba", "Baidu", "DeepSeek", "MiniMax", "GPT", "IPO", "API"]',
   },
   'chinese-ai-landscape': {
     metaTitle: "The Rise of Chinese AI: Complete Ecosystem Map (Foundation to Application)",
-    metaDescription: "China's AI ecosystem has evolved from a fragmented collection of research labs into a comprehensive industrial stack that rivals Silicon Valley. Understanding this landscape—from domestic chip...",
-    keywords: '',
+    metaDescription: "China's AI ecosystem has evolved from a fragmented collection of research labs into a comprehensive industrial stack that rivals Silicon Valley....",
+    keywords: '["artificial intelligence", "neural network", "Chinese AI", "Shanghai", "Doubao", "Alibaba", "Tencent", "Hunyuan", "Kimi", "DeepSeek"]',
   },
   'kimi-2m-context': {
     metaTitle: "Kimi K2.5 Technical Analysis: 1 Trillion Parameters, 256K Context, Agent Swarms",
-    metaDescription: "When Cursor announced that Composer 2.0 was built on Kimi K2.5 rather than GPT-4 or Claude, the message was clear: Chinese foundation models had reached parity with Western alternatives. But Kimi...",
-    keywords: '',
+    metaDescription: "When Cursor announced that Composer 2.0 was built on Kimi K2.5 rather than GPT-4 or Claude, the message was clear: Chinese foundation models had reached...",
+    keywords: '["neural network", "large language model", "Moonshot AI", "Kimi", "DeepSeek", "GPU", "GPT", "Claude", "inference", "training"]',
   }
 }
 

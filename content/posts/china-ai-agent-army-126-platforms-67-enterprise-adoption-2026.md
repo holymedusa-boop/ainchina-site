@@ -16,6 +16,7 @@ related: [
   "/blog/china-ai-agent-wars-tencent-alibaba-bytedance-2026/"
 ]
 ---
+heroImage: "https://images.unsplash.com/photo-1537531383496-f4749b8032cf?w=1200"
 
 
 
@@ -252,5 +253,5 @@ The West's narrative about China "copying" its AI Agent strategy isn't just wron
 **Related Articles:**
 - [China's AI Inflection Point: From Burn Rate to Revenue Rate (2026)](/blog/china-ai-inflection-point-may-2026/)
 - [MiniMax Hits 300M Users and Doubles ARR in 60 Days](/blog/minimax-300m-users-arr-doubles-a-share-ipo-china-ai-export-2026/)
-- [DeepSeek's $7.4B Mega-Round: How China's Most Secretive AI Lab Went All-In on Capital](/blog/deepseek-73b-megaround-china-ai-funding-frenzy-2026/)
+- DeepSeek's $7.4B Mega-Round: How China's Most Secretive AI Lab Went All-In on Capital]
 - [Alibaba's Zhenwu M890: The 3x AI Chip That Just Shipped 560,000 Units](/blog/alibaba-zhenwu-m890-ai-chip-china-silicon-sovereignty/)

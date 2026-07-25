@@ -16,6 +16,7 @@ related: [
 ]
 category: "AI Applications"
 ---
+heroImage: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200"
 
 
 
@@ -371,7 +372,7 @@ For international observers, the lesson is clear: China's AI competitiveness is 
 - [DeepSeek V4: The Million-Token Model Reshaping China's AI Sovereignty](/blog/deepseek-v4-million-token-china-ai-sovereignty/)
 - [MiniMax Hits 300M Users: Anatomy of China's Most Successful AI Export](/blog/minimax-300m-users-arr-doubles-a-share-ipo-china-ai-export-2026/)
 - [Doubao: ByteDance's 12 Trillion Token Bet on AI Dominance](/blog/doubao-12-trillion-token-explosion/)
-- [Kimi's $20B Valuation and the China AI Token Economy](/blog/kimi-20-billion-valuation-china-ai-token-economy/)
+- [Kimi's $20B Valuation and the China AI Token Economy](/blog/kimi-k2-6-open-source-coding-revolution/)
 
 ---
 

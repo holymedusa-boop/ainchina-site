@@ -18,6 +18,7 @@ related: [
 ]
 category: "AI Industry"
 ---
+heroImage: "https://images.unsplash.com/photo-1537531383496-f4749b8032cf?w=1200"
 
 
 
@@ -317,7 +318,7 @@ If Tencent succeeds, WeChat will evolve from "the app that does everything" to *
 
 ## Related Articles
 
-- [China's AI June Surge: DeepSeek's $7B First Round, Zhipu's STAR Market Bid, and the Agentic AI Stack](/blog/china-ai-june-surge-deepseek-zhipu-agentic-ai-2026/)
+- China's AI June Surge: DeepSeek's $7B First Round, Zhipu's STAR Market Bid, and the Agentic AI Stack]
 - [China's Agent Era: National Policy, AI Terminal Standards, and the Anthropic Trillion-Dollar Warning](/blog/china-agent-era-national-policy-ai-terminal-standards-anthropic-trillion-2026/)
 - [Doubao Starts Charging: The End of China's AI Free Era](/blog/doubao-charging-ai-free-era-ends-china-2026/)
 - [China AI Models Dominate Global API Traffic: The Token Export Empire](/blog/china-ai-models-dominate-global-api-traffic-token-export-2026/)

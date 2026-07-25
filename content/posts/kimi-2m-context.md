@@ -13,6 +13,7 @@ related: [
   "/blog/meituan-longcat-2-trillion-domestic-chips-china-ai-independence-2026/"
 ]
 ---
+heroImage: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200"
 
 
 
@@ -483,7 +484,7 @@ The era of Western AI dominance is ending. The multipolar AI future has arrivedâ
 - [Kimi K2.6: How a $18B Chinese Startup Is Rewriting the Rules of Open-Source AI Coding](/blog/kimi-k2-6-open-source-coding-revolution/)
 - [DeepSeek V4's 75% Promo Ends May 31: What Happens Next and Why the AI Pricing War Is Just Beginning](/blog/deepseek-v4-promo-ending-analysis/)
 - [The Great Silicon Wall: How China's AI Industry Is Defying U.S. Chip Sanctions in 2026](/blog/china-ai-chip-war-2026-us-sanctions/)
-- [Moonshot AI's K3: 2 Million Context Window and the Future of Document AI](/blog/kimi-k3-moonshot-28-trillion-open-ai-2026/)
+- Moonshot AI's K3: 2 Million Context Window and the Future of Document AI]
 
 **Data Sources:**
 - Moonshot AI technical reports

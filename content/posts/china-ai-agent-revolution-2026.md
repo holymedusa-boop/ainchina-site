@@ -205,4 +205,4 @@ Not the model layer. The agent layer.
 - [China's AI Model Wars: How Alibaba, ByteDance, and MiniMax Are Reshaping Global Competition](/blog/china-ai-model-wars-april-2026/)
 - [Huawei Ascend 950PR: ByteDance's $5.6B Bet on Domestic AI Chips](/blog/huawei-ascend-12-billion-ai-chip-surge-global-bifurcation-2026/)
 - [Qwen 3 Billion Downloads: China's Open-Source AI Dominance](/blog/qwen-billion-downloads-china-open-source-ai-dominance-2026/)
-- [DeepSeek V4: The Open-Source Challenger Redefining AI Economics](/blog/deepseek-v4-open-source-challenger-ai-economics-2026/)
+- DeepSeek V4: The Open-Source Challenger Redefining AI Economics]

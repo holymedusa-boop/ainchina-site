@@ -16,6 +16,7 @@ related: [
   "/blog/china-ai-july-tipping-point-chips-models-capital-2026/"
 ]
 ---
+heroImage: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200"
 
 
 ![A humanoid robot arm reaching toward a holographic interface — the physical form of China's AI ambition taking shape on factory floors across the Yangtze River Delta](https://images.unsplash.com/photo-1676299081847-824916de030a?w=1200&q=80)
@@ -226,6 +227,6 @@ The 100,000th humanoid robot produced in China in 2026 will not be celebrated wi
 
 **Related Articles:**
 - [China's AI Terminal Revolution: Smart Devices and Humanoid Robots Overtake the Old World](/blog/china-ai-terminals-overtake-humanoid-robot-factory-2026/)
-- [Unitree Robotics' IPO: China's Humanoid Robot Sector Goes Public](/blog/unitree-robotics-ipo-china-humanoid-robot-first-stock-2026/)
+- Unitree Robotics' IPO: China's Humanoid Robot Sector Goes Public]
 - [WAIC 2026: Global AI Diplomacy in Shanghai](/blog/waic-2026-global-ai-diplomacy-shanghai/)
-- [LingSheng's Bet Against GPUs: How China's CPU-Only Supercomputer Could Rewrite AI](/blog/lingsheng-supercomputer-china-cpu-ai-paradigm-2026/)
+- LingSheng's Bet Against GPUs: How China's CPU-Only Supercomputer Could Rewrite AI]

@@ -212,4 +212,4 @@ The conference that began in 2018 as a municipal experiment has become, in 2026,
 
 ---
 
-*For more on China's AI ecosystem, read our analysis of the [multimodal AI revolution](/blog/china-multimodal-ai-revolution-end-text-only-2026/), the [AI benchmark wars](/blog/china-ai-benchmark-war-caught-frontier-2026/), and [ByteDance's hardware pivot](/blog/bytedance-30-billion-ai-capex-huawei-chips-2026/).*
+*For more on China's AI ecosystem, read our analysis of the [multimodal AI revolution](/blog/china-multimodal-ai-revolution-end-text-only-2026/), the [AI benchmark wars](/blog/china-ai-model-wars-april-2026/), and [ByteDance's hardware pivot](/blog/bytedance-30-billion-ai-capex-huawei-chips-2026/).*

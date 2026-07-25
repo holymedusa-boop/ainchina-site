@@ -4,7 +4,7 @@ subtitle: "From Kling's surprise debut to Seedance 2.5's 30-second generation â€
 description: "An analytical deep-dive into China's AI video generation revolution, tracing the 24-month arc from Kling's 2024 debut to Seedance 2.5's June 2026 breakthrough, and what it means for Hollywood, content creation, and the global AI race."
 date: "2026-07-01"
 author: "AI in China Editorial"
-readTime: "12 min read"
+readTime: '20 min read'
 category: "Analysis"
 featured: true
 tags:

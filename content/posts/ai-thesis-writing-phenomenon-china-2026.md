@@ -16,6 +16,7 @@ related: [
 ]
 category: "AI Video"
 ---
+heroImage: "https://images.unsplash.com/photo-1537531383496-f4749b8032cf?w=1200"
 
 
 

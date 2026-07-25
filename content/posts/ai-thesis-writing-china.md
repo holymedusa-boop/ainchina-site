@@ -13,6 +13,7 @@ related: [
   "/blog/ai-interview-coaching-china-2025/"
 ]
 ---
+heroImage: "https://images.unsplash.com/photo-1537531383496-f4749b8032cf?w=1200"
 
   The Phenomenon: A Quiet Academic Revolution In the months..."
 ---
@@ -529,4 +530,4 @@ China is becoming the world's **"super testing ground"** for AI applications. Fr
 
 *Data sources: Xiaohongshu public data, user surveys, tool testing. Data as of April 2, 2026.*
 
-*Word count: ~3,400 words | Reading time: 16 minutes*
+*Word count: ~2,745 words

@@ -13,6 +13,7 @@ related: [
   "/blog/china-ai-ppt-revolution-3-minute-decks-2026/"
 ]
 ---
+heroImage: "https://images.unsplash.com/photo-1537531383496-f4749b8032cf?w=1200"
 
 
 
@@ -344,7 +345,7 @@ The arms race between AI-assisted candidates and AI-assisted recruiters has begu
 
 ## Related Articles
 
-- [China's AI Capital War: DeepSeek at $45B, Kimi at $20B, and the Race for AI Supremacy](/blog/china-ai-capital-war-deepseek-kimi-funding-2026/)
+- China's AI Capital War: DeepSeek at $45B, Kimi at $20B, and the Race for AI Supremacy]
 - [The Invisible Empire: How China's AI Consumer Apps Quietly Conquered 2.5 Billion Users](/blog/china-ai-invisible-empire-consumer-apps-2026/)
 - [AI Thesis Writing Explodes: How 12 Million Chinese Students Are Rewriting Academic Rules](/blog/ai-thesis-writing-china/)
 - [ByteDance Doubao: The 200 Million User AI Assistant Reshaping Content Creation](/blog/doubao-bytedance/)

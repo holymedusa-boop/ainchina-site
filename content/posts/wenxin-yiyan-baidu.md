@@ -13,6 +13,7 @@ related: [
   "/blog/ai-thesis-writing-china/"
 ]
 ---
+heroImage: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200"
 
 ![Baidu's AI ecosystem spans search, smart speakers, autonomous driving, and enterprise services](https://images.unsplash.com/photo-1526379095098-d400fd0bf935?w=1200&h=600&fit=crop)
 *Baidu's headquarters in Beijing. While Western media focuses on DeepSeek's technical breakthroughs, the company behind China's most widely used AI assistant has built a $5 billion annual revenue engine. Photo: Unsplash*

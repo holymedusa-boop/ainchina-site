@@ -13,6 +13,7 @@ related: [
   "/blog/wenxin-yiyan-baidu/"
 ]
 ---
+heroImage: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200"
 
 
 

@@ -15,6 +15,7 @@ related: [
   "/blog/tars-embodied-intelligence-455-million-brain-club/"
 ]
 ---
+heroImage: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200"
 
 
 # China's Physical AI Awakening: World Models, Robot IPOs, and the $295 Billion Bet on Embodied Intelligence

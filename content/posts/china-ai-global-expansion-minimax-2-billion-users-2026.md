@@ -13,6 +13,7 @@ related: [
   "/blog/china-ai-model-wars-april-2026/"
 ]
 ---
+heroImage: "https://images.unsplash.com/photo-1537531383496-f4749b8032cf?w=1200"
 
 
 
@@ -301,9 +302,9 @@ The winners of the next five years will not be determined by who has the best mo
 
 - [MiniMax Talkie: The AI Companion App That Commands 70 Minutes of Daily Attention](/blog/minimax-talkie/)
 - [Kimi K2.6: The Open-Source Coding Revolution From Moonshot AI](/blog/kimi-k2-6-open-source-coding-revolution/)
-- [DeepSeek's $73B Mega-Round: The Funding Frenzy Reshaping China's AI Landscape](/blog/deepseek-73b-megaround-china-ai-funding-frenzy/)
+- DeepSeek's $73B Mega-Round: The Funding Frenzy Reshaping China's AI Landscape]
 - [The Invisible Empire: How China's AI Consumer Apps Quietly Conquered 2.5 Billion Users](/blog/china-ai-invisible-empire-consumer-apps-2026/)
-- [China's AI Capital War: DeepSeek at $45B, Kimi at $20B, and the Race for AI Supremacy](/blog/china-ai-capital-war-deepseek-kimi-funding-2026/)
+- China's AI Capital War: DeepSeek at $45B, Kimi at $20B, and the Race for AI Supremacy]
 
 ---
 

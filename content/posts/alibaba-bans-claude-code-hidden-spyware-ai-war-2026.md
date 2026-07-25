@@ -4,7 +4,7 @@ date: "2026-07-07"
 excerpt: "When a Reddit user reverse-engineered Claude Code and found XOR-encrypted tracking routines that singled out Chinese developers, the story of who was spying on whom in the US-China AI war flipped overnight. Inside the hidden code, the industrial-scale 'distillation attack' allegations, and Alibaba's July 2026 decision to ban Anthropic products company-wide."
 slug: "alibaba-bans-claude-code-hidden-spyware-ai-war-2026"
 category: "AI Industry"
-readTime: "18 min read"
+readTime: '23 min read'
 heroImage: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80"
 author: "AI in China Research Desk"
 keywords: ["Claude Code spyware", "Anthropic Alibaba", "China AI distillation", "Pentagon 1260H blacklist", "Alibaba Qoder", "AI espionage", "US China AI war", "Claude Code hidden code", "Anthropic tracking", "AI decoupling 2026"]

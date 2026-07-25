@@ -13,6 +13,7 @@ related: [
   "/blog/ai-compute-crunch-china-token-crisis-2026/"
 ]
 ---
+heroImage: "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=1200"
 
 
 
@@ -246,7 +247,7 @@ For AI developers, investors, and policymakers outside China, the message is cle
 
 ## Related Articles
 
-- [China's AI Revolution: How 140 Trillion Tokens, DeepSeek V4 on Huawei Chips, and a $700B Arms Race Are Reshaping Global Technology](/blog/china-ai-revolution-may-2026-tokens-deepseek-huawei/)
+- [China's AI Revolution: How 140 Trillion Tokens, DeepSeek V4 on Huawei Chips, and a $700B Arms Race Are Reshaping Global Technology](/blog/china-ai-global-surge-api-traffic-empire-2026/)
 - [China's AI Olympus: The $65 Billion War for the Future of Intelligence](/blog/china-ai-olympus-65-billion-war-future-intelligence-2026/)
-- [DeepSeek's $7.3B Mega-Round: China's AI Funding Frenzy Hits Historic Heights](/blog/deepseek-73b-megaround-china-ai-funding-frenzy/)
+- DeepSeek's $7.3B Mega-Round: China's AI Funding Frenzy Hits Historic Heights]
 - [The Great AI Compute Crunch: How China's AI Boom Is Running Out of Tokens](/blog/ai-compute-crunch-china-token-crisis-2026/)

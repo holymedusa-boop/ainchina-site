@@ -16,6 +16,7 @@ related: [
 ]
 category: "AI Video"
 ---
+heroImage: "https://images.unsplash.com/photo-1537531383496-f4749b8032cf?w=1200"
 
 
 
@@ -346,7 +347,7 @@ MiniMax's Talkie platform has already demonstrated the technology: users interac
 
 - [China's AI Models Dominate Global API Traffic: The Token Export Revolution](/blog/china-ai-models-dominate-global-api-traffic-token-export-2026/)
 - [MiniMax IPO: 212 Million Users and the AI Companion Empire](/blog/minimax-ipo-212-million-users-ai-companion-empire/)
-- [DeepSeek's $51.5B Valuation: The Anti-Startup Startup Bows to Capital](/blog/deepseek-first-funding-20-billion-valuation/)
+- DeepSeek's $51.5B Valuation: The Anti-Startup Startup Bows to Capital]
 - [ByteDance's $23B AI Gamble: GPU Kingpin or Profit Drop?](/blog/bytedance-ai-gamble-gpu-kingpin-profit-drop/)
 
 ---

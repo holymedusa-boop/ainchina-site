@@ -14,6 +14,7 @@ related: [
   "/blog/ai-builds-ai-forgetrain-modelbest-china-2026/"
 ]
 ---
+heroImage: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200"
 
 
 

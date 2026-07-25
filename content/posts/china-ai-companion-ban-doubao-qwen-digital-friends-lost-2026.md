@@ -16,6 +16,7 @@ related: [
   "/blog/china-ai-midyear-reckoning-three-forces-2026/"
 ]
 ---
+heroImage: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200"
 
 
 ![Silhouette against city lights at dusk — the moment between human and digital connection](https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=1200&q=80)

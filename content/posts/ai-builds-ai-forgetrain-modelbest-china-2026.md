@@ -14,6 +14,7 @@ related: [
   '/blog/deepseek-v3-deep-dive/'
 ]
 ---
+heroImage: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200"
 
 ![Abstract visualization of AI-generated code flowing through neural network architecture](https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1200)
 *ForgeTrain represents the first time an AI system has written a complete production-grade training framework — then used it to train a state-of-the-art model. Photo: Unsplash*

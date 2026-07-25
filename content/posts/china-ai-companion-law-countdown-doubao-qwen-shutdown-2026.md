@@ -15,6 +15,7 @@ related: [
   "/blog/minimax-talkie/"
 ]
 ---
+heroImage: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200"
 
 
 

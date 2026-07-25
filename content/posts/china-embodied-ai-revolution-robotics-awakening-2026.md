@@ -214,4 +214,4 @@ Eighteen months from a policy footnote to a trillion-yuan industry. The needle h
 - [China's AI+Consumption Gambit: Beijing's 17-Point Plan](/blog/china-ai-consumption-gambit-17-point-plan-2026/)
 - [China's Industrial AI Revolution: Smart Factories and the Manufacturing Upgrade](/blog/china-industrial-ai-revolution-smart-factories-2026/)
 - [China's AI Chip Renaissance: Q1 2026 Market Analysis](/blog/china-ai-chip-renaissance-q1-2026/)
-- [DeepSeek's $7.3B Megaround: China's AI Funding Frenzy](/blog/deepseek-73b-megaround-china-ai-funding-frenzy/)
+- DeepSeek's $7.3B Megaround: China's AI Funding Frenzy]

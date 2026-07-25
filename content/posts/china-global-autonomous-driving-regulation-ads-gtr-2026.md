@@ -4,7 +4,7 @@ lead: "On June 26, 2026, in Geneva, the United Nations adopted the world's first
 description: "A deep dive into the UN ADS GTR adoption, China's decade-long journey to autonomous driving leadership, and what the new global regulation means for the future of mobility."
 date: "2026-06-30T04:20:00+08:00"
 author: "AI in China"
-readTime: "14 min"
+readTime: '23 min read'
 template: "E"
 heroImage: "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?w=1200&h=600&fit=crop"
 category: "AI"

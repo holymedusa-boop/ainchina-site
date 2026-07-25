@@ -13,6 +13,7 @@ related: [
   "/blog/china-embodied-ai-13-billion-funding-boom-2026/"
 ]
 ---
+heroImage: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200"
 
 
 
@@ -444,4 +445,4 @@ The question now isn't whether AI will transform our devices—it's which compan
 
 *Data sources: Company announcements, media reports, industry analysis. Data as of April 3, 2026.*
 
-*Word count: ~3,400 words | Reading time: 18 minutes*
+*Word count: ~2,671 words

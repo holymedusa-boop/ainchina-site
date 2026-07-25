@@ -16,6 +16,7 @@ related: [
   "/blog/china-embodied-ai-revolution-funding-world-models-2026/"
 ]
 ---
+heroImage: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200"
 
 
 ![A network of glowing circuits and digital pathways — the invisible infrastructure powering China's AI terminal revolution](https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?w=1200&q=80)
@@ -225,5 +226,5 @@ For the rest of the world, the question is no longer whether China's AI revoluti
 *Related Articles:*
 - [China's AI Companion Ban: When 345 Million Users Lose Their Digital Friends](/blog/china-ai-companion-ban-doubao-qwen-digital-friends-lost-2026/)
 - [China's Embodied Intelligence Infrastructure: How Robots Are Invading Factories, Malls, and Homes](/blog/china-embodied-intelligence-infrastructure-ndrc-robots-factories-malls-homes/)
-- [How China's AI Video Models Captured the Global Creative Frontier](/blog/china-ai-video-captured-global-creative-frontier-2026/)
+- How China's AI Video Models Captured the Global Creative Frontier]
 - [China's Multimodal AI Revolution: The End of Text-Only Models](/blog/china-multimodal-ai-revolution-end-text-only-2026/)

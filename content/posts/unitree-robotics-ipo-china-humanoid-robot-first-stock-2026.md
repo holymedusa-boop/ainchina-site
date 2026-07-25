@@ -14,6 +14,7 @@ related: [
 ]
 category: "AI Robotics"
 ---
+heroImage: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200"
 
 
 
@@ -256,6 +257,6 @@ The question now is not whether humanoid robots will become a commercial reality
 
 *Related articles:*
 - [China's Embodied AI Revolution: Funding, World Models, and the Race for Physical Intelligence](/blog/china-embodied-ai-revolution-funding-world-models-2026/)
-- [The Triple Silicon Gambit: How China's AI Chip Surge Is Forging an Independent Path](/blog/triple-silicon-china-ai-chip-independence-2026/)
-- [The Gaokao Agent Wars: How China's 12.9 Million Student Exam Became Tech's Biggest AI Battleground](/blog/gaokao-agent-wars-china-ai-battleground-2026/)
-- [DeepSeek's $7.3B Megaround: Inside China's AI Funding Frenzy](/blog/deepseek-73b-megaround-china-ai-funding-frenzy/)
+- [The Triple Silicon Gambit: How China's AI Chip Surge Is Forging an Independent Path](/blog/china-ai-chip-renaissance-q1-2026/)
+- The Gaokao Agent Wars: How China's 12.9 Million Student Exam Became Tech's Biggest AI Battleground]
+- DeepSeek's $7.3B Megaround: Inside China's AI Funding Frenzy]

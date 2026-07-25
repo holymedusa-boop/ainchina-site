@@ -5,7 +5,7 @@ keywords: ["China AI companion ban", "AI anthropomorphic interaction", "Doubao a
 author: "AI in China"
 date: "2026-07-24"
 category: "AI"
-readTime: "16 min read"
+readTime: '21 min read'
 featured: true
 heroImage: "https://images.unsplash.com/photo-1639322537228-f710d846310a?w=1200&h=600&fit=crop"
 excerpt: "China Just Unplugged 345 Million Virtual Lovers: Inside the World's First AI Companion Ban On July 15, 2026, Beijing flipped a switch and millions of..."
