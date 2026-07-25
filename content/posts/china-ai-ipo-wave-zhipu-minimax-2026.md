@@ -1,4 +1,5 @@
 ---
+
 title: "China's AI IPO Wave: How Zhipu and MiniMax Are Rewriting the Rules of AI Capitalization"
 description: "Zhipu's market cap hits $880 billion HKD after 1,600% surge. MiniMax files for A-share IPO. China's AI model companies are moving from research labs to public markets—here's what it means for the global AI landscape."
 date: "2026-06-04"
@@ -13,7 +14,9 @@ related: [
   "/blog/china-profit-future-gamble-ai-war-2026/",
   "/blog/stepfun-terminal-ai-revolution/"
 ]
+category: "AI Business"
 ---
+
 
 
 

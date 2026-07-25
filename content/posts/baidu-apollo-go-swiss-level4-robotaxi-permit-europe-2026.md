@@ -1,4 +1,5 @@
 ---
+
 title: "The Swiss Connection: How Baidu's Apollo Go Beat Waymo and Tesla to Europe's First Level 4 Robotaxi Permit"
 slug: "baidu-apollo-go-swiss-level4-robotaxi-permit-europe-2026"
 heroImage: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&q=80"
@@ -13,7 +14,9 @@ related: [
   "/blog/minimax-ipo-212-million-users-ai-companion-empire/",
   "/blog/china-ai-export-revolution-global-intelligence-2026/"
 ]
+category: "AI Robotics"
 ---
+
 
 
 ![Baidu's RT6 autonomous vehicle undergoing testing in Switzerland, where it became the first Level 4 robotaxi to receive a European operating permit](https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80)

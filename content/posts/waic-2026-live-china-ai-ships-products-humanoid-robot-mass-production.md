@@ -1,4 +1,5 @@
 ---
+
 title: "WAIC 2026 Live: When China's AI Industry Stopped Competing on Parameters and Started Shipping Products"
 description: "Inside the 2026 World AI Conference in Shanghai, where 300+ products made their global debut, humanoid robots stole the show, and China's AI industry proved it could build things—not just benchmarks."
 keywords: ["WAIC 2026", "World Artificial Intelligence Conference", "Shanghai AI", "humanoid robot", "embodied intelligence", "AI agent phone", "Unitree", "ZTE", "MiniMax M3", "China AI commercialization", "robot mass production", "AI smart device"]
@@ -13,7 +14,9 @@ related: [
   "/blog/waic-2026-global-ai-diplomacy-shanghai/",
   "/blog/china-humanoid-robot-100000-units-production-milestone-2026/"
 ]
+category: "AI Robotics"
 ---
+
 
 
 

@@ -1,4 +1,5 @@
 ---
+
 slug: "china-low-altitude-economy-drones-ai-500bn-airspace-2026"
 title: "China's Low-Altitude Economy: How Drones, AI, and eVTOLs Are Building a $500 Billion Airspace Industry"
 date: "2026-06-17"
@@ -13,7 +14,9 @@ related: [
   "/blog/china-ai-consumption-gambit-17-point-plan-2026/",
   "/blog/ai-digital-humans-china-billion-dollar-livestream-revolution/"
 ]
+category: "AI Business"
 ---
+
 
 
 ![A Meituan delivery drone descends toward a rooftop landing pad in Shenzhen's Nanshan district, where low-altitude logistics has become part of daily urban infrastructure](https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&q=80)

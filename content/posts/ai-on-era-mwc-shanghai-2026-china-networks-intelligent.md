@@ -1,4 +1,5 @@
 ---
+
 title: "The AI-ON Era: How MWC Shanghai 2026 Marked the Moment China's Networks Became Intelligent"
 lead: "At MWC Shanghai 2026, the world's largest telecom industry event converged on a single idea: networks are no longer pipes for data. They are becoming intelligent infrastructure that thinks, optimizes, and monetizes AI tokens in real time."
 description: "A deep dive into MWC Shanghai 2026's AI-ON Summit, where Huawei, China's three major carriers, and global operators unveiled the architecture for AI-native networks. From 10 AI-Optical Network products to 5G-A experience monetization and token-based business models, this is how telecommunications became the next AI battleground."
@@ -15,7 +16,9 @@ related: [
   "/blog/china-physical-ai-awakening-world-models-robot-ipos-295b-bet-2026/",
   "/blog/china-ai-agent-wars-tencent-alibaba-bytedance-2026/"
 ]
+category: "AI Applications"
 ---
+
 
 
 

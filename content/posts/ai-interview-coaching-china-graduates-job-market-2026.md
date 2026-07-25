@@ -1,4 +1,5 @@
 ---
+
 title: "AI Interview Coaching: How Chinese Graduates Are Using AI to Crack the Job Market (+120% Trend Explosion)"
 description: "Chinese graduates are turning to AI interview coaches as job competition intensifies. With Xiaohongshu views surging 120% this week, we break down the 6 major platforms, DeepSeek-V3 technology stack, university adoption, and why this trend matters globally."
 keywords: ["AI interview coaching", "China job market", "graduate employment AI", "Chinese AI tools", "DeepSeek V3", "Xiaohongshu trends", "AI recruitment", "OfferGoose", "MianShiMao", "AI career tools", "Chinese graduates", "virtual HR"]
@@ -13,7 +14,9 @@ related: [
   "/blog/ai-thesis-writing-china/",
   "/blog/china-ai-avatar-revolution-2025/"
 ]
+category: "AI Applications"
 ---
+
 
 
 

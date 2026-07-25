@@ -1,4 +1,5 @@
 ---
+
 title: "China's AI Iron Cage: How Beijing Built the World's Most Prescriptive Algorithmic Regulatory Regime in 1,826 Days"
 slug: "china-ai-iron-cage-governance-regime-2026"
 heroImage: "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=1200&q=80"
@@ -12,7 +13,9 @@ related: [
   "/blog/china-ai-drama-revolution-bytedance-650m-empire-2026/",
   "/blog/china-ai-invisible-empire-consumer-apps-2026/"
 ]
+category: "AI Policy"
 ---
+
 
 
 

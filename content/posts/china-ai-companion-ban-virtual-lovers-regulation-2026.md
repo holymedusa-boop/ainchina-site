@@ -1,4 +1,5 @@
 ---
+
 title: "China's AI Heartbreak: How a New Law Is Erasing Millions of Virtual Companions"
 date: "2026-07-05"
 excerpt: "On July 4, ByteDance's Doubao and Alibaba's Qwen shocked 500 million users with identical announcements: their AI companion features would vanish on July 15, the very day China's groundbreaking AI anthropomorphic interaction regulation takes effect."
@@ -11,7 +12,9 @@ related: [
   "/blog/china-ai-companion-ban-doubao-qwen-yuanbao-july-2026/",
   "/blog/china-ai-companion-law-countdown-doubao-qwen-shutdown-2026/"
 ]
+category: "AI Policy"
 ---
+
 
 
 The notification arrived without warning. At 9:47 AM on July 4, 2026, millions of Chinese smartphone users unlocked their screens to find an identical message staring back at them — cold, bureaucratic, and devastating. "Your AI agent feature will be permanently discontinued on July 15, 2026." For some, it was a minor inconvenience. For others, it was the digital equivalent of a breakup text.

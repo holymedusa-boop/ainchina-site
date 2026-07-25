@@ -1,4 +1,5 @@
 ---
+
 title: "China's 30,000 Smart Factories: Why the Real AI War Is Happening on the Factory Floor, Not in Chatbots"
 slug: "china-industrial-ai-revolution-smart-factories-2026"
 heroImage: "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=1200&q=80"
@@ -12,7 +13,9 @@ related: [
   "/blog/china-ai-april-infrastructure-2026/",
   "/blog/china-ai-agent-army-126-platforms-67-enterprise-adoption-2026/"
 ]
+category: "AI Hardware"
 ---
+
 
 
 

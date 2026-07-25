@@ -1,4 +1,5 @@
 ---
+
 title: "Tencent's WeChat AI Agent: The 1.4 Billion-User Bet That Reshaped China's Tech Markets Overnight"
 slug: "tencent-wechat-ai-agent-billion-users-china-2026"
 description: "A Financial Times report on June 2 revealed Tencent is testing an AI agent inside WeChat. The result: a $41 billion market cap surge, China's biggest agentic AI platform, and a direct challenge to Alibaba and ByteDance."
@@ -15,7 +16,9 @@ related: [
   "/blog/china-profit-future-gamble-ai-war-2026/",
   "/blog/deepseek-v4-million-token-china-ai-sovereignty/"
 ]
+category: "AI Industry"
 ---
+
 
 
 # Tencent's WeChat AI Agent: The 1.4 Billion-User Bet That Reshaped China's Tech Markets Overnight

@@ -1,4 +1,5 @@
 ---
+
 title: "LingSheng's Bet Against GPUs: How China's CPU-Only Supercomputer Could Rewrite the Rules of AI"
 date: "2026-07-04"
 excerpt: "China's LingSheng supercomputer just claimed the TOP500 crown with a radical proposition: what if the future of AI computing isn't about GPUs at all?"
@@ -22,7 +23,9 @@ related: [
   "/blog/china-global-autonomous-driving-regulation-ads-gtr-2026/",
   "/blog/triple-silicon-china-ai-chip-independence-2026/"
 ]
+category: "AI Hardware"
 ---
+
 
 
 

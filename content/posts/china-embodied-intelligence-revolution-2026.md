@@ -1,4 +1,5 @@
 ---
+
 title: "China's Embodied Intelligence Revolution: From Spring Festival Gala to Factory Floor"
 slug: "china-embodied-intelligence-revolution-2026"
 date: "2026-06-16"
@@ -6,7 +7,9 @@ excerpt: "Eight out of ten humanoid robots worldwide now come from China. From t
 heroImage: "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?w=1200&q=80"
 keywords: ["embodied intelligence", "humanoid robots", "Unitree", "AgiBot", "China AI", "physical AI", "robotics IPO", "Tianjin World Intelligence Expo", "UBTECH", "embodied AI standards"]
 related: ["china-industrial-ai-revolution-smart-factories-2026", "china-ai-creator-economy-digital-humans-2026", "deepseek-73b-megaround-china-ai-funding-frenzy", "doubao-12-trillion-token-explosion"]
+category: "AI Robotics"
 ---
+
 
 ![China's embodied intelligence revolution showcased at the World Intelligence Expo 2026 in Tianjin](https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800&q=80)
 *China's embodied intelligence revolution takes center stage at the World Intelligence Expo 2026 in Tianjin, where humanoid robots boxed, did push-ups, and demonstrated package gripping for thousands of visitors.*

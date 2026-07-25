@@ -1,4 +1,5 @@
 ---
+
 title: "The July Tipping Point: How China's AI Industry Crossed the Threshold From Catching Up to Setting the Pace"
 description: "In a single week in July 2026, a Chinese model release erased $800 billion from semiconductor stocks, the last 'GPU dragon' cleared its IPO, and a government certification program rewrote the rules of AI procurement. Three signals converged — and the global AI order shifted."
 image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200"
@@ -11,7 +12,9 @@ related: [
   "/blog/china-ai-model-war-april-2026-week-changed-everything/",
   "/blog/china-embodied-ai-revolution-robotics-awakening-2026/"
 ]
+category: "AI Hardware"
 ---
+
 
 
 

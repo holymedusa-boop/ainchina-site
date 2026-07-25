@@ -1,4 +1,5 @@
 ---
+
 title: "The AI Thesis Writing Phenomenon: How Chinese Students Are Redefining Academic Work with Generative AI"
 description: "China's AI thesis writing boom: 3.2 billion views, 1.25 million posts, and 85% weekly growth. Inside how millions of students use Kimi, ChatGPT, and Claude to write graduation papers—and the universities fighting back."
 date: "2026-06-08"
@@ -13,7 +14,9 @@ related: [
   "/blog/china-ai-interview-revolution-2026/",
   "/blog/ai-interview-coaching-china-graduates-job-market-2026/"
 ]
+category: "AI Video"
 ---
+
 
 
 

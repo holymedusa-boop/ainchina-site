@@ -1,4 +1,5 @@
 ---
+
 title: "China's AI Drama Revolution: How ByteDance Built a $650M Short-Content Empire in 90 Days"
 description: "AI-generated short dramas exploded from $100M to $650M in Q1 2026. ByteDance's full-stack ecosystem—Doubao, Jimeng, Volcano Engine, Red Fruit—compressed production from 3 months to 7 days. Here's how China built the world's most efficient content factory."
 keywords: ["China AI drama", "AI short drama", "ByteDance Red Fruit", "AI video generation China", "Kling AI", "Hailuo AI", "MiniMax video", "AI content creation", "China creator economy", "AI filmmaking"]
@@ -13,7 +14,9 @@ related: [
   "/blog/china-ai-avatar-revolution-2026/",
   "/blog/china-ai-avatar-revolution-2025/"
 ]
+category: "AI Video"
 ---
+
 
 
 

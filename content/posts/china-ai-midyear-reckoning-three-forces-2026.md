@@ -1,4 +1,5 @@
 ---
+
 title: "China's AI Midyear Reckoning: Three Converging Forces Reshaping the Global Technology Order"
 slug: "china-ai-midyear-reckoning-three-forces-2026"
 date: "2026-07-14"
@@ -27,7 +28,9 @@ related: [
   "/blog/china-ai-model-wars-april-2026/",
   "/blog/china-ai-creator-economy-digital-humans-2026/"
 ]
+category: "AI Applications"
 ---
+
 
 
 

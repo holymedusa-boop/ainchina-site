@@ -1,4 +1,5 @@
 ---
+
 title: "MiniMax Hits 300M Users and Doubles ARR in 60 Days: The Anatomy of China's Most Successful AI Export"
 description: "MiniMax crossed 300 million users in May 2026, doubled its annual recurring revenue to ~$300M in just two months, and filed for A-share IPO. With 73% of revenue from overseas and a product portfolio spanning Talkie, Hailuo AI, and an enterprise API platform, this is the most complete case study of Chinese AI global expansion."
 keywords: ["MiniMax", "Talkie AI", "Hailuo AI", "China AI export", "AI startup IPO", "Chinese AI overseas", "MiniMax M3", "AI companion app", "China AI model pricing", "Token economics", "AI revenue", "A-share IPO"]
@@ -13,7 +14,9 @@ related: [
   "/blog/china-ai-invisible-empire-consumer-apps-2026/",
   "/blog/china-ai-iron-cage-governance-regime-2026/"
 ]
+category: "AI Business"
 ---
+
 
 
 

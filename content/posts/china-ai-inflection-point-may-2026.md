@@ -1,4 +1,5 @@
 ---
+
 title: "China's AI Inflection Point: From Burn Rate to Revenue Rate (2026)"
 description: "DeepSeek raises at $45B, Alibaba's AI revenue crosses 50%, and ByteDance bets $23B on infrastructure. May 2026 marks China's AI maturation moment."
 keywords: ["China AI", "DeepSeek funding", "Alibaba AI revenue", "ByteDance Doubao", "Baidu AI", "Kuaishou Kling", "AI investment China 2026", "China tech funding", "AI commercialization"]
@@ -13,7 +14,9 @@ related: [
   "/blog/china-ai-creator-economy-digital-humans-2026/",
   "/blog/china-embodied-ai-revolution-funding-world-models-2026/"
 ]
+category: "AI Business"
 ---
+
 
 
 

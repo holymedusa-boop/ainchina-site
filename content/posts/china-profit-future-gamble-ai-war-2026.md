@@ -1,4 +1,5 @@
 ---
+
 title: "The Profit-for-Future Gamble: How China's Tech Giants Sacrificed $100 Billion in Profits to Win the AI War"
 slug: "china-profit-future-gamble-ai-war-2026"
 heroImage: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80"
@@ -12,7 +13,9 @@ related: [
   "/blog/bytedance-ai-gamble-gpu-kingpin-profit-drop/",
   "/blog/china-embodied-ai-revolution-funding-world-models-2026/"
 ]
+category: "AI Industry"
 ---
+
 
 
 

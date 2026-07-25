@@ -1,4 +1,5 @@
 ---
+
 title: "The Two-Year Wait Is Over: How Apple Intelligence Cracked China's AI Wall"
 slug: "apple-intelligence-china-qwen-baidu-ai-approval-2026"
 date: "2026-07-23"
@@ -14,7 +15,9 @@ related: [
   "/blog/china-physical-ai-awakening-world-models-robot-ipos-295b-bet-2026/",
   "/blog/china-ai-agent-wars-tencent-alibaba-bytedance-2026/"
 ]
+category: "AI Industry"
 ---
+
 
 
 ![Apple Intelligence China Approval](https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1200&h=600&fit=crop)

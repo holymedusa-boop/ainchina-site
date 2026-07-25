@@ -1,4 +1,5 @@
 ---
+
 title: "How Meituan Built a Trillion-Parameter AI Model on 50,000 Domestic Chips — And Open-Sourced It"
 slug: "meituan-longcat-2-trillion-domestic-chips-china-ai-independence-2026"
 date: "2026-07-13"
@@ -28,7 +29,9 @@ related: [
   "/blog/glm-5-1-open-source-crown-beijing-2026/",
   "/blog/kimi-k3-moonshot-2-5-trillion-open-source-ai-2026/"
 ]
+category: "AI Hardware"
 ---
+
 
 
 
