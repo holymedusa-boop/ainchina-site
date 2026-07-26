@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'kimi-k3-moonshot-2-8-trillion-open-weight-model-2026': {
+    metaTitle: "Kimi K3: The 2.8 Trillion-Parameter Open-Weight Model That Moved the Nasdaq",
+    metaDescription: "Moonshot AI's Kimi K3 became the largest open-source model ever released at 2.8 trillion parameters. Launched at WAIC 2026, it triggered a Nasdaq selloff and proved Chinese AI labs can ship frontier capability as a free download.",
+    keywords: '["Kimi K3", "Moonshot AI", "open source AI", "2.8 trillion parameters", "China AI", "WAIC 2026", "mixture of experts", "Kimi K2", "Alibaba AI", "open weight models"]',
+  },
   'china-ai-compute-crunch-custom-chips-silicon-wall-2026': {
     metaTitle: "The Silicon Wall: How China's AI Revolution Ran Out of Chips — And Started Building Its Own",
     metaDescription: "At 3:14 AM on July 19, 2026, Moonshot AI made a decision no fast-growing startup wants to make: it stopped selling. Kimi K3 had grown too popular, too fast. The story of what happened next reveals the hidden battle that will shape the future of global AI.",
