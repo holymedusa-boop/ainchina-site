@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'deepseek-funding-frenzy-74-billion-ipo-china-ai-2026': {
+    metaTitle: "From $0 to $74 Billion in 90 Days: The DeepSeek Funding Frenzy Rewriting China's AI Order",
+    metaDescription: "DeepSeek went from a hedge fund side project to a $74 billion IPO candidate in 90 days. Here's how China's AI industry learned to print money — and why Silicon Valley is suddenly playing catch-up on capital efficiency.",
+    keywords: '["DeepSeek", "China AI", "IPO", "Zhipu AI", "MiniMax", "STAR market", "AI funding", "Liang Wenfeng", "Six AI Tigers", "Hangzhou"]',
+  },
   'kimi-k3-moonshot-2-8-trillion-open-weight-model-2026': {
     metaTitle: "Kimi K3: The 2.8 Trillion-Parameter Open-Weight Model That Moved the Nasdaq",
     metaDescription: "Moonshot AI's Kimi K3 became the largest open-source model ever released at 2.8 trillion parameters. Launched at WAIC 2026, it triggered a Nasdaq selloff and proved Chinese AI labs can ship frontier capability as a free download.",
