@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-open-weight-coding-models-global-software-development-2026': {
+    metaTitle: "The $18 Coding Revolution: How Chinese Open-Weight Models Are Rewriting the Global Software Playbook",
+    metaDescription: "Chinese open-weight coding models now match 85-90% of frontier performance at 5-10x lower cost. From GLM-5.2's $18 monthly plan to DeepSeek V4's sub-dollar API rates, a new playbook for software development is emerging — and Silicon Valley's closed-source incumbents are being forced to respond.",
+    keywords: '["Chinese AI coding models", "open-weight LLMs", "GLM-5.2", "Kimi K2.7 Code", "DeepSeek V4", "agentic coding", "ZCode", "software development AI", "China AI export", "coding AI price war"]',
+  },
   'deepseek-funding-frenzy-74-billion-ipo-china-ai-2026': {
     metaTitle: "From $0 to $74 Billion in 90 Days: The DeepSeek Funding Frenzy Rewriting China's AI Order",
     metaDescription: "DeepSeek went from a hedge fund side project to a $74 billion IPO candidate in 90 days. Here's how China's AI industry learned to print money — and why Silicon Valley is suddenly playing catch-up on capital efficiency.",
