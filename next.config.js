@@ -51,12 +51,12 @@ const nextConfig = {
       },
       {
         source: '/blog/china-ai-war-of-gods-deepseek-kimi-open-source-dominance',
-        destination: '/blog/china-ai-capital-war-deepseek-kimi-funding-2026/',
+        destination: '/blog/deepseek-v4-million-token-china-ai-sovereignty/',
         permanent: true,
       },
       {
         source: '/blog/china-ai-war-of-gods-deepseek-kimi-open-source-dominance/:path*',
-        destination: '/blog/china-ai-capital-war-deepseek-kimi-funding-2026/',
+        destination: '/blog/deepseek-v4-million-token-china-ai-sovereignty/',
         permanent: true,
       },
       {
@@ -101,6 +101,16 @@ const nextConfig = {
       },
       {
         source: '/index.jsp/:path*',
+        destination: '/',
+        permanent: true,
+      },
+      {
+        source: '/index.htm',
+        destination: '/',
+        permanent: true,
+      },
+      {
+        source: '/index.htm/:path*',
         destination: '/',
         permanent: true,
       },
