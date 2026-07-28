@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-video-models-conquer-global-market-kling-seedance-wan-2026': {
+    metaTitle: "Sora Is Dead, Long Live Kling: How Chinese AI Video Models Conquered Hollywood's Dream Machine",
+    metaDescription: "OpenAI shut down Sora. In its place, Chinese video models now hold 7 of the top 8 spots globally. From Kling's $500M ARR to Seedance's $2B enterprise empire and Wan 2.7's open-source revolution, the AI video crown has moved east — permanently.",
+    keywords: '["Chinese AI video models", "Kling 3.0", "Seedance 2.0", "Wan 2.7", "Sora shutdown", "AI video generation 2026", "Kuaishou Kling", "ByteDance Seedance", "Alibaba Wan", "China AI video dominance"]',
+  },
   'china-open-weight-coding-models-global-software-development-2026': {
     metaTitle: "The $18 Coding Revolution: How Chinese Open-Weight Models Are Rewriting the Global Software Playbook",
     metaDescription: "Chinese open-weight coding models now match 85-90% of frontier performance at 5-10x lower cost. From GLM-5.2's $18 monthly plan to DeepSeek V4's sub-dollar API rates, a new playbook for software development is emerging — and Silicon Valley's closed-source incumbents are being forced to respond.",
