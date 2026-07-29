@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'moonshot-kimi-k3-2-8-trillion-open-ai-china-2026': {
+    metaTitle: "Moonshot's Kimi K3: How a 2.8-Trillion-Parameter Open-Weight Model Shook Global Markets",
+    metaDescription: "Moonshot AI's Kimi K3 became the world's largest open-weight AI model at 2.8 trillion parameters, triggering a Nasdaq selloff and a White House investigation — all within 48 hours of launch.",
+    keywords: '["Moonshot AI", "Kimi K3", "open weight model", "China AI", "Mixture of Experts", "AI Index", "Nvidia", "WAIC 2026", "Alibaba", "AI chips"]',
+  },
   'china-ai-video-models-conquer-global-market-kling-seedance-wan-2026': {
     metaTitle: "Sora Is Dead, Long Live Kling: How Chinese AI Video Models Conquered Hollywood's Dream Machine",
     metaDescription: "OpenAI shut down Sora. In its place, Chinese video models now hold 7 of the top 8 spots globally. From Kling's $500M ARR to Seedance's $2B enterprise empire and Wan 2.7's open-source revolution, the AI video crown has moved east — permanently.",
