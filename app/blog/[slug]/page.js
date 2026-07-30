@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'apple-intelligence-china-alibaba-baidu-real-winners-2026': {
+    metaTitle: "Apple Intelligence in China: Why Alibaba and Baidu Are the Real Winners",
+    metaDescription: "Apple finally got its AI approved in China through partnerships with Alibaba and Baidu. But the deal reveals something far more significant: Chinese AI has already won.",
+    keywords: '["Apple Intelligence", "Alibaba Qwen", "Baidu", "China AI", "Apple China", "AI regulation", "Qwen model", "iPhone AI", "AI partnership", "China tech policy"]',
+  },
   'moonshot-kimi-k3-2-8-trillion-open-ai-china-2026': {
     metaTitle: "Moonshot's Kimi K3: How a 2.8-Trillion-Parameter Open-Weight Model Shook Global Markets",
     metaDescription: "Moonshot AI's Kimi K3 became the world's largest open-weight AI model at 2.8 trillion parameters, triggering a Nasdaq selloff and a White House investigation — all within 48 hours of launch.",
