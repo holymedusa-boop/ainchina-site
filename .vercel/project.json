@@ -1,0 +1,16 @@
+{
+  "projectId": "prj_kH4KyNCB6NkDLp7E30y17vhSblFT",
+  "orgId": "team_gvgmoh5sL4pDHx22kAuVT8l4",
+  "projectName": "ainchina-site",
+  "settings": {
+    "createdAt": 1774921875733,
+    "framework": "nextjs",
+    "devCommand": null,
+    "installCommand": null,
+    "buildCommand": null,
+    "outputDirectory": null,
+    "rootDirectory": null,
+    "directoryListing": false,
+    "nodeVersion": "24.x"
+  }
+}
