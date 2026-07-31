@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'huawei-atlas-950-superpod-china-ai-chip-independence-2026': {
+    metaTitle: "The Atlas Gambit: How Huawei's 8,192-Chip SuperPoD Is Rewiring the Global AI Hardware Order",
+    metaDescription: "At WAIC 2026, Huawei unveiled the Atlas 950 SuperPoD — an 8,192-chip system claiming 6.7x the compute of Nvidia's NVL144. With DeepSeek V4 running on Huawei silicon, ByteDance committing $5.6 billion, and Beijing declaring computing a national utility, China's AI hardware decoupling has reached its tipping point.",
+    keywords: '',
+  },
   'apple-intelligence-china-alibaba-baidu-real-winners-2026': {
     metaTitle: "Apple Intelligence in China: Why Alibaba and Baidu Are the Real Winners",
     metaDescription: "Apple finally got its AI approved in China through partnerships with Alibaba and Baidu. But the deal reveals something far more significant: Chinese AI has already won.",
