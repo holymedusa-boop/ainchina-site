@@ -3,7 +3,7 @@ title: "Sora Is Dead, Long Live Kling: How Chinese AI Video Models Conquered Hol
 date: "2026-07-29"
 category: "Artificial Intelligence"
 readTime: "15 min read"
-heroImage: "https://images.unsplash.com/photo-1536240478700-b869070f9279?w=1200&q=80"
+heroImage: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&q=80"
 excerpt: "OpenAI shut down Sora. In its place, Chinese video models now hold 7 of the top 8 spots globally. From Kling's $500M ARR to Seedance's $2B enterprise empire and Wan 2.7's open-source revolution, the AI video crown has moved east — permanently."
 keywords: ["Chinese AI video models", "Kling 3.0", "Seedance 2.0", "Wan 2.7", "Sora shutdown", "AI video generation 2026", "Kuaishou Kling", "ByteDance Seedance", "Alibaba Wan", "China AI video dominance"]
 author: "AI in China Editorial"
