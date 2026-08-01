@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-embodied-intelligence-revolution-brains-beat-bodies-2026': {
+    metaTitle: "China's Embodied Intelligence Revolution: Why 2026 Is the Year Brains Finally Beat Bodies",
+    metaDescription: "China's embodied intelligence sector raised 934.7 billion RMB in H1 2026, surpassing all of 2025. But the real story isn't the funding numbers—it's the shift from 'PPT robots' to commercial contracts, from hardware demos to model-driven productivity.",
+    keywords: '["embodied intelligence", "China robotics", "WAIC 2026", "humanoid robots", "VLA models", "Zhijing Fang", "Zhiyuan Robotics", "Galaxy General", "embodied AI unicorns", "robotics IPO"]',
+  },
   'huawei-atlas-950-superpod-china-ai-chip-independence-2026': {
     metaTitle: "The Atlas Gambit: How Huawei's 8,192-Chip SuperPoD Is Rewiring the Global AI Hardware Order",
     metaDescription: "At WAIC 2026, Huawei unveiled the Atlas 950 SuperPoD — an 8,192-chip system claiming 6.7x the compute of Nvidia's NVL144. With DeepSeek V4 running on Huawei silicon, ByteDance committing $5.6 billion, and Beijing declaring computing a national utility, China's AI hardware decoupling has reached its tipping point.",
