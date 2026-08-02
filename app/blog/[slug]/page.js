@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-six-tigers-divergence-ipo-wave-2026': {
+    metaTitle: "The Six Tigers No More: How China's AI Unicorns Split Into Six Different Species",
+    metaDescription: "China's 'Six AI Tigers' were once treated as a single class of company. In 2026, they've become six entirely different species — with $100 billion valuations, healthcare pivots, enterprise retreats, and hardware bets that share nothing but a founding year.",
+    keywords: '["China AI", "Zhipu AI", "MiniMax", "Moonshot AI", "Baichuan", "01.AI", "Stepfun", "AI IPO", "Chinese startups", "AI unicorns"]',
+  },
   'china-embodied-intelligence-revolution-brains-beat-bodies-2026': {
     metaTitle: "China's Embodied Intelligence Revolution: Why 2026 Is the Year Brains Finally Beat Bodies",
     metaDescription: "China's embodied intelligence sector raised 934.7 billion RMB in H1 2026, surpassing all of 2025. But the real story isn't the funding numbers—it's the shift from 'PPT robots' to commercial contracts, from hardware demos to model-driven productivity.",
