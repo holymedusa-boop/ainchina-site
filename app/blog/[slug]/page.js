@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'baidu-kunlunxin-50-billion-ipo-china-ai-chip-independence-2026': {
+    metaTitle: "The $50 Billion Silicon Gamble: Inside Baidu's Kunlunxin IPO and China's Race for AI Chip Independence",
+    metaDescription: "On the morning of June 28, 2026, a story hit The Information that sent shockwaves through both Silicon Valley and Zhongguancun. Baidu's AI chip subsidiary, Kunlunxin, was targeting a Hong Kong IPO...",
+    keywords: '["Kunlunxin IPO", "Baidu AI chip", "China AI chip independence", "Hong Kong IPO 2026", "Kunlun chip", "China semiconductor", "AI chip design", "US export controls", "DeepSeek chip", "Huawei Ascend"]',
+  },
   'china-ai-six-tigers-divergence-ipo-wave-2026': {
     metaTitle: "The Six Tigers No More: How China's AI Unicorns Split Into Six Different Species",
     metaDescription: "China's 'Six AI Tigers' were once treated as a single class of company. In 2026, they've become six entirely different species — with $100 billion valuations, healthcare pivots, enterprise retreats, and hardware bets that share nothing but a founding year.",
