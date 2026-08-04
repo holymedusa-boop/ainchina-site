@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'bytedance-fullstack-ai-seedance-audio-doubao-ecosystem-2026': {
+    metaTitle: "ByteDance's Full-Stack AI Gambit: How Seedance 2.5, Seed Audio, and the Doubao Ecosystem Are Reshaping Creative AI in China",
+    metaDescription: "If you have been watching ByteDance's AI strategy from the outside, the past six weeks have felt like watching someone assemble a jigsaw puzzle at triple speed. Pieces that seemed scattered — a video...",
+    keywords: '["ByteDance AI", "Seedance 2.5", "Seed Audio", "Doubao AI", "AI video generation", "AI music generation", "ByteDance hardware", "AI glasses China", "TikTok AI", "Volcano Engine"]',
+  },
   'baidu-kunlunxin-50-billion-ipo-china-ai-chip-independence-2026': {
     metaTitle: "The $50 Billion Silicon Gamble: Inside Baidu's Kunlunxin IPO and China's Race for AI Chip Independence",
     metaDescription: "On the morning of June 28, 2026, a story hit The Information that sent shockwaves through both Silicon Valley and Zhongguancun. Baidu's AI chip subsidiary, Kunlunxin, was targeting a Hong Kong IPO...",
