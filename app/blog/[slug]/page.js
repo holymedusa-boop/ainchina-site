@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-embodied-ai-revolution-shenzhen-not-silicon-valley-2026': {
+    metaTitle: "China's Embodied AI Revolution: Why the World Is Building Robots in Shenzhen, Not Silicon Valley",
+    metaDescription: "China commands 78% of the global humanoid robot market, with 22 unicorns and $13.8B in 2026 funding. The real story isn't hardware—it's an ecosystem Silicon Valley can't replicate.",
+    keywords: '["embodied AI", "humanoid robots", "China robotics", "Shenzhen", "Unitree", "AgiBot", "Galbot", "physical AI", "robot manufacturing", "China tech"]',
+  },
   'bytedance-fullstack-ai-seedance-audio-doubao-ecosystem-2026': {
     metaTitle: "ByteDance's Full-Stack AI Gambit: How Seedance 2.5, Seed Audio, and the Doubao Ecosystem Are Reshaping Creative AI in China",
     metaDescription: "If you have been watching ByteDance's AI strategy from the outside, the past six weeks have felt like watching someone assemble a jigsaw puzzle at triple speed. Pieces that seemed scattered — a video...",
