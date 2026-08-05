@@ -10,6 +10,11 @@ const postMetadata = {
     metaDescription: "If you have been watching ByteDance's AI strategy from the outside, the past six weeks have felt like watching someone assemble a jigsaw puzzle at triple speed. Pieces that seemed scattered — a video...",
     keywords: '["ByteDance AI", "Seedance 2.5", "Seed Audio", "Doubao AI", "AI video generation", "AI music generation", "ByteDance hardware", "AI glasses China", "TikTok AI", "Volcano Engine"]',
   },
+  'china-ai-open-source-captured-american-developers-2026': {
+    metaTitle: "The Open-Source Reversal: How Chinese AI Models Captured the American Developer",
+    metaDescription: "In July 2026, Mozilla's CTO switched to Kimi K3. Coinbase moved workloads to DeepSeek. The top five models on OpenRouter were Chinese. After years of US dominance, a quiet revolution is underway — and it's being built on open weights, radical affordability, and engineering excellence.",
+    keywords: '',
+  },
   'baidu-kunlunxin-50-billion-ipo-china-ai-chip-independence-2026': {
     metaTitle: "The $50 Billion Silicon Gamble: Inside Baidu's Kunlunxin IPO and China's Race for AI Chip Independence",
     metaDescription: "On the morning of June 28, 2026, a story hit The Information that sent shockwaves through both Silicon Valley and Zhongguancun. Baidu's AI chip subsidiary, Kunlunxin, was targeting a Hong Kong IPO...",
