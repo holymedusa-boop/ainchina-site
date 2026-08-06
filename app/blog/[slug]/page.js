@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'alibaba-qwen-3-8-max-2-4-trillion-china-ai-race-2026': {
+    metaTitle: "Alibaba's Qwen 3.8-Max: The 2.4 Trillion-Parameter Gamble That Just Reset China's AI Race",
+    metaDescription: "On August 3, 2026, Alibaba released Qwen 3.8-Max: a 2.4-trillion-parameter multimodal model priced at $2 per million input tokens, with open weights promised within days. It is the capstone of a summer that saw four Chinese frontier models drop in six weeks—and a direct challenge to Anthropic's Fable 5 dominance.",
+    keywords: '["Alibaba Qwen", "Qwen 3.8-Max", "China AI model", "Chinese AI competition", "Kimi K3", "Moonshot AI", "open weight model", "AI token pricing", "Alibaba AI strategy", "China frontier AI", "Qwen benchmark", "Chinese LLM comparison", "Alibaba Tongyi", "AI model release 2026"]',
+  },
   'china-embodied-ai-revolution-shenzhen-not-silicon-valley-2026': {
     metaTitle: "China's Embodied AI Revolution: Why the World Is Building Robots in Shenzhen, Not Silicon Valley",
     metaDescription: "China commands 78% of the global humanoid robot market, with 22 unicorns and $13.8B in 2026 funding. The real story isn't hardware—it's an ecosystem Silicon Valley can't replicate.",
