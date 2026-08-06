@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-monetization-awakening-end-free-token-era-2026': {
+    metaTitle: "China's AI Monetization Awakening: How the Industry Killed 8 Million Free Bots to Build a Real Business",
+    metaDescription: "Liu wasn't alone. Across China, eight million user-created AI agents — virtual companions, coding assistants, study tutors, fantasy characters, and business automation bots — went dark within a...",
+    keywords: '',
+  },
   'alibaba-qwen-3-8-max-2-4-trillion-china-ai-race-2026': {
     metaTitle: "Alibaba's Qwen 3.8-Max: The 2.4 Trillion-Parameter Gamble That Just Reset China's AI Race",
     metaDescription: "On August 3, 2026, Alibaba released Qwen 3.8-Max: a 2.4-trillion-parameter multimodal model priced at $2 per million input tokens, with open weights promised within days. It is the capstone of a summer that saw four Chinese frontier models drop in six weeks—and a direct challenge to Anthropic's Fable 5 dominance.",
