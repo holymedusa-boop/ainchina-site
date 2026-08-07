@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'openai-price-war-chinese-ai-rivals-2026': {
+    metaTitle: "OpenAI Blinks: How an 80% Price Cut Revealed the New Power Balance in Global AI",
+    metaDescription: "In August 2026, OpenAI slashed GPT-5.6 prices by up to 80% — not to reward developers, but to stop the bleeding. DeepSeek V4-Flash had already claimed the top spot on OpenRouter. Chinese models occupied nine of the global top ten. For the first time, an American frontier lab was fighting a price war it did not start.",
+    keywords: '',
+  },
   'china-ai-monetization-awakening-end-free-token-era-2026': {
     metaTitle: "China's AI Monetization Awakening: How the Industry Killed 8 Million Free Bots to Build a Real Business",
     metaDescription: "Liu wasn't alone. Across China, eight million user-created AI agents — virtual companions, coding assistants, study tutors, fantasy characters, and business automation bots — went dark within a...",
