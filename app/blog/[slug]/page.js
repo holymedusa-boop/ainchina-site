@@ -10,6 +10,11 @@ const postMetadata = {
     metaDescription: "Liu wasn't alone. Across China, eight million user-created AI agents — virtual companions, coding assistants, study tutors, fantasy characters, and business automation bots — went dark within a...",
     keywords: '',
   },
+  'tencent-hy3-ai-turnaround-openrouter-china-2026': {
+    metaTitle: "How Tencent's Hy3 Turned the Tables on China's AI Wars",
+    metaDescription: "Tencent's Hunyuan Hy3 model went from industry laughingstock to OpenRouter's #1 ranked model in three months. Inside the organizational shakeup, the 28-year-old prodigy, and the engineering philosophy that made it possible.",
+    keywords: '["Tencent", "Hunyuan", "Hy3", "China AI", "OpenRouter", "Yaoshunyu", "AI model", "ByteDance", "Alibaba", "open source AI"]',
+  },
   'alibaba-qwen-3-8-max-2-4-trillion-china-ai-race-2026': {
     metaTitle: "Alibaba's Qwen 3.8-Max: The 2.4 Trillion-Parameter Gamble That Just Reset China's AI Race",
     metaDescription: "On August 3, 2026, Alibaba released Qwen 3.8-Max: a 2.4-trillion-parameter multimodal model priced at $2 per million input tokens, with open weights promised within days. It is the capstone of a summer that saw four Chinese frontier models drop in six weeks—and a direct challenge to Anthropic's Fable 5 dominance.",
