@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'bytedance-seedance-2.5-ai-video-revolution-2026': {
+    metaTitle: "Seedance 2.5: How ByteDance Built the World's Most Ambitious AI Video Engine",
+    metaDescription: "ByteDance's Seedance 2.5 delivers native 4K video, 30-second single-generation clips, and 50 simultaneous reference inputs. Launched in July 2026, it represents not merely a product upgrade but a declaration that China intends to own the creative AI layer — from TikTok's billion users to Hollywood's post-production pipelines.",
+    keywords: '',
+  },
   'openai-price-war-chinese-ai-rivals-2026': {
     metaTitle: "OpenAI Blinks: How an 80% Price Cut Revealed the New Power Balance in Global AI",
     metaDescription: "In August 2026, OpenAI slashed GPT-5.6 prices by up to 80% — not to reward developers, but to stop the bleeding. DeepSeek V4-Flash had already claimed the top spot on OpenRouter. Chinese models occupied nine of the global top ten. For the first time, an American frontier lab was fighting a price war it did not start.",
