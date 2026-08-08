@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-model-wars-summer-2026': {
+    metaTitle: "China's AI Model Wars: The Summer That Changed Global AI",
+    metaDescription: "In the span of four months, four Chinese AI labs—Moonshot, DeepSeek, ByteDance, and Alibaba—released models that collectively erased the perceived capability gap between Chinese and American AI. With 2.8 trillion-parameter open weights, 1.6 trillion-parameter MoE architectures, and a 10 trillion-parameter behemoth in training, China's AI model ecosystem has gone from follower to co-leader.",
+    keywords: '["China AI model wars", "Kimi K3", "DeepSeek V4", "ByteDance Seed", "Alibaba Qwen", "Moonshot AI", "Chinese LLM", "open source AI", "AI benchmark 2026", "China vs US AI"]',
+  },
   'bytedance-seedance-2.5-ai-video-revolution-2026': {
     metaTitle: "Seedance 2.5: How ByteDance Built the World's Most Ambitious AI Video Engine",
     metaDescription: "ByteDance's Seedance 2.5 delivers native 4K video, 30-second single-generation clips, and 50 simultaneous reference inputs. Launched in July 2026, it represents not merely a product upgrade but a declaration that China intends to own the creative AI layer — from TikTok's billion users to Hollywood's post-production pipelines.",
