@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'apple-intelligence-china-qwen-baidu-ai-sovereignty-2026': {
+    metaTitle: "Two Apple Intelligences: How China's Regulatory Approval Forced Apple to Rebuild Its AI From the Inside",
+    metaDescription: "Apple Intelligence finally cleared China's regulatory hurdle on July 15, 2026 — but the version Chinese iPhone users will receive is architecturally different from what runs everywhere else. Here's what the Qwen-Baidu partnership reveals about the future of AI sovereignty.",
+    keywords: '["Apple Intelligence China", "Alibaba Qwen", "Baidu Apple partnership", "AI sovereignty", "China AI regulation", "CAC approval", "iPhone AI China", "tech geopolitics", "Qwen model", "Apple China strategy"]',
+  },
   'china-ai-model-wars-summer-2026': {
     metaTitle: "China's AI Model Wars: The Summer That Changed Global AI",
     metaDescription: "In the span of four months, four Chinese AI labs—Moonshot, DeepSeek, ByteDance, and Alibaba—released models that collectively erased the perceived capability gap between Chinese and American AI. With 2.8 trillion-parameter open weights, 1.6 trillion-parameter MoE architectures, and a 10 trillion-parameter behemoth in training, China's AI model ecosystem has gone from follower to co-leader.",
