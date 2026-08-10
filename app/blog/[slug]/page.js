@@ -5,10 +5,20 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-openrouter-revolution-global-api-dominance-2026': {
+    metaTitle: "The OpenRouter Revolution: How Chinese AI Models Captured Two-Thirds of Global API Traffic",
+    metaDescription: "On August 2, 2026, OpenRouter's weekly rankings revealed something Silicon Valley refused to believe: the top five most-called AI models on Earth were all Chinese. From DeepSeek's $0.87-per-million-token API to Xiaomi's MiMo-V2.5 surging 616% in sixty days, Chinese models now command 63.5% of global API traffic — and the infrastructure map of AI has been redrawn.",
+    keywords: '',
+  },
   'apple-intelligence-china-qwen-baidu-ai-sovereignty-2026': {
     metaTitle: "Two Apple Intelligences: How China's Regulatory Approval Forced Apple to Rebuild Its AI From the Inside",
     metaDescription: "Apple Intelligence finally cleared China's regulatory hurdle on July 15, 2026 — but the version Chinese iPhone users will receive is architecturally different from what runs everywhere else. Here's what the Qwen-Baidu partnership reveals about the future of AI sovereignty.",
     keywords: '["Apple Intelligence China", "Alibaba Qwen", "Baidu Apple partnership", "AI sovereignty", "China AI regulation", "CAC approval", "iPhone AI China", "tech geopolitics", "Qwen model", "Apple China strategy"]',
+  },
+  'deepseek-v4-flash-0731-post-training-beats-scale-2026': {
+    metaTitle: "DeepSeek V4-Flash-0731: The Post-Training Breakthrough That Beat Its Own 1.6 Trillion-Parameter Flagship",
+    metaDescription: "On July 31, 2026, DeepSeek released V4-Flash-0731 — the same 284 billion-parameter model, re-post-trained on agent data. It beat its own 1.6 trillion-parameter V4-Pro-Preview on every agent benchmark. At $0.14 per million tokens, it is the cheapest capable agentic model on Earth. The implication is radical: scale is no longer the primary frontier.",
+    keywords: '["DeepSeek", "V4-Flash-0731", "post-training", "agentic AI", "Mixture of Experts", "AI benchmarking", "China AI", "open weight model", "AI efficiency", "Terminal-Bench"]',
   },
   'china-ai-model-wars-summer-2026': {
     metaTitle: "China's AI Model Wars: The Summer That Changed Global AI",
