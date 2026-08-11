@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'deepseek-price-war-end-8-billion-robotics-pivot-2026': {
+    metaTitle: "DeepSeek Ends the Price War: Why China's AI Unicorn Is Raising Prices, Raising $8 Billion, and Betting on Robots",
+    metaDescription: "On August 6, 2026, DeepSeek did what no one thought possible: it raised prices. After processing 8 trillion tokens in a single day, the Hangzhou lab announced a funding round at $74 billion and a strategic robotics partnership with Unitree. The era of China's AI price war is ending — and something far more interesting is beginning.",
+    keywords: '',
+  },
   'china-ai-openrouter-revolution-global-api-dominance-2026': {
     metaTitle: "The OpenRouter Revolution: How Chinese AI Models Captured Two-Thirds of Global API Traffic",
     metaDescription: "On August 2, 2026, OpenRouter's weekly rankings revealed something Silicon Valley refused to believe: the top five most-called AI models on Earth were all Chinese. From DeepSeek's $0.87-per-million-token API to Xiaomi's MiMo-V2.5 surging 616% in sixty days, Chinese models now command 63.5% of global API traffic — and the infrastructure map of AI has been redrawn.",
