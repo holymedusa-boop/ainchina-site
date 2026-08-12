@@ -10,6 +10,11 @@ const postMetadata = {
     metaDescription: "On August 6, 2026, DeepSeek did what no one thought possible: it raised prices. After processing 8 trillion tokens in a single day, the Hangzhou lab announced a funding round at $74 billion and a strategic robotics partnership with Unitree. The era of China's AI price war is ending — and something far more interesting is beginning.",
     keywords: '',
   },
+  'kimi-k3-open-source-trillion-parameter-china-ai-2026': {
+    metaTitle: "Kimi K3: The 3-Trillion-Parameter Open-Source Moonshot That Broke the Internet",
+    metaDescription: "It was supposed to be a routine product launch. On July 16, 2026, Moonshot AI — the Beijing-based startup behind the Kimi chatbot — unveiled its most ambitious creation yet: Kimi K3, a model with 2.8...",
+    keywords: '',
+  },
   'china-ai-openrouter-revolution-global-api-dominance-2026': {
     metaTitle: "The OpenRouter Revolution: How Chinese AI Models Captured Two-Thirds of Global API Traffic",
     metaDescription: "On August 2, 2026, OpenRouter's weekly rankings revealed something Silicon Valley refused to believe: the top five most-called AI models on Earth were all Chinese. From DeepSeek's $0.87-per-million-token API to Xiaomi's MiMo-V2.5 surging 616% in sixty days, Chinese models now command 63.5% of global API traffic — and the infrastructure map of AI has been redrawn.",
