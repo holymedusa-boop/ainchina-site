@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'baichuan-ai-healthcare-pivot-wang-xiaochuan-medical-ai-2026': {
+    metaTitle: "Sole Survivor: How Wang Xiaochuan Burned Down China's 'OpenAI' to Build an AI Doctor",
+    metaDescription: "In March 2025, Wang Xiaochuan made a decision no Chinese AI founder had dared: he killed his own general-purpose model, fired his entire co-founding team, and bet everything on medical AI. Eighteen months later, Baichuan-M4 ranks #1 globally on HealthBench, serves 500,000 paying users, and has a clearer path to profit than any 'Six Little Dragon' peer.",
+    keywords: '',
+  },
   'deepseek-price-war-end-8-billion-robotics-pivot-2026': {
     metaTitle: "DeepSeek Ends the Price War: Why China's AI Unicorn Is Raising Prices, Raising $8 Billion, and Betting on Robots",
     metaDescription: "On August 6, 2026, DeepSeek did what no one thought possible: it raised prices. After processing 8 trillion tokens in a single day, the Hangzhou lab announced a funding round at $74 billion and a strategic robotics partnership with Unitree. The era of China's AI price war is ending — and something far more interesting is beginning.",
