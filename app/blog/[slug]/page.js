@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'us-sanctions-built-china-ai-chip-industry-cambricon-smic-2026': {
+    metaTitle: "How US Sanctions Built China's AI Chip Industry: The Cambricon Miracle and the SMIC Bottleneck",
+    metaDescription: "Cambricon just posted its first annual profit after nine years of losses, with revenue surging 453%. The company it should thank? NVIDIA — or rather, the US government that banned NVIDIA from selling to China. Inside the great semiconductor irony of 2026.",
+    keywords: '["Cambricon", "China AI chip", "SMIC", "US sanctions", "semiconductor", "Huawei Ascend", "ByteDance", "AI chip independence", "export controls", "China semiconductor"]',
+  },
   'baichuan-ai-healthcare-pivot-wang-xiaochuan-medical-ai-2026': {
     metaTitle: "Sole Survivor: How Wang Xiaochuan Burned Down China's 'OpenAI' to Build an AI Doctor",
     metaDescription: "In March 2025, Wang Xiaochuan made a decision no Chinese AI founder had dared: he killed his own general-purpose model, fired his entire co-founding team, and bet everything on medical AI. Eighteen months later, Baichuan-M4 ranks #1 globally on HealthBench, serves 500,000 paying users, and has a clearer path to profit than any 'Six Little Dragon' peer.",
