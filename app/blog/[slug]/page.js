@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-nvidia-h200-reversal-huawei-ascend-paradox-2026': {
+    metaTitle: "The Great Silicon Reversal: Why Beijing Is Quietly Letting Its AI Giants Buy Nvidia Again",
+    metaDescription: "After spending eighteen months and hundreds of billions of yuan building a Nvidia-free AI chip ecosystem around Huawei Ascend, Beijing is now allowing ByteDance, Alibaba, Tencent and DeepSeek to purchase limited quantities of Nvidia H200 chips. The reversal reveals a strategic fracture that nobody saw coming.",
+    keywords: '',
+  },
   'us-sanctions-built-china-ai-chip-industry-cambricon-smic-2026': {
     metaTitle: "How US Sanctions Built China's AI Chip Industry: The Cambricon Miracle and the SMIC Bottleneck",
     metaDescription: "Cambricon just posted its first annual profit after nine years of losses, with revenue surging 453%. The company it should thank? NVIDIA — or rather, the US government that banned NVIDIA from selling to China. Inside the great semiconductor irony of 2026.",
