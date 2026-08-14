@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'minimax-h3-open-source-video-model-china-2026': {
+    metaTitle: "MiniMax H3: The 33-Billion-Parameter Video Model That China Just Gave Away",
+    metaDescription: "MiniMax open-sourced H3, a 33B omni-modal video model capable of 2K generation with native stereo audio. Within 48 hours, the global community built LoRA support and Apple Silicon inference. Here's what this means for the future of open-source video generation.",
+    keywords: '',
+  },
   'china-nvidia-h200-reversal-huawei-ascend-paradox-2026': {
     metaTitle: "The Great Silicon Reversal: Why Beijing Is Quietly Letting Its AI Giants Buy Nvidia Again",
     metaDescription: "After spending eighteen months and hundreds of billions of yuan building a Nvidia-free AI chip ecosystem around Huawei Ascend, Beijing is now allowing ByteDance, Alibaba, Tencent and DeepSeek to purchase limited quantities of Nvidia H200 chips. The reversal reveals a strategic fracture that nobody saw coming.",
