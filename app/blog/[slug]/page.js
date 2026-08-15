@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'facewall-intelligence-ipo-edge-ai-china-first-llm-listing-2026': {
+    metaTitle: "FaceWall Intelligence's $3 Billion IPO Gambit: Can China's Edge AI Pioneer Rewrite the Rules of Public Markets?",
+    metaDescription: "On the morning of August 11, 2026, a regulatory filing appeared on the China Securities Regulatory Commission's disclosure platform. It contained no press release, no celebratory announcement. Just...",
+    keywords: '',
+  },
   'minimax-h3-open-source-video-model-china-2026': {
     metaTitle: "MiniMax H3: The 33-Billion-Parameter Video Model That China Just Gave Away",
     metaDescription: "MiniMax open-sourced H3, a 33B omni-modal video model capable of 2K generation with native stereo audio. Within 48 hours, the global community built LoRA support and Apple Silicon inference. Here's what this means for the future of open-source video generation.",
