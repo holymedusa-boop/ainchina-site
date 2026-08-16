@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'unitree-610-billion-ipo-china-robot-capital-markets-2026': {
+    metaTitle: "The $85 Billion Robot: How Unitree's Historic IPO Proves China's AI Manufacturing Dominance",
+    metaDescription: "For three years, the consensus among Western analysts was brutally simple: Chinese robotics companies were burning venture capital on science projects. The humanoid robots looked impressive in demo...",
+    keywords: '["Unitree IPO", "China robotics", "STAR Market", "humanoid robot", "AI manufacturing", "DeepSeek", "embodied intelligence", "China AI stocks", "robot IPO", "Hangzhou tech"]',
+  },
   'facewall-intelligence-ipo-edge-ai-china-first-llm-listing-2026': {
     metaTitle: "FaceWall Intelligence's $3 Billion IPO Gambit: Can China's Edge AI Pioneer Rewrite the Rules of Public Markets?",
     metaDescription: "On the morning of August 11, 2026, a regulatory filing appeared on the China Securities Regulatory Commission's disclosure platform. It contained no press release, no celebratory announcement. Just...",
