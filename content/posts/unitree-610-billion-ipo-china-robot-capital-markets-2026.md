@@ -5,7 +5,7 @@ date: "2026-08-17"
 slug: "unitree-610-billion-ipo-china-robot-capital-markets-2026"
 author: "AI in China Editorial"
 readingTime: 16
-heroImage: "https://images.unsplash.com/photo-1604599340287-204242222976?w=1200"
+heroImage: "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=1200"
 tags: ["Unitree", "IPO", "STAR Market", "robotics", "humanoid robot", "China AI", "embodied intelligence", "DeepSeek", "capital markets", "manufacturing"]
 keywords: ["Unitree IPO", "China robotics", "STAR Market", "humanoid robot", "AI manufacturing", "DeepSeek", "embodied intelligence", "China AI stocks", "robot IPO", "Hangzhou tech"]
 related: [
