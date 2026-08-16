@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-medical-insurance-global-first-2026': {
+    metaTitle: "The 1.2 Billion Patient Experiment: How China Put AI Doctors on National Insurance",
+    metaDescription: "On April 1, 2026, China became the first nation to reimburse AI-assisted diagnoses through national health insurance. Eight hundred thirty-seven top hospitals now bill insurers for AI readings of CT scans, retinal images, and ECGs—with patients paying as little as 15% out of pocket.",
+    keywords: '',
+  },
   'unitree-610-billion-ipo-china-robot-capital-markets-2026': {
     metaTitle: "The $85 Billion Robot: How Unitree's Historic IPO Proves China's AI Manufacturing Dominance",
     metaDescription: "For three years, the consensus among Western analysts was brutally simple: Chinese robotics companies were burning venture capital on science projects. The humanoid robots looked impressive in demo...",
