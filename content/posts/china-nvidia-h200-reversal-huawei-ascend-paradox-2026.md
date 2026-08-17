@@ -5,7 +5,7 @@ date: "2026-08-14"
 excerpt: "After spending eighteen months and hundreds of billions of yuan building a Nvidia-free AI chip ecosystem around Huawei Ascend, Beijing is now allowing ByteDance, Alibaba, Tencent and DeepSeek to purchase limited quantities of Nvidia H200 chips. The reversal reveals a strategic fracture that nobody saw coming."
 author: "AI in China Editorial"
 readTime: "16 min"
-heroImage: "https://images.unsplash.com/photo-1555617981-778dd1c43165?w=1200"
+heroImage: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&q=80"
 category: "Semiconductors"
 tags:
   - Nvidia

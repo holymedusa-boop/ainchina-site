@@ -114,7 +114,42 @@ const nextConfig = {
         destination: '/',
         permanent: true,
       },
-      // Deleted DeepSeek duplicate redirects
+      // Deleted posts → redirect to blog index or related article
+      {
+        source: '/posts/:path*',
+        destination: '/blog/',
+        permanent: true,
+      },
+      {
+        source: '/blog/deepseek-73b-megaround-china-ai-funding-frenzy-2026',
+        destination: '/blog/deepseek-v4-million-token-china-ai-sovereignty/',
+        permanent: true,
+      },
+      {
+        source: '/blog/deepseek-73b-megaround-china-ai-funding-frenzy-2026/:path*',
+        destination: '/blog/deepseek-v4-million-token-china-ai-sovereignty/',
+        permanent: true,
+      },
+      {
+        source: '/blog/china-ai-model-war-april-2026',
+        destination: '/blog/china-ai-model-war-april-2026-week-changed-everything/',
+        permanent: true,
+      },
+      {
+        source: '/blog/china-ai-model-war-april-2026/:path*',
+        destination: '/blog/china-ai-model-war-april-2026-week-changed-everything/',
+        permanent: true,
+      },
+      {
+        source: '/blog/doubao-bytedance-ai-consumer-empire-2026',
+        destination: '/blog/doubao-bytedance/',
+        permanent: true,
+      },
+      {
+        source: '/blog/doubao-bytedance-ai-consumer-empire-2026/:path*',
+        destination: '/blog/doubao-bytedance/',
+        permanent: true,
+      },
       {
         source: '/blog/deepseek-73b-megaround-china-ai-funding-frenzy',
         destination: '/blog/deepseek-v4-million-token-china-ai-sovereignty/',

@@ -360,9 +360,9 @@ But the risks are real: sky-high valuations, fierce competition, regulatory unce
 
 ## Related Reading
 
-- [China's AI Token Surge: 31% Growth Signals Global Shift](china-ai-token-surge-31-percent-april-2026.md)
-- [The AI Interview Coach Phenomenon in China](ai-interview-coaching-china-2025.md)
-- [From 50B Funding to 42M Installations: AI Models Hit Terminals](2026-04-03-ai-terminal-revolution.md)
+- [China's AI Token Surge: 31% Growth Signals Global Shift](/blog/china-ai-token-surge-gen-z/)
+- [The AI Interview Coach Phenomenon in China](/blog/ai-interview-coaching-china-2025/)
+- [From 50B Funding to 42M Installations: AI Models Hit Terminals](/blog/stepfun-terminal-ai-revolution/)
 - DeepSeek Official: [github.com/deepseek-ai](https://github.com/deepseek-ai)
 
 ---
