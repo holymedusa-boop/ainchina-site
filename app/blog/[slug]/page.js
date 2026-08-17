@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'bytedance-ai-strategic-pivot-admit-weakness-play-strengths-2026': {
+    metaTitle: "ByteDance Just Admitted Its AI Is Behind. That's Exactly Why It's Winning.",
+    metaDescription: "On August 6, 2026, ByteDance CEO Liang Rubo did something no Chinese tech leader had dared: he told 110,000 employees that his company's large language models lag behind America's. The confession was not surrender. It was the opening move of a strategy that may prove more durable than any parameter-count arms race.",
+    keywords: '',
+  },
   'china-ai-medical-insurance-global-first-2026': {
     metaTitle: "The 1.2 Billion Patient Experiment: How China Put AI Doctors on National Insurance",
     metaDescription: "On April 1, 2026, China became the first nation to reimburse AI-assisted diagnoses through national health insurance. Eight hundred thirty-seven top hospitals now bill insurers for AI readings of CT scans, retinal images, and ECGs—with patients paying as little as 15% out of pocket.",
