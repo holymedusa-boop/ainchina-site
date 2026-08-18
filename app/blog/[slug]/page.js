@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-open-source-ai-3-billion-downloads-qwen-deepseek-2026': {
+    metaTitle: "3 Billion Downloads and Counting: The Great Open Source Reversal Nobody in Silicon Valley Saw Coming",
+    metaDescription: "Alibaba's Qwen just crossed 3 billion global downloads, surpassing Meta's Llama and Google's entire model family. DeepSeek Harness hit 141,000 GitHub stars in four days. Kimi K3 became the world's largest open-weight model at 2.8 trillion parameters. The open-source AI narrative has been rewritten — and this time, the byline is Chinese.",
+    keywords: '',
+  },
   'world-humanoid-robot-games-beijing-2026': {
     metaTitle: "2,056 Robots, 666 Teams, One Arena: Inside the World's Largest Humanoid Robot Games",
     metaDescription: "The second World Humanoid Robot Games opens August 22 in Beijing's Ice Ribbon with 2,056 robots from 16 countries competing across 51 events. Here's why this event matters more than entertainment—it's become the proving ground for China's embodied AI ambitions.",
