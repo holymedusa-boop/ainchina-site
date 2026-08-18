@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'world-humanoid-robot-games-beijing-2026': {
+    metaTitle: "2,056 Robots, 666 Teams, One Arena: Inside the World's Largest Humanoid Robot Games",
+    metaDescription: "The second World Humanoid Robot Games opens August 22 in Beijing's Ice Ribbon with 2,056 robots from 16 countries competing across 51 events. Here's why this event matters more than entertainment—it's become the proving ground for China's embodied AI ambitions.",
+    keywords: '',
+  },
   'bytedance-ai-strategic-pivot-admit-weakness-play-strengths-2026': {
     metaTitle: "ByteDance Just Admitted Its AI Is Behind. That's Exactly Why It's Winning.",
     metaDescription: "On August 6, 2026, ByteDance CEO Liang Rubo did something no Chinese tech leader had dared: he told 110,000 employees that his company's large language models lag behind America's. The confession was not surrender. It was the opening move of a strategy that may prove more durable than any parameter-count arms race.",
