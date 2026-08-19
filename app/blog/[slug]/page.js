@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-trinity-glm-deepseek-kimi-2026': {
+    metaTitle: "China's AI Trinity: GLM-5.3, DeepSeek V4, and Kimi K3 — A Comparative Framework",
+    metaDescription: "In mid-August 2026, three Chinese AI labs dropped flagship models within one week. We compare GLM-5.3, DeepSeek V4-Pro, and Kimi K3 across architecture, pricing, benchmarks, and strategy to reveal what China's AI trinity means for the global open-source race.",
+    keywords: '',
+  },
   'china-open-source-ai-3-billion-downloads-qwen-deepseek-2026': {
     metaTitle: "3 Billion Downloads and Counting: The Great Open Source Reversal Nobody in Silicon Valley Saw Coming",
     metaDescription: "Alibaba's Qwen just crossed 3 billion global downloads, surpassing Meta's Llama and Google's entire model family. DeepSeek Harness hit 141,000 GitHub stars in four days. Kimi K3 became the world's largest open-weight model at 2.8 trillion parameters. The open-source AI narrative has been rewritten — and this time, the byline is Chinese.",
