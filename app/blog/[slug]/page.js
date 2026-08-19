@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'zhipu-glm-5-3-post-training-coding-cyber-revolution-2026': {
+    metaTitle: "Zhipu GLM-5.3: How 30 Days of Post-Training Turned a 743B Model Into China's Coding King",
+    metaDescription: "On August 14, 2026, Zhipu AI released GLM-5.3 with a radical claim: every capability gain came from post-training, not a new pretraining run. The 743B-parameter model leaped 515% on Terminal-Bench 3.0, discovered 2,436 vulnerabilities in open-source code, and forced a conversation about whether the AI frontier has shifted from scale to training strategy.",
+    keywords: '["Zhipu GLM-5.3", "Z.ai", "China AI coding model", "post-training AI", "open weight model", "Terminal-Bench", "cybersecurity AI", "GLM-5.2", "DeepSeek V4-Pro", "Chinese LLM benchmark", "AI vulnerability discovery", "MSCI China Index", "Zhipu AI stock", "coding AI model 2026", "mixture of experts"]',
+  },
   'china-ai-trinity-glm-deepseek-kimi-2026': {
     metaTitle: "China's AI Trinity: GLM-5.3, DeepSeek V4, and Kimi K3 — A Comparative Framework",
     metaDescription: "In mid-August 2026, three Chinese AI labs dropped flagship models within one week. We compare GLM-5.3, DeepSeek V4-Pro, and Kimi K3 across architecture, pricing, benchmarks, and strategy to reveal what China's AI trinity means for the global open-source race.",

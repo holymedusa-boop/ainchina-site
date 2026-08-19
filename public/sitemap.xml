@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Generated: 2026-08-17T08:18:35.949Z -->
-  <!-- Total Posts: 152 -->
+  <!-- Generated: 2026-08-19T20:34:35.828Z -->
+  <!-- Total Posts: 156 -->
 
   <!-- Homepage -->
   <url>
     <loc>https://www.ainchina.com/</loc>
-    <lastmod>2026-08-17</lastmod>
+    <lastmod>2026-08-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -15,7 +15,7 @@
   <!-- Blog Index -->
   <url>
     <loc>https://www.ainchina.com/blog/</loc>
-    <lastmod>2026-08-17</lastmod>
+    <lastmod>2026-08-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -31,84 +31,132 @@
   <!-- HTML Sitemap -->
   <url>
     <loc>https://www.ainchina.com/sitemap/</loc>
-    <lastmod>2026-08-17</lastmod>
+    <lastmod>2026-08-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
 
-  <!-- AI Strategy -->
+  <!-- AI Business -->
   <url>
-    <loc>https://www.ainchina.com/blog/bytedance-ai-strategic-pivot-admit-weakness-play-strengths-2026/</loc>
-    <lastmod>2026-08-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-
-  <!-- Healthcare AI -->
-  <url>
-    <loc>https://www.ainchina.com/blog/china-ai-medical-insurance-global-first-2026/</loc>
-    <lastmod>2026-08-17</lastmod>
+    <loc>https://www.ainchina.com/blog/zhipu-glm-5-3-post-training-coding-cyber-revolution-2026/</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.ainchina.com/blog/baichuan-ai-healthcare-pivot-wang-xiaochuan-medical-ai-2026/</loc>
-    <lastmod>2026-08-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-
-  <!-- AI Robotics -->
-  <url>
-    <loc>https://www.ainchina.com/blog/unitree-610-billion-ipo-china-robot-capital-markets-2026/</loc>
-    <lastmod>2026-08-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/waic-2026-live-china-ai-ships-products-humanoid-robot-mass-production/</loc>
-    <lastmod>2026-07-20</lastmod>
+    <loc>https://www.ainchina.com/blog/china-ai-monetization-awakening-end-free-token-era-2026/</loc>
+    <lastmod>2026-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.ainchina.com/blog/baidu-apollo-go-swiss-level4-robotaxi-permit-europe-2026/</loc>
-    <lastmod>2026-06-20</lastmod>
+    <loc>https://www.ainchina.com/blog/alibaba-qwen-3-8-max-2-4-trillion-china-ai-race-2026/</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/china-ai-six-tigers-divergence-ipo-wave-2026/</loc>
+    <lastmod>2026-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/china-low-altitude-economy-drones-ai-500bn-airspace-2026/</loc>
+    <lastmod>2026-06-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.ainchina.com/blog/china-embodied-intelligence-revolution-2026/</loc>
-    <lastmod>2026-06-16</lastmod>
+    <loc>https://www.ainchina.com/blog/gaokao-agent-wars-china-ai-battleground-2026/</loc>
+    <lastmod>2026-06-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.ainchina.com/blog/unitree-robotics-ipo-china-humanoid-robot-first-stock-2026/</loc>
-    <lastmod>2026-06-13</lastmod>
+    <loc>https://www.ainchina.com/blog/china-ai-ipo-wave-zhipu-minimax-2026/</loc>
+    <lastmod>2026-06-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.ainchina.com/blog/china-embodied-ai-revolution-funding-world-models-2026/</loc>
-    <lastmod>2026-06-10</lastmod>
+    <loc>https://www.ainchina.com/blog/minimax-300m-users-arr-doubles-a-share-ipo-china-ai-export-2026/</loc>
+    <lastmod>2026-06-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.ainchina.com/blog/minimax-ipo-212-million-users-ai-companion-empire/</loc>
-    <lastmod>2026-04-01</lastmod>
+    <loc>https://www.ainchina.com/blog/china-ai-inflection-point-may-2026/</loc>
+    <lastmod>2026-05-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.ainchina.com/blog/tars-embodied-intelligence-455-million-brain-club/</loc>
-    <lastmod>2026-04-01</lastmod>
+    <loc>https://www.ainchina.com/blog/china-ai-models-dominate-global-api-traffic-token-export-2026/</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/china-ai-invisible-empire-consumer-apps-2026/</loc>
+    <lastmod>2026-05-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/china-ai-olympus-65-billion-war-future-intelligence-2026/</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/doubao-charging-ai-free-era-ends-china-2026/</loc>
+    <lastmod>2026-05-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
 
+  <!-- AI Development -->
+  <url>
+    <loc>https://www.ainchina.com/blog/china-ai-trinity-glm-deepseek-kimi-2026/</loc>
+    <lastmod>2026-08-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Global AI Competition -->
+  <url>
+    <loc>https://www.ainchina.com/blog/china-open-source-ai-3-billion-downloads-qwen-deepseek-2026/</loc>
+    <lastmod>2026-08-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/china-ai-openrouter-revolution-global-api-dominance-2026/</loc>
+    <lastmod>2026-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/openai-price-war-chinese-ai-rivals-2026/</loc>
+    <lastmod>2026-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/china-ai-open-source-captured-american-developers-2026/</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
   <!-- AI -->
+  <url>
+    <loc>https://www.ainchina.com/blog/world-humanoid-robot-games-beijing-2026/</loc>
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   <url>
     <loc>https://www.ainchina.com/blog/facewall-intelligence-ipo-edge-ai-china-first-llm-listing-2026/</loc>
     <lastmod>2026-08-16</lastmod>
@@ -130,7 +178,7 @@
   <url>
     <loc>https://www.ainchina.com/blog/kimi-k3-open-source-trillion-parameter-china-ai-2026/</loc>
     <lastmod>2026-08-12</lastmod>
-    <changefreq>daily</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
@@ -176,6 +224,78 @@
     <priority>0.6</priority>
   </url>
 
+  <!-- AI Strategy -->
+  <url>
+    <loc>https://www.ainchina.com/blog/bytedance-ai-strategic-pivot-admit-weakness-play-strengths-2026/</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Healthcare AI -->
+  <url>
+    <loc>https://www.ainchina.com/blog/china-ai-medical-insurance-global-first-2026/</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/baichuan-ai-healthcare-pivot-wang-xiaochuan-medical-ai-2026/</loc>
+    <lastmod>2026-08-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- AI Robotics -->
+  <url>
+    <loc>https://www.ainchina.com/blog/unitree-610-billion-ipo-china-robot-capital-markets-2026/</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/waic-2026-live-china-ai-ships-products-humanoid-robot-mass-production/</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/baidu-apollo-go-swiss-level4-robotaxi-permit-europe-2026/</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/china-embodied-intelligence-revolution-2026/</loc>
+    <lastmod>2026-06-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/unitree-robotics-ipo-china-humanoid-robot-first-stock-2026/</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/china-embodied-ai-revolution-funding-world-models-2026/</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/minimax-ipo-212-million-users-ai-companion-empire/</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/tars-embodied-intelligence-455-million-brain-club/</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
   <!-- Semiconductors -->
   <url>
     <loc>https://www.ainchina.com/blog/china-nvidia-h200-reversal-huawei-ascend-paradox-2026/</loc>
@@ -188,7 +308,7 @@
   <url>
     <loc>https://www.ainchina.com/blog/deepseek-price-war-end-8-billion-robotics-pivot-2026/</loc>
     <lastmod>2026-08-12</lastmod>
-    <changefreq>daily</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
@@ -212,26 +332,6 @@
   <url>
     <loc>https://www.ainchina.com/blog/kimi-k3-moonshot-2-8-trillion-open-weight-model-2026/</loc>
     <lastmod>2026-07-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-
-  <!-- Global AI Competition -->
-  <url>
-    <loc>https://www.ainchina.com/blog/china-ai-openrouter-revolution-global-api-dominance-2026/</loc>
-    <lastmod>2026-08-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/openai-price-war-chinese-ai-rivals-2026/</loc>
-    <lastmod>2026-08-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/china-ai-open-source-captured-american-developers-2026/</loc>
-    <lastmod>2026-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -352,7 +452,7 @@
   <url>
     <loc>https://www.ainchina.com/blog/chinese-ai-models-46-percent-us-enterprise-invasion-2026/</loc>
     <lastmod>2026-07-19</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
@@ -463,80 +563,6 @@
     <loc>https://www.ainchina.com/blog/bytedance-seedance-2.5-ai-video-revolution-2026/</loc>
     <lastmod>2026-08-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-
-  <!-- AI Business -->
-  <url>
-    <loc>https://www.ainchina.com/blog/china-ai-monetization-awakening-end-free-token-era-2026/</loc>
-    <lastmod>2026-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/alibaba-qwen-3-8-max-2-4-trillion-china-ai-race-2026/</loc>
-    <lastmod>2026-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/china-ai-six-tigers-divergence-ipo-wave-2026/</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/china-low-altitude-economy-drones-ai-500bn-airspace-2026/</loc>
-    <lastmod>2026-06-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/gaokao-agent-wars-china-ai-battleground-2026/</loc>
-    <lastmod>2026-06-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/china-ai-ipo-wave-zhipu-minimax-2026/</loc>
-    <lastmod>2026-06-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/minimax-300m-users-arr-doubles-a-share-ipo-china-ai-export-2026/</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/china-ai-inflection-point-may-2026/</loc>
-    <lastmod>2026-05-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/china-ai-models-dominate-global-api-traffic-token-export-2026/</loc>
-    <lastmod>2026-05-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/china-ai-invisible-empire-consumer-apps-2026/</loc>
-    <lastmod>2026-05-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/china-ai-olympus-65-billion-war-future-intelligence-2026/</loc>
-    <lastmod>2026-05-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.ainchina.com/blog/doubao-charging-ai-free-era-ends-china-2026/</loc>
-    <lastmod>2026-05-07</lastmod>
-    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
 
