@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'bytedance-10-trillion-parameter-model-china-ai-scaling-race-2026': {
+    metaTitle: "ByteDance's 10-Trillion-Parameter Bet: How China's Biggest AI Model Is Rewriting the Scaling Race",
+    metaDescription: "ByteDance is reportedly pre-training a 10-trillion-parameter AI model — triple the size of any Chinese model shipped and rivaling Anthropic's Mythos 5. Behind the number lies a deeper shift: a no-distillation policy, a $5.6 billion Huawei chip order, and a founder mandate to chase world-class capability over short-term wins.",
+    keywords: '["ByteDance AI model", "10 trillion parameters", "China AI scaling", "Huawei Ascend chips", "Doubao", "Zhang Yiming", "DeepSeek", "Moonshot Kimi K3", "AI model size", "China chip independence"]',
+  },
   'zhipu-glm-5-3-post-training-coding-cyber-revolution-2026': {
     metaTitle: "Zhipu GLM-5.3: How 30 Days of Post-Training Turned a 743B Model Into China's Coding King",
     metaDescription: "On August 14, 2026, Zhipu AI released GLM-5.3 with a radical claim: every capability gain came from post-training, not a new pretraining run. The 743B-parameter model leaped 515% on Terminal-Bench 3.0, discovered 2,436 vulnerabilities in open-source code, and forced a conversation about whether the AI frontier has shifted from scale to training strategy.",
