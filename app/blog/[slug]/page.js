@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'huawei-ascend-950dt-cloud-launch-china-ai-training-sovereignty-2026': {
+    metaTitle: "From Entity List to Cloud Launch: How Huawei's Ascend 950DT Closed the Loop on China's AI Training Sovereignty",
+    metaDescription: "On August 20, 2026, Huawei's Ascend 950DT training chip went live on Huawei Cloud — the culmination of a six-year journey from US sanctions to self-sufficiency. With 144GB of in-house HBM, 4 TB/s bandwidth, and DeepSeek V4 already proven on the architecture, China now has an end-to-end domestic training stack. The per-chip gap to Nvidia remains large. But the system-level bet is paying off.",
+    keywords: '',
+  },
   'bytedance-10-trillion-parameter-model-china-ai-scaling-race-2026': {
     metaTitle: "ByteDance's 10-Trillion-Parameter Bet: How China's Biggest AI Model Is Rewriting the Scaling Race",
     metaDescription: "ByteDance is reportedly pre-training a 10-trillion-parameter AI model — triple the size of any Chinese model shipped and rivaling Anthropic's Mythos 5. Behind the number lies a deeper shift: a no-distillation policy, a $5.6 billion Huawei chip order, and a founder mandate to chase world-class capability over short-term wins.",
