@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-embodied-ai-robotics-revolution-2026': {
+    metaTitle: "The Physical AI Revolution: How China Is Winning the Race for Embodied Intelligence",
+    metaDescription: "While Silicon Valley obsesses over chatbots, China is building an army of thinking machines that can walk, drive, and manipulate the physical world. From DeepSeek's robotics debut to Unitree's $9 billion IPO, embodied AI has become China's most consequential AI frontier.",
+    keywords: '',
+  },
   'bytedance-10-trillion-parameter-model-china-ai-scale-bet-2026': {
     metaTitle: "ByteDance's 10 Trillion Parameter Gamble: Why the Biggest Number in AI Might Not Mean What You Think",
     metaDescription: "ByteDance is pre-training a 10-trillion-parameter AI model that would dwarf every Chinese competitor and rival Anthropic's Mythos 5. But in the Mixture-of-Experts era, total parameters measure storage capacity—not intelligence. The real story lies in what ByteDance isn't saying.",
