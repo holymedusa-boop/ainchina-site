@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'bytedance-10-trillion-parameter-model-china-ai-scale-bet-2026': {
+    metaTitle: "ByteDance's 10 Trillion Parameter Gamble: Why the Biggest Number in AI Might Not Mean What You Think",
+    metaDescription: "ByteDance is pre-training a 10-trillion-parameter AI model that would dwarf every Chinese competitor and rival Anthropic's Mythos 5. But in the Mixture-of-Experts era, total parameters measure storage capacity—not intelligence. The real story lies in what ByteDance isn't saying.",
+    keywords: '["ByteDance 10 trillion parameters", "ByteDance AI model", "Seed team", "Zhang Yiming", "Doubao", "China AI race", "Mixture of Experts", "MoE architecture", "Kimi K3", "DeepSeek V4-Pro", "Anthropic Mythos", "AI distillation", "Chinese AI infrastructure", "Volcano Cloud", "AI parameter count"]',
+  },
   'huawei-ascend-950dt-cloud-launch-china-ai-training-sovereignty-2026': {
     metaTitle: "From Entity List to Cloud Launch: How Huawei's Ascend 950DT Closed the Loop on China's AI Training Sovereignty",
     metaDescription: "On August 20, 2026, Huawei's Ascend 950DT training chip went live on Huawei Cloud — the culmination of a six-year journey from US sanctions to self-sufficiency. With 144GB of in-house HBM, 4 TB/s bandwidth, and DeepSeek V4 already proven on the architecture, China now has an end-to-end domestic training stack. The per-chip gap to Nvidia remains large. But the system-level bet is paying off.",
