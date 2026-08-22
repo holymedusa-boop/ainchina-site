@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-green-ai-computing-inner-mongolia-sustainable-intelligence-2026': {
+    metaTitle: "China's Green AI Computing Revolution: How Inner Mongolia Built the World's Largest Sustainable Intelligence Factory",
+    metaDescription: "At the 2026 Green Computing Power Conference in Hohhot, China signed ¥186 billion in green AI infrastructure projects. Inner Mongolia now hosts 315,000 petaflops of computing power—one-seventh of China's total—powered by 84% renewable energy. The rest of the world is still debating AI's carbon footprint. China has already solved it at scale.",
+    keywords: '["green computing", "China AI infrastructure", "Inner Mongolia data center", "East Data West Computing", "renewable energy AI", "Hohhot computing hub", "sustainable AI", "carbon neutral data center", "token economy China", "Volcano Engine", "Cambricon", "green AI revolution"]',
+  },
   'china-ai-token-price-war-end-pricing-reset-2026': {
     metaTitle: "China's AI Token Price War Is Over: Why the Industry-Wide Pricing Reset Signals Global AI Maturity",
     metaDescription: "DeepSeek's August 17 peak-valley pricing implementation marked the formal end of China's two-year AI token price war. With Zhipu, Moonshot, Tencent, and cloud providers all raising prices, the industry is entering a sustainable pricing era that mirrors global software economics.",
