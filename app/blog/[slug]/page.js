@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-token-price-war-end-pricing-reset-2026': {
+    metaTitle: "China's AI Token Price War Is Over: Why the Industry-Wide Pricing Reset Signals Global AI Maturity",
+    metaDescription: "DeepSeek's August 17 peak-valley pricing implementation marked the formal end of China's two-year AI token price war. With Zhipu, Moonshot, Tencent, and cloud providers all raising prices, the industry is entering a sustainable pricing era that mirrors global software economics.",
+    keywords: '',
+  },
   'china-embodied-ai-robotics-revolution-2026': {
     metaTitle: "The Physical AI Revolution: How China Is Winning the Race for Embodied Intelligence",
     metaDescription: "While Silicon Valley obsesses over chatbots, China is building an army of thinking machines that can walk, drive, and manipulate the physical world. From DeepSeek's robotics debut to Unitree's $9 billion IPO, embodied AI has become China's most consequential AI frontier.",
