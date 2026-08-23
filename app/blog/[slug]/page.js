@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-profit-pivot-skeptics-wrong-2026': {
+    metaTitle: "The $300 Million Answer: How China's AI Industry Just Proved It Can Make Money",
+    metaDescription: "For two years, Western analysts predicted China's AI companies would collapse under unsustainable burn rates. Then August 2026 happened. MiniMax doubled ARR to $300 million in 60 days. DeepSeek hit $74 billion valuation. The industry-wide price war ended with synchronized price increases. The burn rate narrative was wrong — and the numbers prove it.",
+    keywords: '["China AI profitability", "MiniMax ARR", "DeepSeek valuation", "AI monetization", "China tech burn rate", "AI price war end", "ByteDance revenue", "Tencent WorkBuddy", "Chinese AI unicorns", "AI business model", "token pricing", "China AI funding"]',
+  },
   'china-green-ai-computing-inner-mongolia-sustainable-intelligence-2026': {
     metaTitle: "China's Green AI Computing Revolution: How Inner Mongolia Built the World's Largest Sustainable Intelligence Factory",
     metaDescription: "At the 2026 Green Computing Power Conference in Hohhot, China signed ¥186 billion in green AI infrastructure projects. Inner Mongolia now hosts 315,000 petaflops of computing power—one-seventh of China's total—powered by 84% renewable energy. The rest of the world is still debating AI's carbon footprint. China has already solved it at scale.",
