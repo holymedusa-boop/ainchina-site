@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'tiangong-robot-breaks-human-world-records-embodied-ai-china-2026': {
+    metaTitle: "38.15 Seconds: When a Chinese Robot Beat the Fastest Human Alive—and Revealed Where AI Is Actually Heading",
+    metaDescription: "At the World Humanoid Robot Games in Beijing, the Tiāngōng Ultra ran 400 meters in 38.15 seconds—nearly five seconds faster than the human world record. While Silicon Valley chases trillion-parameter language models, China's embodied AI revolution is rewriting the rules of physical intelligence.",
+    keywords: '',
+  },
   'china-ai-profit-pivot-skeptics-wrong-2026': {
     metaTitle: "The $300 Million Answer: How China's AI Industry Just Proved It Can Make Money",
     metaDescription: "For two years, Western analysts predicted China's AI companies would collapse under unsustainable burn rates. Then August 2026 happened. MiniMax doubled ARR to $300 million in 60 days. DeepSeek hit $74 billion valuation. The industry-wide price war ended with synchronized price increases. The burn rate narrative was wrong — and the numbers prove it.",
