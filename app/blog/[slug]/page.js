@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-talent-war-billion-dollar-brains-2026': {
+    metaTitle: "The ¥100 Million Engineer: How China's AI Industry Learned That People Cost More Than Supercomputers",
+    metaDescription: "For three years, the global AI narrative has been obsessed with chips, parameters, and capital. Then China's AI labs discovered something Silicon Valley missed: a single top-tier researcher is now worth more than a thousand GPUs. DeepSeek lost five core architects in six months. ByteDance paid ¥100 million for one engineer. Meta is wiring $200 million to Chinese labs just for access to talent. The AI race was never about compute. It was always about minds.",
+    keywords: '',
+  },
   'tiangong-robot-breaks-human-world-records-embodied-ai-china-2026': {
     metaTitle: "38.15 Seconds: When a Chinese Robot Beat the Fastest Human Alive—and Revealed Where AI Is Actually Heading",
     metaDescription: "At the World Humanoid Robot Games in Beijing, the Tiāngōng Ultra ran 400 meters in 38.15 seconds—nearly five seconds faster than the human world record. While Silicon Valley chases trillion-parameter language models, China's embodied AI revolution is rewriting the rules of physical intelligence.",
