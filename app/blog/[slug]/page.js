@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-embodied-intelligence-wrc-2026-tipping-point': {
+    metaTitle: "From Showroom Floors to Factory Floors: How WRC 2026 Proved China's Robot Revolution Already Crossed the Tipping Point",
+    metaDescription: "For years, the world watched China's robot industry through the lens of spectacle — backflipping humanoids, dancing androids, and viral demo videos. Then the 2026 World Robot Convention opened its doors in Beijing, and the narrative shattered. Behind the 55.7 million visitors and 1.1 billion livestream viewers lay something far more consequential: robots that were already working in factories, already passing industrial certifications, and already generating purchase orders from state-owned enterprises. The revolution wasn't coming. It had arrived.",
+    keywords: '',
+  },
   'china-ai-talent-war-billion-dollar-brains-2026': {
     metaTitle: "The ¥100 Million Engineer: How China's AI Industry Learned That People Cost More Than Supercomputers",
     metaDescription: "For three years, the global AI narrative has been obsessed with chips, parameters, and capital. Then China's AI labs discovered something Silicon Valley missed: a single top-tier researcher is now worth more than a thousand GPUs. DeepSeek lost five core architects in six months. ByteDance paid ¥100 million for one engineer. Meta is wiring $200 million to Chinese labs just for access to talent. The AI race was never about compute. It was always about minds.",
