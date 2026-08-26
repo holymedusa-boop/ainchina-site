@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-enterprise-pivot-b2b-productivity-revolution-2026': {
+    metaTitle: "The Enterprise Pivot: How China's AI Giants Just Killed the Consumer Playbook",
+    metaDescription: "Everyone thinks China's AI industry is trapped in an endless cycle of consumer apps and unsustainable price wars. The moves made by ByteDance, Tencent, and Alibaba in August 2026 prove the exact opposite: China's tech giants just executed the most decisive pivot to enterprise productivity in modern technology history.",
+    keywords: '["ByteDance", "Doubao Work", "AI enterprise", "Tencent WorkBuddy", "Alibaba Qianwen Office", "China AI B2B", "AI agent productivity", "Feishu", "DingTalk", "enterprise AI China"]',
+  },
   'china-embodied-intelligence-wrc-2026-tipping-point': {
     metaTitle: "From Showroom Floors to Factory Floors: How WRC 2026 Proved China's Robot Revolution Already Crossed the Tipping Point",
     metaDescription: "For years, the world watched China's robot industry through the lens of spectacle — backflipping humanoids, dancing androids, and viral demo videos. Then the 2026 World Robot Convention opened its doors in Beijing, and the narrative shattered. Behind the 55.7 million visitors and 1.1 billion livestream viewers lay something far more consequential: robots that were already working in factories, already passing industrial certifications, and already generating purchase orders from state-owned enterprises. The revolution wasn't coming. It had arrived.",
