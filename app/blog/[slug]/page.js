@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-death-zone-deepseek-alibaba-price-war-august-2026': {
+    metaTitle: "China's AI Death Zone: How DeepSeek's 1% Pricing and Alibaba's 2.4T Monster Threaten to Collapse the Global Model Market",
+    metaDescription: "The week of August 1-8, 2026 may be remembered as the moment China's AI industry stopped competing and started annihilating. DeepSeek V4-Flash at $0.14 per million tokens—roughly 1% of Anthropic's pricing. Alibaba's Qwen 3.8-Max at 2.4 trillion parameters. A $74 billion DeepSeek valuation. And Bloomberg's verdict: China has created a 'death zone' for rival U.S. model makers.",
+    keywords: '["China AI", "DeepSeek V4", "Alibaba Qwen", "AI pricing", "China AI death zone", "open weight model", "AI price war", "DeepSeek funding", "Chinese AI models", "AI commoditization", "Moonshot AI", "Kimi K3", "U.S. AI competition", "AI token pricing 2026", "China AI infrastructure"]',
+  },
   'china-ai-enterprise-pivot-b2b-productivity-revolution-2026': {
     metaTitle: "The Enterprise Pivot: How China's AI Giants Just Killed the Consumer Playbook",
     metaDescription: "Everyone thinks China's AI industry is trapped in an endless cycle of consumer apps and unsustainable price wars. The moves made by ByteDance, Tencent, and Alibaba in August 2026 prove the exact opposite: China's tech giants just executed the most decisive pivot to enterprise productivity in modern technology history.",
