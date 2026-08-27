@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'bytedance-10-trillion-parameter-ai-model-china-frontier-scale-2026': {
+    metaTitle: "ByteDance Trains 10 Trillion-Parameter AI Model: China's Biggest Bet on Frontier Scale",
+    metaDescription: "On August 7, 2026, the Financial Times published a report that sent ripples through the global artificial intelligence community. ByteDance, the parent company of TikTok and Douyin, is in the early...",
+    keywords: '["ByteDance", "10 trillion parameters", "AI model", "Seed team", "Zhang Yiming", "China AI", "Kimi K3", "Anthropic Mythos", "AI distillation", "AI sovereignty"]',
+  },
   'china-ai-death-zone-deepseek-alibaba-price-war-august-2026': {
     metaTitle: "China's AI Death Zone: How DeepSeek's 1% Pricing and Alibaba's 2.4T Monster Threaten to Collapse the Global Model Market",
     metaDescription: "The week of August 1-8, 2026 may be remembered as the moment China's AI industry stopped competing and started annihilating. DeepSeek V4-Flash at $0.14 per million tokens—roughly 1% of Anthropic's pricing. Alibaba's Qwen 3.8-Max at 2.4 trillion parameters. A $74 billion DeepSeek valuation. And Bloomberg's verdict: China has created a 'death zone' for rival U.S. model makers.",
