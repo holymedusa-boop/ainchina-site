@@ -10,6 +10,11 @@ const postMetadata = {
     metaDescription: "On August 7, 2026, the Financial Times published a report that sent ripples through the global artificial intelligence community. ByteDance, the parent company of TikTok and Douyin, is in the early...",
     keywords: '["ByteDance", "10 trillion parameters", "AI model", "Seed team", "Zhang Yiming", "China AI", "Kimi K3", "Anthropic Mythos", "AI distillation", "AI sovereignty"]',
   },
+  'china-ai-office-agent-war-doubao-work-workbuddy-qwenwork-2026': {
+    metaTitle: "Doubao Work vs. WorkBuddy vs. QwenWork: Inside China's Four-Way AI Office Agent War",
+    metaDescription: "On August 25, 2026, ByteDance launched Doubao Work and completed the most consequential corporate restructuring of the year—merging Feishu, TRAE, and扣子 into a unified Doubao product machine. The move completed China's 'Big Four' convergence on AI office agents: Tencent's WorkBuddy leads with 20.97M monthly visits, Alibaba's QwenWork connects to 700M DingTalk users, Baidu's Dazi consolidates internal tools, and now ByteDance brings 345 million monthly active users to the fight. The desktop is the new battlefield.",
+    keywords: '["Doubao Work", "ByteDance AI", "Tencent WorkBuddy", "Alibaba QwenWork", "China AI office agent", "AI workplace automation", "Baidu Dazi", "Doubao DAU", "Qwen3.8-Max", "DeepSeek V4-Pro", "AI agent war 2026", "Chinese enterprise AI", "Feishu Doubao merger", "Morgan Stanley AI pricing", "Intelligence War Over Price War"]',
+  },
   'china-ai-death-zone-deepseek-alibaba-price-war-august-2026': {
     metaTitle: "China's AI Death Zone: How DeepSeek's 1% Pricing and Alibaba's 2.4T Monster Threaten to Collapse the Global Model Market",
     metaDescription: "The week of August 1-8, 2026 may be remembered as the moment China's AI industry stopped competing and started annihilating. DeepSeek V4-Flash at $0.14 per million tokens—roughly 1% of Anthropic's pricing. Alibaba's Qwen 3.8-Max at 2.4 trillion parameters. A $74 billion DeepSeek valuation. And Bloomberg's verdict: China has created a 'death zone' for rival U.S. model makers.",
