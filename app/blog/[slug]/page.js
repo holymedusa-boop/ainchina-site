@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-death-zone-five-models-eight-weeks-2026': {
+    metaTitle: "China's AI 'Death Zone': How Five Models in Eight Weeks Rewrote Global Competition",
+    metaDescription: "Between June 13 and August 3, 2026, Chinese AI labs shipped five frontier models that collectively challenge the assumption that American labs hold an insurmountable lead. The 'death zone' Bloomberg described is not a sign of weakness—it is China's new competitive advantage.",
+    keywords: '["China AI death zone", "Qwen 3.8-Max", "Kimi K3", "DeepSeek V4 Flash", "GLM-5.2", "Seedance 2.5", "ByteDance AI", "Moonshot AI", "China AI models 2026", "AI benchmark comparison", "AI API pricing", "Huawei Ascend", "US sanctions China AI", "open weight models", "China AI chip independence"]',
+  },
   'bytedance-10-trillion-parameter-ai-model-china-frontier-scale-2026': {
     metaTitle: "ByteDance Trains 10 Trillion-Parameter AI Model: China's Biggest Bet on Frontier Scale",
     metaDescription: "On August 7, 2026, the Financial Times published a report that sent ripples through the global artificial intelligence community. ByteDance, the parent company of TikTok and Douyin, is in the early...",
