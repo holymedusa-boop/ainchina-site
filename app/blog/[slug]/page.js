@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-office-war-tencent-alibaba-bytedance-2026': {
+    metaTitle: "China's AI Office War: How Tencent, Alibaba, and ByteDance Are Battling for the Enterprise Brain",
+    metaDescription: "Tencent's WorkBuddy hit 20.97 million monthly visits in five months, forcing Alibaba and ByteDance into emergency restructuring. Inside China's trillion-yuan AI office war.",
+    keywords: '["China AI", "Tencent WorkBuddy", "Alibaba Qwen Office", "ByteDance Doubao", "AI office assistant", "enterprise AI", "China tech"]',
+  },
   'china-ai-death-zone-five-models-eight-weeks-2026': {
     metaTitle: "China's AI 'Death Zone': How Five Models in Eight Weeks Rewrote Global Competition",
     metaDescription: "Between June 13 and August 3, 2026, Chinese AI labs shipped five frontier models that collectively challenge the assumption that American labs hold an insurmountable lead. The 'death zone' Bloomberg described is not a sign of weakness—it is China's new competitive advantage.",
