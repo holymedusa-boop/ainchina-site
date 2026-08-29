@@ -10,6 +10,11 @@ const postMetadata = {
     metaDescription: "Between June 13 and August 3, 2026, Chinese AI labs shipped five frontier models that collectively challenge the assumption that American labs hold an insurmountable lead. The 'death zone' Bloomberg described is not a sign of weakness—it is China's new competitive advantage.",
     keywords: '["China AI death zone", "Qwen 3.8-Max", "Kimi K3", "DeepSeek V4 Flash", "GLM-5.2", "Seedance 2.5", "ByteDance AI", "Moonshot AI", "China AI models 2026", "AI benchmark comparison", "AI API pricing", "Huawei Ascend", "US sanctions China AI", "open weight models", "China AI chip independence"]',
   },
+  'china-open-weight-trinity-kimi-qwen-deepseek-global-ai-2026': {
+    metaTitle: "China's Open-Weight Trinity: How Kimi K3, Qwen3.8-Max, and DeepSeek V4 Are Rewriting the Global AI Playbook",
+    metaDescription: "Between July 16 and August 16, 2026, three Chinese labs released frontier AI models with a combined 7.2 trillion parameters—all open-weight, all API-accessible, and all pursuing radically different commercial strategies. The result is a natural experiment in how AI value gets captured, shared, and governed.",
+    keywords: '["Kimi K3", "Qwen3.8-Max", "DeepSeek V4", "open weight AI", "China AI models", "Moonshot AI", "Alibaba Qwen", "DeepSeek pricing", "AI model comparison", "Chinese LLM", "open source AI", "AI API pricing", "model licensing", "AI governance China", "Trillion parameter model"]',
+  },
   'bytedance-10-trillion-parameter-ai-model-china-frontier-scale-2026': {
     metaTitle: "ByteDance Trains 10 Trillion-Parameter AI Model: China's Biggest Bet on Frontier Scale",
     metaDescription: "On August 7, 2026, the Financial Times published a report that sent ripples through the global artificial intelligence community. ByteDance, the parent company of TikTok and Douyin, is in the early...",
