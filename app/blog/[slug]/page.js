@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-open-weight-ai-models-conquer-global-api-market-2026': {
+    metaTitle: "How China's Open-Weight AI Models Conquered the Global Token Economy",
+    metaDescription: "On the third week of July 2026, a milestone passed almost unnoticed by the mainstream press. For the twelfth consecutive week, Chinese AI models held the top spot on OpenRouter's global token...",
+    keywords: '',
+  },
   'china-ai-office-war-tencent-alibaba-bytedance-2026': {
     metaTitle: "China's AI Office War: How Tencent, Alibaba, and ByteDance Are Battling for the Enterprise Brain",
     metaDescription: "Tencent's WorkBuddy hit 20.97 million monthly visits in five months, forcing Alibaba and ByteDance into emergency restructuring. Inside China's trillion-yuan AI office war.",
