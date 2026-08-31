@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-embodied-ai-physical-internet-2026': {
+    metaTitle: "The Body Electric: How China's Embodied AI Push Is Building the Physical Internet",
+    metaDescription: "China shipped 19,100 humanoid robots in the first half of 2026—272% more than the previous year. But the real story isn't the numbers. It's the systematic transformation of artificial intelligence from a digital tool into physical infrastructure, backed by a national standard system and a $138 billion state fund.",
+    keywords: '["China embodied AI", "humanoid robots China 2026", "WAIC 2026", "AgiBot", "Unitree", "HEIS 2026", "China 15th Five-Year Plan", "embodied intelligence", "China robotics strategy", "humanoid robot deployment", "China AI industrial policy", "US robot ban China", "UBTECH Walker", "China AI supply chain", "physical AI"]',
+  },
   'china-ai-spending-war-billions-capex-2026': {
     metaTitle: "China's AI Spending War: How Tencent's First Negative Cash Flow in 20 Years Signals a Trillion-Yuan Arms Race",
     metaDescription: "Tencent just posted its first negative free cash flow in two decades. Alibaba is spending ¥3800 billion over three years. ByteDance may hit $70 billion in 2026. China's tech giants are betting everything on AI — and the numbers are staggering.",
