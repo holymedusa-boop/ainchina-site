@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-spending-war-billions-capex-2026': {
+    metaTitle: "China's AI Spending War: How Tencent's First Negative Cash Flow in 20 Years Signals a Trillion-Yuan Arms Race",
+    metaDescription: "Tencent just posted its first negative free cash flow in two decades. Alibaba is spending ¥3800 billion over three years. ByteDance may hit $70 billion in 2026. China's tech giants are betting everything on AI — and the numbers are staggering.",
+    keywords: '["China AI", "Tencent capex", "Alibaba AI investment", "ByteDance AI spending", "Baidu AI", "China tech giants", "AI infrastructure", "capital expenditure", "AI arms race", "Chinese technology"]',
+  },
   'china-open-weight-ai-models-conquer-global-api-market-2026': {
     metaTitle: "How China's Open-Weight AI Models Conquered the Global Token Economy",
     metaDescription: "On the third week of July 2026, a milestone passed almost unnoticed by the mainstream press. For the twelfth consecutive week, Chinese AI models held the top spot on OpenRouter's global token...",
