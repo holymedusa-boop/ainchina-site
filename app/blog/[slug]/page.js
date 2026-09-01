@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-training-gold-rush-billion-yuan-education-2026': {
+    metaTitle: "The AI Classrooms of China: Inside the Billion-Yuan Rush to Learn Artificial Intelligence",
+    metaDescription: "China's AI training market hit ¥80 billion in 2025 with 85% year-over-year growth. With a national talent gap of 5–8 million workers, 94,000 training companies are selling courses ranging from ¥399 to ¥25,000. But beneath the booming numbers lies a sobering reality: over 60% of learners say they cannot apply what they learned, and 30–40% of training institutions are expected to collapse within two years.",
+    keywords: '["China AI training", "AI education China 2026", "artificial intelligence courses China", "AI talent gap China", "vocational AI training", "AI engineer certification", "China AI skills shortage", "AI knowledge付费", "China workforce AI upskilling", "AI training market size", "China AI career transition", "AI trainer occupation China"]',
+  },
   'china-embodied-ai-physical-internet-2026': {
     metaTitle: "The Body Electric: How China's Embodied AI Push Is Building the Physical Internet",
     metaDescription: "China shipped 19,100 humanoid robots in the first half of 2026—272% more than the previous year. But the real story isn't the numbers. It's the systematic transformation of artificial intelligence from a digital tool into physical infrastructure, backed by a national standard system and a $138 billion state fund.",
