@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-chip-triopoly-huawei-cambricon-moore-threads-post-nvidia-2026': {
+    metaTitle: "China's AI Chip Triopoly: How Huawei Ascend, Cambricon, and Moore Threads Are Building a Post-NVIDIA Future",
+    metaDescription: "NVIDIA's China revenue has collapsed to less than 1% of its data center business. In its place, three domestic chipmakers—Huawei Ascend, Cambricon, and Moore Threads—have formed a triopoly now powering the world's largest AI market. From the Ascend 950 series shipping this quarter to Cambricon's MLU690 rivaling NVIDIA's H200, China's AI infrastructure is being rebuilt on silicon it can no longer import.",
+    keywords: '["China AI chip", "Huawei Ascend 950", "Cambricon MLU690", "Moore Threads MTT S5000", "NVIDIA China ban", "China semiconductor independence", "AI chip triopoly", "domestic AI chips China", "SMIC HBM", "Meituan LongCat domestic chips", "China chip sanctions", "Ascend 950DT", "WAIC 2026", "China AI infrastructure", "Huawei AI chip ecosystem"]',
+  },
   'china-ai-training-gold-rush-billion-yuan-education-2026': {
     metaTitle: "The AI Classrooms of China: Inside the Billion-Yuan Rush to Learn Artificial Intelligence",
     metaDescription: "China's AI training market hit ¥80 billion in 2025 with 85% year-over-year growth. With a national talent gap of 5–8 million workers, 94,000 training companies are selling courses ranging from ¥399 to ¥25,000. But beneath the booming numbers lies a sobering reality: over 60% of learners say they cannot apply what they learned, and 30–40% of training institutions are expected to collapse within two years.",
