@@ -5,6 +5,16 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'kimi-ai-20-billion-china-unicorn-funding-frenzy-2026': {
+    metaTitle: "Kimi AI Hits $20 Billion: Inside China's AI Unicorn Funding Frenzy That's Reshaping Global Venture Capital",
+    metaDescription: "The numbers stopped making sense sometime around May.",
+    keywords: '["Kimi AI", "Moonshot AI", "China AI funding", "DeepSeek IPO", "ModelBest", "AI unicorn", "China venture capital", "AI startup valuation", "Kimi chatbot", "China AI investment"]',
+  },
+  'moonshot-ai-hong-kong-ipo-50-billion-september-2026': {
+    metaTitle: "Moonshot AI Files Confidential Hong Kong IPO at $50 Billion Valuation",
+    metaDescription: "Moonshot AI, the Beijing lab behind Kimi K3, has confidentially filed for a Hong Kong IPO at a $50 billion valuation. In just 18 months, the company went from a $4 billion startup to China's most valuable AI unicorn.",
+    keywords: '["Moonshot AI", "Kimi K3", "Hong Kong IPO", "Chinese AI", "AI valuation", "DeepSeek", "ByteDance", "OpenAI", "AI funding", "China tech"]',
+  },
   'china-ai-chip-triopoly-huawei-cambricon-moore-threads-post-nvidia-2026': {
     metaTitle: "China's AI Chip Triopoly: How Huawei Ascend, Cambricon, and Moore Threads Are Building a Post-NVIDIA Future",
     metaDescription: "NVIDIA's China revenue has collapsed to less than 1% of its data center business. In its place, three domestic chipmakers—Huawei Ascend, Cambricon, and Moore Threads—have formed a triopoly now powering the world's largest AI market. From the Ascend 950 series shipping this quarter to Cambricon's MLU690 rivaling NVIDIA's H200, China's AI infrastructure is being rebuilt on silicon it can no longer import.",
