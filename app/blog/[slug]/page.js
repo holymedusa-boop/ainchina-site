@@ -5,6 +5,16 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-video-generation-empire-bytedance-alibaba-kuaishou-2026': {
+    metaTitle: "China's AI Video Generation Empire: How ByteDance, Alibaba, and Kuaishou Built a $3.6 Billion Market and Pushed OpenAI Out",
+    metaDescription: "OpenAI shut down Sora after burning $15 million per day against $2.1 million in lifetime revenue. In its place, three Chinese companies—ByteDance's Seedance, Kuaishou's Kling AI, and Alibaba's HappyHorse—have built a $3.6 billion AI video generation market that now dominates global benchmarks, enterprise APIs, and creator platforms.",
+    keywords: '["China AI video", "ByteDance Seedance", "Kling AI", "Alibaba HappyHorse", "AI video generation 2026", "OpenAI Sora shutdown", "Kuaishou Kling IPO", "AI video market China", "Seedance ARR", "HappyHorse benchmark", "AI video pricing war", "China AI video leaderboard", "AI video enterprise API", "Seedance 2.0", "Kling 3.0 valuation"]',
+  },
+  'deepseek-160000-huawei-cluster-china-ai-independence-2026': {
+    metaTitle: "DeepSeek's 160,000-Chip Gamble: The Huawei Cluster That Could End China's NVIDIA Dependence",
+    metaDescription: "DeepSeek is preparing to deploy 160,000 Huawei AI accelerators at a 1-gigawatt datacenter in Inner Mongolia. If built, it will be the largest known cluster of non-NVIDIA chips on Earth—and the most consequential bet on China's domestic AI silicon stack since sanctions began.",
+    keywords: '["DeepSeek Huawei cluster", "Huawei Ascend 950DT", "China AI chip independence", "DeepSeek Inner Mongolia datacenter", "Huawei AI accelerator", "China NVIDIA alternative", "domestic AI chips China", "Ascend 950PR", "DeepSeek inference cluster", "China semiconductor sanctions", "HBM3E CXMT", "CANN framework", "China AI infrastructure 2026", "Huawei Atlas SuperPoD", "AI chip supply chain China"]',
+  },
   'kimi-ai-20-billion-china-unicorn-funding-frenzy-2026': {
     metaTitle: "Kimi AI Hits $20 Billion: Inside China's AI Unicorn Funding Frenzy That's Reshaping Global Venture Capital",
     metaDescription: "The numbers stopped making sense sometime around May.",

@@ -14,7 +14,10 @@ function parseFrontmatter(content) {
     const m = line.match(/^([a-zA-Z0-9_]+):\s*(.*)$/)
     if (m) {
       let val = m[2].trim()
-      if (val.startsWith('"') && val.endsWith('"')) val = val.slice(1, -1)
+      // Strip surrounding quotes (both single and double)
+      if ((val.startsWith('"') && val.endsWith('"')) || (val.startsWith("'") && val.endsWith("'"))) {
+        val = val.slice(1, -1)
+      }
       fm[m[1]] = val
     }
   }
