@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-robot-army-humanoid-embodied-ai-50-billion-empire-2026': {
+    metaTitle: "China's Robot Army: How 200 Humanoid Startups Built a $50 Billion Embodied AI Empire",
+    metaDescription: "Inside China's humanoid robot frenzy: 200+ companies, $30 billion in Q1 funding, and the race to deploy millions of robots in factories before the bubble bursts.",
+    keywords: '["China humanoid robot", "embodied AI", "robotics startup", "Galaxy General", "Agibot", "UBTECH", "Xiaomi robot", "AI factory automation", "China robotics IPO", " embodied intelligence"]',
+  },
   'china-ai-video-generation-empire-bytedance-alibaba-kuaishou-2026': {
     metaTitle: "China's AI Video Generation Empire: How ByteDance, Alibaba, and Kuaishou Built a $3.6 Billion Market and Pushed OpenAI Out",
     metaDescription: "OpenAI shut down Sora after burning $15 million per day against $2.1 million in lifetime revenue. In its place, three Chinese companies—ByteDance's Seedance, Kuaishou's Kling AI, and Alibaba's HappyHorse—have built a $3.6 billion AI video generation market that now dominates global benchmarks, enterprise APIs, and creator platforms.",
