@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'nvidia-china-surrender-deepseek-huawei-ascend-tipping-point-2026': {
+    metaTitle: "Nvidia's China Surrender: How DeepSeek's $2.6 Billion Huawei Bet Rewrote the Rules of AI",
+    metaDescription: "DeepSeek just ordered 160,000 Huawei Ascend chips worth $2.56 billion. Nvidia, which once owned 95% of China's AI chip market, is now reportedly treating China as a 'lost cause.' This is the story of how a Hangzhou startup and a Shenzhen hardware giant ended an era.",
+    keywords: '',
+  },
   'china-ai-price-war-over-pricing-power-reversal-2026': {
     metaTitle: "The Price War Is Over: Why China's AI Labs Are Raising Prices—and Getting Away With It",
     metaDescription: "After eighteen months of racing to the pricing bottom, China's AI industry executed a synchronized reversal in August 2026. DeepSeek raised API prices by up to 1,100%. Zhipu's cumulative increase reached 83%. Kimi K3 launched at 3.5x its predecessor's price. The implications reach far beyond developer wallets: they signal that Chinese AI has crossed from market-share capture to value capture.",
