@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-price-war-over-pricing-power-reversal-2026': {
+    metaTitle: "The Price War Is Over: Why China's AI Labs Are Raising Prices—and Getting Away With It",
+    metaDescription: "After eighteen months of racing to the pricing bottom, China's AI industry executed a synchronized reversal in August 2026. DeepSeek raised API prices by up to 1,100%. Zhipu's cumulative increase reached 83%. Kimi K3 launched at 3.5x its predecessor's price. The implications reach far beyond developer wallets: they signal that Chinese AI has crossed from market-share capture to value capture.",
+    keywords: '["China AI price increase", "DeepSeek price hike 2026", "Zhipu API pricing", "Chinese AI pricing power", "AI model price war end", "Kimi K3 pricing", "Tencent Cloud price increase", "AI value pricing China", "agentic AI demand surge", "China AI commercialization", "DeepSeek peak pricing", "GLM-5.3 pricing", "AI inference demand 2026"]',
+  },
   'china-robot-army-humanoid-embodied-ai-50-billion-empire-2026': {
     metaTitle: "China's Robot Army: How 200 Humanoid Startups Built a $50 Billion Embodied AI Empire",
     metaDescription: "Inside China's humanoid robot frenzy: 200+ companies, $30 billion in Q1 funding, and the race to deploy millions of robots in factories before the bubble bursts.",
