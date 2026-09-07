@@ -276,26 +276,4 @@ Nvidia remains dominant globally. Blackwell and Rubin chips are sold out through
 
 The era of a single architecture defining AI capability has not ended everywhere. But in China, it has. And what happens in China, with its scale, capital, and engineering ambition, rarely stays in China.
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Nvidia's China Surrender: How DeepSeek's $2.6 Billion Huawei Bet Rewrote the Rules of AI",
-  "image": "https://images.unsplash.com/photo-1639322537228-f710d846310a?w=1200",
-  "datePublished": "2026-09-07T00:00:00+08:00",
-  "dateModified": "2026-09-07T00:00:00+08:00",
-  "author": {
-    "@type": "Organization",
-    "name": "AI in China Editorial"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "AI in China",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://www.ainchina.com/logo.png"
-    }
-  },
-  "description": "DeepSeek's $2.56 billion order for 160,000 Huawei Ascend 950DT chips signals the end of Nvidia's dominance in China's AI chip market. Analysis of the tipping point."
-}
-</script>
+
