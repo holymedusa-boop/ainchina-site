@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'tencent-wechat-ai-agent-1-billion-user-platform-shift-2026': {
+    metaTitle: "The 1.4 Billion User Agent: How Tencent's WeChat AI Bet Could End the Standalone Chatbot Era",
+    metaDescription: "While ByteDance and Alibaba raced to build standalone AI apps, Tencent quietly prepared the most consequential consumer AI launch in history: an agent inside WeChat that serves 1.4 billion users. The standalone chatbot era may be ending before it truly began.",
+    keywords: '',
+  },
   'china-ai-agent-army-openclaw-workforce-2026': {
     metaTitle: "China's Agent Army: How OpenClaw and a Million Users Built the World's First AI Workforce",
     metaDescription: "While Silicon Valley debates the ethics of AI agents, China has already deployed millions. OpenClaw's 250,000 GitHub stars, Manus's return to independence, and Tencent's WorkBuddy platform opening mark the moment when AI stopped being a chatbot and started being a colleague.",
