@@ -10,6 +10,11 @@ const postMetadata = {
     metaDescription: "While Silicon Valley debates the ethics of AI agents, China has already deployed millions. OpenClaw's 250,000 GitHub stars, Manus's return to independence, and Tencent's WorkBuddy platform opening mark the moment when AI stopped being a chatbot and started being a colleague.",
     keywords: '["OpenClaw", "AI Agent", "Manus", "Tencent WorkBuddy", "China AI", "AI workforce", "automation", "agent economy", "DeepSeek", "AI productivity"]',
   },
+  'china-ai-compute-sovereignty-bytedance-huawei-chip-fortress-2026': {
+    metaTitle: "The $50 Billion Silicon Wall: How ByteDance's Record Loan and China's Domestic Chip Army Built an AI Compute Fortress",
+    metaDescription: "ByteDance just secured the largest private loan in history — $29.6 billion — while China's domestic AI chip market surged to 41% share. The convergence of record capital and homegrown silicon is building a compute fortress that Washington never anticipated.",
+    keywords: '',
+  },
   'nvidia-china-surrender-deepseek-huawei-ascend-tipping-point-2026': {
     metaTitle: "Nvidia's China Surrender: How DeepSeek's $2.6 Billion Huawei Bet Rewrote the Rules of AI",
     metaDescription: "DeepSeek just ordered 160,000 Huawei Ascend chips worth $2.56 billion. Nvidia, which once owned 95% of China's AI chip market, is now reportedly treating China as a 'lost cause.' This is the story of how a Hangzhou startup and a Shenzhen hardware giant ended an era.",
