@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'suiyuan-ipo-china-ai-chip-four-dragons-capital-market-2026': {
+    metaTitle: "Suiyuan's ¥6.1 Billion IPO: The Final Dragon Lands and China's AI Chip Market Hits an Inflection Point",
+    metaDescription: "Suiyuan Technology priced its STAR Market IPO at ¥142.18 per share, raising ¥6.12 billion and completing the quartet of China's 'Four Little Dragons' in public markets. With H1 2026 revenues surging 279% and the entire domestic GPU sector racing toward profitability, the question is no longer whether Chinese AI chips can compete—it's how fast they can scale.",
+    keywords: '',
+  },
   'tencent-wechat-ai-agent-1-billion-user-platform-shift-2026': {
     metaTitle: "The 1.4 Billion User Agent: How Tencent's WeChat AI Bet Could End the Standalone Chatbot Era",
     metaDescription: "While ByteDance and Alibaba raced to build standalone AI apps, Tencent quietly prepared the most consequential consumer AI launch in history: an agent inside WeChat that serves 1.4 billion users. The standalone chatbot era may be ending before it truly began.",
