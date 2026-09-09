@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-unicorns-great-divergence-2026': {
+    metaTitle: "China's AI Unicorns Are Splitting Apart: The Great Divergence of 2026",
+    metaDescription: "China's AI unicorns are splitting apart. In 2026, the 'Six Little Dragons' took six different paths—IPOs, pivots, massive funding rounds, and quiet disappearances. The divergence says more about China's AI future than any single model release.",
+    keywords: '["China AI unicorns", "Zhipu AI IPO", "MiniMax Hong Kong listing", "DeepSeek valuation", "Moonshot AI IPO", "Baichuan AI pivot", "01.AI enterprise", "Six Tigers AI", "China AI funding 2026", "Hong Kong AI stocks"]',
+  },
   'suiyuan-ipo-china-ai-chip-four-dragons-capital-market-2026': {
     metaTitle: "Suiyuan's ¥6.1 Billion IPO: The Final Dragon Lands and China's AI Chip Market Hits an Inflection Point",
     metaDescription: "Suiyuan Technology priced its STAR Market IPO at ¥142.18 per share, raising ¥6.12 billion and completing the quartet of China's 'Four Little Dragons' in public markets. With H1 2026 revenues surging 279% and the entire domestic GPU sector racing toward profitability, the question is no longer whether Chinese AI chips can compete—it's how fast they can scale.",
