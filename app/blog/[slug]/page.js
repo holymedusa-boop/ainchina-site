@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'us-china-ai-distillation-war-nsa-cisa-fbi-advisory-2026': {
+    metaTitle: "The Distillation Dilemma: When America's Spies Accused Six Chinese AI Labs of 'Stealing' Open Science",
+    metaDescription: "On September 8, 2026, three US intelligence agencies issued a joint cybersecurity advisory naming six Chinese AI companies for 'industrial-scale' distillation of American frontier models. The accusation—technically grounded, politically charged, and commercially consequential—has exposed a fundamental tension: when a standard machine learning technique becomes a national security threat, who gets to define the boundary between research and espionage?",
+    keywords: '["China AI distillation", "NSA CISA FBI AI advisory", "DeepSeek distillation", "Moonshot AI Kimi", "China US AI competition", "model distillation controversy", "AA26-251A", "Chinese AI labs", "AI knowledge distillation", "US China AI tensions", "OpenAI distillation", "Claude distillation", "China AI model development", "AI geopolitics 2026", "Chinese frontier models"]',
+  },
   'china-ai-unicorns-great-divergence-2026': {
     metaTitle: "China's AI Unicorns Are Splitting Apart: The Great Divergence of 2026",
     metaDescription: "China's AI unicorns are splitting apart. In 2026, the 'Six Little Dragons' took six different paths—IPOs, pivots, massive funding rounds, and quiet disappearances. The divergence says more about China's AI future than any single model release.",
