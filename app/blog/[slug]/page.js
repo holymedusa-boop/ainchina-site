@@ -10,6 +10,11 @@ const postMetadata = {
     metaDescription: "On September 8, 2026, three US intelligence agencies issued a joint cybersecurity advisory naming six Chinese AI companies for 'industrial-scale' distillation of American frontier models. The accusation—technically grounded, politically charged, and commercially consequential—has exposed a fundamental tension: when a standard machine learning technique becomes a national security threat, who gets to define the boundary between research and espionage?",
     keywords: '["China AI distillation", "NSA CISA FBI AI advisory", "DeepSeek distillation", "Moonshot AI Kimi", "China US AI competition", "model distillation controversy", "AA26-251A", "Chinese AI labs", "AI knowledge distillation", "US China AI tensions", "OpenAI distillation", "Claude distillation", "China AI model development", "AI geopolitics 2026", "Chinese frontier models"]',
   },
+  'us-china-ai-safety-dialogue-deepseek-huawei-independence-2026': {
+    metaTitle: "The Geneva of Silicon: Why the US-China AI Safety Dialogue Is Already a Victory for Beijing",
+    metaDescription: "On September 4, 2026, Reuters broke the news: US and Chinese officials were preparing for AI safety talks in mid-September. But the real story isn't the dialogue itself—it's what China brings to the table. DeepSeek V4 now runs on Huawei Ascend 950PR chips. ByteDance has ordered $5.6 billion worth of domestic silicon. And six Chinese AI labs now match or exceed frontier capabilities at one-tenth the cost. Washington wanted to slow China down. Instead, it built a parallel AI universe.",
+    keywords: '["US China AI safety dialogue", "DeepSeek V4 Huawei", "AI diplomacy 2026", "China AI chip independence", "Huawei Ascend 950PR", "AI safety talks", "US China AI competition", "DeepSeek open source", "AI export controls", "China AI self-sufficiency", "Geneva AI dialogue", "AI governance", "Huawei AI chips", "DeepSeek V4 benchmarks", "China AI sovereignty"]',
+  },
   'china-ai-unicorns-great-divergence-2026': {
     metaTitle: "China's AI Unicorns Are Splitting Apart: The Great Divergence of 2026",
     metaDescription: "China's AI unicorns are splitting apart. In 2026, the 'Six Little Dragons' took six different paths—IPOs, pivots, massive funding rounds, and quiet disappearances. The divergence says more about China's AI future than any single model release.",
