@@ -10,6 +10,11 @@ const postMetadata = {
     metaDescription: "In the first half of 2026, AI-generated micro-dramas accounted for 74% of all short-form video content across Chinese streaming platforms. Here's how algorithmic storytelling went from internet curiosity to prime-time dominance — and what it means for the future of entertainment.",
     keywords: '["AI-generated dramas", "China AI video", "ByteDance Seedance", "micro short dramas", "AI entertainment", "Chinese streaming", "Kling 3.0", "AI content creation", "short drama market", "AI labeling regulation", "HELL GRIND Cannes", "AI film production", "China AI regulation"]',
   },
+  'huawei-mate-xt-2-logicfolding-tau-chip-computing-reset-2026': {
+    metaTitle: "The LogicFolding Gambit: How Huawei's Mate XT 2 Rewrote the Rules of Mobile Computing",
+    metaDescription: "On September 7, 2026, Huawei unveiled the Mate XT 2 with the world's first LogicFolding Tau chip architecture. As the device hits stores today, we examine whether Kirin 9050 Pro represents a genuine computing paradigm shift—or China's most ambitious semiconductor bet yet.",
+    keywords: '["Huawei Mate XT 2", "LogicFolding Tau chip", "Kirin 9050 Pro", "Huawei semiconductor", "China chip independence", "Tau Law", "Moore Law alternative", "HarmonyOS 7", "Pangu LLM on-device", "China AI computing", "Huawei tri-fold phone", "domestic chip architecture", "China computing reset", "Ascend chip expansion", "3D chip design"]',
+  },
   'us-china-ai-distillation-war-nsa-cisa-fbi-advisory-2026': {
     metaTitle: "The Distillation Dilemma: When America's Spies Accused Six Chinese AI Labs of 'Stealing' Open Science",
     metaDescription: "On September 8, 2026, three US intelligence agencies issued a joint cybersecurity advisory naming six Chinese AI companies for 'industrial-scale' distillation of American frontier models. The accusation—technically grounded, politically charged, and commercially consequential—has exposed a fundamental tension: when a standard machine learning technique becomes a national security threat, who gets to define the boundary between research and espionage?",
