@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-monetization-summer-2026-tollbooth': {
+    metaTitle: "The Summer AI Stopped Being Free: How China's Tech Giants Finally Flipped the Monetization Switch",
+    metaDescription: "In July 2026, China's four tech giants—ByteDance, Alibaba, Tencent, and Baidu—simultaneously began charging for AI products that had been free for years. Here's what triggered the great AI monetization reversal, and what it means for the global AI economy.",
+    keywords: '["China AI monetization", "ByteDance Doubao subscription", "Tencent WorkBuddy pricing", "Alibaba Qwen paid", "Baidu ERNIE monetization", "AI office agent China", "AI tollbooth 2026", "China tech giants AI revenue", "free AI era ends", "AI inference costs", "Volcano Engine MaaS", "Hunyuan Hy3"]',
+  },
   'china-ai-drama-revolution-30-billion-views-2026': {
     metaTitle: "The 30-Billion-View Experiment: How AI-Generated Dramas Conquered Chinese Screens",
     metaDescription: "In the first half of 2026, AI-generated micro-dramas accounted for 74% of all short-form video content across Chinese streaming platforms. Here's how algorithmic storytelling went from internet curiosity to prime-time dominance — and what it means for the future of entertainment.",
