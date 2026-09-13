@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-native-globalization-byte-dance-deep-seek-global-first-2026': {
+    metaTitle: "China's AI Goes Native Global: How ByteDance, DeepSeek, and a New Generation Are Building for the World First",
+    metaDescription: "For two decades, the playbook was simple: build a product in Silicon Valley, let it prove itself in the American market, then watch a Chinese clone adapt it for 1.4 billion domestic users. Facebook...",
+    keywords: '',
+  },
   'china-ai-monetization-summer-2026-tollbooth': {
     metaTitle: "The Summer AI Stopped Being Free: How China's Tech Giants Finally Flipped the Monetization Switch",
     metaDescription: "In July 2026, China's four tech giants—ByteDance, Alibaba, Tencent, and Baidu—simultaneously began charging for AI products that had been free for years. Here's what triggered the great AI monetization reversal, and what it means for the global AI economy.",
