@@ -10,6 +10,11 @@ const postMetadata = {
     metaDescription: "For two decades, the playbook was simple: build a product in Silicon Valley, let it prove itself in the American market, then watch a Chinese clone adapt it for 1.4 billion domestic users. Facebook...",
     keywords: '',
   },
+  'china-embodied-intelligence-robot-revolution-factory-floor-2026': {
+    metaTitle: "The Body Electric: How China's Embodied Intelligence Revolution Went From Lab Curiosity to Factory Reality",
+    metaDescription: "In September 2026, China's humanoid robot industry crossed an inflection point. From the world's first national standard system to 10,000-unit deployment targets, from VLA large models to factory-floor integration, embodied intelligence has become China's most consequential AI frontier.",
+    keywords: '["China embodied intelligence", "humanoid robot", "embodied AI", "Unitree", "AGIBOT", "Fourier Intelligence", "WAIC 2026", "VLA model", "China robotics policy", "humanoid robot deployment", "China 15th Five-Year Plan", "synthetic data robotics", "robotics standard system", "China factory automation", "embodied AI revolution"]',
+  },
   'china-ai-monetization-summer-2026-tollbooth': {
     metaTitle: "The Summer AI Stopped Being Free: How China's Tech Giants Finally Flipped the Monetization Switch",
     metaDescription: "In July 2026, China's four tech giants—ByteDance, Alibaba, Tencent, and Baidu—simultaneously began charging for AI products that had been free for years. Here's what triggered the great AI monetization reversal, and what it means for the global AI economy.",
