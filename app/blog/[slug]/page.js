@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-efficiency-engineering-more-with-less-2026': {
+    metaTitle: "How China Learned to Do More With Less: The Efficiency Engineering Behind the World's Cheapest AI",
+    metaDescription: "U.S. agencies say Chinese AI labs closed the gap by distilling American models. But a closer look at the architecture reveals something more interesting: Chinese engineers rebuilt the transformer from first principles, achieving frontier-adjacent performance at a fraction of the cost.",
+    keywords: '["China AI efficiency", "DeepSeek MLA MoE", "AI training cost comparison", "DeepSeek V3 architecture", "FP8 training", "sparse attention NSA", "China AI models enterprise adoption", "Kimi GLM coding", "AI cost per token", "China compute constraints", "AI efficiency revolution", "DeepSeek V4"]',
+  },
   'china-ai-native-globalization-byte-dance-deep-seek-global-first-2026': {
     metaTitle: "China's AI Goes Native Global: How ByteDance, DeepSeek, and a New Generation Are Building for the World First",
     metaDescription: "For two decades, the playbook was simple: build a product in Silicon Valley, let it prove itself in the American market, then watch a Chinese clone adapt it for 1.4 billion domestic users. Facebook...",
