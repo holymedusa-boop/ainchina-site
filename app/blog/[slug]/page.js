@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-compute-empire-sanctions-boomerang-deepseek-huawei-2026': {
+    metaTitle: "The Sanctions Boomerang: How Export Controls Forged China's Biggest AI Chip Buildout Ever",
+    metaDescription: "Washington set out to starve China's AI ambitions. Four years later, DeepSeek is ordering 160,000 Huawei chips, Enflame just completed the 'Five Tigers' IPO wave, and Beijing has committed $532 billion to a compute buildout with no parallel in history. The sanctions didn't just fail — they backfired.",
+    keywords: '["China AI compute sovereignty", "DeepSeek Huawei Ascend 950DT", "MIIT 9800 EFLOPS plan", "China AI chip independence", "Enflame IPO STAR Market", "Huawei Ascend 950 specs", "Nvidia China market share collapse", "China national computing network", "AI infrastructure investment 2026", "US export controls unintended consequences"]',
+  },
   'china-ai-efficiency-engineering-more-with-less-2026': {
     metaTitle: "How China Learned to Do More With Less: The Efficiency Engineering Behind the World's Cheapest AI",
     metaDescription: "U.S. agencies say Chinese AI labs closed the gap by distilling American models. But a closer look at the architecture reveals something more interesting: Chinese engineers rebuilt the transformer from first principles, achieving frontier-adjacent performance at a fraction of the cost.",
