@@ -244,33 +244,4 @@ The race to build the agent layer of the internet may well be decided not by who
 > Tencent's Q1 capex of RMB 31.9B is starting to make sense. They're not just building models — they're building the infrastructure for an agent-mediated economy. TokenHub at 25 trillion daily tokens. WeChat at 1.44B users. The pieces are aligning. The question is whether users are ready.
 > 👍 3,567 · 🔁 1,445 · 💬 312
 
----
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "When Agents Talk to Agents: WeChat's A2A Experiment Rewires Human Communication",
-  "description": "WeChat's Xiaowei AI assistant just gained the ability to talk to other people's agents on their behalf. For the first time in history, 1.4 billion humans have access to agent-to-agent communication.",
-  "datePublished": "2026-09-16",
-  "author": {
-    "@type": "Organization",
-    "name": "AI in China Editorial"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "AI in China",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://ainchina.ai/logo.png"
-    }
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://ainchina.ai/blog/wechat-xiaowei-a2a-agents-talk-agents-china-2026/"
-  },
-  "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=1200",
-  "articleSection": "Consumer AI & Platforms",
-  "keywords": "WeChat A2A, Xiaowei AI, agent-to-agent, China AI, Tencent, social AI, agent communication"
-}
-</script>
