@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'wechat-xiaowei-a2a-agents-talk-agents-china-2026': {
+    metaTitle: "When Agents Talk to Agents: WeChat's A2A Experiment Rewires Human Communication",
+    metaDescription: "WeChat's Xiaowei AI assistant just gained the ability to talk to other people's agents on their behalf. For the first time in history, 1.4 billion humans have access to agent-to-agent communication. The implications reach far beyond a product feature.",
+    keywords: '',
+  },
   'china-ai-compute-empire-sanctions-boomerang-deepseek-huawei-2026': {
     metaTitle: "The Sanctions Boomerang: How Export Controls Forged China's Biggest AI Chip Buildout Ever",
     metaDescription: "Washington set out to starve China's AI ambitions. Four years later, DeepSeek is ordering 160,000 Huawei chips, Enflame just completed the 'Five Tigers' IPO wave, and Beijing has committed $532 billion to a compute buildout with no parallel in history. The sanctions didn't just fail — they backfired.",
