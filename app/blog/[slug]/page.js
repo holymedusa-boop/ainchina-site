@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'doubao-ai-agent-phone-nubia-navix-ultra-china-2026': {
+    metaTitle: "The Phone That Gets Things Done: Inside China's First AI Agent Smartphone",
+    metaDescription: "On September 16, ByteDance and ZTE's Nubia shipped the world's first mass-produced AI agent phone — a device where the assistant doesn't just answer, it acts. With 370,000 pre-orders before launch and a compliance trail no rival can match, the NaviX Ultra is China's boldest bet on the post-app era.",
+    keywords: '',
+  },
   'wechat-xiaowei-a2a-agents-talk-agents-china-2026': {
     metaTitle: "When Agents Talk to Agents: WeChat's A2A Experiment Rewires Human Communication",
     metaDescription: "WeChat's Xiaowei AI assistant just gained the ability to talk to other people's agents on their behalf. For the first time in history, 1.4 billion humans have access to agent-to-agent communication. The implications reach far beyond a product feature.",
