@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-humanoid-robots-military-combat-readiness-2026': {
+    metaTitle: "From Dance Floor to War Zone: China's Humanoid Robots Are Being Readied for Combat",
+    metaDescription: "A Reuters investigation of 100+ Chinese military procurement records reveals the PLA is systematically preparing humanoid robots for combat. China manufactures 95% of the world's humanoids. The dual-use convergence is no longer theoretical — it is happening on a schedule.",
+    keywords: '',
+  },
   'doubao-ai-agent-phone-nubia-navix-ultra-china-2026': {
     metaTitle: "The Phone That Gets Things Done: Inside China's First AI Agent Smartphone",
     metaDescription: "On September 16, ByteDance and ZTE's Nubia shipped the world's first mass-produced AI agent phone — a device where the assistant doesn't just answer, it acts. With 370,000 pre-orders before launch and a compliance trail no rival can match, the NaviX Ultra is China's boldest bet on the post-app era.",
