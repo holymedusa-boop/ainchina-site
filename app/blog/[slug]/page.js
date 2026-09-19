@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-open-source-ai-empire-brics-frontier-gap-2026': {
+    metaTitle: "The Open-Source Empire: How China Rewrote the Rules of the AI Race",
+    metaDescription: "Mozilla's latest report puts China's best open-weight models just 4.4 months behind America's closed frontier. Tencent, Alibaba, Moonshot, and Shanghai AI Lab are flooding the world with frontier-class free models. And at the BRICS summit, Xi Jinping just made open-source AI official state policy. The race is no longer about who builds the smartest model. It's about who gives it away fastest.",
+    keywords: '',
+  },
   'china-ai-asean-deployment-playbook-southeast-asia-2026': {
     metaTitle: "China's AI Playbook Is Quietly Winning Southeast Asia",
     metaDescription: "While Washington debates chip export controls and Silicon Valley obsesses over benchmark scores, China's AI is already running in Southeast Asian rice paddies, livestream studios, and solar farms. The 23rd China-ASEAN Expo just revealed how deep the deployment playbook goes.",
