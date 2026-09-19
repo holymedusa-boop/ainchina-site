@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-asean-deployment-playbook-southeast-asia-2026': {
+    metaTitle: "China's AI Playbook Is Quietly Winning Southeast Asia",
+    metaDescription: "While Washington debates chip export controls and Silicon Valley obsesses over benchmark scores, China's AI is already running in Southeast Asian rice paddies, livestream studios, and solar farms. The 23rd China-ASEAN Expo just revealed how deep the deployment playbook goes.",
+    keywords: '',
+  },
   'china-humanoid-robots-military-combat-readiness-2026': {
     metaTitle: "From Dance Floor to War Zone: China's Humanoid Robots Are Being Readied for Combat",
     metaDescription: "A Reuters investigation of 100+ Chinese military procurement records reveals the PLA is systematically preparing humanoid robots for combat. China manufactures 95% of the world's humanoids. The dual-use convergence is no longer theoretical — it is happening on a schedule.",
