@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-token-price-war-deepseek-zhipu-2026': {
+    metaTitle: "China's Trillion-Token Price War: DeepSeek vs. Zhipu",
+    metaDescription: "On September 10, DeepSeek cut its API prices by up to 60%. Three days later, Zhipu raised HK$39.3 billion to survive the same war. One company is betting that engineering can outrun economics. The other is betting that capital can buy time for engineering to catch up. China's AI industry is splitting into two species — and the trillion-token battlefield will decide which one inherits the future.",
+    keywords: '',
+  },
   'china-open-source-ai-empire-brics-frontier-gap-2026': {
     metaTitle: "The Open-Source Empire: How China Rewrote the Rules of the AI Race",
     metaDescription: "Mozilla's latest report puts China's best open-weight models just 4.4 months behind America's closed frontier. Tencent, Alibaba, Moonshot, and Shanghai AI Lab are flooding the world with frontier-class free models. And at the BRICS summit, Xi Jinping just made open-source AI official state policy. The race is no longer about who builds the smartest model. It's about who gives it away fastest.",
