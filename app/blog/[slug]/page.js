@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'huawei-ascend-960-supernode-npo-3d-datacenter-china-compute-2026': {
+    metaTitle: "4096 Chips, One Machine: Inside Huawei's Ascend 960 SuperNode and the World's First 3D AI Data Center",
+    metaDescription: "On September 17, 2026, Huawei unveiled the Ascend 960 SuperNode — a single machine packing 4,096 AI chips, 8 exaflops of FP8 compute, and 1 petabyte of high-bandwidth memory, connected by the industry's first near-packaged optics. One day earlier, a 100,000-card data center opened in Wuhu, stacked vertically like a silicon skyscraper. Together, they mark the moment China stopped chasing Moore's Law and started folding it.",
+    keywords: '',
+  },
   'china-ai-token-price-war-deepseek-zhipu-2026': {
     metaTitle: "China's Trillion-Token Price War: DeepSeek vs. Zhipu",
     metaDescription: "On September 10, DeepSeek cut its API prices by up to 60%. Three days later, Zhipu raised HK$39.3 billion to survive the same war. One company is betting that engineering can outrun economics. The other is betting that capital can buy time for engineering to catch up. China's AI industry is splitting into two species — and the trillion-token battlefield will decide which one inherits the future.",
