@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'stepfun-step-5-preview-china-efficient-ai-model-2026': {
+    metaTitle: "600 Billion Parameters, One Giant Leap: How StepFun's Step 5 Preview Outruns Models 5x Its Size",
+    metaDescription: "On September 20, Shanghai-based StepFun skipped an entire generation and released Step 5 Preview — a 600-billion-parameter model that ties the 2.8-trillion-parameter Kimi K3 on global benchmarks, matches it on coding at one-eighth the cost of American flagships, and open-sources its weights on October 15. Inside the quietest tiger's return to the front of China's AI race.",
+    keywords: '',
+  },
   'huawei-ascend-960-supernode-npo-3d-datacenter-china-compute-2026': {
     metaTitle: "4096 Chips, One Machine: Inside Huawei's Ascend 960 SuperNode and the World's First 3D AI Data Center",
     metaDescription: "On September 17, 2026, Huawei unveiled the Ascend 960 SuperNode — a single machine packing 4,096 AI chips, 8 exaflops of FP8 compute, and 1 petabyte of high-bandwidth memory, connected by the industry's first near-packaged optics. One day earlier, a 100,000-card data center opened in Wuhu, stacked vertically like a silicon skyscraper. Together, they mark the moment China stopped chasing Moore's Law and started folding it.",
