@@ -1,0 +1,43 @@
+name: Post to X
+on:
+  workflow_dispatch:
+    inputs:
+      title:
+        description: 'Article title'
+        required: true
+        type: string
+      url:
+        description: 'Article URL'
+        required: true
+        type: string
+      slug:
+        description: 'Article slug (for logging)'
+        required: true
+        type: string
+      dry_run:
+        description: 'If true, validate creds but do not post'
+        required: false
+        type: boolean
+        default: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Install dependency
+        run: npm install twitter-api-v2 --no-audit --no-fund
+      - name: Post tweet
+        env:
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+          TWEET_TITLE: ${{ inputs.title }}
+          TWEET_URL: ${{ inputs.url }}
+          TWEET_SLUG: ${{ inputs.slug }}
+          DRY_RUN: ${{ inputs.dry_run }}
+        run: node .github/workflows/post-to-x.js
