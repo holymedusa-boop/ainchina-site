@@ -3,10 +3,12 @@
  * Trigger GitHub Actions to post AI in China articles to X.
  * (Direct X API is blocked from CN servers; GitHub Actions runners reach it fine.)
  *
- * Posts ALL unposted articles (newest first), max 3 per run — catches up missed ones.
+ * Posts unposted articles one by one (newest first), verifies each workflow run
+ * succeeded before marking posted. Failed runs stay unmarked → retried next time.
+ *
  * Usage: node scripts/post-to-x.js [--slug <slug>] [--force] [--dry]
  * Auth: reads GitHub token from git remote URL (ghp_xxx@github.com)
- * Idempotency: records posted slugs in ~/.secrets/x-posted.json
+ * State: posted slugs in ~/.secrets/x-posted.json
  */
 const { execSync } = require('child_process');
 const fs = require('fs');
@@ -16,6 +18,15 @@ const STATE_FILE = '/root/.openclaw/workspace/.secrets/x-posted.json';
 const REPO = 'holymedusa-boop/ainchina-site';
 const WORKFLOW = 'post-to-x.yml';
 const MAX_PER_RUN = 3;
+const sleep = (ms) => new Promise(r => setTimeout(r, ms));
+
+function ghHeaders(token) {
+  return {
+    Authorization: `Bearer ${token}`,
+    Accept: 'application/vnd.github+json',
+    'X-GitHub-Api-Version': '2022-11-28',
+  };
+}
 
 function getGitHubToken() {
   const remote = execSync('git remote get-url origin', { encoding: 'utf8' }).trim();
@@ -36,17 +47,42 @@ async function dispatch(token, post, dryRun) {
   const url = `https://www.ainchina.com/blog/${post.slug}/`;
   const res = await fetch(`https://api.github.com/repos/${REPO}/actions/workflows/${WORKFLOW}/dispatches`, {
     method: 'POST',
-    headers: {
-      Authorization: `Bearer ${token}`,
-      Accept: 'application/vnd.github+json',
-      'X-GitHub-Api-Version': '2022-11-28',
-    },
+    headers: { ...ghHeaders(token), 'Content-Type': 'application/json' },
     body: JSON.stringify({
       ref: 'main',
       inputs: { title: post.title, url, slug: post.slug, dry_run: dryRun ? 'true' : 'false' },
     }),
   });
   return res.status === 204;
+}
+
+async function listRunIds(token) {
+  const res = await fetch(`https://api.github.com/repos/${REPO}/actions/workflows/${WORKFLOW}/runs?per_page=5`, { headers: ghHeaders(token) });
+  const data = await res.json();
+  return new Set((data.workflow_runs || []).map(r => r.id));
+}
+
+async function waitNewRun(token, knownIds, timeoutMs = 120000) {
+  const start = Date.now();
+  while (Date.now() - start < timeoutMs) {
+    const res = await fetch(`https://api.github.com/repos/${REPO}/actions/workflows/${WORKFLOW}/runs?per_page=5`, { headers: ghHeaders(token) });
+    const data = await res.json();
+    const fresh = (data.workflow_runs || []).find(r => !knownIds.has(r.id) && r.status === 'in_progress' || (!knownIds.has(r.id) && r.status === 'completed'));
+    if (fresh) return fresh.id;
+    await sleep(6000);
+  }
+  return null;
+}
+
+async function waitConclusion(token, runId, timeoutMs = 300000) {
+  const start = Date.now();
+  while (Date.now() - start < timeoutMs) {
+    const res = await fetch(`https://api.github.com/repos/${REPO}/actions/runs/${runId}`, { headers: ghHeaders(token) });
+    const data = await res.json();
+    if (data.status === 'completed') return data.conclusion; // 'success' | 'failure' | ...
+    await sleep(8000);
+  }
+  return 'timeout';
 }
 
 async function main() {
@@ -70,25 +106,39 @@ async function main() {
   }
 
   if (!targets.length) {
-    console.log('⏭  Nothing new to post. All articles already on X.');
+    console.log('⏭  Nothing new to post.');
     return;
   }
 
   for (const post of targets) {
+    const knownIds = await listRunIds(token);
     const ok = await dispatch(token, post, dry);
-    if (ok) {
-      if (!dry && !state.posted.includes(post.slug)) {
-        state.posted.push(post.slug);
-        savePosted(state);
-      }
-      console.log(`${dry ? '🔍 DRY' : '✅'} dispatched: ${post.title}`);
+    if (!ok) {
+      console.error(`❌ dispatch rejected for: ${post.slug}`);
+      process.exitCode = 1;
+      continue;
+    }
+    if (dry) {
+      console.log(`🔍 DRY dispatched: ${post.title}`);
+      await sleep(3000);
+      continue;
+    }
+
+    console.log(`⏳ Dispatched: ${post.title}`);
+    const runId = await waitNewRun(token, knownIds);
+    if (!runId) {
+      console.error(`⚠️  Cannot confirm run for ${post.slug} — NOT marking posted, will retry next time`);
+      continue;
+    }
+    const concl = await waitConclusion(token, runId);
+    if (concl === 'success') {
+      if (!state.posted.includes(post.slug)) { state.posted.push(post.slug); savePosted(state); }
+      console.log(`✅ VERIFIED on X: ${post.slug}`);
     } else {
-      console.error(`❌ dispatch failed: ${post.slug}`);
+      console.error(`❌ Workflow ${concl}: ${post.slug} — NOT marking posted (check X credits / logs)`);
       process.exitCode = 1;
     }
-    await new Promise(r => setTimeout(r, 3000)); // 间隔 3s，避免触发 GitHub 限流
   }
-  console.log(`\n完成。${dry ? '（dry-run，未真实发帖）' : '推文将在 1-2 分钟内陆续出现在 @AInChina5。'}`);
 }
 
 main().catch(e => { console.error('❌', e.message); process.exit(1); });
