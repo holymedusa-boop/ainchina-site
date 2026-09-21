@@ -29,7 +29,7 @@ export const metadata = {
     card: 'summary_large_image',
     title: 'AI in China',
     description: 'Tracking 103+ Chinese AI companies reshaping global tech',
-    creator: '@ainchina',
+    creator: '@AInChina5',
     images: ['https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1200&auto=format&fit=crop'],
   },
   alternates: {

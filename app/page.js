@@ -259,7 +259,7 @@ export default function Home() {
           
           <div style={{ display: 'flex', gap: '12px', justifyContent: 'center' }}>
             <a 
-              href="https://twitter.com/ainchina" 
+              href="https://x.com/AInChina5" 
               target="_blank"
               rel="noopener noreferrer"
               style={{

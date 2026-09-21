@@ -68,7 +68,7 @@ export default function ContactPage() {
             </p>
             <div style={{ display: 'flex', gap: '16px', flexWrap: 'wrap' }}>
               <a 
-                href="https://twitter.com/ainchina" 
+                href="https://x.com/AInChina5" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 style={{ 
