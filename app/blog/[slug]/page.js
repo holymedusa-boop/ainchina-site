@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-ipo-gold-rush-deepseek-moonshot-capital-markets-2026': {
+    metaTitle: "China's AI IPO Gold Rush: DeepSeek, Moonshot Go Public",
+    metaDescription: "In September 2026, DeepSeek hired CITIC Securities to prepare a STAR Market IPO and Moonshot AI quietly filed confidential papers in Hong Kong. Shadow-market SPVs charge 6-15% fees just for access to the cap table. China's foundation-model labs are sprinting to public markets — and the valuations, lockups, and governance fights tell a bigger story about how the AI war will be financed.",
+    keywords: '',
+  },
   'stepfun-step-5-preview-china-efficient-ai-model-2026': {
     metaTitle: "600 Billion Parameters, One Giant Leap: How StepFun's Step 5 Preview Outruns Models 5x Its Size",
     metaDescription: "On September 20, Shanghai-based StepFun skipped an entire generation and released Step 5 Preview — a 600-billion-parameter model that ties the 2.8-trillion-parameter Kimi K3 on global benchmarks, matches it on coding at one-eighth the cost of American flagships, and open-sources its weights on October 15. Inside the quietest tiger's return to the front of China's AI race.",
