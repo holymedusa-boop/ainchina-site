@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'huawei-ascend-960-supernode-npo-compute-sovereignty-2026': {
+    metaTitle: "Huawei Ascend 960 SuperNode: NPO Breakthrough Explained",
+    metaDescription: "At Huawei Connect 2026, Huawei unveiled the Ascend 960 SuperNode — the industry's first near-packaged optics supernode with 4,096 cards, 8 EFLOPS of FP8 compute, and a chip roadmap pulled three quarters ahead of schedule. Here's what NPO means, why 5,500 optical engines replace 48,000 transceivers, and whether China's compute sovereignty bet actually holds.",
+    keywords: '',
+  },
   'china-ai-ipo-gold-rush-deepseek-moonshot-capital-markets-2026': {
     metaTitle: "China's AI IPO Gold Rush: DeepSeek, Moonshot Go Public",
     metaDescription: "In September 2026, DeepSeek hired CITIC Securities to prepare a STAR Market IPO and Moonshot AI quietly filed confidential papers in Hong Kong. Shadow-market SPVs charge 6-15% fees just for access to the cap table. China's foundation-model labs are sprinting to public markets — and the valuations, lockups, and governance fights tell a bigger story about how the AI war will be financed.",
