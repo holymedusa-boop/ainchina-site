@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-security-doctrine-crackdown-national-secrets-2026': {
+    metaTitle: "China's AI Security Doctrine: The Crackdown Explained",
+    metaDescription: "In September 2026, China's spy chief published a six-point manifesto on AI threats, regulators named 30 apps for data violations, and travel curbs tightened on AI researchers. The conventional wisdom says regulation kills innovation. China's numbers tell the opposite story — and the West is misreading the playbook.",
+    keywords: '',
+  },
   'huawei-ascend-960-supernode-npo-compute-sovereignty-2026': {
     metaTitle: "Huawei Ascend 960 SuperNode: NPO Breakthrough Explained",
     metaDescription: "At Huawei Connect 2026, Huawei unveiled the Ascend 960 SuperNode — the industry's first near-packaged optics supernode with 4,096 cards, 8 EFLOPS of FP8 compute, and a chip roadmap pulled three quarters ahead of schedule. Here's what NPO means, why 5,500 optical engines replace 48,000 transceivers, and whether China's compute sovereignty bet actually holds.",
