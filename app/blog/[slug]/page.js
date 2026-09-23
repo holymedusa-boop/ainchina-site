@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-drug-discovery-paradigm-shift-pharma-2026': {
+    metaTitle: "China's AI Drug Discovery Revolution: From Lab to Market",
+    metaDescription: "On September 18, 2026, ten Chinese ministries issued the country's first national pharmaceutical plan naming AI drug discovery a 'high-value application scenario.' Within days, AI pharma stocks surged 30%+, Insilico Medicine turned profitable, and XtalPi signed with Stanford. The ten-year, $2.6 billion drug development rule is being rewritten — and the epicenter is China.",
+    keywords: '',
+  },
   'china-ai-security-doctrine-crackdown-national-secrets-2026': {
     metaTitle: "China's AI Security Doctrine: The Crackdown Explained",
     metaDescription: "In September 2026, China's spy chief published a six-point manifesto on AI threats, regulators named 30 apps for data violations, and travel curbs tightened on AI researchers. The conventional wisdom says regulation kills innovation. China's numbers tell the opposite story — and the West is misreading the playbook.",
