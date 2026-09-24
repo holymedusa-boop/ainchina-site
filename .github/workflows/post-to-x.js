@@ -52,16 +52,24 @@ async function runPost() {
 async function runSearch() {
   const query = process.env.SEARCH_QUERY;
   if (!query) { console.error('Missing SEARCH_QUERY'); process.exit(1); }
-  const res = await client.v2.search(query, {
-    max_results: 15,
-    'tweet.fields': ['public_metrics', 'created_at', 'author_id'],
-    expansions: ['author_id'],
-    'user.fields': ['username', 'name', 'followers_count'],
-  });
   const users = {};
-  for (const u of res.data.includes?.users || []) users[u.id] = u;
+  let tweets = [];
+  try {
+    const res = await client.v2.search(query, {
+      max_results: 15,
+      'tweet.fields': ['public_metrics', 'created_at', 'author_id'],
+      expansions: ['author_id'],
+      'user.fields': ['username', 'name', 'followers_count'],
+    });
+    tweets = res.data.data || [];
+    for (const u of res.data.includes?.users || []) users[u.id] = u;
+  } catch (e1) {
+    console.log('full-params search failed, retrying minimal:', (e1.message || '').slice(0, 120));
+    const res = await client.v2.search(query, { max_results: 10, 'tweet.fields': ['public_metrics', 'created_at'] });
+    tweets = res.data.data || [];
+  }
   console.log('===SEARCH_RESULTS===');
-  for (const t of res.data.data || []) {
+  for (const t of tweets) {
     const u = users[t.author_id] || {};
     const m = t.public_metrics || {};
     console.log(JSON.stringify({
