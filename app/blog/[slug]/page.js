@@ -10,6 +10,11 @@ const postMetadata = {
     metaDescription: "On September 18, 2026, ten Chinese ministries issued the country's first national pharmaceutical plan naming AI drug discovery a 'high-value application scenario.' Within days, AI pharma stocks surged 30%+, Insilico Medicine turned profitable, and XtalPi signed with Stanford. The ten-year, $2.6 billion drug development rule is being rewritten — and the epicenter is China.",
     keywords: '',
   },
+  'us-china-ai-summit-open-source-reckoning-2026': {
+    metaTitle: "US-China AI Summit: The Open-Source Reckoning",
+    metaDescription: "On September 24, 2026, the US and Chinese presidents sit down in Washington with an AI safety dialogue on the agenda — the endpoint of a diplomatic process that began in May. But the table they sit at was built by eighteen months of escalation: export controls, distillation accusations, and an open-source counterattack that quietly moved eight of the world's ten most-used AI models to Chinese laboratories.",
+    keywords: '',
+  },
   'china-ai-security-doctrine-crackdown-national-secrets-2026': {
     metaTitle: "China's AI Security Doctrine: The Crackdown Explained",
     metaDescription: "In September 2026, China's spy chief published a six-point manifesto on AI threats, regulators named 30 apps for data violations, and travel curbs tightened on AI researchers. The conventional wisdom says regulation kills innovation. China's numbers tell the opposite story — and the West is misreading the playbook.",
