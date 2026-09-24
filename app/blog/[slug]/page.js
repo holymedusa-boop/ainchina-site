@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'alibaba-zhenwu-v900-chip-nvidia-china-ai-silicon-2026': {
+    metaTitle: "Alibaba Zhenwu V900 Deep Dive: China's Answer to the Nvidia Question",
+    metaDescription: "On September 22, 2026, Alibaba CEO Eddie Wu stood on stage in Hangzhou and made three announcements that together form the most aggressive AI infrastructure bet outside the United States: a chip he called China's most powerful, a model roadmap targeting 10 trillion parameters, and a plan to build 20 gigawatts of data center capacity by 2032. We spent the week pulling apart every claim.",
+    keywords: '',
+  },
   'china-ai-drug-discovery-paradigm-shift-pharma-2026': {
     metaTitle: "China's AI Drug Discovery Revolution: From Lab to Market",
     metaDescription: "On September 18, 2026, ten Chinese ministries issued the country's first national pharmaceutical plan naming AI drug discovery a 'high-value application scenario.' Within days, AI pharma stocks surged 30%+, Insilico Medicine turned profitable, and XtalPi signed with Stanford. The ten-year, $2.6 billion drug development rule is being rewritten — and the epicenter is China.",
