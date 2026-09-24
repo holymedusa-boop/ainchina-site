@@ -2,26 +2,47 @@ name: Post to X
 on:
   workflow_dispatch:
     inputs:
+      mode:
+        description: 'post | search | reply'
+        required: false
+        type: string
+        default: 'post'
       title:
-        description: 'Article title'
-        required: true
+        description: 'Article title (post mode)'
+        required: false
+        type: string
+      hook:
+        description: 'Hook tweet text, no link (post mode)'
+        required: false
         type: string
       url:
-        description: 'Article URL'
-        required: true
+        description: 'Article URL (post mode)'
+        required: false
         type: string
       slug:
-        description: 'Article slug (for logging)'
-        required: true
+        description: 'Slug / label for logging'
+        required: false
+        type: string
+      search_query:
+        description: 'Search query (search mode)'
+        required: false
+        type: string
+      reply_to_id:
+        description: 'Tweet ID to reply to (reply mode)'
+        required: false
+        type: string
+      reply_text:
+        description: 'Reply text (reply mode)'
+        required: false
         type: string
       dry_run:
-        description: 'If true, validate creds but do not post'
+        description: 'Validate creds only'
         required: false
         type: boolean
         default: false
 
 jobs:
-  post:
+  run:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -30,14 +51,19 @@ jobs:
           node-version: '20'
       - name: Install dependency
         run: npm install twitter-api-v2 --no-audit --no-fund
-      - name: Post tweet
+      - name: Run X action
         env:
           X_API_KEY: ${{ secrets.X_API_KEY }}
           X_API_SECRET: ${{ secrets.X_API_SECRET }}
           X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
           X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+          MODE: ${{ inputs.mode }}
           TWEET_TITLE: ${{ inputs.title }}
+          TWEET_HOOK: ${{ inputs.hook }}
           TWEET_URL: ${{ inputs.url }}
           TWEET_SLUG: ${{ inputs.slug }}
+          SEARCH_QUERY: ${{ inputs.search_query }}
+          REPLY_TO_ID: ${{ inputs.reply_to_id }}
+          REPLY_TEXT: ${{ inputs.reply_text }}
           DRY_RUN: ${{ inputs.dry_run }}
         run: node .github/workflows/post-to-x.js
