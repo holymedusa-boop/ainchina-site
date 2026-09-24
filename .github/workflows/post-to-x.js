@@ -65,8 +65,14 @@ async function runSearch() {
     for (const u of res.data.includes?.users || []) users[u.id] = u;
   } catch (e1) {
     console.log('full-params search failed, retrying minimal:', (e1.message || '').slice(0, 120));
-    const res = await client.v2.search(query, { max_results: 10, 'tweet.fields': ['public_metrics', 'created_at'] });
-    tweets = res.data.data || [];
+    try {
+      const res = await client.v2.search(query, { max_results: 10, 'tweet.fields': ['public_metrics', 'created_at'] });
+      tweets = res.data.data || [];
+    } catch (e2) {
+      console.log('minimal search failed, trying bare:', (e2.message || '').slice(0, 120));
+      const res = await client.v2.search(query);
+      tweets = res.data.data || [];
+    }
   }
   console.log('===SEARCH_RESULTS===');
   for (const t of tweets) {
