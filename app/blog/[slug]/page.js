@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'deepseek-billion-revenue-price-war-2026': {
+    metaTitle: "DeepSeek Hits $1B Run Rate: The Price War Is Over, and the Intelligence War Has Begun",
+    metaDescription: "On August 16, 2026, DeepSeek raised its API prices between 2.3 and 4.5 times — the boldest pricing move in the history of the AI industry. Forty days later, CEO Liang Wenfeng told investors the gamble had worked: annualized revenue had crossed $1 billion, gross margins had hit 82.9%, and not a single major customer had walked. The company that taught the world that AI could be cheap has just proven it can be profitable too. Here is how the price war ended, and what comes next.",
+    keywords: '',
+  },
   'agentic-cloud-war-huawei-alibaba-china-ai-agents-2026': {
     metaTitle: "Huawei vs Alibaba: The Agentic Cloud War Reshaping China AI",
     metaDescription: "Between September 18 and September 24, 2026, Huawei and Alibaba each stood on a stage and declared that the cloud itself must be rebuilt around AI agents. Huawei Cloud opened an agentic stack spanning silicon, openEuler, and 6,000 MCP assets; Alibaba Cloud answered with AgentCore, a Context Engine, and storage that claims 100 terabytes per second. Two companies, one week, one question: who writes the operating system for China's agent economy?",
