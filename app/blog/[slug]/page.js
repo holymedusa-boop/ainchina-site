@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'agentic-cloud-war-huawei-alibaba-china-ai-agents-2026': {
+    metaTitle: "Huawei vs Alibaba: The Agentic Cloud War Reshaping China AI",
+    metaDescription: "Between September 18 and September 24, 2026, Huawei and Alibaba each stood on a stage and declared that the cloud itself must be rebuilt around AI agents. Huawei Cloud opened an agentic stack spanning silicon, openEuler, and 6,000 MCP assets; Alibaba Cloud answered with AgentCore, a Context Engine, and storage that claims 100 terabytes per second. Two companies, one week, one question: who writes the operating system for China's agent economy?",
+    keywords: '',
+  },
   'alibaba-zhenwu-v900-chip-nvidia-china-ai-silicon-2026': {
     metaTitle: "Alibaba Zhenwu V900 Deep Dive: China's Answer to the Nvidia Question",
     metaDescription: "On September 22, 2026, Alibaba CEO Eddie Wu stood on stage in Hangzhou and made three announcements that together form the most aggressive AI infrastructure bet outside the United States: a chip he called China's most powerful, a model roadmap targeting 10 trillion parameters, and a plan to build 20 gigawatts of data center capacity by 2032. We spent the week pulling apart every claim.",
