@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'stepfun-step-5-preview-600b-moe-china-ai-2026': {
+    metaTitle: "StepFun Step 5 Preview: How China's Quietest AI Tiger Built a 600B-Parameter Model That Matches Trillion-Parameter Giants",
+    metaDescription: "StepFun's Step 5 Preview scores 44 on the Artificial Analysis Intelligence Index — tying Kimi K3's 2.8-trillion-parameter model with only 600B parameters and 27B active. Here's how China's most under-the-radar AI startup pulled it off.",
+    keywords: '',
+  },
   'china-cac-probe-deepseek-moonshot-data-leak-2026': {
     metaTitle: "China Probes DeepSeek and Moonshot: How Anthropic's Report Became Beijing's Case",
     metaDescription: "On September 9, Beijing publicly dismissed American accusations of industrial-scale AI distillation as groundless. Twelve days later, its own internet regulator had summoned every company named in Anthropic's report — and opened a formal investigation into DeepSeek and Moonshot AI. The complaint had flipped direction: Washington's grievance was that Chinese labs took Claude's capabilities. Beijing's grievance is what traveled the other way. Inside the probe that turned a US-China AI dispute into a domestic Chinese reckoning.",
