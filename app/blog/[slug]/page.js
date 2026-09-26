@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-cac-probe-deepseek-moonshot-data-leak-2026': {
+    metaTitle: "China Probes DeepSeek and Moonshot: How Anthropic's Report Became Beijing's Case",
+    metaDescription: "On September 9, Beijing publicly dismissed American accusations of industrial-scale AI distillation as groundless. Twelve days later, its own internet regulator had summoned every company named in Anthropic's report — and opened a formal investigation into DeepSeek and Moonshot AI. The complaint had flipped direction: Washington's grievance was that Chinese labs took Claude's capabilities. Beijing's grievance is what traveled the other way. Inside the probe that turned a US-China AI dispute into a domestic Chinese reckoning.",
+    keywords: '',
+  },
   'deepseek-billion-revenue-price-war-2026': {
     metaTitle: "DeepSeek Hits $1B Run Rate: The Price War Is Over, and the Intelligence War Has Begun",
     metaDescription: "On August 16, 2026, DeepSeek raised its API prices between 2.3 and 4.5 times — the boldest pricing move in the history of the AI industry. Forty days later, CEO Liang Wenfeng told investors the gamble had worked: annualized revenue had crossed $1 billion, gross margins had hit 82.9%, and not a single major customer had walked. The company that taught the world that AI could be cheap has just proven it can be profitable too. Here is how the price war ended, and what comes next.",
