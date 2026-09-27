@@ -178,7 +178,7 @@ async function runReply() {
   console.log('✅ REPLY posted:', `https://x.com/AInChina5/status/${res.data.id}`);
 }
 
-const SWEEP_ACCOUNTS = ['DylanPatel', 'drjimfan', 'TheZvi', 'rowancheung', 'paulmozur', 'CateCadell', 'kaboroevich'];
+const SWEEP_ACCOUNTS = ['DylanPatel', 'drjimfan', 'TheZvi', 'rowancheung', 'paulmozur', 'CateCadell', 'kaboroevich', 'MattSheehan88', 'niubi'];
 const SWEEP_KEYWORDS = /deepseek|qwen|huawei|ascend|moonshot|kimi|stepfun|manus|cambricon|minimax|zhipu|alibaba|tencent|baidu|smic|chiplet|ai chip|china[\s\S]{0,16}(ai|model|chip|tech)|ai[\s\S]{0,12}china/i;
 
 async function runResolve() {
@@ -207,7 +207,7 @@ async function runSweep() {
   for (const [username, id] of Object.entries(idMap)) {
     try {
       const tl = await client.v2.userTimeline(id, {
-        max_results: 5,
+        max_results: 10,
         'tweet.fields': ['public_metrics', 'created_at'],
       });
       for (const t of tl.data.data || []) {
@@ -215,7 +215,7 @@ async function runSweep() {
         if (/ainchina\.com/i.test(t.text)) continue;
         if (!SWEEP_KEYWORDS.test(t.text)) continue;
         const m = t.public_metrics || {};
-        if ((m.like_count || 0) < 25) continue;
+        if ((m.like_count || 0) < 15) continue;
         candidates.push({ id: t.id, author: username, likes: m.like_count || 0, reposts: m.retweet_count || 0, replies: m.reply_count || 0, text: t.text.replace(/\s+/g, ' ').slice(0, 220), created: t.created_at });
       }
     } catch (e) {
