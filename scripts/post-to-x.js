@@ -169,6 +169,34 @@ async function main() {
     return;
   }
 
+  // --- sweep subcommand: poll curated accounts, print candidates (optionally like) ---
+  const sweepIdx = args.indexOf('--sweep');
+  if (sweepIdx !== -1) {
+    const likeTop = args[sweepIdx + 1] && /^\d+$/.test(args[sweepIdx + 1]) ? args[sweepIdx + 1] : '0';
+    const r = await runAndReport(token, { mode: 'sweep', slug: 'sweep', like_top: likeTop, dry_run: false }, 'sweep');
+    if (r.ok && r.logs) {
+      const lines = r.logs.split('\n').filter(l => l.startsWith('{'));
+      const summary = r.logs.split('\n').find(l => l.includes('candidates:'));
+      console.log('✅ sweep done —', summary || `${lines.length} candidates`);
+      for (const l of lines) console.log(l);
+    } else {
+      console.error('❌ sweep failed', r.concl || '');
+      if (r.logs) console.error(r.logs.split('\n').filter(l => l.includes('❌') || l.includes('failed')).slice(0, 5).join('\n'));
+      process.exit(1);
+    }
+    return;
+  }
+
+  // --- resolve subcommand: get user IDs for sweep accounts ---
+  if (args.includes('--resolve')) {
+    const r = await runAndReport(token, { mode: 'resolve', slug: 'resolve', dry_run: false }, 'resolve');
+    if (r.ok && r.logs) {
+      const lines = r.logs.split('\n').filter(l => l.startsWith('ME_ID') || l.startsWith('{'));
+      for (const l of lines) console.log(l);
+    } else { console.error('❌ resolve failed', r.concl || ''); process.exit(1); }
+    return;
+  }
+
   // --- post mode (default) ---
   const slugIdx = args.indexOf('--slug');
   const force = args.includes('--force');

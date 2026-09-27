@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: 'post | search | reply'
+        description: 'post | search | reply | resolve | sweep'
         required: false
         type: string
         default: 'post'
@@ -40,6 +40,11 @@ on:
         required: false
         type: boolean
         default: false
+      like_top:
+        description: 'Auto-like top N sweep candidates (0 = off)'
+        required: false
+        type: string
+        default: '0'
 
 jobs:
   run:
@@ -49,8 +54,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
-      - name: Install dependency
-        run: npm install twitter-api-v2 --no-audit --no-fund
+      - name: Install dependencies
+        run: npm install twitter-api-v2 sharp --no-audit --no-fund
       - name: Run X action
         env:
           X_API_KEY: ${{ secrets.X_API_KEY }}
@@ -66,4 +71,5 @@ jobs:
           REPLY_TO_ID: ${{ inputs.reply_to_id }}
           REPLY_TEXT: ${{ inputs.reply_text }}
           DRY_RUN: ${{ inputs.dry_run }}
+          LIKE_TOP: ${{ inputs.like_top }}
         run: node .github/workflows/post-to-x.js
