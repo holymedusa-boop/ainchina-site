@@ -253,6 +253,27 @@ async function runSweep() {
   console.log(`candidates: ${candidates.length}, liked: ${liked}`);
 }
 
+async function runDiag() {
+  const me = await client.v2.me({ 'user.fields': ['created_at', 'verified', 'protected', 'withheld', 'public_metrics', 'description'] });
+  console.log('===ME===');
+  console.log(JSON.stringify(me.data));
+  console.log('===TWEETS===');
+  const tl = await client.v2.userTimeline(me.data.id, {
+    max_results: 10,
+    'tweet.fields': ['created_at', 'public_metrics', 'organic_metrics'],
+  });
+  for (const t of tl.data.data || []) {
+    console.log(JSON.stringify({
+      id: t.id, created: t.created_at,
+      impressions: t.organic_metrics?.impression_count ?? null,
+      likes: t.public_metrics?.like_count, replies: t.public_metrics?.reply_count,
+      reposts: t.public_metrics?.retweet_count,
+      text: t.text.slice(0, 80),
+    }));
+  }
+  console.log('===END===');
+}
+
 (async () => {
   try {
     if (process.env.DRY_RUN === 'true') {
@@ -264,6 +285,7 @@ async function runSweep() {
     else if (MODE === 'reply') await runReply();
     else if (MODE === 'resolve') await runResolve();
     else if (MODE === 'sweep') await runSweep();
+    else if (MODE === 'diag') await runDiag();
     else await runPost();
   } catch (err) {
     console.error('❌ FAILED:', err.message || err);
