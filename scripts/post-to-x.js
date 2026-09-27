@@ -175,8 +175,13 @@ async function main() {
     const likeTop = args[sweepIdx + 1] && /^\d+$/.test(args[sweepIdx + 1]) ? args[sweepIdx + 1] : '0';
     const r = await runAndReport(token, { mode: 'sweep', slug: 'sweep', like_top: likeTop, dry_run: false }, 'sweep');
     if (r.ok && r.logs) {
-      const lines = r.logs.split('\n').filter(l => l.startsWith('{'));
+      const lines = r.logs.split('\n').filter(l => l.trim().startsWith('{'));
       const summary = r.logs.split('\n').find(l => l.includes('candidates:'));
+      if (lines.length === 0 && summary === undefined) {
+        console.log('--- raw logs tail ---');
+        console.log(r.logs.slice(-2000));
+        return;
+      }
       console.log('✅ sweep done —', summary || `${lines.length} candidates`);
       for (const l of lines) console.log(l);
     } else {
@@ -191,7 +196,8 @@ async function main() {
   if (args.includes('--resolve')) {
     const r = await runAndReport(token, { mode: 'resolve', slug: 'resolve', dry_run: false }, 'resolve');
     if (r.ok && r.logs) {
-      const lines = r.logs.split('\n').filter(l => l.startsWith('ME_ID') || l.startsWith('{'));
+      const lines = r.logs.split('\n').filter(l => l.trim().startsWith('ME_ID') || l.trim().startsWith('{'));
+      if (lines.length === 0) { console.log(r.logs.slice(-2000)); return; }
       for (const l of lines) console.log(l);
     } else { console.error('❌ resolve failed', r.concl || ''); process.exit(1); }
     return;
