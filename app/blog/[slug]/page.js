@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'manus-ai-4-billion-meta-blocked-hong-kong-ipo-2026': {
+    metaTitle: "Manus AI $4B Valuation: Meta Blocked, Hong Kong IPO Ahead",
+    metaDescription: "In December 2025, Meta agreed to buy Manus — China's viral general-purpose AI agent — for more than $2 billion. Four months later, Beijing blocked the deal, grounded the founders, and forced the company to buy itself back. Now Manus is raising $500 million at a $4 billion valuation, with Tencent poised to become its largest shareholder and a Hong Kong IPO in its sights. It is the strangest corporate rebirth in the history of AI.",
+    keywords: '',
+  },
   'stepfun-step-5-preview-600b-moe-china-ai-2026': {
     metaTitle: "StepFun Step 5 Preview: How China's Quietest AI Tiger Built a 600B-Parameter Model That Matches Trillion-Parameter Giants",
     metaDescription: "StepFun's Step 5 Preview scores 44 on the Artificial Analysis Intelligence Index — tying Kimi K3's 2.8-trillion-parameter model with only 600B parameters and 27B active. Here's how China's most under-the-radar AI startup pulled it off.",
