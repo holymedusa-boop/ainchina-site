@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'deepseek-dsec-agent-sandbox-infrastructure-3-million-daily-2026': {
+    metaTitle: "DeepSeek DSec: The 3M-Sandbox-a-Day Infrastructure Behind Agent Training",
+    metaDescription: "On September 19, 2026, DeepSeek published a 31-page systems paper signed by founder Liang Wenfeng. It was not about a new model. It was about DSec — the production sandbox platform that runs 3 million isolated computing environments per day, sustains 380,000 concurrent sandboxes, and has powered every RL training run from V3.2 to V4.1. It is the first systematic look at the infrastructure layer that will decide who wins the agent race — and almost nobody outside systems engineering has noticed.",
+    keywords: '',
+  },
   'manus-ai-4-billion-meta-blocked-hong-kong-ipo-2026': {
     metaTitle: "Manus AI $4B Valuation: Meta Blocked, Hong Kong IPO Ahead",
     metaDescription: "In December 2025, Meta agreed to buy Manus — China's viral general-purpose AI agent — for more than $2 billion. Four months later, Beijing blocked the deal, grounded the founders, and forced the company to buy itself back. Now Manus is raising $500 million at a $4 billion valuation, with Tencent poised to become its largest shareholder and a Hong Kong IPO in its sights. It is the strangest corporate rebirth in the history of AI.",
