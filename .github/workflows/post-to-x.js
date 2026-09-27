@@ -100,11 +100,12 @@ async function runPost() {
     process.exit(1);
   }
 
-  const tags = '#ChinaAI #AI';
-  let replyText = `${title}\n\n${url}\n\n${tags}`;
+  const tagsPool = ['#ChinaAI', '#AI', '#DeepSeek', '#AIagents', '#MachineLearning', '#Semiconductors', '#TechNews', '#AIinChina'];
+  const tag = tagsPool[Math.floor(Math.random() * tagsPool.length)];
+  let replyText = `${title}\n\n${url}`;
   if (replyText.length > 280) {
-    const budget = 280 - (url.length + tags.length + 4);
-    replyText = `${title.slice(0, budget - 3)}...\n\n${url}\n\n${tags}`;
+    const budget = 280 - (url.length + 4);
+    replyText = `${title.slice(0, budget - 3)}...\n\n${url}`;
   }
 
   console.log(`[${slug}] MAIN (${hook.length}/280):`, hook);
