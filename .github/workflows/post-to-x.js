@@ -235,6 +235,18 @@ async function runSweep() {
     }
   }
 
+  // Follow sweep accounts (free, idempotent) — notifications put @AInChina5 on their radar
+  let followed = 0;
+  for (const [username, id] of Object.entries(idMap)) {
+    try {
+      await client.v1.createFriendship({ user_id: id });
+      followed++;
+    } catch (e) {
+      console.log(`follow @${username} skipped:`, (e.message || '').slice(0, 60));
+    }
+  }
+  console.log(`followed/confirmed: ${followed}/${Object.keys(idMap).length}`);
+
   console.log('===SWEEP_RESULTS===');
   for (const c of candidates.slice(0, 12)) console.log(JSON.stringify(c));
   console.log('===END===');
