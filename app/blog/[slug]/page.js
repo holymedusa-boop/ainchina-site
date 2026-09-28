@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'space-bunny-anonymous-model-china-ai-stealth-2026': {
+    metaTitle: "Space Bunny: The Anonymous AI Model That Topped Global Rankings — and the Chinese Lab Behind It",
+    metaDescription: "On September 23, 2026, an AI model with no name behind it appeared on OpenRouter. Within four days, Space Bunny Alpha was processing more tokens per day than any model on Earth — free, anonymous, and apparently Chinese. The detective work that followed reveals a deliberate new playbook in the global AI race.",
+    keywords: '',
+  },
   'china-us-ai-safety-channel-too-late-summit-2026': {
     metaTitle: "US-China AI Safety Channel: Why the Summit Deal Misses the Point",
     metaDescription: "At the September 2026 Xi-Trump summit, Washington and Beijing announced a historic AI safety channel, $30 billion in tariff cuts, and a military crisis communications MOU. The world called it a breakthrough. It isn't. The channel is an admission that both governments have already lost control of the AI race — to their own labs, to open-source ecosystems they can't regulate, and to a pace of capability development that no bilateral dialogue can contain.",
