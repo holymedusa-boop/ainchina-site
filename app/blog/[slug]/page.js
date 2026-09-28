@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-us-ai-safety-channel-too-late-summit-2026': {
+    metaTitle: "US-China AI Safety Channel: Why the Summit Deal Misses the Point",
+    metaDescription: "At the September 2026 Xi-Trump summit, Washington and Beijing announced a historic AI safety channel, $30 billion in tariff cuts, and a military crisis communications MOU. The world called it a breakthrough. It isn't. The channel is an admission that both governments have already lost control of the AI race — to their own labs, to open-source ecosystems they can't regulate, and to a pace of capability development that no bilateral dialogue can contain.",
+    keywords: '',
+  },
   'deepseek-dsec-agent-sandbox-infrastructure-3-million-daily-2026': {
     metaTitle: "DeepSeek DSec: The 3M-Sandbox-a-Day Infrastructure Behind Agent Training",
     metaDescription: "On September 19, 2026, DeepSeek published a 31-page systems paper signed by founder Liang Wenfeng. It was not about a new model. It was about DSec — the production sandbox platform that runs 3 million isolated computing environments per day, sustains 380,000 concurrent sandboxes, and has powered every RL training run from V3.2 to V4.1. It is the first systematic look at the infrastructure layer that will decide who wins the agent race — and almost nobody outside systems engineering has noticed.",
