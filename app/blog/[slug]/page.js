@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-export-control-window-closes-silence-2026': {
+    metaTitle: "China's AI Export Control Window Closed Without a Decision. The Silence Is the Story.",
+    metaDescription: "For three months, Beijing consulted Alibaba, ByteDance, and Zhipu on restricting foreign access to China's most advanced AI models. The September decision window came and went with no announcement. What the silence reveals about the collision between AI sovereignty and AI economics.",
+    keywords: '',
+  },
   'space-bunny-anonymous-model-china-ai-stealth-2026': {
     metaTitle: "Space Bunny: The Anonymous AI Model That Topped Global Rankings — and the Chinese Lab Behind It",
     metaDescription: "On September 23, 2026, an AI model with no name behind it appeared on OpenRouter. Within four days, Space Bunny Alpha was processing more tokens per day than any model on Earth — free, anonymous, and apparently Chinese. The detective work that followed reveals a deliberate new playbook in the global AI race.",
