@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-goes-global-open-source-cloud-empire-2026': {
+    metaTitle: "China's AI Goes Global: The Open-Source Export Revolution",
+    metaDescription: "Ten billion downloads. One hundred thousand Qwen derivatives. Thirty-one cloud regions across five continents. Chinese AI companies are no longer building for their home market first — they are engineering products for the world from day one, and the numbers are starting to look like a structural shift, not a story.",
+    keywords: '',
+  },
   'china-ai-export-control-window-closes-silence-2026': {
     metaTitle: "China's AI Export Control Window Closed Without a Decision. The Silence Is the Story.",
     metaDescription: "For three months, Beijing consulted Alibaba, ByteDance, and Zhipu on restricting foreign access to China's most advanced AI models. The September decision window came and went with no announcement. What the silence reveals about the collision between AI sovereignty and AI economics.",
