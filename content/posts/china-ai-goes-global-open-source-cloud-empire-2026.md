@@ -185,6 +185,18 @@ And part of the answer is a strategic decision to treat global market share as m
 
 Lin Yifu's argument at the UN adds an ideological dimension to this commercial logic. Open-source AI, he argues, is a vehicle for globalization that benefits the developing world by providing access to cutting-edge technology without the cost barrier. It promotes what he calls "global inclusivity" — and in the process, it builds a Chinese-led ecosystem that becomes the default infrastructure for the majority of the world's developers.
 
+The pricing data makes the competitive dynamic concrete.
+
+| Model | Intelligence Index | Input ($/M tokens) | Output ($/M tokens) | Index per Dollar |
+|---|---|---|---|---|
+| Kimi K2.5 | 47 | ~$1.25 | ~$5 | 7.5 |
+| GPT-5.2 (OpenAI) | 47 | ~$5 | ~$20 | 1.9 |
+| DeepSeek V4 | 45 | ~$0.50 | ~$2 | 18.0 |
+| Qwen3.8-Max | 48 | $2 | $6 | 6.0 |
+| Claude Opus (Anthropic) | 46 | ~$6 | ~$25 | 1.5 |
+
+*Table: Price-performance comparison — Chinese models deliver comparable Intelligence Index scores at 2–10x lower cost per token than Western equivalents (data: Artificial Analysis, 2026).*
+
 The implications for U.S.-China competition are significant. A U.S.-China Economic and Security Review Commission report published in March 2026 noted that China's open-source strategy creates "two loops": a rapid-iteration loop where Chinese labs refine each other's base models, and a global-adoption loop where developers worldwide build on Chinese foundations. The report warned that this dynamic could "reinforce China's industrial dominance" in AI — a striking admission from a body established to monitor exactly this kind of strategic risk.
 
 ## The Skeptics' Case: What Could Slow This Down
