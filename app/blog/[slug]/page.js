@@ -10,6 +10,11 @@ const postMetadata = {
     metaDescription: "Ten billion downloads. One hundred thousand Qwen derivatives. Thirty-one cloud regions across five continents. Chinese AI companies are no longer building for their home market first — they are engineering products for the world from day one, and the numbers are starting to look like a structural shift, not a story.",
     keywords: '',
   },
+  'china-photonic-computing-revolution-lightelligence-taichi-2026': {
+    metaTitle: "China's Photonic Computing Revolution 2026",
+    metaDescription: "A 400% IPO debut on the Hong Kong Stock Exchange. A photonic processor 500 times faster than a NVIDIA GPU at specific tasks. A national laboratory built to turn light into computation. China's photonic computing industry has moved from physics papers to production lines in under a decade — and it may be the most consequential bet in the global chip race that most people have never heard of.",
+    keywords: '',
+  },
   'china-ai-export-control-window-closes-silence-2026': {
     metaTitle: "China's AI Export Control Window Closed Without a Decision. The Silence Is the Story.",
     metaDescription: "For three months, Beijing consulted Alibaba, ByteDance, and Zhipu on restricting foreign access to China's most advanced AI models. The September decision window came and went with no announcement. What the silence reveals about the collision between AI sovereignty and AI economics.",
