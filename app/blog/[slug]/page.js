@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'alibaba-qwen-4-apsara-roadmap-china-ai-full-stack-2026': {
+    metaTitle: "Alibaba Qwen 4 Apsara 2026: The Real Strategy",
+    metaDescription: "Alibaba announced Qwen 4 at Apsara 2026 with no release date, no benchmarks, and no weights — and revealed a 5-to-10-trillion-parameter roadmap stretching to Qwen 5. While the industry obsesses over the next leaderboard, Alibaba is playing a different game entirely: building the full-stack infrastructure that makes the model race almost beside the point.",
+    keywords: '',
+  },
   'china-ai-goes-global-open-source-cloud-empire-2026': {
     metaTitle: "China's AI Goes Global: The Open-Source Export Revolution",
     metaDescription: "Ten billion downloads. One hundred thousand Qwen derivatives. Thirty-one cloud regions across five continents. Chinese AI companies are no longer building for their home market first — they are engineering products for the world from day one, and the numbers are starting to look like a structural shift, not a story.",
