@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'glm-5-3-cyber-weapon-open-source-dilemma-2026': {
+    metaTitle: "The $20 Cyber Weapon: Why Anthropic's GLM-5.3 Report Proves the AI Safety Debate Was Always Wrong",
+    metaDescription: "Anthropic's Frontier Red Team just confirmed that China's GLM-5.3 can autonomously build cyber exploits at near-Mythos levels — and its safeguards collapse 64-100% of the time. The panic that followed misses the point entirely: open source isn't the vulnerability. The illusion of control is.",
+    keywords: '["GLM-5.3", "Zhipu AI", "Anthropic", "cybersecurity AI", "open source model safety", "China AI 2026", "AI exploit generation", "AI governance", "Z.ai", "frontier AI safety", "cyber capabilities", "Mythos Preview"]',
+  },
   'alibaba-qwen-4-apsara-roadmap-china-ai-full-stack-2026': {
     metaTitle: "Alibaba Qwen 4 Apsara 2026: The Real Strategy",
     metaDescription: "Alibaba announced Qwen 4 at Apsara 2026 with no release date, no benchmarks, and no weights — and revealed a 5-to-10-trillion-parameter roadmap stretching to Qwen 5. While the industry obsesses over the next leaderboard, Alibaba is playing a different game entirely: building the full-stack infrastructure that makes the model race almost beside the point.",
