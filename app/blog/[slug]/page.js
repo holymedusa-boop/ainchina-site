@@ -10,6 +10,11 @@ const postMetadata = {
     metaDescription: "Alibaba announced Qwen 4 at Apsara 2026 with no release date, no benchmarks, and no weights — and revealed a 5-to-10-trillion-parameter roadmap stretching to Qwen 5. While the industry obsesses over the next leaderboard, Alibaba is playing a different game entirely: building the full-stack infrastructure that makes the model race almost beside the point.",
     keywords: '',
   },
+  'china-ai-700-million-users-mainstream-tipping-point-2026': {
+    metaTitle: "China 700 Million AI Users: The Four-Year Adoption Story",
+    metaDescription: "China's generative AI users crossed 700 million in the first half of 2026, meaning more than half the country now uses AI tools. Here's the complete timeline of how the world's fastest adoption curve unfolded — and what it signals for the global AI race.",
+    keywords: '',
+  },
   'china-ai-goes-global-open-source-cloud-empire-2026': {
     metaTitle: "China's AI Goes Global: The Open-Source Export Revolution",
     metaDescription: "Ten billion downloads. One hundred thousand Qwen derivatives. Thirty-one cloud regions across five continents. Chinese AI companies are no longer building for their home market first — they are engineering products for the world from day one, and the numbers are starting to look like a structural shift, not a story.",
