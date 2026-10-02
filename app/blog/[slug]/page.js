@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-humanoid-robots-97-percent-global-shipments-2026': {
+    metaTitle: "97% of the World's Humanoid Robots Are Now Made in China: A Three-Year Timeline of Total Domination",
+    metaDescription: "The first half of 2026 changed humanoid robotics forever. China shipped 97% of all units sold globally, AgiBot dethroned Unitree as the volume king, and a single IPO turned a Hangzhou startup into a $61 billion company. Tracing the three-year arc from laboratory curiosity to industrial juggernaut.",
+    keywords: '["humanoid robots 2026", "AgiBot Unitree", "China robotics dominance", "embodied AI China", "World Humanoid Robot Games", "humanoid robot shipments", "physical AI", "China manufacturing 2026", "robotics supply chain", "Unitree IPO"]',
+  },
   'china-one-person-company-ai-solo-entrepreneur-revolution-2026': {
     metaTitle: "One Person, a Thousand AI Employees: How China Built a 12-Million Solo Entrepreneur Army",
     metaDescription: "12 million Chinese entrepreneurs now run one-person companies powered by AI agent armies. Cities are competing with million-yuan subsidies to attract them. The OPC revolution is moving faster than any startup trend in history — and it is reshaping what a 'company' even means.",
