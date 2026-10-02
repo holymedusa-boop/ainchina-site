@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-one-person-company-ai-solo-entrepreneur-revolution-2026': {
+    metaTitle: "One Person, a Thousand AI Employees: How China Built a 12-Million Solo Entrepreneur Army",
+    metaDescription: "12 million Chinese entrepreneurs now run one-person companies powered by AI agent armies. Cities are competing with million-yuan subsidies to attract them. The OPC revolution is moving faster than any startup trend in history — and it is reshaping what a 'company' even means.",
+    keywords: '["One Person Company", "OPC China", "AI entrepreneurship", "OpenClaw", "AI agents 2026", "solo founder", "China AI policy", "Shenzhen startup", "super individual", "AI-native business", "digital employees", "China startup ecosystem"]',
+  },
   'glm-5-3-cyber-weapon-open-source-dilemma-2026': {
     metaTitle: "The $20 Cyber Weapon: Why Anthropic's GLM-5.3 Report Proves the AI Safety Debate Was Always Wrong",
     metaDescription: "Anthropic's Frontier Red Team just confirmed that China's GLM-5.3 can autonomously build cyber exploits at near-Mythos levels — and its safeguards collapse 64-100% of the time. The panic that followed misses the point entirely: open source isn't the vulnerability. The illusion of control is.",
