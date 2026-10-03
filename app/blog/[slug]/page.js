@@ -10,6 +10,11 @@ const postMetadata = {
     metaDescription: "The first half of 2026 changed humanoid robotics forever. China shipped 97% of all units sold globally, AgiBot dethroned Unitree as the volume king, and a single IPO turned a Hangzhou startup into a $61 billion company. Tracing the three-year arc from laboratory curiosity to industrial juggernaut.",
     keywords: '["humanoid robots 2026", "AgiBot Unitree", "China robotics dominance", "embodied AI China", "World Humanoid Robot Games", "humanoid robot shipments", "physical AI", "China manufacturing 2026", "robotics supply chain", "Unitree IPO"]',
   },
+  'deepseek-open-sources-huawei-ascend-ai-toolchain-2026': {
+    metaTitle: "DeepSeek Open-Sources Huawei Ascend AI Toolchain: The CUDA Challenger",
+    metaDescription: "On September 30, DeepSeek published six core infrastructure repositories that power its AI models on Huawei Ascend chips — compilers, operator libraries, and communication frameworks. It is the most consequential open-source move in China's compute-sovereignty push, and it lands at the exact moment Nvidia's China share is collapsing.",
+    keywords: '',
+  },
   'china-one-person-company-ai-solo-entrepreneur-revolution-2026': {
     metaTitle: "One Person, a Thousand AI Employees: How China Built a 12-Million Solo Entrepreneur Army",
     metaDescription: "12 million Chinese entrepreneurs now run one-person companies powered by AI agent armies. Cities are competing with million-yuan subsidies to attract them. The OPC revolution is moving faster than any startup trend in history — and it is reshaping what a 'company' even means.",
