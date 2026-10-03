@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'ymtc-49-billion-ipo-nand-sanctions-reversal-2026': {
+    metaTitle: "From Entity List to World No. 3: Inside YMTC's Record $4.9 Billion IPO",
+    metaDescription: "Four years after Washington placed it on the Entity List, China's YMTC filed the largest IPO in STAR Market history: ¥33 billion, on 78% gross margins, with Samsung licensing its patents and 14% of global NAND shipments. The complete anatomy of a sanctions reversal.",
+    keywords: '["YMTC IPO", "Yangtze Memory Technologies", "China NAND", "STAR Market IPO 2026", "Xtacking", "semiconductor sanctions", "China memory chip", "enterprise SSD", "AI storage", "CXMT YMTC"]',
+  },
   'china-humanoid-robots-97-percent-global-shipments-2026': {
     metaTitle: "97% of the World's Humanoid Robots Are Now Made in China: A Three-Year Timeline of Total Domination",
     metaDescription: "The first half of 2026 changed humanoid robotics forever. China shipped 97% of all units sold globally, AgiBot dethroned Unitree as the volume king, and a single IPO turned a Hangzhou startup into a $61 billion company. Tracing the three-year arc from laboratory curiosity to industrial juggernaut.",
