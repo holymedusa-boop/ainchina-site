@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'two-stacks-one-hotline-us-china-ai-parallel-2026': {
+    metaTitle: "Two Stacks, One Hotline: How the US and China Are Building Parallel AI Empires",
+    metaDescription: "As DeepSeek open-sources chip software for Huawei's Ascend and Washington proposes an AI incident hotline, two complete, competing AI stacks are crystallizing. This is a systematic comparison of the parallel ecosystems — hardware, software, models, infrastructure, and governance — and an assessment of what the new diplomatic channel actually changes.",
+    keywords: '["US China AI competition", "DeepSeek Huawei partnership", "NVIDIA CUDA monopoly", "AI chip export controls", "AI hotline Bessent", "Huawei Ascend 950", "TileLang open source", "China AI stack", "AI governance 2026", "parallel AI ecosystems"]',
+  },
   'ymtc-49-billion-ipo-nand-sanctions-reversal-2026': {
     metaTitle: "From Entity List to World No. 3: Inside YMTC's Record $4.9 Billion IPO",
     metaDescription: "Four years after Washington placed it on the Entity List, China's YMTC filed the largest IPO in STAR Market history: ¥33 billion, on 78% gross margins, with Samsung licensing its patents and 14% of global NAND shipments. The complete anatomy of a sanctions reversal.",
