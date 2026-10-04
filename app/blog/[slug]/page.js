@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'ulanqab-token-capital-china-ai-compute-westward-2026': {
+    metaTitle: "The Token Capital: How a Potato Town in Inner Mongolia Out-Committed OpenAI's Stargate",
+    metaDescription: "Goldman Sachs says Ulanqab, a city of 1.7 million best known for potatoes, now holds 12.5GW of committed data center capacity — more than OpenAI's entire Stargate program. We went deep on the geography, the players, and the physics behind China's strangest AI story.",
+    keywords: '["Ulanqab", "China AI data centers", "12.5GW compute cluster", "Goldman Sachs China data centers", "East Data West Computing", "green AI infrastructure", "Envision Galaxy Base", "DeepSeek data center", "China compute buildout", "Token Capital"]',
+  },
   'two-stacks-one-hotline-us-china-ai-parallel-2026': {
     metaTitle: "Two Stacks, One Hotline: How the US and China Are Building Parallel AI Empires",
     metaDescription: "As DeepSeek open-sources chip software for Huawei's Ascend and Washington proposes an AI incident hotline, two complete, competing AI stacks are crystallizing. This is a systematic comparison of the parallel ecosystems — hardware, software, models, infrastructure, and governance — and an assessment of what the new diplomatic channel actually changes.",
