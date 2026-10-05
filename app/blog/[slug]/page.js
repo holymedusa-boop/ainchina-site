@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'huawei-qualcomm-patent-reversal-ai-chip-licensing-2026': {
+    metaTitle: "The Great Patent Reversal: How Huawei Flipped 25 Years of Qualcomm Royalties",
+    metaDescription: "For 25 years, Huawei paid Qualcomm for patent licenses. On October 5, 2026, the money started flowing the other way — and the deal's hidden prize is Huawei's LogicFolding chip technology that bypassed US sanctions entirely.",
+    keywords: '',
+  },
   'qwen-flash-next-local-frontier-consumer-hardware-2026': {
     metaTitle: "The $2,000 Frontier: How a 125B Chinese Model on a Gaming GPU Quietly Broke the Cloud AI Monopoly",
     metaDescription: "A Hacker News thread with 37 upvotes and 110 comments might not look like a turning point. But when developers realized Alibaba's Qwen 3.8 Flash Next — a 125B-parameter model that beats Claude Opus on coding benchmarks — runs at 100+ tokens per second on a single RTX 4090, something fundamental shifted in who gets to own frontier AI.",
