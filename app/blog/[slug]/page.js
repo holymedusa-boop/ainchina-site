@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'qwen-flash-next-local-frontier-consumer-hardware-2026': {
+    metaTitle: "The $2,000 Frontier: How a 125B Chinese Model on a Gaming GPU Quietly Broke the Cloud AI Monopoly",
+    metaDescription: "A Hacker News thread with 37 upvotes and 110 comments might not look like a turning point. But when developers realized Alibaba's Qwen 3.8 Flash Next — a 125B-parameter model that beats Claude Opus on coding benchmarks — runs at 100+ tokens per second on a single RTX 4090, something fundamental shifted in who gets to own frontier AI.",
+    keywords: '["Qwen 3.8 Flash Next", "local LLM inference", "China open source AI", "consumer hardware AI", "RTX 4090 LLM", "quantization 2-bit", "Alibaba Qwen4 architecture", "open weights vs closed API", "AI democratization China", "local AI revolution 2026"]',
+  },
   'ulanqab-token-capital-china-ai-compute-westward-2026': {
     metaTitle: "The Token Capital: How a Potato Town in Inner Mongolia Out-Committed OpenAI's Stargate",
     metaDescription: "Goldman Sachs says Ulanqab, a city of 1.7 million best known for potatoes, now holds 12.5GW of committed data center capacity — more than OpenAI's entire Stargate program. We went deep on the geography, the players, and the physics behind China's strangest AI story.",
