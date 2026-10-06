@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-know-your-agent-ai-payment-rules-2026': {
+    metaTitle: "Know Your Agent: How China Regulated AI Payments While the West Is Still Writing Protocols",
+    metaDescription: "China just did what no other country has done: it wrote enforceable rules for AI agents that spend money. The KYA (Know Your Agent) framework—34 articles covering authorization, liability, and staged autonomy—arrived while Western tech giants were still debating payment protocols. In the race to define the agentic economy, the rulebook may matter more than the roadmap.",
+    keywords: '["China AI agent payments", "Know Your Agent KYA", "智能体支付应用自律公约", "China Payment and Clearing Association", "AI agent regulation", "agentic commerce 2026", "PBOC AI payments", "AI payment rules China", "agent payment protocol AP2 x402", "AI autonomous payments", "China fintech regulation", "AI agent economy", "Alipay AI agent", "WeChat Pay AI", "agentic AI governance"]',
+  },
   'huawei-qualcomm-patent-reversal-ai-chip-licensing-2026': {
     metaTitle: "The Great Patent Reversal: How Huawei Flipped 25 Years of Qualcomm Royalties",
     metaDescription: "For 25 years, Huawei paid Qualcomm for patent licenses. On October 5, 2026, the money started flowing the other way — and the deal's hidden prize is Huawei's LogicFolding chip technology that bypassed US sanctions entirely.",
