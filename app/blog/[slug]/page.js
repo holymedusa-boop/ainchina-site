@@ -5,10 +5,20 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'deepseek-silence-v4-pro-china-ai-strategy-2026': {
+    metaTitle: "DeepSeek's Strategic Silence: Why the Missing V4.1 Pro Is China's Most Dangerous AI Move",
+    metaDescription: "Bloomberg says the US-China AI gap is now just 3%. DeepSeek's V4.1 Pro has been 'confirmed but undated' for a month. The silence isn't a stall — it's a strategy that reveals how the game has changed.",
+    keywords: '',
+  },
   'china-know-your-agent-ai-payment-rules-2026': {
     metaTitle: "Know Your Agent: How China Regulated AI Payments While the West Is Still Writing Protocols",
     metaDescription: "China just did what no other country has done: it wrote enforceable rules for AI agents that spend money. The KYA (Know Your Agent) framework—34 articles covering authorization, liability, and staged autonomy—arrived while Western tech giants were still debating payment protocols. In the race to define the agentic economy, the rulebook may matter more than the roadmap.",
     keywords: '["China AI agent payments", "Know Your Agent KYA", "智能体支付应用自律公约", "China Payment and Clearing Association", "AI agent regulation", "agentic commerce 2026", "PBOC AI payments", "AI payment rules China", "agent payment protocol AP2 x402", "AI autonomous payments", "China fintech regulation", "AI agent economy", "Alipay AI agent", "WeChat Pay AI", "agentic AI governance"]',
+  },
+  'china-us-ai-gap-3-percent-bloomberg-october-2026': {
+    metaTitle: "The 3% Gap: China's AI Closed to Near-Parity With America While Nobody Was Watching",
+    metaDescription: "Bloomberg Intelligence found the US lead over Chinese AI models has narrowed to just 3% — down from 9% in May and 15% a year ago. While Washington debated export controls and Washington Post op-eds, Chinese labs shipped. This is the timeline of the most consequential technology gap on Earth.",
+    keywords: '["China AI gap 3 percent", "Bloomberg Intelligence AI report", "DeepSeek V4.1 Flash", "China US AI race 2026", "Qwen3.8-Max", "Xiaomi MiMo-V2.6-Pro", "Chinese AI models benchmark", "AI parity China America", "open source AI China", "Kimi K3 Moonshot", "AI frontier gap closing", "China AI acceleration 2026"]',
   },
   'huawei-qualcomm-patent-reversal-ai-chip-licensing-2026': {
     metaTitle: "The Great Patent Reversal: How Huawei Flipped 25 Years of Qualcomm Royalties",
