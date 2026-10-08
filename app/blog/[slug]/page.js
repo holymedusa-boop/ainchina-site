@@ -10,6 +10,11 @@ const postMetadata = {
     metaDescription: "Bloomberg says the US-China AI gap is now just 3%. DeepSeek's V4.1 Pro has been 'confirmed but undated' for a month. The silence isn't a stall — it's a strategy that reveals how the game has changed.",
     keywords: '',
   },
+  'xiaomi-mimo-openrouter-ai-stack-conquest-2026': {
+    metaTitle: "The Phone Company That Ate the AI Stack: Xiaomi MiMo's Conquest of OpenRouter",
+    metaDescription: "In July 2026, the most-called large language model on Earth was not made by OpenAI, Google, or DeepSeek. It was made by a company best known for selling smartphones and electric cars. This is how Xiaomi MiMo swallowed the AI stack — and why the developer world barely noticed until it was too late.",
+    keywords: '["Xiaomi MiMo", "MiMo-V2.6-Pro", "OpenRouter rankings", "Chinese AI models", "open source AI", "LLM price war", "Xiaomi AI strategy", "MiMo API pricing", "agent frameworks", "China AI exports"]',
+  },
   'china-know-your-agent-ai-payment-rules-2026': {
     metaTitle: "Know Your Agent: How China Regulated AI Payments While the West Is Still Writing Protocols",
     metaDescription: "China just did what no other country has done: it wrote enforceable rules for AI agents that spend money. The KYA (Know Your Agent) framework—34 articles covering authorization, liability, and staged autonomy—arrived while Western tech giants were still debating payment protocols. In the race to define the agentic economy, the rulebook may matter more than the roadmap.",
