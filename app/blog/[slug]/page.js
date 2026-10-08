@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'deepseek-v4-1-flash-open-weights-disruption-2026': {
+    metaTitle: "The Model Nobody Freaked Out About: DeepSeek V4.1 Flash and the Quiet Disruption of AI Economics",
+    metaDescription: "On September 10, 2026, DeepSeek released a model that outperforms GPT-5.6 Sol and Claude Opus 5 on agentic coding benchmarks, costs 70% less than its predecessor, and fits in a quarter of the GPU memory. A month later, a Hacker News thread asked the question that should embarrass the entire industry: why isn't anyone freaking out?",
+    keywords: '["DeepSeek V4.1 Flash", "KV cache compression", "Causal Encoder-Decoder", "open weights AI", "agentic benchmarks", "AI inference economics", "Chinese AI models", "DeepSeek architecture", "LLM pricing", "MIT license AI"]',
+  },
   'deepseek-silence-v4-pro-china-ai-strategy-2026': {
     metaTitle: "DeepSeek's Strategic Silence: Why the Missing V4.1 Pro Is China's Most Dangerous AI Move",
     metaDescription: "Bloomberg says the US-China AI gap is now just 3%. DeepSeek's V4.1 Pro has been 'confirmed but undated' for a month. The silence isn't a stall — it's a strategy that reveals how the game has changed.",
