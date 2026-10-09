@@ -10,6 +10,11 @@ const postMetadata = {
     metaDescription: "On September 10, 2026, DeepSeek released a model that outperforms GPT-5.6 Sol and Claude Opus 5 on agentic coding benchmarks, costs 70% less than its predecessor, and fits in a quarter of the GPU memory. A month later, a Hacker News thread asked the question that should embarrass the entire industry: why isn't anyone freaking out?",
     keywords: '["DeepSeek V4.1 Flash", "KV cache compression", "Causal Encoder-Decoder", "open weights AI", "agentic benchmarks", "AI inference economics", "Chinese AI models", "DeepSeek architecture", "LLM pricing", "MIT license AI"]',
   },
+  'nvidia-china-exit-write-down-domestic-chip-rise-2026': {
+    metaTitle: "The Day Nvidia Wrote Down China: How Beijing Built a Chip Empire Out of Sanctions",
+    metaDescription: "Nvidia took a $400 million write-down on unsold H200 chips and guided to zero China data center revenue. Meanwhile, domestic Chinese AI chips captured 52.3% of the home market for the first time. The sanctions didn't cripple China's AI ambitions — they catalyzed them.",
+    keywords: '["Nvidia China revenue zero", "Huawei Ascend 950", "China domestic AI chips", "Cambricon market cap", "AI chip sanctions", "China compute sovereignty", "H200 write-down", "Ascend SuperPod"]',
+  },
   'deepseek-silence-v4-pro-china-ai-strategy-2026': {
     metaTitle: "DeepSeek's Strategic Silence: Why the Missing V4.1 Pro Is China's Most Dangerous AI Move",
     metaDescription: "Bloomberg says the US-China AI gap is now just 3%. DeepSeek's V4.1 Pro has been 'confirmed but undated' for a month. The silence isn't a stall — it's a strategy that reveals how the game has changed.",
