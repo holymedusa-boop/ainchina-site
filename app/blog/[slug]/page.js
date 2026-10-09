@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-new-productive-forces-guidelines-ai-bubble-2026': {
+    metaTitle: "Beijing Draws the Line: How China's New Productive Forces Guidelines Aim to Prevent an AI Bubble",
+    metaDescription: "On October 9, 2026, Beijing issued its most consequential AI policy document yet — a comprehensive framework that promises full AI deployment across the economy while simultaneously vowing to crush the bubbles, blind investment, and policy abuse that have accompanied the boom. The message: build fast, but build right.",
+    keywords: '["China new productive forces guidelines", "AI bubble China", "China AI regulation 2026", "new quality productive forces AI", "China AI safety monitoring", "tech bubble prevention China", "AI Plus action plan", "China industrial policy AI", "blind investment AI China", "Beijing AI governance"]',
+  },
   'deepseek-v4-1-flash-open-weights-disruption-2026': {
     metaTitle: "The Model Nobody Freaked Out About: DeepSeek V4.1 Flash and the Quiet Disruption of AI Economics",
     metaDescription: "On September 10, 2026, DeepSeek released a model that outperforms GPT-5.6 Sol and Claude Opus 5 on agentic coding benchmarks, costs 70% less than its predecessor, and fits in a quarter of the GPU memory. A month later, a Hacker News thread asked the question that should embarrass the entire industry: why isn't anyone freaking out?",
