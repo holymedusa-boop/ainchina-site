@@ -10,6 +10,11 @@ const postMetadata = {
     metaDescription: "On October 9, 2026, Beijing issued its most consequential AI policy document yet — a comprehensive framework that promises full AI deployment across the economy while simultaneously vowing to crush the bubbles, blind investment, and policy abuse that have accompanied the boom. The message: build fast, but build right.",
     keywords: '["China new productive forces guidelines", "AI bubble China", "China AI regulation 2026", "new quality productive forces AI", "China AI safety monitoring", "tech bubble prevention China", "AI Plus action plan", "China industrial policy AI", "blind investment AI China", "Beijing AI governance"]',
   },
+  'moonshot-ai-50-billion-sovereign-ai-capital-blueprint-2026': {
+    metaTitle: "The $50 Billion Blueprint: How Moonshot AI Is Building Sovereign AI Capital",
+    metaDescription: "On October 6, 2026, Moonshot AI closed its final private round at a $50 billion valuation and set its sights on a Hong Kong IPO in early 2027. But the real story isn't the number — it's the architecture. By forcing Moonshot to unwind its offshore VIE structure, Beijing has created a new template for how China's most sensitive AI companies access public markets: fully sovereign, fully controlled, and increasingly beyond Washington's reach.",
+    keywords: '["Moonshot AI IPO", "Moonshot AI $50 billion valuation", "sovereign AI capital China", "Hong Kong AI IPO 2027", "Kimi K3 revenue", "CSRC VIE unwinding", "China AI capital markets", "Moonshot AI ARR", "Beijing AI regulation", "China frontier AI"]',
+  },
   'deepseek-v4-1-flash-open-weights-disruption-2026': {
     metaTitle: "The Model Nobody Freaked Out About: DeepSeek V4.1 Flash and the Quiet Disruption of AI Economics",
     metaDescription: "On September 10, 2026, DeepSeek released a model that outperforms GPT-5.6 Sol and Claude Opus 5 on agentic coding benchmarks, costs 70% less than its predecessor, and fits in a quarter of the GPU memory. A month later, a Hacker News thread asked the question that should embarrass the entire industry: why isn't anyone freaking out?",
