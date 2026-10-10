@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-banking-revolution-digital-workforce-2026': {
+    metaTitle: "The 8,000 Ghost Employees: How China's Banks Quietly Built an AI Workforce",
+    metaDescription: "While the world watches China's AI labs race to build frontier models, the country's banking system has been running the largest real-world deployment of enterprise AI on Earth. ICBC alone now consumes over 10 billion AI tokens daily — nearly 100 times its 2024 level. The numbers reveal a transformation hiding in plain sight.",
+    keywords: '["China AI banking 2026", "ICBC AI transformation", "bank AI agents China", "China Merchants Bank AI", "AI workforce banking", "WeBank AI", "Chinese bank digital transformation", "AI-ICBC trillion tokens", "banking AI deployment China", "financial AI agents"]',
+  },
   'china-new-productive-forces-guidelines-ai-bubble-2026': {
     metaTitle: "Beijing Draws the Line: How China's New Productive Forces Guidelines Aim to Prevent an AI Bubble",
     metaDescription: "On October 9, 2026, Beijing issued its most consequential AI policy document yet — a comprehensive framework that promises full AI deployment across the economy while simultaneously vowing to crush the bubbles, blind investment, and policy abuse that have accompanied the boom. The message: build fast, but build right.",
