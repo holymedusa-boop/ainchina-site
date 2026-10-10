@@ -112,6 +112,9 @@ From the Chinese side, the Cyberspace Administration of China (CAC) has opened a
 
 *Sources: Axios, Bloomberg, OpenAI, Reuters, CAC*
 
+![A gavel and legal documents on a desk — the regulatory gauntlet facing Moonshot AI spans two superpowers, with active investigations on both sides of the Pacific](https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=800&h=400&fit=crop)
+*Moonshot faces simultaneous regulatory pressure from Washington (BIS chip investigation, OpenAI distillation claim) and Beijing (CAC data-security probe) — a geopolitical pincer unique among global AI companies. (Image: Unsplash)*
+
 The distillation allegations, if substantiated, raise complex questions about intellectual property in an era where model outputs can be used to train competing systems. The chip acquisition investigation speaks to the lengths Chinese AI companies will go to obtain frontier hardware. And the CAC probe suggests that Beijing's concerns about data sovereignty are not merely performative — they apply to Chinese companies as much as to foreign ones.
 
 What makes Moonshot's situation unique is that these regulatory pressures, from both sides, are not incidental to the IPO story — they are central to it. The BIS investigation strengthens the case for the sovereign capital structure (why allow foreign investors to fund a company the US government is investigating?). The CAC probe demonstrates that Beijing's regulatory framework applies to domestic champions as much as to foreign entrants. And the OpenAI attribution reinforces the narrative that Chinese AI companies are operating at the frontier — close enough to warrant sophisticated adversarial campaigns.
