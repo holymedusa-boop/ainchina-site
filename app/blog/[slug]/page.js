@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'deepseek-moonshot-dual-ipo-race-china-ai-2026': {
+    metaTitle: "The $120 Billion Dual IPO Race: DeepSeek vs Moonshot",
+    metaDescription: "On the same October day, DeepSeek closed in on a ¥80–100 billion round and Moonshot AI finalized its last private round at $50 billion. Both are sprinting toward Q1 2027 listings — one in Shanghai, one in Hong Kong. The race between China's two most valuable AI startups is really a race between two capital pipelines, and the winner will define how Chinese AI gets funded for a decade.",
+    keywords: '["DeepSeek IPO 2027", "Moonshot AI IPO Hong Kong", "China AI funding 2026", "DeepSeek 80 billion yuan funding", "STAR Market AI listing", "Tencent CATL DeepSeek", "Kimi K3 ARR", "China AI capital markets", "DeepSeek valuation 500 billion yuan", "Moonshot $50 billion valuation"]',
+  },
   'china-ai-banking-revolution-digital-workforce-2026': {
     metaTitle: "The 8,000 Ghost Employees: How China's Banks Quietly Built an AI Workforce",
     metaDescription: "While the world watches China's AI labs race to build frontier models, the country's banking system has been running the largest real-world deployment of enterprise AI on Earth. ICBC alone now consumes over 10 billion AI tokens daily — nearly 100 times its 2024 level. The numbers reveal a transformation hiding in plain sight.",
