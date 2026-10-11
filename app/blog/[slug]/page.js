@@ -10,6 +10,11 @@ const postMetadata = {
     metaDescription: "While the world watches China's AI labs race to build frontier models, the country's banking system has been running the largest real-world deployment of enterprise AI on Earth. ICBC alone now consumes over 10 billion AI tokens daily — nearly 100 times its 2024 level. The numbers reveal a transformation hiding in plain sight.",
     keywords: '["China AI banking 2026", "ICBC AI transformation", "bank AI agents China", "China Merchants Bank AI", "AI workforce banking", "WeBank AI", "Chinese bank digital transformation", "AI-ICBC trillion tokens", "banking AI deployment China", "financial AI agents"]',
   },
+  'china-ai-office-agent-war-context-not-models-2026': {
+    metaTitle: "Everyone Thinks China's AI Office War Will Be Won by the Smartest Model. The Data Says They're Wrong.",
+    metaDescription: "Tencent, Alibaba, and ByteDance have each bet a product line on the same thesis: that China's AI office race is a model competition. The usage data, retention curves, and a brutal spring of burned marketing cash tell a different story — this war will be decided by who owns the context, not who tops the benchmark.",
+    keywords: '["China AI office agents 2026", "Tencent WorkBuddy", "Doubao Work ByteDance", "Qwen Office Alibaba", "AI office war China", "WorkBuddy vs Doubao", "China enterprise AI agents", "Feishu Doubao integration", "DingTalk AI", "AI productivity China"]',
+  },
   'china-new-productive-forces-guidelines-ai-bubble-2026': {
     metaTitle: "Beijing Draws the Line: How China's New Productive Forces Guidelines Aim to Prevent an AI Bubble",
     metaDescription: "On October 9, 2026, Beijing issued its most consequential AI policy document yet — a comprehensive framework that promises full AI deployment across the economy while simultaneously vowing to crush the bubbles, blind investment, and policy abuse that have accompanied the boom. The message: build fast, but build right.",
