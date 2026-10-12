@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Generated: 2026-10-11T20:25:34.880Z -->
-  <!-- Total Posts: 249 -->
+  <!-- Generated: 2026-10-12T02:10:01.014Z -->
+  <!-- Total Posts: 250 -->
 
   <!-- Homepage -->
   <url>
     <loc>https://www.ainchina.com/</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -15,7 +15,7 @@
   <!-- Blog Index -->
   <url>
     <loc>https://www.ainchina.com/blog/</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -31,12 +31,18 @@
   <!-- HTML Sitemap -->
   <url>
     <loc>https://www.ainchina.com/sitemap/</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
 
   <!-- AI -->
+  <url>
+    <loc>https://www.ainchina.com/blog/china-ai-safety-disclosure-gap-857-models-2026/</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   <url>
     <loc>https://www.ainchina.com/blog/deepseek-moonshot-dual-ipo-race-china-ai-2026/</loc>
     <lastmod>2026-10-12</lastmod>
@@ -106,13 +112,13 @@
   <url>
     <loc>https://www.ainchina.com/blog/qwen-flash-next-local-frontier-consumer-hardware-2026/</loc>
     <lastmod>2026-10-05</lastmod>
-    <changefreq>daily</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.ainchina.com/blog/ulanqab-token-capital-china-ai-compute-westward-2026/</loc>
     <lastmod>2026-10-05</lastmod>
-    <changefreq>daily</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
@@ -736,7 +742,7 @@
   <url>
     <loc>https://www.ainchina.com/blog/huawei-mate-xt-2-logicfolding-tau-chip-computing-reset-2026/</loc>
     <lastmod>2026-09-12</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
@@ -956,7 +962,7 @@
   <url>
     <loc>https://www.ainchina.com/blog/china-ai-drama-revolution-30-billion-views-2026/</loc>
     <lastmod>2026-09-12</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
 

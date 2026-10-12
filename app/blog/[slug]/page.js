@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-safety-disclosure-gap-857-models-2026': {
+    metaTitle: "857 Models, 31 Safety Reports: China's AI Safety Paradox",
+    metaDescription: "A SemiAnalysis investigation reviewed every model release from China's nine leading AI labs between 2021 and September 2026 — 857 in total. Only 31 carried a published safety evaluation. Nine had one at launch. The country's regulatory apparatus is strictest in the world on AI content and loosest on frontier capability. The gap is not an oversight. It is a decision.",
+    keywords: '["China AI safety disclosure", "SemiAnalysis 857 models", "Chinese AI labs safety evaluation", "CAC AI regulation 2026", "AI Safety Governance Framework 3.0", "frontier AI China", "DeepSeek safety", "Zhipu AI safety", "China AI law shelved", "AI safety paradox China"]',
+  },
   'deepseek-moonshot-dual-ipo-race-china-ai-2026': {
     metaTitle: "The $120 Billion Dual IPO Race: DeepSeek vs Moonshot",
     metaDescription: "On the same October day, DeepSeek closed in on a ¥80–100 billion round and Moonshot AI finalized its last private round at $50 billion. Both are sprinting toward Q1 2027 listings — one in Shanghai, one in Hong Kong. The race between China's two most valuable AI startups is really a race between two capital pipelines, and the winner will define how Chinese AI gets funded for a decade.",
