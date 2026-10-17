@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-export-controls-sovereignty-perimeter-2026': {
+    metaTitle: "China Just Published Its First AI Export Controls. Everyone Is Reading Them Wrong.",
+    metaDescription: "On October 16, 2026, Beijing proposed export controls on 40 technologies — 23 of them in AI — and the world read it as retaliation for US chip sanctions. Read the thresholds in the actual document. The catalogue is not a weapon pointed at Washington. It is a perimeter drawn around China's own AI stack, with gates left deliberately open — and the most important sentence in it is the exemption for open source.",
+    keywords: '["China AI export controls 2026", "MOFCOM Announcement 48", "China prohibited restricted export technology catalogue", "AI export registration China", "China open source exemption export controls", "DeepSeek Qwen export", "AI sovereignty China", "US China AI decoupling", "compute cluster export controls", "World AI Cooperation Organization"]',
+  },
   'china-ai-safety-disclosure-gap-857-models-2026': {
     metaTitle: "857 Models, 31 Safety Reports: China's AI Safety Paradox",
     metaDescription: "A SemiAnalysis investigation reviewed every model release from China's nine leading AI labs between 2021 and September 2026 — 857 in total. Only 31 carried a published safety evaluation. Nine had one at launch. The country's regulatory apparatus is strictest in the world on AI content and loosest on frontier capability. The gap is not an oversight. It is a decision.",
