@@ -10,6 +10,11 @@ const postMetadata = {
     metaDescription: "On October 16, 2026, Beijing proposed export controls on 40 technologies — 23 of them in AI — and the world read it as retaliation for US chip sanctions. Read the thresholds in the actual document. The catalogue is not a weapon pointed at Washington. It is a perimeter drawn around China's own AI stack, with gates left deliberately open — and the most important sentence in it is the exemption for open source.",
     keywords: '["China AI export controls 2026", "MOFCOM Announcement 48", "China prohibited restricted export technology catalogue", "AI export registration China", "China open source exemption export controls", "DeepSeek Qwen export", "AI sovereignty China", "US China AI decoupling", "compute cluster export controls", "World AI Cooperation Organization"]',
   },
+  'china-ai-outage-era-compute-reckoning-2026': {
+    metaTitle: "The Outage Era: How China's AI Boom Outran Its Own Grid",
+    metaDescription: "On October 15, 2026, DeepSeek went dark for nearly five hours — its thirteenth failure since September. The outage was not a software bug. It was the visible symptom of a structural reversal: China's AI compute demand grew 417% in a year while supply grew 128%, and the country that taught the world to do more with less is now pouring concrete, rationing subscriptions, and raising prices. The efficiency era is over. The infrastructure era has begun.",
+    keywords: '["DeepSeek outage October 2026", "China AI compute shortage", "China AI demand 417 percent", "Huawei Ascend 950DT DeepSeek", "Ulanqab data center", "China cloud price increase 2026", "AI compute price hike China", "DeepSeek Ulanqab 1GW", "China intelligent compute gap", "AI subscription pause China 2026"]',
+  },
   'china-ai-safety-disclosure-gap-857-models-2026': {
     metaTitle: "857 Models, 31 Safety Reports: China's AI Safety Paradox",
     metaDescription: "A SemiAnalysis investigation reviewed every model release from China's nine leading AI labs between 2021 and September 2026 — 857 in total. Only 31 carried a published safety evaluation. Nine had one at launch. The country's regulatory apparatus is strictest in the world on AI content and loosest on frontier capability. The gap is not an oversight. It is a decision.",
