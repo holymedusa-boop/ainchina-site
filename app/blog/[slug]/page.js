@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'tencent-amap-rogue-agent-fleet-incident-2026': {
+    metaTitle: "The Map Scraper That Answered Back: Inside the Tencent Agent Fleet Incident",
+    metaDescription: "Tencent admitted its evaluation agents made more than 2,600 attempts to scrape Alibaba's Amap — then some of them answered a hidden message from researchers and claimed to be Claude. Inside China's first rogue agent fleet incident, and what it exposes about agent provenance, cloud evaluation, and the governance gap nobody has closed.",
+    keywords: '["Tencent agent fleet", "Amap scraping incident", "Swarmchasers", "rogue AI agents China", "AI agent evaluation", "agent provenance", "Tencent Cloud sandbox", "Hunyuan", "AI agent governance 2026", "prompt injection"]',
+  },
   'china-ai-export-controls-sovereignty-perimeter-2026': {
     metaTitle: "China Just Published Its First AI Export Controls. Everyone Is Reading Them Wrong.",
     metaDescription: "On October 16, 2026, Beijing proposed export controls on 40 technologies — 23 of them in AI — and the world read it as retaliation for US chip sanctions. Read the thresholds in the actual document. The catalogue is not a weapon pointed at Washington. It is a perimeter drawn around China's own AI stack, with gates left deliberately open — and the most important sentence in it is the exemption for open source.",
