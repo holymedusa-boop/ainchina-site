@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-flash-war-deepseek-minimax-2026': {
+    metaTitle: "China's Flash AI War: DeepSeek and MiniMax Rewrite the Economics of Intelligence",
+    metaDescription: "DeepSeek shipped V4.1 Flash 1017 — an MIT-licensed model scoring 45 on the Artificial Analysis Intelligence Index, matching GLM-5.3 and Qwen3.8-Max at a fraction of the price. Forty-eight hours later, MiniMax answered with M3.1 Flash: 3x faster inference, 70% cheaper, same 1M context. Inside the 48-hour flash war that is quietly collapsing the global price floor for frontier AI.",
+    keywords: '["DeepSeek V4.1 Flash 1017", "MiniMax M3.1 Flash", "China flash tier models", "AI price war 2026", "open weight AI models China", "Artificial Analysis Intelligence Index", "MIT license LLM", "China AI cost advantage", "DeepSeek vs MiniMax", "frontier AI pricing"]',
+  },
   'china-on-device-ai-moment-smartphone-agent-2026': {
     metaTitle: "The 27-Billion-Parameter Phone: China's On-Device AI Moment",
     metaDescription: "A hobbyist just ran Alibaba's 27-billion-parameter Qwen3.8 model on an iPhone 18 Neural Engine — offline, at usable speed. Beijing approved seven on-device AI services in one week, Apple finally shipped localized Apple Intelligence in China, and every major phone vendor is racing to build an agent that lives in your pocket instead of their data center. Why the most important AI infrastructure race of 2026 is happening in a device you already own.",
