@@ -4,7 +4,7 @@ slug: "huawei-atlas-950-superpod-china-ai-chip-independence-2026"
 date: "2026-08-01"
 excerpt: "At WAIC 2026, Huawei unveiled the Atlas 950 SuperPoD — an 8,192-chip system claiming 6.7x the compute of Nvidia's NVL144. With DeepSeek V4 running on Huawei silicon, ByteDance committing $5.6 billion, and Beijing declaring computing a national utility, China's AI hardware decoupling has reached its tipping point."
 author: "AI in China Editorial"
-readTime: "16 min"
+readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200"
 category: "Semiconductor & Infrastructure"
 tags:

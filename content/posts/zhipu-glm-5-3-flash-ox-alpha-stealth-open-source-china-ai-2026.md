@@ -4,7 +4,7 @@ date: "2026-09-10"
 slug: "zhipu-glm-5-3-flash-ox-alpha-stealth-open-source-china-ai-2026"
 excerpt: "On August 20, 2026, an anonymous model called Ox Alpha appeared on OpenRouter. Six days later, it had topped the global charts. On August 26, Zhipu AI revealed its true identity: GLM-5.3-Flash, a 320B-parameter multimodal model priced at one-fortieth of Claude Opus 4.8, scoring 57 on the AA Intelligence Index, and running entirely on domestic Chinese chips. The story of how a nameless endpoint shook the global developer community — and what it reveals about China's emerging dominance in both capability and cost."
 author: "AI in China Editorial"
-readTime: "16 min"
+readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&q=80"
 category: "AI Business"
 tags:

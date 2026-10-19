@@ -4,7 +4,7 @@ slug: "china-ai-asean-deployment-playbook-southeast-asia-2026"
 date: "2026-09-19"
 excerpt: "While Washington debates chip export controls and Silicon Valley obsesses over benchmark scores, China's AI is already running in Southeast Asian rice paddies, livestream studios, and solar farms. The 23rd China-ASEAN Expo just revealed how deep the deployment playbook goes."
 author: "AI in China Editorial"
-readTime: "15 min"
+readTime: "15 min read"
 heroImage: "https://images.unsplash.com/photo-1520869562399-e772f042f422?w=1200"
 category: "Global AI Competition"
 tags:

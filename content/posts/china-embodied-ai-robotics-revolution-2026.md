@@ -4,7 +4,7 @@ slug: "china-embodied-ai-robotics-revolution-2026"
 date: "2026-08-22"
 excerpt: "While Silicon Valley obsesses over chatbots, China is building an army of thinking machines that can walk, drive, and manipulate the physical world. From DeepSeek's robotics debut to Unitree's $9 billion IPO, embodied AI has become China's most consequential AI frontier."
 author: "AI in China Editorial"
-readTime: "17 min"
+readTime: "17 min read"
 heroImage: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200"
 category: "AI Robotics"
 tags:

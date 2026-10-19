@@ -5,7 +5,7 @@ slug: "us-china-ai-summit-open-source-reckoning-2026"
 date: "2026-09-24"
 excerpt: "On September 24, 2026, the US and Chinese presidents sit down in Washington with an AI safety dialogue on the agenda — the endpoint of a diplomatic process that began in May. But the table they sit at was built by eighteen months of escalation: export controls, distillation accusations, and an open-source counterattack that quietly moved eight of the world's ten most-used AI models to Chinese laboratories."
 author: "AI in China Editorial"
-readTime: "15 min"
+readTime: "15 min read"
 heroImage: "https://images.unsplash.com/photo-1541872703-74c5e44368f9?w=1200"
 category: "AI Geopolitics"
 tags:

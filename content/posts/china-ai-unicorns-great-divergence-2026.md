@@ -5,7 +5,7 @@ keywords: ["China AI unicorns", "Zhipu AI IPO", "MiniMax Hong Kong listing", "De
 author: "AI in China"
 date: "2026-09-10"
 category: "AI"
-readTime: '16 min read'
+readTime: "16 min read"
 featured: true
 heroImage: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&h=600&fit=crop"
 excerpt: "China's AI unicorns are splitting apart. In 2026, the 'Six Little Dragons' took six different paths—IPOs, pivots, massive funding rounds, and quiet disappearances. The divergence says more about China's AI future than any single model release."

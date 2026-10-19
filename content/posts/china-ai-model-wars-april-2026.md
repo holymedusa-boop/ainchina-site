@@ -3,7 +3,7 @@ title: "China's AI Model Wars: How Alibaba, ByteDance, and MiniMax Are Reshaping
 slug: "china-ai-model-wars-april-2026"
 date: "2026-04-11"
 category: "AI Trends"
-readTime: '13 min read'
+readTime: "13 min read"
 excerpt: "China's AI Model Wars: How Alibaba, ByteDance, and MiniMax Are Reshaping Global AI Competition in April 2026 The most intense week in Chinese AI..."
 keywords: ["Chinese AI", "ByteDance", "Alibaba", "Moonshot AI", "Kimi", "MiniMax", "Llama", "API", "CES"]
 related: [

@@ -4,7 +4,7 @@ slug: "china-humanoid-robots-military-combat-readiness-2026"
 date: "2026-09-18"
 excerpt: "A Reuters investigation of 100+ Chinese military procurement records reveals the PLA is systematically preparing humanoid robots for combat. China manufactures 95% of the world's humanoids. The dual-use convergence is no longer theoretical — it is happening on a schedule."
 author: "AI in China Editorial"
-readTime: "15 min"
+readTime: "15 min read"
 heroImage: "https://images.unsplash.com/photo-1589254065878-42c9da997008?w=1200"
 category: "Embodied AI & Robotics"
 tags:

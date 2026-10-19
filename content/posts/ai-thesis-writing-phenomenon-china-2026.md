@@ -4,7 +4,7 @@ title: "The AI Thesis Writing Phenomenon: How Chinese Students Are Redefining Ac
 description: "China's AI thesis writing boom: 3.2 billion views, 1.25 million posts, and 85% weekly growth. Inside how millions of students use Kimi, ChatGPT, and Claude to write graduation papers—and the universities fighting back."
 date: "2026-06-08"
 author: "AI in China Research Team"
-readTime: "16 min"
+readTime: "16 min read"
 image: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=1200&q=80"
 keywords: ["AI thesis writing", "China AI education", "Kimi AI", "ChatGPT", "Claude", "academic integrity", "Chinese graduates", "AI detection", "thesis generation", "generative AI education"]
 excerpt: "China's 12 million graduates are facing an existential question: write their thesis themselves, or let AI do it? The answer is reshaping academia. China's..."

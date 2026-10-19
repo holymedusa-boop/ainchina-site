@@ -4,7 +4,7 @@ slug: "tencent-wechat-ai-agent-1-billion-user-platform-shift-2026"
 date: "2026-09-09"
 excerpt: "While ByteDance and Alibaba raced to build standalone AI apps, Tencent quietly prepared the most consequential consumer AI launch in history: an agent inside WeChat that serves 1.4 billion users. The standalone chatbot era may be ending before it truly began."
 author: "AI in China Editorial"
-readTime: "15 min"
+readTime: "15 min read"
 heroImage: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200"
 category: "Consumer AI & Platforms"
 tags:

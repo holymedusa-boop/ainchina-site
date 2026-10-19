@@ -4,7 +4,7 @@ slug: "china-ai-open-source-captured-american-developers-2026"
 date: "2026-08-05"
 excerpt: "In July 2026, Mozilla's CTO switched to Kimi K3. Coinbase moved workloads to DeepSeek. The top five models on OpenRouter were Chinese. After years of US dominance, a quiet revolution is underway — and it's being built on open weights, radical affordability, and engineering excellence."
 author: "AI in China Editorial"
-readTime: "16 min"
+readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1200"
 category: "Global AI Competition"
 tags:

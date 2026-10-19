@@ -5,7 +5,7 @@ slug: "agentic-cloud-war-huawei-alibaba-china-ai-agents-2026"
 date: "2026-09-25"
 excerpt: "Between September 18 and September 24, 2026, Huawei and Alibaba each stood on a stage and declared that the cloud itself must be rebuilt around AI agents. Huawei Cloud opened an agentic stack spanning silicon, openEuler, and 6,000 MCP assets; Alibaba Cloud answered with AgentCore, a Context Engine, and storage that claims 100 terabytes per second. Two companies, one week, one question: who writes the operating system for China's agent economy?"
 author: "AI in China Editorial"
-readTime: "15 min"
+readTime: "15 min read"
 heroImage: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200"
 category: "AI Infrastructure"
 tags:

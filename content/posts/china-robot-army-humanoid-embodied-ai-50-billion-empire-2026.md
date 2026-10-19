@@ -4,7 +4,7 @@ slug: "china-robot-army-humanoid-embodied-ai-50-billion-empire-2026"
 date: "2026-09-06"
 excerpt: "Inside China's humanoid robot frenzy: 200+ companies, $30 billion in Q1 funding, and the race to deploy millions of robots in factories before the bubble bursts."
 keywords: ["China humanoid robot", "embodied AI", "robotics startup", "Galaxy General", "Agibot", "UBTECH", "Xiaomi robot", "AI factory automation", "China robotics IPO", " embodied intelligence"]
-readTime: "16 min"
+readTime: "16 min read"
 category: "AI & Robotics"
 heroImage: "photo-1485827404703-89b55fcc595e"
 author: "AI in China"

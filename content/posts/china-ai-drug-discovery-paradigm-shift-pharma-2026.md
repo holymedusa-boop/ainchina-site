@@ -5,7 +5,7 @@ slug: "china-ai-drug-discovery-paradigm-shift-pharma-2026"
 date: "2026-09-24"
 excerpt: "On September 18, 2026, ten Chinese ministries issued the country's first national pharmaceutical plan naming AI drug discovery a 'high-value application scenario.' Within days, AI pharma stocks surged 30%+, Insilico Medicine turned profitable, and XtalPi signed with Stanford. The ten-year, $2.6 billion drug development rule is being rewritten — and the epicenter is China."
 author: "AI in China Editorial"
-readTime: "16 min"
+readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=1200"
 category: "AI Industry"
 tags:

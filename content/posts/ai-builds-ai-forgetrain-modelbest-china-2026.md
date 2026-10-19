@@ -4,7 +4,7 @@ title: "AI Builds AI: How a Chinese Lab Taught Artificial Intelligence to Write 
 category: "AI Technology"
 excerpt: "ModelBest's ForgeTrain is the world's first production-grade LLM pre-training framework written entirely by AI. It trains models 10% faster than NVIDIA's Megatron-LM on identical H100 hardware, runs on both NVIDIA and Huawei Ascend chips, and trained MiniCPM5-1B — the world's top-ranked sub-2B parameter model."
 date: 2026-06-13
-readTime: 18 min read
+readTime: "18 min read"
 image: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1200"
 keywords: ["AI builds AI", "ForgeTrain", "ModelBest", "MiniCPM5-1B", "AI-generated code", "NVIDIA Megatron", "Huawei Ascend", "AI training framework", "Tsinghua University", "OpenBMB", "distributed training", "AI self-improvement", "China AI"]
 related: [

@@ -3,7 +3,7 @@ title: "Beijing Draws the Line: How China's New Productive Forces Guidelines Aim
 date: "2026-10-10"
 excerpt: "On October 9, 2026, Beijing issued its most consequential AI policy document yet — a comprehensive framework that promises full AI deployment across the economy while simultaneously vowing to crush the bubbles, blind investment, and policy abuse that have accompanied the boom. The message: build fast, but build right."
 author: "AI in China Editorial"
-readTime: 15
+readTime: "15 min read"
 tags: ["China AI Policy", "New Productive Forces", "AI Regulation", "Tech Bubble", "AI Safety", "NDRC", "Industrial Policy", "AI Plus"]
 image: "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?w=1200&h=600&fit=crop"
 keywords: ["China new productive forces guidelines", "AI bubble China", "China AI regulation 2026", "new quality productive forces AI", "China AI safety monitoring", "tech bubble prevention China", "AI Plus action plan", "China industrial policy AI", "blind investment AI China", "Beijing AI governance"]

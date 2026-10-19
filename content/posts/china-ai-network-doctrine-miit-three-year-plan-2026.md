@@ -4,7 +4,7 @@ title: "China's AI Network Doctrine: How the 2026-2028 Plan Is Wiring Intelligen
 category: "AI Policy"
 excerpt: "China's MIIT just released a three-year implementation plan to integrate AI with information and communications networks. With 75% compute latency targets, 30+ high-value use cases, and autonomous network goals by 2028, this is not just policy—it is infrastructure-as-strategy."
 date: 2026-06-13
-readTime: 16 min read
+readTime: "16 min read"
 image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200"
 keywords: ["China AI policy", "MIIT", "AI communications networks", "autonomous networks", "AI infrastructure", "China 2026-2028 AI plan", "compute latency", "intelligent agents", "5G AI", "digital infrastructure"]
 related: [

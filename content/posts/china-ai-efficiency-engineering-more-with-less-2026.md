@@ -14,7 +14,7 @@ related: [
   "/blog/suiyuan-ipo-china-ai-chip-four-dragons-capital-market-2026/"
 ]
 category: "AI Technology"
-readTime: "15 min"
+readTime: "15 min read"
 wordCount: 3230
 ---
 

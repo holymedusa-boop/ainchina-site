@@ -3,7 +3,7 @@ title: "The Outage Era: How China's AI Boom Outran Its Own Grid"
 date: "2026-10-18"
 excerpt: "On October 15, 2026, DeepSeek went dark for nearly five hours — its thirteenth failure since September. The outage was not a software bug. It was the visible symptom of a structural reversal: China's AI compute demand grew 417% in a year while supply grew 128%, and the country that taught the world to do more with less is now pouring concrete, rationing subscriptions, and raising prices. The efficiency era is over. The infrastructure era has begun."
 author: "AI in China Editorial"
-readTime: 16
+readTime: "16 min read"
 tags: ["China AI Infrastructure", "DeepSeek Outage", "AI Compute Crunch", "Huawei Ascend 950DT", "Ulanqab", "AI Price Hikes", "Data Centers", "Token Economy", "China AI 2026", "Compute Sovereignty"]
 image: "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=1200&h=600&fit=crop"
 keywords: ["DeepSeek outage October 2026", "China AI compute shortage", "China AI demand 417 percent", "Huawei Ascend 950DT DeepSeek", "Ulanqab data center", "China cloud price increase 2026", "AI compute price hike China", "DeepSeek Ulanqab 1GW", "China intelligent compute gap", "AI subscription pause China 2026"]

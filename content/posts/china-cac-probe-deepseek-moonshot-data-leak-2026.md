@@ -5,7 +5,7 @@ slug: "china-cac-probe-deepseek-moonshot-data-leak-2026"
 date: "2026-09-26"
 excerpt: "On September 9, Beijing publicly dismissed American accusations of industrial-scale AI distillation as groundless. Twelve days later, its own internet regulator had summoned every company named in Anthropic's report — and opened a formal investigation into DeepSeek and Moonshot AI. The complaint had flipped direction: Washington's grievance was that Chinese labs took Claude's capabilities. Beijing's grievance is what traveled the other way. Inside the probe that turned a US-China AI dispute into a domestic Chinese reckoning."
 author: "AI in China Editorial"
-readTime: "15 min"
+readTime: "15 min read"
 heroImage: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=1200"
 category: "AI Policy"
 tags:

@@ -4,7 +4,7 @@ metaTitle: "China 700 Million AI Users: The Four-Year Adoption Story"
 slug: "china-ai-700-million-users-mainstream-tipping-point-2026"
 date: "2026-10-01"
 excerpt: "China's generative AI users crossed 700 million in the first half of 2026, meaning more than half the country now uses AI tools. Here's the complete timeline of how the world's fastest adoption curve unfolded — and what it signals for the global AI race."
-readTime: "16 min"
+readTime: "16 min read"
 category: "AI Ecosystem"
 tags: ["ai adoption", "cnnic report", "generative ai users", "china ai ecosystem", "deepseek", "digital china", "ai infrastructure"]
 image: "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1200&h=675&fit=crop"

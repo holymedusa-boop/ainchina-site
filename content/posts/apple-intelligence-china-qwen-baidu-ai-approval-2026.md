@@ -5,7 +5,7 @@ slug: "apple-intelligence-china-qwen-baidu-ai-approval-2026"
 date: "2026-07-23"
 excerpt: "After two years of regulatory limbo, Apple Intelligence finally won approval in China through an unprecedented partnership with Alibaba's Qwen and Baidu. Here's what it means for the global AI order."
 author: "AI in China Editorial"
-readTime: "16 min"
+readTime: "16 min read"
 tags: ["Apple Intelligence", "Alibaba", "Qwen", "Baidu", "China AI Regulation", "Smartphone AI", "CAC", "iPhone China"]
 keywords: "Apple Intelligence China, Alibaba Qwen Apple, Baidu Apple partnership, China AI regulation, CAC approval Apple AI, iPhone AI China, smartphone AI market"
 heroImage: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1200&h=600&fit=crop"

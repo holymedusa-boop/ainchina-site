@@ -3,7 +3,7 @@ title: "Alibaba's $100B Token Gambit: Inside the Alibaba Token Hub Revolution Re
 slug: "alibaba-token-hub-100b-gambit"
 date: "2026-04-16"
 category: "AI Trends"
-readTime: "17 min"
+readTime: "17 min read"
 excerpt: "On March 16, 2026, Alibaba did something unprecedented in corporate history: it named a core business unit after a technical metric. The Alibaba Token Hub..."
 keywords: ["large language model", "LLM", "AI agent", "Alibaba", "NVIDIA", "GPU", "GPT", "Gemini", "API", "cloud computing"]
 related: [

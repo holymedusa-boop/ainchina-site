@@ -4,7 +4,7 @@ slug: "nvidia-china-surrender-deepseek-huawei-ascend-tipping-point-2026"
 date: "2026-09-07"
 excerpt: "DeepSeek just ordered 160,000 Huawei Ascend chips worth $2.56 billion. Nvidia, which once owned 95% of China's AI chip market, is now reportedly treating China as a 'lost cause.' This is the story of how a Hangzhou startup and a Shenzhen hardware giant ended an era."
 author: "AI in China Editorial"
-readTime: "16 min"
+readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1639322537228-f710d846310a?w=1200"
 category: "Semiconductor & Infrastructure"
 tags:

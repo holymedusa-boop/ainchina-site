@@ -6,7 +6,7 @@ image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
 date: "2026-06-22"
 excerpt: "Huawei's AI chip revenue is projected to hit $12 billion in 2026 — a 60% surge driven by Alibaba, ByteDance, Tencent, and Baidu shifting from NVIDIA to domestic silicon. As DeepSeek trains on Ascend, ByteDance plans 350,000 custom chips, and Chinese models close within 5 points of the American frontier, the global AI infrastructure map is splitting in two."
 keywords: ["Huawei Ascend", "AI chip", "NVIDIA export ban", "China semiconductor", "ByteDance AI chip", "Alibaba Qwen", "DeepSeek Huawei", "AI infrastructure bifurcation", "Ascend 910C", "CANN vs CUDA", "China AI sovereignty", "US chip sanctions", "Samsung foundry", "AI compute", "domestic substitution"]
-readTime: '21 min read'
+readTime: "21 min read"
 category: "AI Technology"
 related: [
   "/blog/huawei-pangu-ultra-moe-718b-chinese-silicon/",

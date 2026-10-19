@@ -3,7 +3,7 @@ title: "Everyone Thinks China's AI Office War Will Be Won by the Smartest Model.
 date: "2026-10-11"
 excerpt: "Tencent, Alibaba, and ByteDance have each bet a product line on the same thesis: that China's AI office race is a model competition. The usage data, retention curves, and a brutal spring of burned marketing cash tell a different story — this war will be decided by who owns the context, not who tops the benchmark."
 author: "AI in China Editorial"
-readTime: 15
+readTime: "15 min read"
 tags: ["China AI Office", "Tencent WorkBuddy", "Doubao Work", "Qwen Office", "AI Agents", "Enterprise AI", "ByteDance", "Alibaba", "AI Productivity", "China Tech"]
 image: "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=1200&h=600&fit=crop"
 keywords: ["China AI office agents 2026", "Tencent WorkBuddy", "Doubao Work ByteDance", "Qwen Office Alibaba", "AI office war China", "WorkBuddy vs Doubao", "China enterprise AI agents", "Feishu Doubao integration", "DingTalk AI", "AI productivity China"]

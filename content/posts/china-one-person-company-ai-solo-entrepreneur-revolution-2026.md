@@ -5,7 +5,7 @@ date: "2026-10-02"
 author: "Meeeeed"
 tags: ["One Person Company", "OPC", "AI entrepreneurship", "China AI", "OpenClaw", "AI agents", "solo founder", "Shenzhen", "startup ecosystem", "super individual", "AI-native business", "government subsidies"]
 image: "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=1200&h=600&fit=crop"
-readTime: '16 min read'
+readTime: "16 min read"
 category: "AI Industry"
 excerpt: "12 million Chinese entrepreneurs now run one-person companies powered by AI agent armies. Cities are competing with million-yuan subsidies to attract them. The OPC revolution is moving faster than any startup trend in history — and it is reshaping what a 'company' even means."
 keywords: ["One Person Company", "OPC China", "AI entrepreneurship", "OpenClaw", "AI agents 2026", "solo founder", "China AI policy", "Shenzhen startup", "super individual", "AI-native business", "digital employees", "China startup ecosystem"]

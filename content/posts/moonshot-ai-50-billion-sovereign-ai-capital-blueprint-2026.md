@@ -3,7 +3,7 @@ title: "The $50 Billion Blueprint: How Moonshot AI Is Building Sovereign AI Capi
 date: "2026-10-10"
 excerpt: "On October 6, 2026, Moonshot AI closed its final private round at a $50 billion valuation and set its sights on a Hong Kong IPO in early 2027. But the real story isn't the number — it's the architecture. By forcing Moonshot to unwind its offshore VIE structure, Beijing has created a new template for how China's most sensitive AI companies access public markets: fully sovereign, fully controlled, and increasingly beyond Washington's reach."
 author: "AI in China Editorial"
-readTime: 15
+readTime: "15 min read"
 tags: ["Moonshot AI", "Kimi K3", "Hong Kong IPO", "Sovereign AI Capital", "China AI", "CSRC", "VIE Structure", "AI Valuation", "Frontier AI", "Capital Markets"]
 image: "https://images.unsplash.com/photo-1536599018102-9f803c140fc1?w=1200&h=600&fit=crop"
 keywords: ["Moonshot AI IPO", "Moonshot AI $50 billion valuation", "sovereign AI capital China", "Hong Kong AI IPO 2027", "Kimi K3 revenue", "CSRC VIE unwinding", "China AI capital markets", "Moonshot AI ARR", "Beijing AI regulation", "China frontier AI"]

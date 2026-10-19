@@ -3,7 +3,7 @@ title: "The 8,000 Ghost Employees: How China's Banks Quietly Built an AI Workfor
 date: "2026-10-11"
 excerpt: "While the world watches China's AI labs race to build frontier models, the country's banking system has been running the largest real-world deployment of enterprise AI on Earth. ICBC alone now consumes over 10 billion AI tokens daily — nearly 100 times its 2024 level. The numbers reveal a transformation hiding in plain sight."
 author: "AI in China Editorial"
-readTime: 16
+readTime: "16 min read"
 tags: ["China AI Banking", "ICBC", "China Merchants Bank", "AI Agents", "Fintech", "Digital Workforce", "AI Transformation", "Chinese Banks"]
 image: "https://images.unsplash.com/photo-1605792657660-596af9009e82?w=1200&h=600&fit=crop"
 keywords: ["China AI banking 2026", "ICBC AI transformation", "bank AI agents China", "China Merchants Bank AI", "AI workforce banking", "WeBank AI", "Chinese bank digital transformation", "AI-ICBC trillion tokens", "banking AI deployment China", "financial AI agents"]

@@ -5,7 +5,7 @@ slug: "china-us-ai-safety-channel-too-late-summit-2026"
 date: "2026-09-28"
 excerpt: "At the September 2026 Xi-Trump summit, Washington and Beijing announced a historic AI safety channel, $30 billion in tariff cuts, and a military crisis communications MOU. The world called it a breakthrough. It isn't. The channel is an admission that both governments have already lost control of the AI race — to their own labs, to open-source ecosystems they can't regulate, and to a pace of capability development that no bilateral dialogue can contain."
 author: "AI in China Editorial"
-readTime: "16 min"
+readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1200"
 category: "AI Policy"
 tags:

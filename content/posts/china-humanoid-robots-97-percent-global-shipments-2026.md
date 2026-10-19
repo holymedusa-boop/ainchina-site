@@ -5,7 +5,7 @@ date: "2026-10-03"
 author: "Meeeeed"
 tags: ["humanoid robots", "AgiBot", "Unitree", "China robotics", "embodied AI", "World Humanoid Robot Games", "smart manufacturing", "physical AI", "robotics supply chain", "China manufacturing"]
 image: "https://images.unsplash.com/photo-1546776310-eef45dd6d63c?w=1200&h=600&fit=crop"
-readTime: '16 min read'
+readTime: "16 min read"
 category: "AI Industry"
 excerpt: "The first half of 2026 changed humanoid robotics forever. China shipped 97% of all units sold globally, AgiBot dethroned Unitree as the volume king, and a single IPO turned a Hangzhou startup into a $61 billion company. Tracing the three-year arc from laboratory curiosity to industrial juggernaut."
 keywords: ["humanoid robots 2026", "AgiBot Unitree", "China robotics dominance", "embodied AI China", "World Humanoid Robot Games", "humanoid robot shipments", "physical AI", "China manufacturing 2026", "robotics supply chain", "Unitree IPO"]

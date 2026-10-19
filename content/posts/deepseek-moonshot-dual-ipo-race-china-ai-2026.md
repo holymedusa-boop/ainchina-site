@@ -3,7 +3,7 @@ title: "The $120 Billion Dual IPO Race: DeepSeek vs Moonshot"
 date: "2026-10-12"
 excerpt: "On the same October day, DeepSeek closed in on a ¥80–100 billion round and Moonshot AI finalized its last private round at $50 billion. Both are sprinting toward Q1 2027 listings — one in Shanghai, one in Hong Kong. The race between China's two most valuable AI startups is really a race between two capital pipelines, and the winner will define how Chinese AI gets funded for a decade."
 author: "AI in China Editorial"
-readTime: 16
+readTime: "16 min read"
 tags: ["DeepSeek", "Moonshot AI", "China AI IPO", "STAR Market", "Hong Kong IPO", "Tencent", "CATL", "AI Funding", "China Tech", "Kimi K3"]
 image: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1200&h=600&fit=crop"
 keywords: ["DeepSeek IPO 2027", "Moonshot AI IPO Hong Kong", "China AI funding 2026", "DeepSeek 80 billion yuan funding", "STAR Market AI listing", "Tencent CATL DeepSeek", "Kimi K3 ARR", "China AI capital markets", "DeepSeek valuation 500 billion yuan", "Moonshot $50 billion valuation"]

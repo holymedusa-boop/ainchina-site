@@ -5,7 +5,7 @@ date: "2026-08-06"
 excerpt: "China commands 78% of the global humanoid robot market, with 22 unicorns and $13.8B in 2026 funding. The real story isn't hardware—it's an ecosystem Silicon Valley can't replicate."
 category: "Embodied AI"
 author: "AI in China Editorial"
-readTime: "16 min"
+readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?w=1200&h=600&fit=crop"
 keywords: ["embodied AI", "humanoid robots", "China robotics", "Shenzhen", "Unitree", "AgiBot", "Galbot", "physical AI", "robot manufacturing", "China tech"]
 ---

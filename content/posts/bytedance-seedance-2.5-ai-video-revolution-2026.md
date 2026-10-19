@@ -4,7 +4,7 @@ slug: "bytedance-seedance-2.5-ai-video-revolution-2026"
 date: "2026-08-08"
 excerpt: "ByteDance's Seedance 2.5 delivers native 4K video, 30-second single-generation clips, and 50 simultaneous reference inputs. Launched in July 2026, it represents not merely a product upgrade but a declaration that China intends to own the creative AI layer — from TikTok's billion users to Hollywood's post-production pipelines."
 author: "AI in China Editorial"
-readTime: "17 min"
+readTime: "17 min read"
 heroImage: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&q=80"
 category: "AI Video & Creative"
 tags:

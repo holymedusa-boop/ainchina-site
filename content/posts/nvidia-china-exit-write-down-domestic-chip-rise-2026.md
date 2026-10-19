@@ -3,7 +3,7 @@ title: "The Day Nvidia Wrote Down China: How Beijing Built a Chip Empire Out of 
 date: "2026-10-09"
 excerpt: "Nvidia took a $400 million write-down on unsold H200 chips and guided to zero China data center revenue. Meanwhile, domestic Chinese AI chips captured 52.3% of the home market for the first time. The sanctions didn't cripple China's AI ambitions — they catalyzed them."
 author: "AI in China Editorial"
-readTime: 16
+readTime: "16 min read"
 tags: ["Nvidia", "Huawei", "AI Chips", "Export Controls", "Cambricon", "Semiconductors", "China Tech"]
 image: "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=1200&h=600&fit=crop"
 keywords: ["Nvidia China revenue zero", "Huawei Ascend 950", "China domestic AI chips", "Cambricon market cap", "AI chip sanctions", "China compute sovereignty", "H200 write-down", "Ascend SuperPod"]

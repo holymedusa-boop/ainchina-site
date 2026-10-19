@@ -9,7 +9,7 @@ tags: ["Kimi", "DeepSeek", "Moonshot AI", "MiniMax", "Zhipu AI", "InfiniGence AI
 keywords: ["Kimi AI", "DeepSeek valuation", "Moonshot AI funding", "Chinese open source AI", "AI arms race", "China AI investment", "AI infrastructure", "token economy", "Cursor AI", "Alibaba AI", "China tech funding"]
 excerpt: "In seven days, Chinese AI companies raised more capital than the entire European AI sector raised in 2025. They did it while simultaneously releasing models that collectively hold the top five positions on global open-source leaderboards. This is not a funding cycle. This is an arms race with a product launch attached."
 image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200"
-readTime: '22 min read'
+readTime: "22 min read"
 related: [
   "/blog/china-ai-invisible-empire-consumer-apps-2026/",
   "/blog/kimi-20-billion-valuation-china-ai-token-economy/",

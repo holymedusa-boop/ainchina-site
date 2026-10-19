@@ -5,7 +5,7 @@ slug: "alibaba-zhenwu-v900-chip-nvidia-china-ai-silicon-2026"
 date: "2026-09-25"
 excerpt: "On September 22, 2026, Alibaba CEO Eddie Wu stood on stage in Hangzhou and made three announcements that together form the most aggressive AI infrastructure bet outside the United States: a chip he called China's most powerful, a model roadmap targeting 10 trillion parameters, and a plan to build 20 gigawatts of data center capacity by 2032. We spent the week pulling apart every claim."
 author: "AI in China Editorial"
-readTime: "16 min"
+readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200"
 category: "AI Infrastructure"
 tags:

@@ -4,7 +4,7 @@ slug: "china-ai-token-price-war-end-pricing-reset-2026"
 date: "2026-08-22"
 excerpt: "DeepSeek's August 17 peak-valley pricing implementation marked the formal end of China's two-year AI token price war. With Zhipu, Moonshot, Tencent, and cloud providers all raising prices, the industry is entering a sustainable pricing era that mirrors global software economics."
 author: "AI in China Editorial"
-readTime: "16 min"
+readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80"
 category: "AI Business"
 tags:

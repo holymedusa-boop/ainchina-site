@@ -6,7 +6,7 @@ date: "2026-05-13"
 author: "Meeeeed"
 tags: ["Doubao", "MiniMax", "ByteDance", "consumer AI", "China AI apps", "AI digital human", "token economy", "AI globalization", "Xiaohongshu", "AI adoption"]
 image: "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=1200&h=600&fit=crop"
-readTime: '22 min read'
+readTime: "22 min read"
 category: "AI Business"
 excerpt: "The Invisible Empire: How China's AI Consumer Apps Quietly Conquered 2.5 Billion Users — And Why the World Barely Noticed While Silicon Valley obsessed..."
 keywords: ["Chinese AI", "Shanghai", "ByteDance", "Doubao", "Alibaba", "Tongyi Qianwen", "Baidu", "Wenxin Yiyan", "Moonshot AI", "Kimi"]

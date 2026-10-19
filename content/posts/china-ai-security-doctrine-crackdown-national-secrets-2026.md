@@ -5,7 +5,7 @@ slug: "china-ai-security-doctrine-crackdown-national-secrets-2026"
 date: "2026-09-23"
 excerpt: "In September 2026, China's spy chief published a six-point manifesto on AI threats, regulators named 30 apps for data violations, and travel curbs tightened on AI researchers. The conventional wisdom says regulation kills innovation. China's numbers tell the opposite story — and the West is misreading the playbook."
 author: "AI in China Editorial"
-readTime: "16 min"
+readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200"
 category: "AI Policy & Security"
 tags:

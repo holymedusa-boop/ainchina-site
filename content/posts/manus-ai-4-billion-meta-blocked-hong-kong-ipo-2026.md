@@ -5,7 +5,7 @@ slug: "manus-ai-4-billion-meta-blocked-hong-kong-ipo-2026"
 date: "2026-09-27"
 excerpt: "In December 2025, Meta agreed to buy Manus — China's viral general-purpose AI agent — for more than $2 billion. Four months later, Beijing blocked the deal, grounded the founders, and forced the company to buy itself back. Now Manus is raising $500 million at a $4 billion valuation, with Tencent poised to become its largest shareholder and a Hong Kong IPO in its sights. It is the strangest corporate rebirth in the history of AI."
 author: "AI in China Editorial"
-readTime: "15 min"
+readTime: "15 min read"
 heroImage: "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=1200"
 category: "AI Industry"
 tags:

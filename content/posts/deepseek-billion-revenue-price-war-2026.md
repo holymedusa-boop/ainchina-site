@@ -5,7 +5,7 @@ slug: "deepseek-billion-revenue-price-war-2026"
 date: "2026-09-26"
 excerpt: "On August 16, 2026, DeepSeek raised its API prices between 2.3 and 4.5 times — the boldest pricing move in the history of the AI industry. Forty days later, CEO Liang Wenfeng told investors the gamble had worked: annualized revenue had crossed $1 billion, gross margins had hit 82.9%, and not a single major customer had walked. The company that taught the world that AI could be cheap has just proven it can be profitable too. Here is how the price war ended, and what comes next."
 author: "AI in China Editorial"
-readTime: "16 min"
+readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200"
 category: "AI Industry"
 tags:

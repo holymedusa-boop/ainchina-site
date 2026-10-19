@@ -4,7 +4,7 @@ slug: "china-open-source-ai-empire-brics-frontier-gap-2026"
 date: "2026-09-20"
 excerpt: "Mozilla's latest report puts China's best open-weight models just 4.4 months behind America's closed frontier. Tencent, Alibaba, Moonshot, and Shanghai AI Lab are flooding the world with frontier-class free models. And at the BRICS summit, Xi Jinping just made open-source AI official state policy. The race is no longer about who builds the smartest model. It's about who gives it away fastest."
 author: "AI in China Editorial"
-readTime: "16 min"
+readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1200"
 category: "Global AI Competition"
 tags:

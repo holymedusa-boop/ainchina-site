@@ -2,7 +2,7 @@
 title: "The Open-Source Trap: How China's AI Strategy Is Making Closed Models Obsolete"
 description: "Kimi K3 and Qwen 3.8-Max signal a paradigm shift: China isn't copying American AI—it's weaponizing openness to dismantle the closed-source business model."
 date: '2026-08-23'
-readTime: '15 min read'
+readTime: "15 min read"
 heroImage: 'https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200'
 author: 'AI in China Editorial'
 category: 'Industry'

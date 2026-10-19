@@ -5,7 +5,7 @@ slug: "deepseek-dsec-agent-sandbox-infrastructure-3-million-daily-2026"
 date: "2026-09-28"
 excerpt: "On September 19, 2026, DeepSeek published a 31-page systems paper signed by founder Liang Wenfeng. It was not about a new model. It was about DSec — the production sandbox platform that runs 3 million isolated computing environments per day, sustains 380,000 concurrent sandboxes, and has powered every RL training run from V3.2 to V4.1. It is the first systematic look at the infrastructure layer that will decide who wins the agent race — and almost nobody outside systems engineering has noticed."
 author: "AI in China Editorial"
-readTime: "16 min"
+readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200"
 category: "AI Infrastructure"
 tags:

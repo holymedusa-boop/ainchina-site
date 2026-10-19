@@ -131,7 +131,10 @@ function generatePostsMeta(posts) {
     const category = p.category || 'AI'
     const excerpt = p.excerpt || ''
     const date = normalizeDate(p.date || '2026-01-01')
-    const readTime = p.readTime || '16 min read'
+    // Normalize readTime: values come in as 16 | "16 min" | '16 min read' etc.
+    // Display is raw {post.readTime}, so always emit canonical "N min read".
+    const rtMatch = String(p.readTime || '').match(/(\d+)/)
+    const readTime = rtMatch ? `${rtMatch[1]} min read` : '16 min read'
     const image = p.image || ''
     return `  {
     slug: '${slug}',

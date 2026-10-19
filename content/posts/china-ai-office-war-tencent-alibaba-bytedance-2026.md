@@ -3,7 +3,7 @@ title: "China's AI Office War: How Tencent, Alibaba, and ByteDance Are Battling 
 date: "2026-08-30"
 excerpt: "Tencent's WorkBuddy hit 20.97 million monthly visits in five months, forcing Alibaba and ByteDance into emergency restructuring. Inside China's trillion-yuan AI office war."
 author: "AI in China Editorial"
-readTime: "16 min"
+readTime: "16 min read"
 coverImage: "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1200&q=80"
 keywords: ["China AI", "Tencent WorkBuddy", "Alibaba Qwen Office", "ByteDance Doubao", "AI office assistant", "enterprise AI", "China tech"]
 ---

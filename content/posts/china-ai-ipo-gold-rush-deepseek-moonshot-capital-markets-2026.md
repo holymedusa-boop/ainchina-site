@@ -5,7 +5,7 @@ slug: "china-ai-ipo-gold-rush-deepseek-moonshot-capital-markets-2026"
 date: "2026-09-22"
 excerpt: "In September 2026, DeepSeek hired CITIC Securities to prepare a STAR Market IPO and Moonshot AI quietly filed confidential papers in Hong Kong. Shadow-market SPVs charge 6-15% fees just for access to the cap table. China's foundation-model labs are sprinting to public markets — and the valuations, lockups, and governance fights tell a bigger story about how the AI war will be financed."
 author: "AI in China Editorial"
-readTime: "16 min"
+readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1200"
 category: "AI Industry & Market"
 tags:

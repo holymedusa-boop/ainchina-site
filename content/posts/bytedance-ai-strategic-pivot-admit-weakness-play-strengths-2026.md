@@ -4,7 +4,7 @@ slug: "bytedance-ai-strategic-pivot-admit-weakness-play-strengths-2026"
 date: "2026-08-17"
 excerpt: "On August 6, 2026, ByteDance CEO Liang Rubo did something no Chinese tech leader had dared: he told 110,000 employees that his company's large language models lag behind America's. The confession was not surrender. It was the opening move of a strategy that may prove more durable than any parameter-count arms race."
 author: "AI in China Editorial"
-readTime: "16 min"
+readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200"
 category: "AI Strategy"
 tags:

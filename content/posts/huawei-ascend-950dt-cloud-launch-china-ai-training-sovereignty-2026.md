@@ -4,7 +4,7 @@ slug: "huawei-ascend-950dt-cloud-launch-china-ai-training-sovereignty-2026"
 date: "2026-08-21"
 excerpt: "On August 20, 2026, Huawei's Ascend 950DT training chip went live on Huawei Cloud — the culmination of a six-year journey from US sanctions to self-sufficiency. With 144GB of in-house HBM, 4 TB/s bandwidth, and DeepSeek V4 already proven on the architecture, China now has an end-to-end domestic training stack. The per-chip gap to Nvidia remains large. But the system-level bet is paying off."
 author: "AI in China Editorial"
-readTime: "15 min"
+readTime: "15 min read"
 heroImage: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&q=80"
 category: "Semiconductors"
 tags:

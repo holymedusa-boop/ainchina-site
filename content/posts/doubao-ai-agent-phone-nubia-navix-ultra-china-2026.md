@@ -4,7 +4,7 @@ slug: "doubao-ai-agent-phone-nubia-navix-ultra-china-2026"
 date: "2026-09-18"
 excerpt: "On September 16, ByteDance and ZTE's Nubia shipped the world's first mass-produced AI agent phone — a device where the assistant doesn't just answer, it acts. With 370,000 pre-orders before launch and a compliance trail no rival can match, the NaviX Ultra is China's boldest bet on the post-app era."
 author: "AI in China Editorial"
-readTime: "16 min"
+readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=1200"
 category: "Consumer AI & Platforms"
 tags:

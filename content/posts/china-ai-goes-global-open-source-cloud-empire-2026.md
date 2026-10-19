@@ -5,7 +5,7 @@ slug: "china-ai-goes-global-open-source-cloud-empire-2026"
 date: "2026-09-30"
 excerpt: "Ten billion downloads. One hundred thousand Qwen derivatives. Thirty-one cloud regions across five continents. Chinese AI companies are no longer building for their home market first — they are engineering products for the world from day one, and the numbers are starting to look like a structural shift, not a story."
 author: "AI in China Editorial"
-readTime: "15 min"
+readTime: "15 min read"
 heroImage: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200"
 category: "AI Industry"
 tags:

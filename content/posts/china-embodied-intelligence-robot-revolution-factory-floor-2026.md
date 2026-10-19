@@ -14,7 +14,7 @@ related: [
   "/blog/unitree-robotics-ipo-china-humanoid-robot-first-stock-2026/"
 ]
 category: "AI Industry"
-readTime: "16 min"
+readTime: "16 min read"
 wordCount: 3320
 ---
 

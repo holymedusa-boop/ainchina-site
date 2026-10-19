@@ -5,7 +5,7 @@ slug: "china-ai-export-control-window-closes-silence-2026"
 date: "2026-09-29"
 excerpt: "For three months, Beijing consulted Alibaba, ByteDance, and Zhipu on restricting foreign access to China's most advanced AI models. The September decision window came and went with no announcement. What the silence reveals about the collision between AI sovereignty and AI economics."
 author: "AI in China Editorial"
-readTime: "16 min"
+readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?w=1200"
 category: "AI Policy"
 tags:

@@ -4,7 +4,7 @@ slug: "deepseek-price-war-end-8-billion-robotics-pivot-2026"
 date: "2026-08-12"
 excerpt: "On August 6, 2026, DeepSeek did what no one thought possible: it raised prices. After processing 8 trillion tokens in a single day, the Hangzhou lab announced a funding round at $74 billion and a strategic robotics partnership with Unitree. The era of China's AI price war is ending — and something far more interesting is beginning."
 author: "AI in China Editorial"
-readTime: "17 min"
+readTime: "17 min read"
 heroImage: "https://images.unsplash.com/photo-1676299081847-824916de030a?w=1200&q=80"
 category: "Artificial Intelligence"
 tags:

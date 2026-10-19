@@ -3,7 +3,7 @@ title: "Doubao's 12 Trillion Token Explosion: How ByteDance Is Quietly Winning t
 slug: "doubao-12-trillion-token-explosion"
 date: "2026-04-04"
 category: "AI Infrastructure"
-readTime: '14 min read'
+readTime: "14 min read"
 excerpt: "Doubao's 12 Trillion Token Explosion: How ByteDance Is Quietly Winning the Global AI Race The exponential rise of China's AI ecosystem is reshaping global..."
 keywords: ["large language model", "Chinese AI", "ByteDance", "Doubao", "Alibaba", "Moonshot AI", "Kimi", "DeepSeek", "MiniMax", "OpenAI"]
 related: [

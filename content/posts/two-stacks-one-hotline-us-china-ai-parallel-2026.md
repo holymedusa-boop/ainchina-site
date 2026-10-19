@@ -5,7 +5,7 @@ date: "2026-10-04"
 author: "Meeeeed"
 tags: ["US-China AI", "DeepSeek", "Huawei", "NVIDIA", "AI chips", "CUDA", "export controls", "AI governance", "TileLang", "Ascend"]
 image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&h=600&fit=crop"
-readTime: '16 min read'
+readTime: "16 min read"
 category: "AI Policy"
 excerpt: "As DeepSeek open-sources chip software for Huawei's Ascend and Washington proposes an AI incident hotline, two complete, competing AI stacks are crystallizing. This is a systematic comparison of the parallel ecosystems — hardware, software, models, infrastructure, and governance — and an assessment of what the new diplomatic channel actually changes."
 keywords: ["US China AI competition", "DeepSeek Huawei partnership", "NVIDIA CUDA monopoly", "AI chip export controls", "AI hotline Bessent", "Huawei Ascend 950", "TileLang open source", "China AI stack", "AI governance 2026", "parallel AI ecosystems"]

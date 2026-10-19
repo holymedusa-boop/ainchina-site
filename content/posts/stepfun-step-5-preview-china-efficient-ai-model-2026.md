@@ -4,7 +4,7 @@ slug: "stepfun-step-5-preview-china-efficient-ai-model-2026"
 date: "2026-09-22"
 excerpt: "On September 20, Shanghai-based StepFun skipped an entire generation and released Step 5 Preview — a 600-billion-parameter model that ties the 2.8-trillion-parameter Kimi K3 on global benchmarks, matches it on coding at one-eighth the cost of American flagships, and open-sources its weights on October 15. Inside the quietest tiger's return to the front of China's AI race."
 author: "AI in China Editorial"
-readTime: "15 min"
+readTime: "15 min read"
 heroImage: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&q=80"
 category: "AI Models & Technology"
 tags:

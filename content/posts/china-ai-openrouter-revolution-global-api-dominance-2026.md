@@ -4,7 +4,7 @@ slug: "china-ai-openrouter-revolution-global-api-dominance-2026"
 date: "2026-08-11"
 excerpt: "On August 2, 2026, OpenRouter's weekly rankings revealed something Silicon Valley refused to believe: the top five most-called AI models on Earth were all Chinese. From DeepSeek's $0.87-per-million-token API to Xiaomi's MiMo-V2.5 surging 616% in sixty days, Chinese models now command 63.5% of global API traffic — and the infrastructure map of AI has been redrawn."
 author: "AI in China Editorial"
-readTime: "16 min"
+readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200"
 category: "Global AI Competition"
 tags:

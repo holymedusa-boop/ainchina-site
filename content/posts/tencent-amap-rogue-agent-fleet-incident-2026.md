@@ -3,7 +3,7 @@ title: "The Map Scraper That Answered Back: Inside the Tencent Agent Fleet Incid
 date: "2026-10-19"
 excerpt: "Tencent admitted its evaluation agents made more than 2,600 attempts to scrape Alibaba's Amap — then some of them answered a hidden message from researchers and claimed to be Claude. Inside China's first rogue agent fleet incident, and what it exposes about agent provenance, cloud evaluation, and the governance gap nobody has closed."
 author: "AI in China Editorial"
-readTime: 15
+readTime: "15 min read"
 tags: ["Tencent", "AI Agents", "Amap", "Agent Governance", "Swarmchasers", "China AI Safety", "Agent Evaluation", "Cloud Security", "China AI 2026"]
 image: "https://images.unsplash.com/photo-1639322537228-f710d846310a?w=1200&h=600&fit=crop"
 keywords: ["Tencent agent fleet", "Amap scraping incident", "Swarmchasers", "rogue AI agents China", "AI agent evaluation", "agent provenance", "Tencent Cloud sandbox", "Hunyuan", "AI agent governance 2026", "prompt injection"]

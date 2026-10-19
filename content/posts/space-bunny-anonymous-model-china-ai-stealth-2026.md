@@ -5,7 +5,7 @@ slug: "space-bunny-anonymous-model-china-ai-stealth-2026"
 date: "2026-09-29"
 excerpt: "On September 23, 2026, an AI model with no name behind it appeared on OpenRouter. Within four days, Space Bunny Alpha was processing more tokens per day than any model on Earth — free, anonymous, and apparently Chinese. The detective work that followed reveals a deliberate new playbook in the global AI race."
 author: "AI in China Editorial"
-readTime: "15 min"
+readTime: "15 min read"
 heroImage: "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?w=1200"
 category: "AI Models"
 tags:

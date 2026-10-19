@@ -4,7 +4,7 @@ slug: "china-ai-token-price-war-deepseek-zhipu-2026"
 date: "2026-09-20"
 excerpt: "On September 10, DeepSeek cut its API prices by up to 60%. Three days later, Zhipu raised HK$39.3 billion to survive the same war. One company is betting that engineering can outrun economics. The other is betting that capital can buy time for engineering to catch up. China's AI industry is splitting into two species — and the trillion-token battlefield will decide which one inherits the future."
 author: "AI in China Editorial"
-readTime: "15 min"
+readTime: "15 min read"
 heroImage: "https://images.unsplash.com/photo-1642790106117-e829e14a795f?w=1200"
 category: "AI Industry & Market"
 tags:

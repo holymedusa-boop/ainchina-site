@@ -4,7 +4,7 @@ date: "2026-09-21"
 slug: "huawei-ascend-960-supernode-npo-3d-datacenter-china-compute-2026"
 excerpt: "On September 17, 2026, Huawei unveiled the Ascend 960 SuperNode — a single machine packing 4,096 AI chips, 8 exaflops of FP8 compute, and 1 petabyte of high-bandwidth memory, connected by the industry's first near-packaged optics. One day earlier, a 100,000-card data center opened in Wuhu, stacked vertically like a silicon skyscraper. Together, they mark the moment China stopped chasing Moore's Law and started folding it."
 author: "AI in China Editorial"
-readTime: "16 min"
+readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1484557052118-f32bd25b45b5?w=1200&q=80"
 category: "AI Infrastructure"
 tags:

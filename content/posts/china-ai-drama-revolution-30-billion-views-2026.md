@@ -13,7 +13,7 @@ related: [
   "/blog/tencent-wechat-ai-agent-1-billion-user-platform-shift-2026/"
 ]
 category: "AI Entertainment"
-readTime: "12 min"
+readTime: "12 min read"
 wordCount: 2971
 ---
 

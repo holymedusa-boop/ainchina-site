@@ -5,7 +5,7 @@ date: "2026-08-03"
 category: "AI Business"
 excerpt: "China's 'Six AI Tigers' were once treated as a single class of company. In 2026, they've become six entirely different species — with $100 billion valuations, healthcare pivots, enterprise retreats, and hardware bets that share nothing but a founding year."
 keywords: ["China AI", "Zhipu AI", "MiniMax", "Moonshot AI", "Baichuan", "01.AI", "Stepfun", "AI IPO", "Chinese startups", "AI unicorns"]
-readTime: "16 min"
+readTime: "16 min read"
 author: "AI in China"
 heroImage: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200"
 ---

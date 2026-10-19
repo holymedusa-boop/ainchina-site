@@ -4,7 +4,7 @@ title: "The 46% Invasion: How Chinese AI Models Quietly Conquered American Enter
 category: "AI Industry"
 excerpt: "OpenRouter data reveals a shocking reversal: US enterprises now route 46% of their AI model calls to Chinese systems like DeepSeek, Zhipu GLM, and Qwen. At WAIC 2026 in Shanghai, the industry is celebrating a victory that Washington never saw coming."
 date: 2026-07-19
-readTime: 16 min read
+readTime: "16 min read"
 image: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200&q=80"
 keywords: ["Chinese AI models", "DeepSeek", "Zhipu GLM", "OpenRouter", "US enterprise AI", "WAIC 2026", "AI model pricing", "China AI market share", "Lindy AI", "Coinbase", "AI cost reduction", "open source AI", "Qwen", "ByteDance Doubao"]
 related: [

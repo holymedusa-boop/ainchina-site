@@ -5,7 +5,7 @@ excerpt: "Apple Intelligence finally cleared China's regulatory hurdle on July 1
 keywords: ["Apple Intelligence China", "Alibaba Qwen", "Baidu Apple partnership", "AI sovereignty", "China AI regulation", "CAC approval", "iPhone AI China", "tech geopolitics", "Qwen model", "Apple China strategy"]
 slug: "apple-intelligence-china-qwen-baidu-ai-sovereignty-2026"
 author: "AI in China Editorial"
-readTime: "16 min"
+readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?w=1200&h=600&fit=crop"
 category: "AI Policy"
 featured: true

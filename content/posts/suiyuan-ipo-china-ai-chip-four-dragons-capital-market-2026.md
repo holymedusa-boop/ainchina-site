@@ -15,7 +15,7 @@ keywords:
   - Tencent AI
   - semiconductor independence
 heroImage: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=600&fit=crop"
-readTime: 16
+readTime: "16 min read"
 ---
 
 ![Semiconductor wafer manufacturing](https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&h=600&fit=crop)

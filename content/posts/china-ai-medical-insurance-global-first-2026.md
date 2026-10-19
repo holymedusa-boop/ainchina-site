@@ -4,7 +4,7 @@ slug: "china-ai-medical-insurance-global-first-2026"
 date: "2026-08-17"
 excerpt: "On April 1, 2026, China became the first nation to reimburse AI-assisted diagnoses through national health insurance. Eight hundred thirty-seven top hospitals now bill insurers for AI readings of CT scans, retinal images, and ECGs—with patients paying as little as 15% out of pocket."
 author: "AI in China Editorial"
-readTime: "16 min"
+readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?w=1200"
 category: "Healthcare AI"
 tags:

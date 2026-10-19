@@ -2,7 +2,7 @@
 title: "China's Embodied Intelligence Revolution: Why 2026 Is the Year Brains Finally Beat Bodies"
 date: "2026-08-02"
 excerpt: "China's embodied intelligence sector raised 934.7 billion RMB in H1 2026, surpassing all of 2025. But the real story isn't the funding numbers—it's the shift from 'PPT robots' to commercial contracts, from hardware demos to model-driven productivity."
-readTime: "16 min"
+readTime: "16 min read"
 author: "AI in China Editorial"
 heroImage: "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?w=1200"
 category: "AI Industry"

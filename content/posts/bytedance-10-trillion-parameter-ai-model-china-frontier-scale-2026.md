@@ -3,7 +3,7 @@ title: "ByteDance Trains 10 Trillion-Parameter AI Model: China's Biggest Bet on 
 description: "ByteDance is pretraining a 10 trillion-parameter AI model, tripling the size of China's current largest model. Founder Zhang Yiming ordered the Seed team to avoid distillation and build genuine capability from scratch."
 date: "2026-08-28"
 author: "AI in China Editorial"
-readTime: 15
+readTime: "15 min read"
 image: "/images/bytedance-10-trillion-model-hero.png"
 category: "AI Industry"
 keywords: ["ByteDance", "10 trillion parameters", "AI model", "Seed team", "Zhang Yiming", "China AI", "Kimi K3", "Anthropic Mythos", "AI distillation", "AI sovereignty"]

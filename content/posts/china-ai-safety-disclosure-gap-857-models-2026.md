@@ -3,7 +3,7 @@ title: "857 Models, 31 Safety Reports: China's AI Safety Paradox"
 date: "2026-10-12"
 excerpt: "A SemiAnalysis investigation reviewed every model release from China's nine leading AI labs between 2021 and September 2026 — 857 in total. Only 31 carried a published safety evaluation. Nine had one at launch. The country's regulatory apparatus is strictest in the world on AI content and loosest on frontier capability. The gap is not an oversight. It is a decision."
 author: "AI in China Editorial"
-readTime: 16
+readTime: "16 min read"
 tags: ["AI Safety", "SemiAnalysis", "China AI Regulation", "DeepSeek", "Zhipu", "Moonshot AI", "CAC", "Frontier AI", "AI Governance", "China Tech"]
 image: "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=1200&h=600&fit=crop"
 keywords: ["China AI safety disclosure", "SemiAnalysis 857 models", "Chinese AI labs safety evaluation", "CAC AI regulation 2026", "AI Safety Governance Framework 3.0", "frontier AI China", "DeepSeek safety", "Zhipu AI safety", "China AI law shelved", "AI safety paradox China"]

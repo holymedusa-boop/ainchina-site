@@ -14,7 +14,7 @@ related: [
   "/blog/us-china-ai-safety-dialogue-deepseek-huawei-independence-2026/"
 ]
 category: "AI Infrastructure"
-readTime: "16 min"
+readTime: "16 min read"
 wordCount: 3240
 ---
 

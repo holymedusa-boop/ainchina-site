@@ -3,7 +3,7 @@ title: "The AI Interview Coach Phenomenon: How Chinese Graduates Are Using AI to
 slug: "ai-interview-coaching-china-2025"
 date: "2026-04-08"
 category: "AI Trends"
-readTime: "16 min"
+readTime: "16 min read"
 excerpt: "China's job market has become a battleground for millions of fresh graduates, and a surprising new weapon has emerged: AI interview coaches. In the past..."
 keywords: ["large language model", "LLM", "Chinese AI", "ByteDance", "Doubao", "Alibaba", "Tongyi Qianwen", "Moonshot AI", "Kimi", "CES"]
 related: [

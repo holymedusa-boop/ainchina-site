@@ -5,7 +5,7 @@ date: "2026-10-02"
 author: "Meeeeed"
 tags: ["GLM-5.3", "Zhipu AI", "Anthropic", "cybersecurity", "open source AI", "AI safety", "China AI", "Z.ai", "frontier model", "cyber capabilities", "Mythos", "AI governance"]
 image: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&h=600&fit=crop"
-readTime: '16 min read'
+readTime: "16 min read"
 category: "AI Policy"
 excerpt: "Anthropic's Frontier Red Team just confirmed that China's GLM-5.3 can autonomously build cyber exploits at near-Mythos levels — and its safeguards collapse 64-100% of the time. The panic that followed misses the point entirely: open source isn't the vulnerability. The illusion of control is."
 keywords: ["GLM-5.3", "Zhipu AI", "Anthropic", "cybersecurity AI", "open source model safety", "China AI 2026", "AI exploit generation", "AI governance", "Z.ai", "frontier AI safety", "cyber capabilities", "Mythos Preview"]

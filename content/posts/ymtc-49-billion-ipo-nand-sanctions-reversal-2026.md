@@ -5,7 +5,7 @@ date: "2026-10-04"
 author: "Meeeeed"
 tags: ["YMTC", "semiconductors", "NAND flash", "China chips", "IPO", "Xtacking", "memory", "AI infrastructure", "sanctions", "STAR Market"]
 image: "https://images.unsplash.com/photo-1617791160505-6f00504e3519?w=1200&h=600&fit=crop"
-readTime: '17 min read'
+readTime: "17 min read"
 category: "AI Infrastructure"
 excerpt: "Four years after Washington placed it on the Entity List, China's YMTC filed the largest IPO in STAR Market history: ¥33 billion, on 78% gross margins, with Samsung licensing its patents and 14% of global NAND shipments. The complete anatomy of a sanctions reversal."
 keywords: ["YMTC IPO", "Yangtze Memory Technologies", "China NAND", "STAR Market IPO 2026", "Xtacking", "semiconductor sanctions", "China memory chip", "enterprise SSD", "AI storage", "CXMT YMTC"]

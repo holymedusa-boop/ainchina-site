@@ -4,7 +4,7 @@ title: "The Silicon Wall: How China's AI Revolution Ran Out of Chips — And Sta
 category: "AI Industry"
 excerpt: "At 3:14 AM on July 19, 2026, Moonshot AI made a decision no fast-growing startup wants to make: it stopped selling. Kimi K3 had grown too popular, too fast. The story of what happened next reveals the hidden battle that will shape the future of global AI."
 date: 2026-07-25
-readTime: '22 min read'
+readTime: "22 min read"
 image: "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&h=600&fit=crop"
 keywords: ["China AI chips", "DeepSeek", "Zhipu AI", "Kimi K3", "AI compute crisis", "custom AI chips", "NVIDIA sanctions", "Moonshot AI", "Huawei Ascend", "domestic chips", "AI inference", "compute shortage", "WAIC 2026", "open source AI"]
 related: [

@@ -5,7 +5,7 @@ slug: "alibaba-qwen-4-apsara-roadmap-china-ai-full-stack-2026"
 date: "2026-10-01"
 excerpt: "Alibaba announced Qwen 4 at Apsara 2026 with no release date, no benchmarks, and no weights — and revealed a 5-to-10-trillion-parameter roadmap stretching to Qwen 5. While the industry obsesses over the next leaderboard, Alibaba is playing a different game entirely: building the full-stack infrastructure that makes the model race almost beside the point."
 author: "AI in China Editorial"
-readTime: "16 min"
+readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1516321165247-4aa89a48be28?w=1200"
 category: "AI Strategy"
 tags:

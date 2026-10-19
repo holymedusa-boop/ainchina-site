@@ -3,7 +3,7 @@ title: "ModelBest Becomes Unicorn: How Tsinghua's Edge AI Pioneer Is Reshaping O
 slug: "modelbest-edge-ai-unicorn-2026"
 date: "2026-04-10"
 category: "AI Trends"
-readTime: '13 min read'
+readTime: "13 min read"
 excerpt: "A quiet revolution in artificial intelligence is happening on the smallest screens. While tech giants battle for cloud dominance, ModelBest—a Tsinghua..."
 keywords: ["artificial intelligence", "Beijing", "Shenzhen", "GPU", "GPT", "Gemini", "funding", "investment", "startup", "API"]
 related: [

@@ -4,7 +4,7 @@ slug: "china-ai-compute-sovereignty-bytedance-huawei-chip-fortress-2026"
 date: "2026-09-08"
 excerpt: "ByteDance just secured the largest private loan in history — $29.6 billion — while China's domestic AI chip market surged to 41% share. The convergence of record capital and homegrown silicon is building a compute fortress that Washington never anticipated."
 author: "AI in China Editorial"
-readTime: "16 min"
+readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200"
 category: "Semiconductor & Infrastructure"
 tags:

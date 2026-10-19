@@ -4,7 +4,7 @@ slug: "openai-price-war-chinese-ai-rivals-2026"
 date: "2026-08-08"
 excerpt: "In August 2026, OpenAI slashed GPT-5.6 prices by up to 80% — not to reward developers, but to stop the bleeding. DeepSeek V4-Flash had already claimed the top spot on OpenRouter. Chinese models occupied nine of the global top ten. For the first time, an American frontier lab was fighting a price war it did not start."
 author: "AI in China Editorial"
-readTime: "16 min"
+readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200"
 category: "Global AI Competition"
 tags:

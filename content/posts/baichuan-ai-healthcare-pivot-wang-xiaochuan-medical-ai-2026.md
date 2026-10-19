@@ -4,7 +4,7 @@ slug: "baichuan-ai-healthcare-pivot-wang-xiaochuan-medical-ai-2026"
 date: "2026-08-13"
 excerpt: "In March 2025, Wang Xiaochuan made a decision no Chinese AI founder had dared: he killed his own general-purpose model, fired his entire co-founding team, and bet everything on medical AI. Eighteen months later, Baichuan-M4 ranks #1 globally on HealthBench, serves 500,000 paying users, and has a clearer path to profit than any 'Six Little Dragon' peer."
 author: "AI in China Editorial"
-readTime: "16 min"
+readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1200&q=80"
 category: "Healthcare AI"
 tags:

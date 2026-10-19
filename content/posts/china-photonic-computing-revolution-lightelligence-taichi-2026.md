@@ -5,7 +5,7 @@ slug: "china-photonic-computing-revolution-lightelligence-taichi-2026"
 date: "2026-09-30"
 excerpt: "A 400% IPO debut on the Hong Kong Stock Exchange. A photonic processor 500 times faster than a NVIDIA GPU at specific tasks. A national laboratory built to turn light into computation. China's photonic computing industry has moved from physics papers to production lines in under a decade — and it may be the most consequential bet in the global chip race that most people have never heard of."
 author: "AI in China Editorial"
-readTime: "16 min"
+readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1200"
 category: "AI Hardware"
 tags:

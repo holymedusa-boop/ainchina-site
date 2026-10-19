@@ -3,7 +3,7 @@ title: "The 27-Billion-Parameter Phone: China's On-Device AI Moment"
 date: "2026-10-19"
 excerpt: "A hobbyist just ran Alibaba's 27-billion-parameter Qwen3.8 model on an iPhone 18 Neural Engine — offline, at usable speed. Beijing approved seven on-device AI services in one week, Apple finally shipped localized Apple Intelligence in China, and every major phone vendor is racing to build an agent that lives in your pocket instead of their data center. Why the most important AI infrastructure race of 2026 is happening in a device you already own."
 author: "AI in China Editorial"
-readTime: 16
+readTime: "16 min read"
 tags: ["On-Device AI", "Qwen", "iPhone 18", "Apple Intelligence", "Huawei", "Xiaomi", "Agent Smartphones", "CAC", "China AI 2026", "Edge AI"]
 image: "https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?w=1200&h=600&fit=crop"
 keywords: ["on-device AI China", "Qwen3.8 iPhone 18", "agent smartphone 2026", "Apple Intelligence China launch", "Huawei Pangu Lite", "Xiaomi HyperMind", "CAC AI approval", "Neural Engine LLM", "edge AI China", "China smartphone AI race 2026"]

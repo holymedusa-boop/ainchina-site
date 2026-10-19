@@ -4,7 +4,7 @@ title: "The $300 Million Answer: How China's AI Industry Just Proved It Can Make
 category: "AI Business"
 excerpt: "For two years, Western analysts predicted China's AI companies would collapse under unsustainable burn rates. Then August 2026 happened. MiniMax doubled ARR to $300 million in 60 days. DeepSeek hit $74 billion valuation. The industry-wide price war ended with synchronized price increases. The burn rate narrative was wrong — and the numbers prove it."
 date: 2026-08-24
-readTime: 16 min read
+readTime: "16 min read"
 image: "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=1200&q=80"
 keywords: ["China AI profitability", "MiniMax ARR", "DeepSeek valuation", "AI monetization", "China tech burn rate", "AI price war end", "ByteDance revenue", "Tencent WorkBuddy", "Chinese AI unicorns", "AI business model", "token pricing", "China AI funding"]
 related: [

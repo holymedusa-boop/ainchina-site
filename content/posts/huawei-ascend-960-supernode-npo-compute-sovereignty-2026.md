@@ -5,7 +5,7 @@ slug: "huawei-ascend-960-supernode-npo-compute-sovereignty-2026"
 date: "2026-09-23"
 excerpt: "At Huawei Connect 2026, Huawei unveiled the Ascend 960 SuperNode — the industry's first near-packaged optics supernode with 4,096 cards, 8 EFLOPS of FP8 compute, and a chip roadmap pulled three quarters ahead of schedule. Here's what NPO means, why 5,500 optical engines replace 48,000 transceivers, and whether China's compute sovereignty bet actually holds."
 author: "AI in China Editorial"
-readTime: "16 min"
+readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?w=1200"
 category: "AI Infrastructure"
 tags:

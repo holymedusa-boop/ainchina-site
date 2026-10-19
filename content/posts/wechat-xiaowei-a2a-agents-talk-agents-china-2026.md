@@ -4,7 +4,7 @@ slug: "wechat-xiaowei-a2a-agents-talk-agents-china-2026"
 date: "2026-09-16"
 excerpt: "WeChat's Xiaowei AI assistant just gained the ability to talk to other people's agents on their behalf. For the first time in history, 1.4 billion humans have access to agent-to-agent communication. The implications reach far beyond a product feature."
 author: "AI in China Editorial"
-readTime: "16 min"
+readTime: "16 min read"
 heroImage: "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=1200"
 category: "Consumer AI & Platforms"
 tags:

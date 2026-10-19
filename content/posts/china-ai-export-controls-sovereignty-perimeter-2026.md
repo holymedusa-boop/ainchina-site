@@ -3,7 +3,7 @@ title: "China Just Published Its First AI Export Controls. Everyone Is Reading T
 date: "2026-10-18"
 excerpt: "On October 16, 2026, Beijing proposed export controls on 40 technologies — 23 of them in AI — and the world read it as retaliation for US chip sanctions. Read the thresholds in the actual document. The catalogue is not a weapon pointed at Washington. It is a perimeter drawn around China's own AI stack, with gates left deliberately open — and the most important sentence in it is the exemption for open source."
 author: "AI in China Editorial"
-readTime: 16
+readTime: "16 min read"
 tags: ["China AI Export Controls", "MOFCOM", "AI Sovereignty", "Export Catalogue", "Open Source AI", "DeepSeek", "Qwen", "AI Regulation", "Geopolitics", "China Tech"]
 image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&h=600&fit=crop"
 keywords: ["China AI export controls 2026", "MOFCOM Announcement 48", "China prohibited restricted export technology catalogue", "AI export registration China", "China open source exemption export controls", "DeepSeek Qwen export", "AI sovereignty China", "US China AI decoupling", "compute cluster export controls", "World AI Cooperation Organization"]

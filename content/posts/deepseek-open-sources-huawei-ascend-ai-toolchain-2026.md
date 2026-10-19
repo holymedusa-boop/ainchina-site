@@ -4,7 +4,7 @@ metaTitle: "DeepSeek Open-Sources Huawei Ascend AI Toolchain: The CUDA Challenge
 slug: "deepseek-open-sources-huawei-ascend-ai-toolchain-2026"
 date: "2026-10-03"
 excerpt: "On September 30, DeepSeek published six core infrastructure repositories that power its AI models on Huawei Ascend chips — compilers, operator libraries, and communication frameworks. It is the most consequential open-source move in China's compute-sovereignty push, and it lands at the exact moment Nvidia's China share is collapsing."
-readTime: "16 min"
+readTime: "16 min read"
 category: "AI Infrastructure"
 tags: ["deepseek", "huawei", "ascend", "open source", "ai chips", "compute sovereignty", "cuda", "china ai", "tilelang", "cann"]
 image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&h=675&fit=crop"

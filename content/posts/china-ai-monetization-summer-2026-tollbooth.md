@@ -14,7 +14,7 @@ related: [
   "/blog/doubao-12-trillion-token-explosion/"
 ]
 category: "AI Industry"
-readTime: "16 min"
+readTime: "16 min read"
 wordCount: 3214
 ---
 

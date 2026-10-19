@@ -3,7 +3,7 @@ title: "China's AI Overtake: 31% Surge in Token Usage Signals Global Power Shift
 slug: "china-ai-token-surge-gen-z"
 date: "2026-04-07"
 category: "AI Trends"
-readTime: '13 min read'
+readTime: "13 min read"
 excerpt: "China's AI Overtake: 31% Surge in Token Usage Signals Global Power Shift China's AI revolution is accelerating beyond predictions. According to OpenRouter..."
 keywords: ["Chinese AI", "Kimi", "DeepSeek", "MiniMax", "Zhipu AI", "OpenAI", "GPT", "Claude", "funding", "venture capital"]
 related: [

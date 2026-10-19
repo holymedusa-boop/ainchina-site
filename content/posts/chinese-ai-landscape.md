@@ -3,7 +3,7 @@ title: "The Rise of Chinese AI: Complete Ecosystem Map (Foundation to Applicatio
 slug: "chinese-ai-landscape"
 date: "2026-03-30"
 category: "Market Intelligence"
-readTime: '15 min read'
+readTime: "15 min read"
 excerpt: "China's AI ecosystem has evolved from a fragmented collection of research labs into a comprehensive industrial stack that rivals Silicon Valley...."
 keywords: ["artificial intelligence", "neural network", "Chinese AI", "Shanghai", "Doubao", "Alibaba", "Tencent", "Hunyuan", "Kimi", "DeepSeek"]
 related: [
