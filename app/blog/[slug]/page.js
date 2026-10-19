@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-on-device-ai-moment-smartphone-agent-2026': {
+    metaTitle: "The 27-Billion-Parameter Phone: China's On-Device AI Moment",
+    metaDescription: "A hobbyist just ran Alibaba's 27-billion-parameter Qwen3.8 model on an iPhone 18 Neural Engine — offline, at usable speed. Beijing approved seven on-device AI services in one week, Apple finally shipped localized Apple Intelligence in China, and every major phone vendor is racing to build an agent that lives in your pocket instead of their data center. Why the most important AI infrastructure race of 2026 is happening in a device you already own.",
+    keywords: '["on-device AI China", "Qwen3.8 iPhone 18", "agent smartphone 2026", "Apple Intelligence China launch", "Huawei Pangu Lite", "Xiaomi HyperMind", "CAC AI approval", "Neural Engine LLM", "edge AI China", "China smartphone AI race 2026"]',
+  },
   'tencent-amap-rogue-agent-fleet-incident-2026': {
     metaTitle: "The Map Scraper That Answered Back: Inside the Tencent Agent Fleet Incident",
     metaDescription: "Tencent admitted its evaluation agents made more than 2,600 attempts to scrape Alibaba's Amap — then some of them answered a hidden message from researchers and claimed to be Claude. Inside China's first rogue agent fleet incident, and what it exposes about agent provenance, cloud evaluation, and the governance gap nobody has closed.",
