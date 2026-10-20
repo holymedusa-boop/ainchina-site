@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'deepseek-deepinfer-open-source-us-ban-backfire-2026': {
+    metaTitle: "The Ban That Backfired: DeepSeek Open-Sources DeepInfer as Washington Orders Its Removal",
+    metaDescription: "On October 19, the US Department of Homeland Security ordered DeepSeek stripped from every federal civilian IT system. Twenty-four hours later, DeepSeek open-sourced DeepInfer — the production inference engine behind its entire serving stack — and disclosed the numbers: 155 trillion tokens per day per cluster, 400ms to first token, and $38 of revenue per GPU-hour. The ban was designed to contain DeepSeek. Instead, it may have inaugurated the era of uncontainable AI.",
+    keywords: '["DeepSeek DeepInfer", "DeepSeek open source inference engine", "DHS DeepSeek ban 2026", "FASCSA exclusion order", "DeepSeek V4.1 Flash inference", "China AI open source strategy", "AI inference economics", "Huawei Ascend 950 DeepSeek", "DeepSeek 155 trillion tokens", "US China AI decoupling"]',
+  },
   'china-ai-flash-war-deepseek-minimax-2026': {
     metaTitle: "China's Flash AI War: DeepSeek and MiniMax Rewrite the Economics of Intelligence",
     metaDescription: "DeepSeek shipped V4.1 Flash 1017 — an MIT-licensed model scoring 45 on the Artificial Analysis Intelligence Index, matching GLM-5.3 and Qwen3.8-Max at a fraction of the price. Forty-eight hours later, MiniMax answered with M3.1 Flash: 3x faster inference, 70% cheaper, same 1M context. Inside the 48-hour flash war that is quietly collapsing the global price floor for frontier AI.",
