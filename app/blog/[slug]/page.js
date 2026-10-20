@@ -10,6 +10,11 @@ const postMetadata = {
     metaDescription: "DeepSeek shipped V4.1 Flash 1017 — an MIT-licensed model scoring 45 on the Artificial Analysis Intelligence Index, matching GLM-5.3 and Qwen3.8-Max at a fraction of the price. Forty-eight hours later, MiniMax answered with M3.1 Flash: 3x faster inference, 70% cheaper, same 1M context. Inside the 48-hour flash war that is quietly collapsing the global price floor for frontier AI.",
     keywords: '["DeepSeek V4.1 Flash 1017", "MiniMax M3.1 Flash", "China flash tier models", "AI price war 2026", "open weight AI models China", "Artificial Analysis Intelligence Index", "MIT license LLM", "China AI cost advantage", "DeepSeek vs MiniMax", "frontier AI pricing"]',
   },
+  'china-fengqing-ai-weather-forecast-ecmwf-2026': {
+    metaTitle: "Fengqing: How China Built an AI Weather Forecaster That Beat ECMWF at Its Own Game",
+    metaDescription: "On October 17, China's national weather service quietly switched on Fengqing V1.0 — the world's first fully sovereign AI ensemble forecasting system. Its 11-day effective forecast horizon now outperforms the ECMWF's flagship AI model on probabilistic metrics, and it runs on a 100,000-card domestic supercomputing cluster. Inside the project that ended Europe's four-decade monopoly on the world's best weather models.",
+    keywords: '["Fengqing AI weather model", "China AI weather forecasting 2026", "ECMWF AIFS comparison", "AI ensemble weather prediction", "China Meteorological Administration AI", "National Supercomputing Internet weather", "sovereign AI weather model China", "Fengqing vs ECMWF", "AI4S supercomputing China", "physics-informed AI weather"]',
+  },
   'china-on-device-ai-moment-smartphone-agent-2026': {
     metaTitle: "The 27-Billion-Parameter Phone: China's On-Device AI Moment",
     metaDescription: "A hobbyist just ran Alibaba's 27-billion-parameter Qwen3.8 model on an iPhone 18 Neural Engine — offline, at usable speed. Beijing approved seven on-device AI services in one week, Apple finally shipped localized Apple Intelligence in China, and every major phone vendor is racing to build an agent that lives in your pocket instead of their data center. Why the most important AI infrastructure race of 2026 is happening in a device you already own.",
