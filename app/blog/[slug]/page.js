@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-chip-shortage-end-cheap-model-era-2026': {
+    metaTitle: "The End of Cheap: China's AI Price Advantage Just Died",
+    metaDescription: "For two years, China's AI labs won on price. DeepSeek and its rivals offered frontier-capable models at a fraction of Western cost, and the world assumed that advantage was structural. In October 2026, the numbers say otherwise. US labs have matched Chinese token prices, domestic chip costs are surging 20-50%, and Alibaba's CEO says the compute shortage won't resolve until 2030. The era of cheap Chinese AI is over — and what replaces it will be stranger and more interesting.",
+    keywords: '["China AI chip shortage 2026", "end of cheap AI models", "HBM memory shortage", "Huawei Ascend 950DT price", "DeepSeek V4.1 Flash pricing", "China AI model price war", "AI compute scarcity China", "Alibaba Eddie Wu compute shortage 2030", "Chinese AI cloud price increase", "AI token price convergence"]',
+  },
   'deepseek-deepinfer-open-source-us-ban-backfire-2026': {
     metaTitle: "The Ban That Backfired: DeepSeek Open-Sources DeepInfer as Washington Orders Its Removal",
     metaDescription: "On October 19, the US Department of Homeland Security ordered DeepSeek stripped from every federal civilian IT system. Twenty-four hours later, DeepSeek open-sourced DeepInfer — the production inference engine behind its entire serving stack — and disclosed the numbers: 155 trillion tokens per day per cluster, 400ms to first token, and $38 of revenue per GPU-hour. The ban was designed to contain DeepSeek. Instead, it may have inaugurated the era of uncontainable AI.",
