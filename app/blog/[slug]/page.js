@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-35b-nvidia-order-compute-triangle-2026': {
+    metaTitle: "China's $35 Billion Nvidia Gamble: The Compute Triangle Reshaping Global AI",
+    metaDescription: "Chinese tech giants placed $35 billion in orders for Nvidia's export-compliant RTX Pro 5500. Nvidia can deliver barely 10%. The gap is forcing three radically different bets on the future of AI compute.",
+    keywords: '',
+  },
   'china-ai-chip-shortage-end-cheap-model-era-2026': {
     metaTitle: "The End of Cheap: China's AI Price Advantage Just Died",
     metaDescription: "For two years, China's AI labs won on price. DeepSeek and its rivals offered frontier-capable models at a fraction of Western cost, and the world assumed that advantage was structural. In October 2026, the numbers say otherwise. US labs have matched Chinese token prices, domestic chip costs are surging 20-50%, and Alibaba's CEO says the compute shortage won't resolve until 2030. The era of cheap Chinese AI is over — and what replaces it will be stranger and more interesting.",
