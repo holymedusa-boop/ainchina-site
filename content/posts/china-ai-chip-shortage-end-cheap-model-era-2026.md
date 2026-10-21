@@ -21,11 +21,9 @@ China's AI labs still process an enormous share of the world's AI requests. What
 
 The conventional wisdom about Chinese AI rested on a simple asymmetry. US labs — OpenAI, Anthropic, Google — invested billions in frontier model training and charged premium prices to recoup it. Chinese labs, blocked from the most advanced Nvidia chips by export controls, optimized relentlessly for efficiency. DeepSeek's R1 demonstrated in early 2025 that a model trained for a reported fraction of GPT-4's budget could match its reasoning performance. The inference prices that followed — fractions of a cent per thousand tokens — triggered a price war so aggressive that Chinese media dubbed it "involution" (内卷), the term for self-destructive internal competition.
 
-The logic seemed self-reinforcing. Export controls forced efficiency. Efficiency produced cheap models. Cheap models won global market share. Market share funded further development. By mid-2026, Chinese open-weight models handled roughly 29 percent of all tokens processed on Vercel's AI gateway — yet captured less than 4 percent of the spending. The gap between usage share and revenue share was not a bug; it was the strategy. Chinese labs were buying the market.
+The logic seemed self-reinforcing. Export controls forced efficiency. Efficiency produced cheap models. Cheap models won global share. By mid-2026, Chinese open-weight models handled roughly 29 percent of all tokens on Vercel's AI gateway — yet captured less than 4 percent of spending. The gap between usage share and revenue share was the strategy: Chinese labs were buying the market.
 
-This narrative powered billions in investment. It justified the valuations of DeepSeek, Moonshot, MiniMax, and Zhipu. It shaped how Western enterprises thought about vendor selection: use Chinese models for cost-sensitive workloads, American models for quality-critical ones. And it underpinned a geopolitical argument — that export controls were backfiring, producing a Chinese AI industry that was leaner, cheaper, and more globally adopted than it would have been with unrestricted access to Nvidia silicon.
-
-Every element of that story is now under stress.
+This narrative powered billions in investment. It justified the valuations of DeepSeek, Moonshot, MiniMax, and Zhipu. It shaped how Western enterprises thought about vendor selection: use Chinese models for cost-sensitive workloads, American models for quality-critical ones. Every element of that story is now under stress.
 
 ## The Price Mirror
 
@@ -81,7 +79,19 @@ The shortage is not abstract. The Financial Times reported in October that Chine
 
 *Source: Financial Times, "China's data centre dreams" Part II, October 2026. Industry insider figures; not independently confirmed.*
 
-This is the paradox at the heart of China's AI compute strategy. The domestic chip industry is genuinely growing — Huawei's Ascend line, Cambricon's MLU series, and custom ASICs from Alibaba (Zhenwu V900) and others are projected to cover nearly 80 percent of China's AI server hardware in 2026, according to TrendForce. Nvidia and AMD's combined share of the Chinese market has collapsed from 34 percent to a projected 21 percent. But the total demand has grown so fast that even a surging domestic industry cannot keep pace, and the memory bottleneck constrains everyone equally.
+These overseas arrangements are strategically awkward — every token processed on a rented Oracle server in Southeast Asia is a token not building domestic capacity. But for China's largest tech companies, they are the only way to access advanced compute that Washington's export rules keep out of the domestic market.
+
+| Company | Overseas Compute Strategy | Estimated Scale | Location |
+|---------|--------------------------|-----------------|----------|
+| Tencent | 5-year lease with Oracle | ~100,000 chips | Southeast Asia |
+| ByteDance | Negotiating similar lease | Not disclosed | Southeast Asia (reported) |
+| Alibaba | Negotiating similar lease | Not disclosed | Southeast Asia (reported) |
+| DeepSeek | Domestic — Huawei Ascend order | 160,000+ chips | Inner Mongolia |
+| Chinese firms (aggregate) | Lower-end Nvidia purchases | >1,000,000 chips | Domestic |
+
+*Sources: Financial Times, October 2026; Rio Times Asia Intelligence Brief; industry reports.*
+
+The domestic chip industry is genuinely growing — Huawei's Ascend line, Cambricon's MLU series, and custom ASICs like Alibaba's Zhenwu V900 are projected to cover nearly 80 percent of China's AI server hardware in 2026, per TrendForce. Nvidia and AMD's combined China share has collapsed from 34 percent to a projected 21 percent. But total demand has grown so fast that even a surging domestic industry cannot keep pace, and the memory bottleneck constrains everyone equally.
 
 ## The Revenue Problem
 
@@ -101,6 +111,15 @@ Here is the uncomfortable arithmetic that China's AI labs would prefer not to di
 A lab earning 17.9 cents of gross profit per revenue dollar cannot cut prices another 50 percent to match a US competitor. It cannot absorb a 34 percent increase in cloud compute costs without raising prices, losing customers, or both. And it cannot train the next generation of frontier models without access to silicon that is simultaneously getting more expensive and harder to source.
 
 Chinese labs are responding by changing how they charge. Moonshot, reportedly burning cash on Kimi K3 inference, now requires any company reselling its model as a paid service with more than $20 million in annual revenue to sign a separate commercial agreement. The company is reportedly asking Microsoft, Amazon, and Google for up to 30 percent of the revenue they earn from Kimi K3. That is not a token-pricing strategy; it is a revenue-sharing model borrowed from content licensing — an acknowledgment that per-token pricing no longer covers costs.
+
+| Lab | New Pricing / Revenue Strategy | Signal |
+|-----|-------------------------------|--------|
+| Moonshot | Revenue-share demands on cloud providers (up to 30% of Kimi K3 revenue) | Per-token pricing unsustainable |
+| MiniMax | IPO prospectus discloses 17.9% gross margin | Margin cannot fund price cuts |
+| Industry (BofA) | Shift from per-token to per-task cost competition | Unit of competition changing |
+| Chinese cloud providers | AI compute prices up 34% in 2026 | Supply-side cost pressure |
+
+*Sources: FT, The Information, Bank of America China equity research (Winnie Wu team), September 2026.*
 
 ## The Conventional Wisdom, Revisited
 
@@ -138,15 +157,15 @@ Three forces will determine how this plays out over the next twelve months.
 
 ![Financial data on a trading floor screen — investors are repricing what Chinese AI models are actually worth](https://images.unsplash.com/photo-1567789884554-0b844b597180?w=800&h=400&fit=crop)
 
-For enterprises currently building on Chinese models, the playbook is changing. Contracts should be renegotiated on task-level pricing where possible. Capacity commitments with Chinese cloud providers should be secured early — prices are rising and availability is tightening. And maintaining at least two models in production, one Chinese and one American where regulation permits, provides the quarterly cost comparison needed to catch pricing shifts before they become budget problems.
+For enterprises building on Chinese models, the playbook is changing. Contracts should be renegotiated on task-level pricing where possible. Capacity commitments with Chinese cloud providers should be secured early — prices are rising and availability is tightening. And maintaining two models in production provides the quarterly cost comparison needed to catch pricing shifts before they become budget problems.
 
-China's AI industry is not collapsing. It is growing up — trading the unsustainable advantage of cheap tokens for the harder, more durable challenge of building profitable AI businesses at scale. The end of cheap is not the end of Chinese AI. It is the beginning of a more honest accounting of what it actually costs to build intelligent systems, and who is willing to pay.
+None of this is fatal. Chinese AI is growing up — trading the unsustainable advantage of cheap tokens for the harder challenge of building profitable businesses at scale. The end of cheap is the beginning of a more honest accounting of what it actually costs to build intelligent systems, and who is willing to pay.
 
 ## Social Voices
 
 **@AI_Whisperer (Twitter/X):**
 "Everyone celebrating Haiku 5.5 matching DeepSeek prices is missing the point. The race was never about token price — it was about who could afford to keep building when the money ran out. Now neither side can. 🧵"
-*Translation: The celebration about Haiku's pricing parity with DeepSeek misses the bigger picture — sustainability matters more than sticker price.*
+*Translation: Haiku's parity misses the bigger picture — sustainability beats sticker price.*
 
 **知乎用户 (Zhihu):**
 "国内云厂商涨价34%意味着什么？意味着你之前用DeepSeek API省下的钱，最后都要在算力成本里还回去。天下没有免费的午餐。"
@@ -166,7 +185,7 @@ China's AI industry is not collapsing. It is growing up — trading the unsustai
 
 **微博科技大V (Weibo):**
 "美国模型降价不是因为良心发现，是因为他们要抢市场。国产模型的护城河从来不是价格，是中文理解力和本土生态。别慌。"
-*"US models cut prices not out of kindness but to seize market share. Chinese models' moat was never price — it is Chinese language understanding and the local ecosystem. Don't panic."*
+*"US labs cut prices not to be kind but to seize share. Chinese models' moat was never price — it is Chinese language understanding and local ecosystem. Don't panic."*
 
 ---
 
