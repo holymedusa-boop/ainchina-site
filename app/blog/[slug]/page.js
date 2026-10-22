@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'deepseek-federal-ban-fascsa-first-ai-model-exile-2026': {
+    metaTitle: "The First AI Model Exile: DeepSeek and the 21-Month Road to a Federal Ban",
+    metaDescription: "On October 20, 2026, a supply-chain law built for Huawei routers and Chinese surveillance cameras produced America's first exile of an AI model company. The order against DeepSeek was signed on July 24, kept quiet for nearly three months, and published only after its own exception window had closed. Here is the escalation arc — and the mirror-image controls Beijing is building in response.",
+    keywords: '["DeepSeek federal ban 2026", "FASCSA AI exclusion order", "DHS DeepSeek removal order", "US China AI restrictions October 2026", "DeepSeek federal civilian agencies", "AI supply chain security act", "China AI export controls response", "open weight models government ban", "DeepSeek V4.1 Flash", "US China AI talks November 2026"]',
+  },
   'apple-intelligence-china-alibaba-iphone-duo-ai-reversal-2026': {
     metaTitle: "Three Years Late and Powered by Alibaba: Apple Intelligence Finally Arrives in China",
     metaDescription: "For three years, Apple Intelligence was the AI that 1.4 billion Chinese iPhone users could not have. Every Siri rewrite, every Writing Tools upgrade, every notification summary rolled out to the rest of the world while mainland China — Apple's second-largest market — waited on regulators. On October 14, the wait ended with a filing most Western consumers will never read: China's MIIT granted network-access permits for Apple Intelligence, Tongyi Qianwen, and Tongyi Wanxiang as a bundled service. The world's most valuable company did not beat China's AI regulations. It joined them.",
