@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'apple-intelligence-china-alibaba-iphone-duo-ai-reversal-2026': {
+    metaTitle: "Three Years Late and Powered by Alibaba: Apple Intelligence Finally Arrives in China",
+    metaDescription: "For three years, Apple Intelligence was the AI that 1.4 billion Chinese iPhone users could not have. Every Siri rewrite, every Writing Tools upgrade, every notification summary rolled out to the rest of the world while mainland China — Apple's second-largest market — waited on regulators. On October 14, the wait ended with a filing most Western consumers will never read: China's MIIT granted network-access permits for Apple Intelligence, Tongyi Qianwen, and Tongyi Wanxiang as a bundled service. The world's most valuable company did not beat China's AI regulations. It joined them.",
+    keywords: '["Apple Intelligence China launch 2026", "Alibaba Tongyi Qianwen Apple partnership", "MIIT approval Apple AI China", "iPhone Duo China foldable launch", "Apple China AI regulation compliance", "China smartphone AI competition 2026", "Apple Intelligence censorship China", "Tim Cook Alibaba Joe Tsai AI deal", "China foldable smartphone market share", "Western tech China AI policy reversal"]',
+  },
   'china-35b-nvidia-order-compute-triangle-2026': {
     metaTitle: "China's $35 Billion Nvidia Gamble: The Compute Triangle Reshaping Global AI",
     metaDescription: "Chinese tech giants placed $35 billion in orders for Nvidia's export-compliant RTX Pro 5500. Nvidia can deliver barely 10%. The gap is forcing three radically different bets on the future of AI compute.",
