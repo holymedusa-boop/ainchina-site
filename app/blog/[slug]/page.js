@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'moonshot-kimi-k3-1-pro-open-frontier-2026': {
+    metaTitle: "Kimi K3.1 Pro: The 0.7-Point Gap That Is Rewriting China's Open-Weight Ambition",
+    metaDescription: "Moonshot AI's Kimi K3.1 Pro scored 65.7% on Terminal-Bench 4.0 — 0.7 points behind Claude Opus 5.5 and 7.5 points ahead of GPT-6 Astra — while cutting API prices 33% and promising full open weights by November 4. Inside the launch, the deliberate cyber-capability downgrade, and what a 2.8T-parameter open model means for the frontier.",
+    keywords: '["Kimi K3.1 Pro", "Moonshot AI", "open weight model 2026", "Terminal-Bench 4.0", "China AI frontier", "Claude Opus 5.5 competitor", "kimi-k3.1-pro API pricing", "1M context window", "AI hallucination rate", "China open source AI"]',
+  },
   'china-ai-ghys-conjecture-shusheng-s2-machine-verified-proof-2026': {
     metaTitle: "When Machines Prove: How a Chinese AI Model Helped Crack a 30-Year Math Mystery",
     metaDescription: "On October 15, 2026, Shanghai AI Laboratory announced that a team of mathematicians, working with its Shusheng-S2 model, had proved the three-dimensional Ghys conjecture — a problem open since 1995. A Peking University team then verified every logical step in Lean. It is the first time a Chinese large language model has contributed to solving a world-class mathematical problem, and it may be the most detailed public record of what human-machine collaboration on frontier research actually looks like.",
