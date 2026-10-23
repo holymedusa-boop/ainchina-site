@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-ghys-conjecture-shusheng-s2-machine-verified-proof-2026': {
+    metaTitle: "When Machines Prove: How a Chinese AI Model Helped Crack a 30-Year Math Mystery",
+    metaDescription: "On October 15, 2026, Shanghai AI Laboratory announced that a team of mathematicians, working with its Shusheng-S2 model, had proved the three-dimensional Ghys conjecture — a problem open since 1995. A Peking University team then verified every logical step in Lean. It is the first time a Chinese large language model has contributed to solving a world-class mathematical problem, and it may be the most detailed public record of what human-machine collaboration on frontier research actually looks like.",
+    keywords: '',
+  },
   'deepseek-federal-ban-fascsa-first-ai-model-exile-2026': {
     metaTitle: "The First AI Model Exile: DeepSeek and the 21-Month Road to a Federal Ban",
     metaDescription: "On October 20, 2026, a supply-chain law built for Huawei routers and Chinese surveillance cameras produced America's first exile of an AI model company. The order against DeepSeek was signed on July 24, kept quiet for nearly three months, and published only after its own exception window had closed. Here is the escalation arc — and the mirror-image controls Beijing is building in response.",
