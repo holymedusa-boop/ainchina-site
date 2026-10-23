@@ -66,6 +66,8 @@ The base remains the hybrid attention stack Moonshot introduced with K3: **Kimi 
 
 Three of these decisions deserve scrutiny because each reverses an industry assumption.
 
+![Engineering collaboration — Moonshot's post-training team focused heavier RL on long-horizon tasks and real production trajectories rather than scaling the base architecture](https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800)
+
 **First: thinking-mode-only operation.** In Kimi Code, K3.1 Pro always reasons before answering. There is no toggle to disable it. Moonshot has decided that the latency cost of reasoning is non-negotiable — the model without its thinking loop is a different, lesser product.
 
 **Second: the mid-session cache trap.** Switching models or thinking-effort mid-session in Kimi Code invalidates the context cache and inflates token usage. Type a model ID wrong — say, `k3.1-pro` instead of the exact identifier — and requests silently fall back to K2.8 Preview *without thinking enabled*. It is a small detail that will generate real support tickets, and it reveals how aggressively Moonshot is pushing users toward the exact, metered frontier product.
@@ -174,6 +176,8 @@ K3.1 Pro ships through every channel Moonshot controls, and the channel strategy
 *Source: Moonshot AI K3.1 Pro availability announcement.*
 
 The enterprise detail — off by default — is easy to miss and worth dwelling on. Moonshot learned from K3's July overload: demand for frontier models in China now exceeds supply the moment supply exists. Enterprise administrators get an opt-in; consumers get whatever capacity remains. It is a rationing mechanism dressed as a settings page.
+
+![Robotics and AI hardware — the November 4 open-weights release will hand the largest open model ever published to every national lab, sovereign cloud, and enterprise with the infrastructure to serve it](https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=800)
 
 The 1M-token context, now standard across both the Pro and Highspeed variants and already democratized down to the free tier in the K2.8 Preview line, continues to be Moonshot's structural differentiator against every Western closed model. A million tokens is an entire product codebase, a full year of a company's financial filings, a novel manuscript — fed in one request, with KDA linear attention keeping decoding costs from exploding at the far end of the window.
 
