@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-jobs-buffer-steady-prudent-labor-displacement-2026': {
+    metaTitle: "Beijing Hits the Brakes: China's 'Steady and Prudent' AI Experiment vs. America's Layoff Free-For-All",
+    metaDescription: "On October 23, reports emerged that China's State Council General Office told employers to slow AI deployment in labor-intensive industries and explore 'unemployment buffer periods.' The same week, America crossed 100,000 AI-attributed job cuts for 2026. Two superpowers, two opposite answers to the same question: what happens to work when AI gets good enough to do it?",
+    keywords: '["China AI employment guidelines", "State Council AI jobs", "unemployment buffer period China", "AI labor displacement 2026", "China vs US AI policy", "steady and prudent AI", "AI layoffs America 2026", "labor-intensive automation China", "AI Plus plan jobs", "China tech employment policy"]',
+  },
   'moonshot-kimi-k3-1-pro-open-frontier-2026': {
     metaTitle: "Kimi K3.1 Pro: The 0.7-Point Gap That Is Rewriting China's Open-Weight Ambition",
     metaDescription: "Moonshot AI's Kimi K3.1 Pro scored 65.7% on Terminal-Bench 4.0 — 0.7 points behind Claude Opus 5.5 and 7.5 points ahead of GPT-6 Astra — while cutting API prices 33% and promising full open weights by November 4. Inside the launch, the deliberate cyber-capability downgrade, and what a 2.8T-parameter open model means for the frontier.",
