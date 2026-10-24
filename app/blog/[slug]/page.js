@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-data-center-buildout-concrete-frontier-2026': {
+    metaTitle: "Concrete Empire: China's $560 Billion Data Center Gold Rush",
+    metaDescription: "CNN found nearly 90 data center projects in one Inner Mongolia city. Beijing has pledged an estimated $560 billion. But power, not capital, may decide who wins the physical infrastructure race — and China's bet is already reshaping the geography of global AI.",
+    keywords: '',
+  },
   'china-ai-jobs-buffer-steady-prudent-labor-displacement-2026': {
     metaTitle: "Beijing Hits the Brakes: China's 'Steady and Prudent' AI Experiment vs. America's Layoff Free-For-All",
     metaDescription: "On October 23, reports emerged that China's State Council General Office told employers to slow AI deployment in labor-intensive industries and explore 'unemployment buffer periods.' The same week, America crossed 100,000 AI-attributed job cuts for 2026. Two superpowers, two opposite answers to the same question: what happens to work when AI gets good enough to do it?",
