@@ -85,6 +85,8 @@ Perhaps the most consequential design choice in the entire catalog is what it do
 
 This carve-out is deliberate. A developer in San Francisco or Berlin can continue calling DeepSeek's API, using Kimi's chatbot, or building on Zhipu's GLM models through hosted endpoints without any change. What changes is the *artifact* layer: downloading weights, licensing source code, or transferring model IP now requires registration and potentially a license.
 
+![Earth's network of light trails seen from orbit — the global flow of AI technology now passes through a new regulatory checkpoint, as Beijing requires registration for model weight exports while leaving API access unrestricted](https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=400&fit=crop)
+
 ---
 
 ## Section 4: The Registration Rush — DeepSeek and MiniMax Move First
@@ -167,6 +169,8 @@ The biomedicine entries target a different vulnerability. Proprietary cell and g
 | Photovoltaics | 12 items | Mostly restricted | Maintain supply chain dominance |
 
 The trilateral structure — AI, biotech, solar — maps neatly onto China's three most globally competitive technology sectors. The message is consistent: China will participate in global technology trade, but on terms that protect its strategic assets.
+
+![Data analytics dashboard with charts and metrics — the compliance and licensing landscape for AI technology trade between China and the rest of the world is about to get significantly more complex](https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=800&h=400&fit=crop)
 
 ---
 
