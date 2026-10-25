@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-token-loans-ai-banking-revolution-2026': {
+    metaTitle: "The Bank That Asked for API Logs Instead of a Property Deed: Inside China's Token Loan Revolution",
+    metaDescription: "Chinese banks have started lending to AI companies based on token consumption data — not collateral. From Guangzhou's first Token Loan in August to Shenzhen's 100-billion-yuan compute credit push, a quiet financial revolution is turning China's AI usage data into a credit currency. Here's why the West has nothing like it.",
+    keywords: '["Token Loan China", "词元贷", "AI banking innovation 2026", "China compute finance", "token consumption lending", "Guangdong AI finance", "Shenzhen AI loans", "China fintech AI", "Bank of China token loan", "AI credit scoring China"]',
+  },
   'china-ai-export-controls-model-weights-sovereignty-2026': {
     metaTitle: "The Great Filter: How China's 23-Technology Export Catalog Is Rewriting the Rules of Global AI",
     metaDescription: "On October 16, China's Ministry of Commerce quietly published a 40-technology export control catalog that includes model weights, source code, and AI chip design methodology. Four days later, DeepSeek and MiniMax became the first companies to register — and the global AI industry woke up to a new reality: the flow of AI technology across borders now has two gatekeepers, not one.",
