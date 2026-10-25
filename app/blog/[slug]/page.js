@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-export-controls-model-weights-sovereignty-2026': {
+    metaTitle: "The Great Filter: How China's 23-Technology Export Catalog Is Rewriting the Rules of Global AI",
+    metaDescription: "On October 16, China's Ministry of Commerce quietly published a 40-technology export control catalog that includes model weights, source code, and AI chip design methodology. Four days later, DeepSeek and MiniMax became the first companies to register — and the global AI industry woke up to a new reality: the flow of AI technology across borders now has two gatekeepers, not one.",
+    keywords: '["China AI export controls 2026", "MOFCOM Announcement 48", "model weights export restriction", "DeepSeek MiniMax registration", "China prohibited technologies catalog", "AI sovereignty", "China US AI trade war", "2 trillion parameter threshold", "AI chip design export", "China tech policy October 2026"]',
+  },
   'china-data-center-buildout-concrete-frontier-2026': {
     metaTitle: "Concrete Empire: China's $560 Billion Data Center Gold Rush",
     metaDescription: "CNN found nearly 90 data center projects in one Inner Mongolia city. Beijing has pledged an estimated $560 billion. But power, not capital, may decide who wins the physical infrastructure race — and China's bet is already reshaping the geography of global AI.",
