@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-qwen-ai-global-infrastructure-microsoft-decision-1-2026': {
+    metaTitle: "Microsoft's Newest AI Runs on China's Qwen: The Open-Source Inflection Point Nobody Saw Coming",
+    metaDescription: "When Microsoft shipped Decision-1 on October 9, it quietly disclosed the model was post-trained from Alibaba's Qwen3.5-9B. The line later vanished from the model card — but the significance didn't. China's open-source AI is now the invisible backbone of the global tech stack.",
+    keywords: '["Microsoft Decision-1 Qwen", "Qwen3.5-9B open source", "Alibaba AI global infrastructure", "China open weights AI 2026", "decision model category", "Microsoft Qwen partnership", "Qwen derivatives Hugging Face", "Chinese AI models worldwide", "Apache 2.0 AI licensing", "Qwen ecosystem dominance"]',
+  },
   'china-token-loans-ai-banking-revolution-2026': {
     metaTitle: "The Bank That Asked for API Logs Instead of a Property Deed: Inside China's Token Loan Revolution",
     metaDescription: "Chinese banks have started lending to AI companies based on token consumption data — not collateral. From Guangzhou's first Token Loan in August to Shenzhen's 100-billion-yuan compute credit push, a quiet financial revolution is turning China's AI usage data into a credit currency. Here's why the West has nothing like it.",
