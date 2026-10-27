@@ -10,6 +10,11 @@ const postMetadata = {
     metaDescription: "When Microsoft shipped Decision-1 on October 9, it quietly disclosed the model was post-trained from Alibaba's Qwen3.5-9B. The line later vanished from the model card — but the significance didn't. China's open-source AI is now the invisible backbone of the global tech stack.",
     keywords: '["Microsoft Decision-1 Qwen", "Qwen3.5-9B open source", "Alibaba AI global infrastructure", "China open weights AI 2026", "decision model category", "Microsoft Qwen partnership", "Qwen derivatives Hugging Face", "Chinese AI models worldwide", "Apache 2.0 AI licensing", "Qwen ecosystem dominance"]',
   },
+  'china-token-economy-500-trillion-caict-report-2026': {
+    metaTitle: "China's 500-Trillion-Token Day: When AI Became a Utility — and Beijing Started Metering It",
+    metaDescription: "On October 23, China's top telecom research authority published a report that reads less like an industry study and more like a utility commission's first annual review. China now consumes 500 trillion AI tokens per day — up 1,000x in 30 months — while charging 8.7 times less per token than the global average. The token economy is no longer a metaphor. It is a measured, priced, and regulated market.",
+    keywords: '',
+  },
   'china-token-loans-ai-banking-revolution-2026': {
     metaTitle: "The Bank That Asked for API Logs Instead of a Property Deed: Inside China's Token Loan Revolution",
     metaDescription: "Chinese banks have started lending to AI companies based on token consumption data — not collateral. From Guangzhou's first Token Loan in August to Shenzhen's 100-billion-yuan compute credit push, a quiet financial revolution is turning China's AI usage data into a credit currency. Here's why the West has nothing like it.",
