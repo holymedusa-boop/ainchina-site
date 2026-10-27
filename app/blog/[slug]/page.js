@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'kimi-k3-pro-moonshot-open-weight-frontier-challenge-2026': {
+    metaTitle: "Kimi K3.1 Pro and the Three-Point Gap: How Moonshot Built an Open-Weight Challenger to the World's Best AI",
+    metaDescription: "On October 23, Moonshot AI released Kimi K3.1 Pro — a 2.8-trillion-parameter open-weight model that scores within three points of Claude Opus 5.5 on the Artificial Analysis Intelligence Index, at one-fifth the cost. Full weights arrive November 4. If they do, the gap between open and closed AI shrinks from 12 points to three — the narrowest in history.",
+    keywords: '',
+  },
   'china-qwen-ai-global-infrastructure-microsoft-decision-1-2026': {
     metaTitle: "Microsoft's Newest AI Runs on China's Qwen: The Open-Source Inflection Point Nobody Saw Coming",
     metaDescription: "When Microsoft shipped Decision-1 on October 9, it quietly disclosed the model was post-trained from Alibaba's Qwen3.5-9B. The line later vanished from the model card — but the significance didn't. China's open-source AI is now the invisible backbone of the global tech stack.",
