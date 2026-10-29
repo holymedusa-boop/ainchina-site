@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-robot-giants-split-unitree-zhiyuan-general-ai-embodied-bet-2026': {
+    metaTitle: "China's Robot Giants Split: Unitree vs Zhiyuan and the Bet That Will Decide Embodied AI",
+    metaDescription: "Within 24 hours, Unitree's Wang Xingxing declared general AI would 'break through' embodied intelligence in 1-2 years, while Zhiyuan's Peng Zhihui bet on full-stack models. Their Q3 numbers reveal two opposite futures.",
+    keywords: '',
+  },
   'moore-threads-unitree-china-ai-hardware-earnings-divide-2026': {
     metaTitle: "The Great Earnings Divide: How Moore Threads and Unitree Told Opposite Profit Stories on the Same Day",
     metaDescription: "On October 28, China's two most watched AI hardware companies filed quarterly reports hours apart on the same exchange. Moore Threads posted its first profit ever — revenue up 1,774%. Unitree Robotics grew revenue 70% but watched profit halve. Together, they reveal the real state of China's AI hardware push.",
