@@ -5,6 +5,16 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'deepseek-15-billion-funding-star-market-ipo-2026': {
+    metaTitle: "DeepSeek's $15 Billion Bet: The Largest AI Funding Round in Chinese History",
+    metaDescription: "Eleven days after becoming the first AI model company exiled from U.S. federal systems, DeepSeek closed the largest funding round in Chinese AI history — $15 billion from 15+ investors at a $75 billion pre-money valuation. This is the complete timeline of how a hedge fund side project became the centerpiece of China's AI capital machine.",
+    keywords: '["DeepSeek $15 billion funding round 2026", "DeepSeek STAR Market IPO", "DeepSeek valuation 500 billion yuan", "China AI funding record 2026", "Tencent CATL DeepSeek investors", "DeepSeek CITIC Securities IPO", "largest AI funding round China history", "DeepSeek pre-IPO round October 2026", "Liang Wenfeng DeepSeek capital", "China AI investment boom 2026"]',
+  },
+  'chery-ai-metamorphosis-automaker-robot-company-2026': {
+    metaTitle: "Chery's AI Metamorphosis: From Car Exporter to Robot Maker",
+    metaDescription: "Chery, China's top auto exporter for 23 straight years, just unveiled an LLM, a 3nm chip, a home humanoid robot, a Robotaxi, and a flying car — in a single week. The question is whether any automaker can pull off this kind of transformation.",
+    keywords: '',
+  },
   'china-robot-giants-split-unitree-zhiyuan-general-ai-embodied-bet-2026': {
     metaTitle: "China's Robot Giants Split: Unitree vs Zhiyuan and the Bet That Will Decide Embodied AI",
     metaDescription: "Within 24 hours, Unitree's Wang Xingxing declared general AI would 'break through' embodied intelligence in 1-2 years, while Zhiyuan's Peng Zhihui bet on full-stack models. Their Q3 numbers reveal two opposite futures.",
