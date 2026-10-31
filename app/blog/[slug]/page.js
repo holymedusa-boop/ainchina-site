@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-industrial-profit-surge-semiconductor-boom-2026': {
+    metaTitle: "The Quiet Engine: How AI Is Powering China's Biggest Industrial Profit Boom in a Decade",
+    metaDescription: "While Chinese AI stocks whipsaw on bubble fears, a far more consequential story is unfolding in the real economy: industrial profits just surged 15.5% in the first nine months, with electronics profits doubling and semiconductor earnings up 18.5-fold. AI has become the engine of China's industrial transformation — and the numbers are just starting to show it.",
+    keywords: '["China industrial profits 2026", "AI semiconductor profit boom China", "NBS industrial data September 2026", "China electronics profits double", "high-tech manufacturing China 52% growth", "AI supply chain economics", "China semiconductor profits 18.5x", "SMIC Q2 2026 earnings", "China AI industrial transformation", "electronics manufacturing profit surge"]',
+  },
   'deepseek-15-billion-funding-star-market-ipo-2026': {
     metaTitle: "DeepSeek's $15 Billion Bet: The Largest AI Funding Round in Chinese History",
     metaDescription: "Eleven days after becoming the first AI model company exiled from U.S. federal systems, DeepSeek closed the largest funding round in Chinese AI history — $15 billion from 15+ investors at a $75 billion pre-money valuation. This is the complete timeline of how a hedge fund side project became the centerpiece of China's AI capital machine.",
