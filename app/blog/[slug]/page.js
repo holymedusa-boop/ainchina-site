@@ -10,6 +10,11 @@ const postMetadata = {
     metaDescription: "Eleven days after becoming the first AI model company exiled from U.S. federal systems, DeepSeek closed the largest funding round in Chinese AI history — $15 billion from 15+ investors at a $75 billion pre-money valuation. This is the complete timeline of how a hedge fund side project became the centerpiece of China's AI capital machine.",
     keywords: '["DeepSeek $15 billion funding round 2026", "DeepSeek STAR Market IPO", "DeepSeek valuation 500 billion yuan", "China AI funding record 2026", "Tencent CATL DeepSeek investors", "DeepSeek CITIC Securities IPO", "largest AI funding round China history", "DeepSeek pre-IPO round October 2026", "Liang Wenfeng DeepSeek capital", "China AI investment boom 2026"]',
   },
+  'deepseek-huawei-open-source-cuda-nvidia-china-ai-2026': {
+    metaTitle: "Breaking the CUDA Wall: How DeepSeek and Huawei Are Cracking NVIDIA's Software Empire",
+    metaDescription: "NVIDIA's real moat was never silicon — it was CUDA, the software layer that locked four million developers into its ecosystem. Now DeepSeek and Huawei have open-sourced a full toolchain that could tear down that wall from the inside.",
+    keywords: '["DeepSeek Huawei CUDA alternative 2026", "TileLang open source kernel language", "Huawei CANN vs NVIDIA CUDA", "Ascend 950PR specifications", "China AI chip software ecosystem 2026", "DeepSeek open source Ascend toolkit", "NVIDIA China market share collapse", "export controls AI chips China", "Huawei Ascend production 2026", "China AI software sovereignty"]',
+  },
   'chery-ai-metamorphosis-automaker-robot-company-2026': {
     metaTitle: "Chery's AI Metamorphosis: From Car Exporter to Robot Maker",
     metaDescription: "Chery, China's top auto exporter for 23 straight years, just unveiled an LLM, a 3nm chip, a home humanoid robot, a Robotaxi, and a flying car — in a single week. The question is whether any automaker can pull off this kind of transformation.",
