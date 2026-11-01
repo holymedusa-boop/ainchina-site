@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'huawei-ascend-950-supernode-deepseek-nvidia-export-controls-2026': {
+    metaTitle: "Export Controls Built a Monster: How Huawei's 8,192-Chip SuperNode Just Rewrote the Rules of AI Compute",
+    metaDescription: "US export controls were designed to starve China's AI ambitions of cutting-edge chips. Instead, they forced Huawei to build the world's largest AI supercomputer — an 8,192-NPU supernode now entering mass production with DeepSeek, ByteDance, and Meituan as anchor customers. The sanctions didn't slow China down. They changed what China built.",
+    keywords: '["Huawei Ascend 950 SuperNode 2026", "DeepSeek Huawei chips training", "Atlas 950 SuperPoD specs", "China AI compute sovereignty", "NVIDIA export controls backfire", "Lingqiao interconnect", "8192 NPU supercomputer", "DeepSeek Ascend migration", "China domestic AI chip 2026", "Huawei supernode mass production"]',
+  },
   'china-ai-industrial-profit-surge-semiconductor-boom-2026': {
     metaTitle: "The Quiet Engine: How AI Is Powering China's Biggest Industrial Profit Boom in a Decade",
     metaDescription: "While Chinese AI stocks whipsaw on bubble fears, a far more consequential story is unfolding in the real economy: industrial profits just surged 15.5% in the first nine months, with electronics profits doubling and semiconductor earnings up 18.5-fold. AI has become the engine of China's industrial transformation — and the numbers are just starting to show it.",
