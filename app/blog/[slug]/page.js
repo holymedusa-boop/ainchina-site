@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'wuzhen-summit-open-source-ai-global-tech-rules-2026': {
+    metaTitle: "Wuzhen 2026: How China's Open-Source AI Gamble Is Rewriting Global Tech Rules",
+    metaDescription: "At the World Internet Conference in Wuzhen, China made its boldest bet yet: open-source AI as the foundation of a new global technology order. With 27 sub-forums, 80 countries, and the architects of DeepSeek and Qwen in attendance, the summit revealed how deeply Beijing has committed to a strategy Washington didn't see coming.",
+    keywords: '',
+  },
   'china-ai-stock-correction-star50-bubble-burst-480-billion-2026': {
     metaTitle: "Correction or Collapse? Inside China's $480 Billion AI Stock Reckoning",
     metaDescription: "China's STAR50 index has fallen 40% in under four months, erasing $480 billion in market value. Reuters says the AI bubble has burst. Beijing calls it a rational correction. The truth sits somewhere more interesting — in the gap between speculative excess and genuine industrial momentum.",
