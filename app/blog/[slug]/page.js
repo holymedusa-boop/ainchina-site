@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-stock-correction-star50-bubble-burst-480-billion-2026': {
+    metaTitle: "Correction or Collapse? Inside China's $480 Billion AI Stock Reckoning",
+    metaDescription: "China's STAR50 index has fallen 40% in under four months, erasing $480 billion in market value. Reuters says the AI bubble has burst. Beijing calls it a rational correction. The truth sits somewhere more interesting — in the gap between speculative excess and genuine industrial momentum.",
+    keywords: '["China AI stocks crash 2026", "STAR50 index correction", "China AI bubble burst", "CSRC IPO rules embodied AI", "MOFCOM export controls AI", "DeepSeek export license", "Unitree IPO", "China semiconductor selloff", "AI market correction November 2026", "Kimi K3.1 Pro open weights", "China AI industry fundamentals", "Global Times AI bubble rebuttal"]',
+  },
   'huawei-ascend-950-supernode-deepseek-nvidia-export-controls-2026': {
     metaTitle: "Export Controls Built a Monster: How Huawei's 8,192-Chip SuperNode Just Rewrote the Rules of AI Compute",
     metaDescription: "US export controls were designed to starve China's AI ambitions of cutting-edge chips. Instead, they forced Huawei to build the world's largest AI supercomputer — an 8,192-NPU supernode now entering mass production with DeepSeek, ByteDance, and Meituan as anchor customers. The sanctions didn't slow China down. They changed what China built.",
