@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'apple-qwen-iphone-china-ai-partnership-2026': {
+    metaTitle: "When Qwen Met Siri: The 21-Month Saga of Apple's Biggest China AI Bet",
+    metaDescription: "On November 4, 2026, Apple flipped the switch on the most consequential AI partnership in its history: Alibaba's Qwen now powers Apple Intelligence on Chinese iPhones. From a February 2025 offhand remark by Joe Tsai to today's developer beta, the journey reveals how China's AI industry went from afterthought to indispensable — and why distribution, not benchmarks, is the real prize.",
+    keywords: '',
+  },
   'qwen-weight-space-programming-open-weight-laboratory-2026': {
     metaTitle: "The Qwen Laboratory: Two Breakthroughs in 72 Hours That Made China's Open Weights the World's Test Bench",
     metaDescription: "While markets obsess over China's AI bubble, the world's researchers quietly voted with their experiments. In 72 hours, two landmark studies — one teaching a frontier model to edit Qwen's neural weights directly, another orchestrating five small Qwen models to beat Claude Fable 5 — revealed something deeper: China's open-weight models have become the default substrate for global AI science.",
