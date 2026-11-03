@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'qwen-weight-space-programming-open-weight-laboratory-2026': {
+    metaTitle: "The Qwen Laboratory: Two Breakthroughs in 72 Hours That Made China's Open Weights the World's Test Bench",
+    metaDescription: "While markets obsess over China's AI bubble, the world's researchers quietly voted with their experiments. In 72 hours, two landmark studies — one teaching a frontier model to edit Qwen's neural weights directly, another orchestrating five small Qwen models to beat Claude Fable 5 — revealed something deeper: China's open-weight models have become the default substrate for global AI science.",
+    keywords: '',
+  },
   'wuzhen-summit-open-source-ai-global-tech-rules-2026': {
     metaTitle: "Wuzhen 2026: How China's Open-Source AI Gamble Is Rewriting Global Tech Rules",
     metaDescription: "At the World Internet Conference in Wuzhen, China made its boldest bet yet: open-source AI as the foundation of a new global technology order. With 27 sub-forums, 80 countries, and the architects of DeepSeek and Qwen in attendance, the summit revealed how deeply Beijing has committed to a strategy Washington didn't see coming.",
