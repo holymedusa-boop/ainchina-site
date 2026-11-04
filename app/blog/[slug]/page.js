@@ -10,6 +10,11 @@ const postMetadata = {
     metaDescription: "On November 4, 2026, Apple flipped the switch on the most consequential AI partnership in its history: Alibaba's Qwen now powers Apple Intelligence on Chinese iPhones. From a February 2025 offhand remark by Joe Tsai to today's developer beta, the journey reveals how China's AI industry went from afterthought to indispensable — and why distribution, not benchmarks, is the real prize.",
     keywords: '',
   },
+  'china-ai-inference-era-crosses-threshold-175-trillion-tokens-2026': {
+    metaTitle: "China's AI Just Crossed the Inference Threshold: 175 Trillion Tokens a Day",
+    metaDescription: "On October 31, a little-noticed report from a Beijing research institute recorded a milestone most of the world missed: China's AI inference data volume surpassed training volume for the first time. With 175 trillion tokens now flowing through Chinese models every day — a thousandfold increase in thirty months — the industry has quietly flipped from building intelligence to consuming it.",
+    keywords: '',
+  },
   'qwen-weight-space-programming-open-weight-laboratory-2026': {
     metaTitle: "The Qwen Laboratory: Two Breakthroughs in 72 Hours That Made China's Open Weights the World's Test Bench",
     metaDescription: "While markets obsess over China's AI bubble, the world's researchers quietly voted with their experiments. In 72 hours, two landmark studies — one teaching a frontier model to edit Qwen's neural weights directly, another orchestrating five small Qwen models to beat Claude Fable 5 — revealed something deeper: China's open-weight models have become the default substrate for global AI science.",
