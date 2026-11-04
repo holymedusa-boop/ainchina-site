@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'kimi-k3-1-pro-open-weights-frontier-gap-2026': {
+    metaTitle: "The Download That Shrank the Open-Source Gap to Three Points: Kimi K3.1 Pro Goes Open-Weight",
+    metaDescription: "On November 4, Moonshot AI published the full weights of Kimi K3.1 Pro — a 2.8-trillion-parameter model that outscores GPT-6 Astra and nearly matches Claude Opus 5.5 on coding benchmarks. The gap between the best open model and the best closed model just narrowed from 12 points to 3. Here's why that matters more than any benchmark headline.",
+    keywords: '',
+  },
   'apple-qwen-iphone-china-ai-partnership-2026': {
     metaTitle: "When Qwen Met Siri: The 21-Month Saga of Apple's Biggest China AI Bet",
     metaDescription: "On November 4, 2026, Apple flipped the switch on the most consequential AI partnership in its history: Alibaba's Qwen now powers Apple Intelligence on Chinese iPhones. From a February 2025 offhand remark by Joe Tsai to today's developer beta, the journey reveals how China's AI industry went from afterthought to indispensable — and why distribution, not benchmarks, is the real prize.",
