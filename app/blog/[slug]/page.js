@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-bubble-burst-480-billion-star50-2026': {
+    metaTitle: "China's AI Bubble Just Burst: $480 Billion Gone, and the Real Test Begins",
+    metaDescription: "In less than four months, China's STAR50 index of AI and chip champions collapsed 40%, erasing roughly $480 billion in market value. Unitree — oversubscribed 8,000 times at its IPO — has halved. GPU makers that soared 700% on debut have given back half their gains. The index still trades at 100 times earnings, triple the Nasdaq 100. What China's crash reveals about the global AI trade may be the most important market story of 2026.",
+    keywords: '',
+  },
   'kimi-k3-1-pro-open-weights-export-control-escape-hatch-2026': {
     metaTitle: "The Open-Weight Escape Hatch: Why Kimi K3.1 Pro's 'Free' Model Is China's Cleverest Regulatory Move",
     metaDescription: "On November 4, Moonshot AI published the 2.8-trillion-parameter Kimi K3.1 Pro weights on Hugging Face, and the internet celebrated the world's strongest open model. But read the fine print: a revenue-gated license, a 1.56-terabyte checkpoint almost nobody can run, and a release date that landed exactly one week after Beijing proposed export controls that would have trapped this model inside China. The most consequential AI release of the year isn't a triumph of open source. It's regulatory arbitrage — and it changes everything about what 'open' means.",
