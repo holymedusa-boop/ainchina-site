@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'kimi-k3-1-pro-open-weights-export-control-escape-hatch-2026': {
+    metaTitle: "The Open-Weight Escape Hatch: Why Kimi K3.1 Pro's 'Free' Model Is China's Cleverest Regulatory Move",
+    metaDescription: "On November 4, Moonshot AI published the 2.8-trillion-parameter Kimi K3.1 Pro weights on Hugging Face, and the internet celebrated the world's strongest open model. But read the fine print: a revenue-gated license, a 1.56-terabyte checkpoint almost nobody can run, and a release date that landed exactly one week after Beijing proposed export controls that would have trapped this model inside China. The most consequential AI release of the year isn't a triumph of open source. It's regulatory arbitrage — and it changes everything about what 'open' means.",
+    keywords: '',
+  },
   'kimi-k3-1-pro-open-weights-frontier-gap-2026': {
     metaTitle: "The Download That Shrank the Open-Source Gap to Three Points: Kimi K3.1 Pro Goes Open-Weight",
     metaDescription: "On November 4, Moonshot AI published the full weights of Kimi K3.1 Pro — a 2.8-trillion-parameter model that outscores GPT-6 Astra and nearly matches Claude Opus 5.5 on coding benchmarks. The gap between the best open model and the best closed model just narrowed from 12 points to 3. Here's why that matters more than any benchmark headline.",
