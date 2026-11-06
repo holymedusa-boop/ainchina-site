@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-robot-tactile-gold-rush-component-shift-2026': {
+    metaTitle: "The Tactile Gold Rush: How China's Robot Money Is Moving From Bodies to Senses",
+    metaDescription: "In the first half of 2026, China's embodied intelligence sector absorbed ¥93.5 billion across 322 deals. But by October, deal count had nearly halved. The easy money for full-robot startups is drying up — and a new wave of capital is flowing somewhere unexpected: into the components that let robots feel. Dexterous hands, tactile sensors, and electronic skins are attracting outsize funding while the broader sector cools. The logic is simple and ruthless — vision and language can be trained on the internet, but touch must be collected by hand.",
+    keywords: '',
+  },
   'china-ai-bubble-burst-480-billion-star50-2026': {
     metaTitle: "China's AI Bubble Just Burst: $480 Billion Gone, and the Real Test Begins",
     metaDescription: "In less than four months, China's STAR50 index of AI and chip champions collapsed 40%, erasing roughly $480 billion in market value. Unitree — oversubscribed 8,000 times at its IPO — has halved. GPU makers that soared 700% on debut have given back half their gains. The index still trades at 100 times earnings, triple the Nasdaq 100. What China's crash reveals about the global AI trade may be the most important market story of 2026.",
