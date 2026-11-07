@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-chip-first-profits-moore-threads-cambricon-2026': {
+    metaTitle: "China's AI Chip Startups Just Turned Their First Profit. It Only Took Seven Years, a Trade War, and 1,774% Growth",
+    metaDescription: "For the first time since China's GPU startups began chasing Nvidia, three of them — Moore Threads, MetaX, and Cambricon — reported profitable quarters in the same three-month period. Moore Threads grew revenue 1,774% year-over-year. Cambricon doubled profit to a record 1.4 billion yuan. But beneath the milestone, margins are compressing, cash is draining, and the memory cost squeeze is just beginning. Here is how a decade of losses, export controls, and state capital produced China's chip profitability moment — and why the hardest part starts now.",
+    keywords: '',
+  },
   'china-mobile-100-billion-ai-compute-bet-2026': {
     metaTitle: "China Mobile's $14 Billion AI Bet: The World's Largest Carrier Is Becoming a Compute Company",
     metaDescription: "On November 6, China Mobile chairman Chen Zhongyue stood on stage at the 2026 Mobile Network Conference and announced something no telecom executive has ever said: his company will spend more than 100 billion yuan on computing power alone in 2027. Seven gigawatt-scale data centers. Multiple 10,000-GPU clusters. AI-generated traffic growing five-fold in a single year. The world's largest wireless carrier is no longer in the business of connecting phones. It is in the business of producing intelligence.",
