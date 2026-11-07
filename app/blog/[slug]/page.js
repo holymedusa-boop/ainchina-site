@@ -5,6 +5,11 @@ import Link from 'next/link'
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-mobile-100-billion-ai-compute-bet-2026': {
+    metaTitle: "China Mobile's $14 Billion AI Bet: The World's Largest Carrier Is Becoming a Compute Company",
+    metaDescription: "On November 6, China Mobile chairman Chen Zhongyue stood on stage at the 2026 Mobile Network Conference and announced something no telecom executive has ever said: his company will spend more than 100 billion yuan on computing power alone in 2027. Seven gigawatt-scale data centers. Multiple 10,000-GPU clusters. AI-generated traffic growing five-fold in a single year. The world's largest wireless carrier is no longer in the business of connecting phones. It is in the business of producing intelligence.",
+    keywords: '',
+  },
   'china-robot-tactile-gold-rush-component-shift-2026': {
     metaTitle: "The Tactile Gold Rush: How China's Robot Money Is Moving From Bodies to Senses",
     metaDescription: "In the first half of 2026, China's embodied intelligence sector absorbed ¥93.5 billion across 322 deals. But by October, deal count had nearly halved. The easy money for full-robot startups is drying up — and a new wave of capital is flowing somewhere unexpected: into the components that let robots feel. Dexterous hands, tactile sensors, and electronic skins are attracting outsize funding while the broader sector cools. The logic is simple and ruthless — vision and language can be trained on the internet, but touch must be collected by hand.",
