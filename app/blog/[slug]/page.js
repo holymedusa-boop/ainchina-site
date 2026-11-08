@@ -34,6 +34,11 @@ function extractToc(content) {
 
 // SEO Metadata for each article
 const postMetadata = {
+  'sand-ai-magi-2-open-source-video-unicorn-2026': {
+    metaTitle: "Sand.ai: The Open-Source Video AI Startup That Bet Against Diffusion — and Just Raised $200 Million",
+    metaDescription: "While the world debated whether Google Veo or OpenAI Sora would own the future of AI video, a Beijing startup quietly built the largest open-source video generation model ever released. Sand.ai's MAGI-2 runs 114 billion parameters on a mixture-of-experts architecture, generates a 10-second 1080p video for 0.5 yuan, and just helped the company close a $200 million round at unicorn valuation. Here is how a former Microsoft Research Asia scientist's contrarian bet on autoregressive video is reshaping the economics of AI-generated media.",
+    keywords: '',
+  },
   'china-ai-chip-first-profits-moore-threads-cambricon-2026': {
     metaTitle: "China's AI Chip Startups Just Turned Their First Profit. It Only Took Seven Years, a Trade War, and 1,774% Growth",
     metaDescription: "For the first time since China's GPU startups began chasing Nvidia, three of them — Moore Threads, MetaX, and Cambricon — reported profitable quarters in the same three-month period. Moore Threads grew revenue 1,774% year-over-year. Cambricon doubled profit to a record 1.4 billion yuan. But beneath the milestone, margins are compressing, cash is draining, and the memory cost squeeze is just beginning. Here is how a decade of losses, export controls, and state capital produced China's chip profitability moment — and why the hardest part starts now.",
