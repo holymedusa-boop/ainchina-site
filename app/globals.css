@@ -26,6 +26,7 @@
   --cat-chips: oklch(0.78 0.12 45);
   --cat-robotics: oklch(0.78 0.12 150);
   --cat-compute: oklch(0.78 0.12 320);
+  --cat-apps: oklch(0.78 0.12 180);
 
   /* Type */
   --font-display: 'Archivo', 'Noto Sans SC', system-ui, -apple-system, sans-serif;

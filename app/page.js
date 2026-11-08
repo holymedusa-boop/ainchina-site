@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import TopicGrid from './components/TopicGrid'
+import { topicOf } from '../lib/topics'
 
 // Auto-import posts from shared metadata
 const { allPosts } = require('../lib/posts-meta')
@@ -27,7 +28,7 @@ const posts = allPosts.slice(0, 9).map(post => ({
 const [lead, ...rest] = posts
 const secondaries = rest.slice(0, 2)
 const railPosts = posts.slice(0, 8)
-const gridPosts = allPosts.slice(0, 60).map(post => ({
+const gridPosts = allPosts.map(post => ({
   ...post,
   excerpt: post.excerpt || fallbackExcerpts[post.slug] || '',
   date: formatDate(post.date)
@@ -163,7 +164,7 @@ export default function Home() {
                 </span>
               </div>
               <div className="mono" style={{ color: 'var(--muted)', textTransform: 'uppercase', fontWeight: 700, marginBottom: '10px' }}>
-                {lead.category} · {lead.date}
+                {topicOf(lead)} · {lead.date}
               </div>
               <h2 className="hl" style={{
                 fontSize: 'clamp(26px, 3.2vw, 40px)',
@@ -194,7 +195,7 @@ export default function Home() {
                     />
                   )}
                   <div className="mono" style={{ color: 'var(--muted)', textTransform: 'uppercase', fontWeight: 700, marginBottom: '8px' }}>
-                    {post.category} · {post.date}
+                    {topicOf(post)} · {post.date}
                   </div>
                   <h3 className="hl" style={{
                     fontSize: '20px',
@@ -233,7 +234,7 @@ export default function Home() {
                   <span className="rail-num">{i + 1}</span>
                   <div>
                     <div className="mono" style={{ color: 'var(--muted-2)', textTransform: 'uppercase', fontSize: '10px', fontWeight: 700, marginBottom: '3px' }}>
-                      {post.category}
+                      {topicOf(post)}
                     </div>
                     <Link href={`/blog/${post.slug}/`} className="hl" style={{
                       fontSize: '14.5px',

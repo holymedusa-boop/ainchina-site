@@ -2,6 +2,7 @@
 
 import { useState } from 'react'
 import Link from 'next/link'
+import { topicOf, TOPIC_COLORS } from '../../lib/topics'
 
 export default function BlogSearch({ posts }) {
   const [query, setQuery] = useState('')
@@ -108,7 +109,7 @@ export default function BlogSearch({ posts }) {
                     className="mono"
                     style={{
                       display: 'inline-block',
-                      color: 'var(--accent)',
+                      color: TOPIC_COLORS[topicOf(post)],
                       fontSize: '11px',
                       fontWeight: 700,
                       letterSpacing: '.08em',
@@ -116,7 +117,7 @@ export default function BlogSearch({ posts }) {
                       marginBottom: '12px'
                     }}
                   >
-                    {post.category}
+                    {topicOf(post)}
                   </span>
                   <h2
                     className="group-hover:text-[var(--accent)] transition-colors"
