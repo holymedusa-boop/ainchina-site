@@ -3,16 +3,6 @@
 import { useState } from 'react'
 import Link from 'next/link'
 
-const categories = {
-  'AI Trends': 'bg-blue-900/30 text-blue-400 border border-blue-800/50',
-  'AI Infrastructure': 'bg-purple-900/30 text-purple-400 border border-purple-800/50',
-  'AI Applications': 'bg-green-900/30 text-green-400 border border-green-800/50',
-  'AI Chatbots': 'bg-orange-900/30 text-orange-400 border border-orange-800/50',
-  'Market Intelligence': 'bg-pink-900/30 text-pink-400 border border-pink-800/50',
-  'Technical Analysis': 'bg-indigo-900/30 text-indigo-400 border border-indigo-800/50',
-  'AI Video': 'bg-red-900/30 text-red-400 border border-red-800/50'
-}
-
 export default function BlogSearch({ posts }) {
   const [query, setQuery] = useState('')
 
@@ -26,31 +16,55 @@ export default function BlogSearch({ posts }) {
 
   return (
     <>
-      <div className="mt-6 max-w-lg">
+      <div className="mt-8" style={{ maxWidth: '420px' }}>
         <input
           type="text"
           value={query}
           onChange={(e) => setQuery(e.target.value)}
-          placeholder="Search articles..."
-          className="w-full px-4 py-3 bg-[#111] border border-[#2a2a2a] rounded-lg text-[#e5e5e5] placeholder-[#525252] focus:outline-none focus:border-[#22d3ee] transition-colors"
-          style={{ fontSize: '15px' }}
+          placeholder="SEARCH ARTICLES…"
+          className="mono"
+          style={{
+            width: '100%',
+            padding: '12px 16px',
+            background: 'transparent',
+            border: '1px solid var(--line)',
+            borderRadius: '10px',
+            color: 'var(--fg)',
+            fontSize: '12px',
+            letterSpacing: '.08em',
+            outline: 'none',
+            transition: 'border-color .2s'
+          }}
+          onFocus={(e) => { e.target.style.borderColor = 'var(--accent)' }}
+          onBlur={(e) => { e.target.style.borderColor = 'var(--line)' }}
         />
         {query.trim() && (
-          <p className="mt-2 text-sm text-[#525252]">
-            {filtered.length} result{filtered.length !== 1 ? 's' : ''} for "{query}"
+          <p className="mono" style={{ marginTop: '10px', fontSize: '11px', color: 'var(--muted-2)' }}>
+            {filtered.length} RESULT{filtered.length !== 1 ? 'S' : ''} FOR “{query.toUpperCase()}”
           </p>
         )}
       </div>
 
-      <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <div className="wrap" style={{ paddingTop: '48px', paddingBottom: '24px' }}>
         {filtered.length === 0 ? (
-          <div className="text-center py-20">
-            <p className="text-lg text-[#737373]">No articles match your search.</p>
+          <div style={{ textAlign: 'center', padding: '80px 0' }}>
+            <p style={{ fontSize: '17px', color: 'var(--muted-2)' }}>No articles match your search.</p>
             <button
               onClick={() => setQuery('')}
-              className="mt-4 px-4 py-2 bg-[#1a1a1a] border border-[#2a2a2a] rounded-lg text-[#a3a3a3] hover:text-[#e5e5e5] transition-colors"
+              className="mono"
+              style={{
+                marginTop: '16px',
+                padding: '10px 20px',
+                background: 'var(--accent)',
+                border: 'none',
+                borderRadius: '10px',
+                color: '#fff',
+                fontSize: '12px',
+                fontWeight: 700,
+                cursor: 'pointer'
+              }}
             >
-              Clear search
+              CLEAR SEARCH
             </button>
           </div>
         ) : (
@@ -59,31 +73,97 @@ export default function BlogSearch({ posts }) {
               <Link
                 key={post.slug}
                 href={`/blog/${post.slug}/`}
-                className="group bg-[#111] border border-[#1a1a1a] rounded-lg hover:border-[#333] hover:shadow-xl hover:shadow-black/50 hover:-translate-y-0.5 transition-all duration-300 overflow-hidden flex flex-col"
+                className="group"
+                style={{
+                  display: 'flex',
+                  flexDirection: 'column',
+                  background: 'var(--card)',
+                  border: '1px solid var(--line)',
+                  borderRadius: 'var(--r-card)',
+                  overflow: 'hidden',
+                  transition: 'transform .25s ease, border-color .25s ease'
+                }}
+                onMouseEnter={(e) => {
+                  e.currentTarget.style.transform = 'translateY(-4px)'
+                  e.currentTarget.style.borderColor = 'rgba(255,138,92,.4)'
+                }}
+                onMouseLeave={(e) => {
+                  e.currentTarget.style.transform = 'translateY(0)'
+                  e.currentTarget.style.borderColor = 'var(--line)'
+                }}
               >
                 {post.image && (
-                  <div className="w-full h-48 overflow-hidden">
+                  <div style={{ width: '100%', height: '190px', overflow: 'hidden', borderBottom: '1px solid var(--line)' }}>
                     <img
                       src={post.image}
                       alt={post.title}
-                      className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                      className="group-hover:scale-105 transition-transform duration-300"
+                      style={{ width: '100%', height: '100%', objectFit: 'cover' }}
                       loading="lazy"
                     />
                   </div>
                 )}
-                <div className="p-6 flex-1 flex flex-col">
-                  <span className={`inline-block px-3 py-1 rounded-full text-sm font-medium mb-3 w-fit ${categories[post.category]}`}>
+                <div style={{ padding: '22px', flex: 1, display: 'flex', flexDirection: 'column' }}>
+                  <span
+                    className="mono"
+                    style={{
+                      display: 'inline-block',
+                      color: 'var(--accent)',
+                      fontSize: '11px',
+                      fontWeight: 700,
+                      letterSpacing: '.08em',
+                      textTransform: 'uppercase',
+                      marginBottom: '12px'
+                    }}
+                  >
                     {post.category}
                   </span>
-                  <h2 className="text-xl font-bold text-[#e5e5e5] mb-3 group-hover:text-blue-400 transition-colors" style={{display: '-webkit-box', WebkitLineClamp: 3, WebkitBoxOrient: 'vertical', overflow: 'hidden'}}>
+                  <h2
+                    className="group-hover:text-[var(--accent)] transition-colors"
+                    style={{
+                      fontSize: '19px',
+                      fontWeight: 800,
+                      lineHeight: 1.25,
+                      letterSpacing: '-0.015em',
+                      color: 'var(--fg)',
+                      margin: '0 0 12px',
+                      display: '-webkit-box',
+                      WebkitLineClamp: 3,
+                      WebkitBoxOrient: 'vertical',
+                      overflow: 'hidden'
+                    }}
+                  >
                     {post.title}
                   </h2>
-                  <p className="text-[#737373] mb-4 flex-1" style={{display: '-webkit-box', WebkitLineClamp: 3, WebkitBoxOrient: 'vertical', overflow: 'hidden'}}>
+                  <p
+                    style={{
+                      color: 'var(--muted-2)',
+                      fontSize: '14px',
+                      lineHeight: 1.6,
+                      margin: '0 0 18px',
+                      flex: 1,
+                      display: '-webkit-box',
+                      WebkitLineClamp: 3,
+                      WebkitBoxOrient: 'vertical',
+                      overflow: 'hidden'
+                    }}
+                  >
                     {post.excerpt}
                   </p>
-                  <div className="flex items-center text-sm text-[#525252] mt-auto pt-4 border-t border-[#1a1a1a]">
+                  <div
+                    className="mono"
+                    style={{
+                      display: 'flex',
+                      alignItems: 'center',
+                      fontSize: '11px',
+                      color: 'var(--muted-2)',
+                      marginTop: 'auto',
+                      paddingTop: '14px',
+                      borderTop: '1px solid var(--line)'
+                    }}
+                  >
                     <span>{post.date}</span>
-                    <span className="mx-2">•</span>
+                    <span style={{ margin: '0 10px', color: 'var(--accent)' }}>·</span>
                     <span>{post.readTime}</span>
                   </div>
                 </div>

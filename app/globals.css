@@ -2,18 +2,362 @@
 @tailwind components;
 @tailwind utilities;
 
+/* ============================================================
+   AI in China — "Magazine" Design System (Direction B)
+   Dark · Vermilion · Archivo / JetBrains Mono / Noto Sans SC
+   ============================================================ */
+
 :root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 255, 255, 255;
-  --background-end-rgb: 255, 255, 255;
+  /* Core palette */
+  --bg: #0e0e0e;
+  --fg: #f3f1ed;
+  --muted: #a3a3a3;
+  --muted-2: #6f6f6f;
+  --line: rgba(243, 241, 237, .14);
+  --chip: rgba(243, 241, 237, .06);
+  --surface: #171717;
+  --card: #141414;
+  --accent: #f2552c;
+  --accent-soft: oklch(0.68 0.2 33 / .16);
+  --on-accent: #ffffff;
+
+  /* Topic hues (dark mode, same L/C) */
+  --cat-models: oklch(0.78 0.12 265);
+  --cat-chips: oklch(0.78 0.12 45);
+  --cat-robotics: oklch(0.78 0.12 150);
+  --cat-compute: oklch(0.78 0.12 320);
+
+  /* Type */
+  --font-display: 'Archivo', 'Noto Sans SC', system-ui, -apple-system, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace;
+
+  /* Shape */
+  --r-img: 6px;
+  --r-pill: 99px;
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font-display);
+  font-size: 16px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+::selection {
+  background: var(--accent);
+  color: var(--on-accent);
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #2c2c2c var(--bg);
+}
+*::-webkit-scrollbar { width: 10px; height: 10px; }
+*::-webkit-scrollbar-thumb { background: #2c2c2c; border-radius: 99px; }
+*::-webkit-scrollbar-track { background: var(--bg); }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+  letter-spacing: -0.02em;
+}
+
+a {
+  color: inherit;
+}
+
+/* ---------- Signature details ---------- */
+
+/* 4px fg rule under masthead / rail headings */
+.rule {
+  border: none;
+  border-top: 4px solid var(--fg);
+  margin: 0;
+}
+
+/* 3px accent underline on headline hover */
+.hl {
+  text-decoration: none;
+  background-image: linear-gradient(var(--accent), var(--accent));
+  background-size: 0% 3px;
+  background-repeat: no-repeat;
+  background-position: left 100%;
+  text-underline-offset: 4px;
+  transition: background-size .25s ease, color .2s ease;
+}
+.hl:hover {
+  background-size: 100% 3px;
+}
+
+/* Mono meta labels */
+.mono {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  letter-spacing: .04em;
+}
+
+/* Category pill (kicker) */
+.kicker {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 14px;
+  border-radius: var(--r-pill);
+  background: var(--accent);
+  color: var(--on-accent);
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 16px;
+  border-radius: var(--r-pill);
+  background: var(--chip);
+  border: 1px solid var(--line);
+  color: var(--fg);
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background .2s ease, color .2s ease;
+  white-space: nowrap;
+}
+.chip sup {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  color: var(--muted);
+}
+.chip:hover { border-color: var(--muted); }
+.chip.active {
+  background: var(--fg);
+  color: var(--bg);
+  border-color: var(--fg);
+}
+.chip.active sup { color: var(--bg); opacity: .6; }
+
+/* Buttons */
+.btn-accent {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 22px;
+  border-radius: var(--r-pill);
+  background: var(--accent);
+  color: var(--on-accent);
+  font-weight: 600;
+  font-size: 14px;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+  transition: filter .2s ease;
+}
+.btn-accent:hover { filter: brightness(1.1); }
+
+.btn-ghost {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 22px;
+  border-radius: var(--r-pill);
+  background: var(--chip);
+  border: 1px solid var(--line);
+  color: var(--fg);
+  font-weight: 600;
+  font-size: 14px;
+  text-decoration: none;
+  transition: border-color .2s ease;
+}
+.btn-ghost:hover { border-color: var(--muted); }
+
+/* Newsletter band (inverted) */
+.band {
+  background: var(--accent);
+  color: var(--on-accent);
+}
+.band input[type="email"] {
+  width: 100%;
+  padding: 14px 18px;
+  border-radius: var(--r-pill);
+  border: 1px solid rgba(255, 255, 255, .4);
+  background: rgba(255, 255, 255, .1);
+  color: var(--on-accent);
+  font-size: 15px;
+  font-family: var(--font-display);
+}
+.band input[type="email"]::placeholder { color: rgba(255, 255, 255, .7); }
+.band .btn-invert {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding: 14px 24px;
+  border-radius: var(--r-pill);
+  background: #fff;
+  color: var(--accent);
+  font-weight: 700;
+  font-size: 15px;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+}
+
+/* ---------- Article body ---------- */
+
+.article-body {
+  font-size: 19px;
+  line-height: 1.72;
+}
+@media (max-width: 560px) {
+  .article-body { font-size: 17px; }
+}
+
+.article-body > p { margin: 18px 0; }
+
+/* Accent drop cap on first paragraph */
+.dropcap::first-letter {
+  float: left;
+  font-size: 84px;
+  line-height: .8;
+  font-weight: 900;
+  color: var(--accent);
+  padding: 6px 12px 0 0;
+  font-family: var(--font-display);
+}
+
+/* Pull quote (blockquotes in articles) */
+.article-body blockquote {
+  border-left: none;
+  border-top: 6px solid var(--accent);
+  padding: 20px 0 4px;
+  margin: 32px 0;
+  font-style: normal;
+}
+.article-body blockquote p {
+  font-size: clamp(22px, 2.6vw, 30px);
+  line-height: 1.15;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  color: var(--fg);
+}
+
+.article-body h2 {
+  font-size: 30px;
+  font-weight: 900;
+  line-height: 1.1;
+  letter-spacing: -0.03em;
+  margin: 48px 0 20px;
+  scroll-margin-top: 96px;
+}
+.article-body h3 {
+  font-size: 23px;
+  font-weight: 800;
+  margin: 36px 0 14px;
+  scroll-margin-top: 96px;
+}
+.article-body h4 {
+  font-size: 19px;
+  font-weight: 700;
+  margin: 28px 0 12px;
+}
+
+.article-body a { color: var(--accent); }
+.article-body strong { color: var(--fg); font-weight: 700; }
+
+.article-body img {
+  border-radius: var(--r-img);
+}
+
+.article-body pre {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--r-img);
+}
+
+.article-body code {
+  font-family: var(--font-mono);
+}
+
+/* TOC */
+.toc-link {
+  display: block;
+  padding: 6px 0;
+  color: var(--muted);
+  text-decoration: none;
+  font-size: 13.5px;
+  line-height: 1.4;
+  border-left: 2px solid transparent;
+  padding-left: 12px;
+  margin-left: -14px;
+  transition: color .2s ease, border-color .2s ease;
+}
+.toc-link:hover { color: var(--fg); border-left-color: var(--accent); }
+
+/* Numbered rail items */
+.rail-num {
+  font-size: 32px;
+  font-weight: 900;
+  line-height: 1;
+  color: var(--accent);
+  font-family: var(--font-display);
+  letter-spacing: -0.03em;
+}
+
+/* Cards */
+.topic-card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-top: 6px solid var(--cat-models);
+  border-radius: var(--r-img);
+  overflow: hidden;
+  transition: border-color .2s ease, transform .2s ease;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+.topic-card:hover { transform: translateY(-2px); }
+.topic-card img { width: 100%; aspect-ratio: 16/10; object-fit: cover; }
+
+/* Reading progress bar */
+.progress-track {
+  position: fixed;
+  top: 60px;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: transparent;
+  z-index: 101;
+}
+.progress-bar {
+  height: 100%;
+  background: var(--accent);
+  transform-origin: left;
+  transform: scaleX(0);
+  transition: transform .08s linear;
+}
+
+/* Utility: container */
+.wrap {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 32px;
+}
+@media (max-width: 640px) {
+  .wrap { padding: 0 18px; }
+}
+
+/* TOC column — hide below 1150px */
+@media (max-width: 1150px) {
+  .toc-col { display: none; }
+  .article-grid { grid-template-columns: minmax(0, 700px) !important; }
 }

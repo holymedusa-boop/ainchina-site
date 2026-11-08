@@ -1,11 +1,11 @@
 export default function Qwen3Article() {
   return (
-    <div style={{ minHeight: '100vh', backgroundColor: '#0a0a0a' }}>
+    <div style={{ minHeight: '100vh', backgroundColor: 'var(--bg)' }}>
       <header style={{ 
-        borderBottom: '1px solid #1a1a1a',
+        borderBottom: '1px solid var(--surface)',
         position: 'sticky',
         top: 0,
-        backgroundColor: 'rgba(10, 10, 10, 0.95)',
+        backgroundColor: 'rgba(14,14,14,.92)',
         backdropFilter: 'blur(10px)',
         zIndex: 100
       }}>
@@ -14,7 +14,7 @@ export default function Qwen3Article() {
             <a href="/" style={{ 
               fontSize: '24px', 
               fontWeight: 700,
-              background: 'linear-gradient(135deg, #22d3ee, #8b5cf6)',
+              background: 'linear-gradient(135deg, var(--accent), #ff8a5c)',
               WebkitBackgroundClip: 'text',
               WebkitTextFillColor: 'transparent',
               textDecoration: 'none'
@@ -24,14 +24,14 @@ export default function Qwen3Article() {
             
             <div style={{ display: 'flex', gap: '32px' }}>
               <a href="/blog/" style={{ 
-                color: '#a3a3a3', 
+                color: 'var(--muted)', 
                 textDecoration: 'none',
                 fontSize: '15px'
               }}>
                 Blog
               </a>
               <a href="/about/" style={{ 
-                color: '#a3a3a3', 
+                color: 'var(--muted)', 
                 textDecoration: 'none',
                 fontSize: '15px'
               }}>
@@ -63,7 +63,7 @@ export default function Qwen3Article() {
           left: 0,
           right: 0,
           height: '200px',
-          background: 'linear-gradient(to top, #0a0a0a, transparent)'
+          background: 'linear-gradient(to top, var(--bg), transparent)'
         }}/>
       </div>
 
@@ -72,7 +72,7 @@ export default function Qwen3Article() {
           <div style={{ 
             fontSize: '12px', 
             fontWeight: 600, 
-            color: '#22d3ee',
+            color: 'var(--accent)',
             textTransform: 'uppercase',
             letterSpacing: '0.5px',
             marginBottom: '16px'
@@ -85,7 +85,7 @@ export default function Qwen3Article() {
             fontWeight: 700, 
             marginBottom: '20px',
             lineHeight: 1.15,
-            color: '#e5e5e5',
+            color: 'var(--fg)',
             letterSpacing: '-0.5px'
           }}>
             Qwen3 Technical Analysis: Alibaba's 235B MoE Model with Hybrid Reasoning Architecture
@@ -94,7 +94,7 @@ export default function Qwen3Article() {
           <div style={{ 
             display: 'flex', 
             gap: '16px',
-            color: '#737373',
+            color: 'var(--muted-2)',
             fontSize: '14px',
             marginBottom: '56px'
           }}>
@@ -127,8 +127,8 @@ export default function Qwen3Article() {
               fontWeight: 600, 
               marginTop: '48px', 
               marginBottom: '24px',
-              color: '#e5e5e5',
-              borderBottom: '1px solid #1a1a1a',
+              color: 'var(--fg)',
+              borderBottom: '1px solid var(--surface)',
               paddingBottom: '12px'
             }}>
               The Numbers That Define Efficiency
@@ -152,31 +152,31 @@ export default function Qwen3Article() {
               }}>
                 <tbody>
                   <tr style={{
-                    backgroundColor: '#1a1a1a',
+                    backgroundColor: 'var(--surface)',
                     borderBottom: '1px solid #2a2a2a'
                   }}>
                     <td style={{
                       padding: '12px 16px',
                       fontWeight: 600,
-                      color: '#22d3ee',
+                      color: 'var(--accent)',
                       textAlign: 'left'
                     }}>Metric</td>
                     <td style={{
                       padding: '12px 16px',
                       fontWeight: 600,
-                      color: '#22d3ee',
+                      color: 'var(--accent)',
                       textAlign: 'left'
                     }}>Qwen3-235B</td>
                     <td style={{
                       padding: '12px 16px',
                       fontWeight: 600,
-                      color: '#22d3ee',
+                      color: 'var(--accent)',
                       textAlign: 'left'
                     }}>GPT-4o</td>
                     <td style={{
                       padding: '12px 16px',
                       fontWeight: 600,
-                      color: '#22d3ee',
+                      color: 'var(--accent)',
                       textAlign: 'left'
                     }}>Efficiency Gain</td>
                   </tr>
@@ -206,7 +206,7 @@ export default function Qwen3Article() {
                     }}>7.7x smaller</td>
                   </tr>
                   <tr style={{
-                    backgroundColor: '#111',
+                    backgroundColor: 'var(--card)',
                     borderBottom: '1px solid #2a2a2a'
                   }}>
                     <td style={{
@@ -256,7 +256,7 @@ export default function Qwen3Article() {
                     }}>Parity</td>
                   </tr>
                   <tr style={{
-                    backgroundColor: '#111',
+                    backgroundColor: 'var(--card)',
                     borderBottom: '1px solid #2a2a2a'
                   }}>
                     <td style={{
@@ -289,8 +289,8 @@ export default function Qwen3Article() {
               fontWeight: 600, 
               marginTop: '48px', 
               marginBottom: '24px',
-              color: '#e5e5e5',
-              borderBottom: '1px solid #1a1a1a',
+              color: 'var(--fg)',
+              borderBottom: '1px solid var(--surface)',
               paddingBottom: '12px'
             }}>
               Architecture Innovation: Hybrid Reasoning
@@ -301,7 +301,7 @@ export default function Qwen3Article() {
               fontWeight: 600, 
               marginTop: '36px', 
               marginBottom: '16px',
-              color: '#22d3ee'
+              color: 'var(--accent)'
             }}>
               The Dual-Mode System
             </h3>
@@ -312,7 +312,7 @@ export default function Qwen3Article() {
               color: '#d4d4d4',
               margin: '16px 0'
             }}>
-              Qwen3's most significant innovation is its <strong style={{ color: '#e5e5e5' }}>hybrid reasoning architecture</strong>. Unlike traditional models that use a single inference path, Qwen3 implements:
+              Qwen3's most significant innovation is its <strong style={{ color: 'var(--fg)' }}>hybrid reasoning architecture</strong>. Unlike traditional models that use a single inference path, Qwen3 implements:
             </p>
 
             <ul style={{ 
@@ -321,13 +321,13 @@ export default function Qwen3Article() {
               color: '#d4d4d4'
             }}>
               <li style={{ margin: '10px 0', lineHeight: 1.7 }}>
-                <strong style={{ color: '#e5e5e5' }}>Fast Thinking Mode:</strong> Direct token generation for straightforward queries, using only 22B active parameters
+                <strong style={{ color: 'var(--fg)' }}>Fast Thinking Mode:</strong> Direct token generation for straightforward queries, using only 22B active parameters
               </li>
               <li style={{ margin: '10px 0', lineHeight: 1.7 }}>
-                <strong style={{ color: '#e5e5e5' }}>Deep Reasoning Mode:</strong> Extended chain-of-thought processing for complex problems, activating additional computation paths
+                <strong style={{ color: 'var(--fg)' }}>Deep Reasoning Mode:</strong> Extended chain-of-thought processing for complex problems, activating additional computation paths
               </li>
               <li style={{ margin: '10px 0', lineHeight: 1.7 }}>
-                <strong style={{ color: '#e5e5e5' }}>Dynamic Switching:</strong> Model automatically selects appropriate mode based on query complexity
+                <strong style={{ color: 'var(--fg)' }}>Dynamic Switching:</strong> Model automatically selects appropriate mode based on query complexity
               </li>
             </ul>
 
@@ -345,7 +345,7 @@ export default function Qwen3Article() {
               fontWeight: 600, 
               marginTop: '36px', 
               marginBottom: '16px',
-              color: '#22d3ee'
+              color: 'var(--accent)'
             }}>
               MoE Implementation: Sparse Efficiency
             </h3>
@@ -356,7 +356,7 @@ export default function Qwen3Article() {
               color: '#d4d4d4',
               margin: '16px 0'
             }}>
-              Qwen3 uses a <strong style={{ color: '#e5e5e5' }}>sparse MoE architecture</strong> with unprecedented efficiency:
+              Qwen3 uses a <strong style={{ color: 'var(--fg)' }}>sparse MoE architecture</strong> with unprecedented efficiency:
             </p>
 
             <ul style={{ 
@@ -365,16 +365,16 @@ export default function Qwen3Article() {
               color: '#d4d4d4'
             }}>
               <li style={{ margin: '10px 0', lineHeight: 1.7 }}>
-                <strong style={{ color: '#e5e5e5' }}>128 routed experts</strong> with top-8 routing per token
+                <strong style={{ color: 'var(--fg)' }}>128 routed experts</strong> with top-8 routing per token
               </li>
               <li style={{ margin: '10px 0', lineHeight: 1.7 }}>
-                <strong style={{ color: '#e5e5e5' }}>Shared experts</strong> activated for all tokens to maintain common knowledge
+                <strong style={{ color: 'var(--fg)' }}>Shared experts</strong> activated for all tokens to maintain common knowledge
               </li>
               <li style={{ margin: '10px 0', lineHeight: 1.7 }}>
-                <strong style={{ color: '#e5e5e5' }}>Load balancing</strong> mechanisms to prevent expert collapse
+                <strong style={{ color: 'var(--fg)' }}>Load balancing</strong> mechanisms to prevent expert collapse
               </li>
               <li style={{ margin: '10px 0', lineHeight: 1.7 }}>
-                <strong style={{ color: '#e5e5e5' }}>Expert specialization</strong> across different knowledge domains and reasoning patterns
+                <strong style={{ color: 'var(--fg)' }}>Expert specialization</strong> across different knowledge domains and reasoning patterns
               </li>
             </ul>
 
@@ -383,8 +383,8 @@ export default function Qwen3Article() {
               fontWeight: 600, 
               marginTop: '48px', 
               marginBottom: '24px',
-              color: '#e5e5e5',
-              borderBottom: '1px solid #1a1a1a',
+              color: 'var(--fg)',
+              borderBottom: '1px solid var(--surface)',
               paddingBottom: '12px'
             }}>
               Benchmark Performance
@@ -403,7 +403,7 @@ export default function Qwen3Article() {
               <div style={{
                 borderRadius: '12px',
                 overflow: 'hidden',
-                border: '1px solid #1a1a1a',
+                border: '1px solid var(--surface)',
                 backgroundColor: '#0d0d0d'
               }}>
                 <img 
@@ -419,7 +419,7 @@ export default function Qwen3Article() {
               <p style={{
                 textAlign: 'center',
                 fontSize: '14px',
-                color: '#737373',
+                color: 'var(--muted-2)',
                 fontStyle: 'italic',
                 marginTop: '12px'
               }}>
@@ -436,31 +436,31 @@ export default function Qwen3Article() {
               }}>
                 <tbody>
                   <tr style={{
-                    backgroundColor: '#1a1a1a',
+                    backgroundColor: 'var(--surface)',
                     borderBottom: '1px solid #2a2a2a'
                   }}>
                     <td style={{
                       padding: '12px 16px',
                       fontWeight: 600,
-                      color: '#22d3ee',
+                      color: 'var(--accent)',
                       textAlign: 'left'
                     }}>Benchmark</td>
                     <td style={{
                       padding: '12px 16px',
                       fontWeight: 600,
-                      color: '#22d3ee',
+                      color: 'var(--accent)',
                       textAlign: 'left'
                     }}>Qwen3-235B</td>
                     <td style={{
                       padding: '12px 16px',
                       fontWeight: 600,
-                      color: '#22d3ee',
+                      color: 'var(--accent)',
                       textAlign: 'left'
                     }}>GPT-4o</td>
                     <td style={{
                       padding: '12px 16px',
                       fontWeight: 600,
-                      color: '#22d3ee',
+                      color: 'var(--accent)',
                       textAlign: 'left'
                     }}>DeepSeek-V3</td>
                   </tr>
@@ -490,7 +490,7 @@ export default function Qwen3Article() {
                     }}>87.1%</td>
                   </tr>
                   <tr style={{
-                    backgroundColor: '#111',
+                    backgroundColor: 'var(--card)',
                     borderBottom: '1px solid #2a2a2a'
                   }}>
                     <td style={{
@@ -540,7 +540,7 @@ export default function Qwen3Article() {
                     }}>92.0%</td>
                   </tr>
                   <tr style={{
-                    backgroundColor: '#111',
+                    backgroundColor: 'var(--card)',
                     borderBottom: '1px solid #2a2a2a'
                   }}>
                     <td style={{
@@ -573,8 +573,8 @@ export default function Qwen3Article() {
               fontWeight: 600, 
               marginTop: '48px', 
               marginBottom: '24px',
-              color: '#e5e5e5',
-              borderBottom: '1px solid #1a1a1a',
+              color: 'var(--fg)',
+              borderBottom: '1px solid var(--surface)',
               paddingBottom: '12px'
             }}>
               Cost Efficiency: The Economics of Qwen3
@@ -586,7 +586,7 @@ export default function Qwen3Article() {
               color: '#d4d4d4',
               margin: '16px 0'
             }}>
-              Qwen3 positions itself as a cost-effective alternative, priced at approximately <strong style={{ color: '#e5e5e5' }}>30% of GPT-4o's cost</strong> while delivering comparable or superior performance on many benchmarks.
+              Qwen3 positions itself as a cost-effective alternative, priced at approximately <strong style={{ color: 'var(--fg)' }}>30% of GPT-4o's cost</strong> while delivering comparable or superior performance on many benchmarks.
             </p>
 
             <div style={{ overflowX: 'auto', margin: '24px 0' }}>
@@ -598,30 +598,30 @@ export default function Qwen3Article() {
               }}>
                 <tbody>
                   <tr style={{
-                    backgroundColor: '#1a1a1a',
+                    backgroundColor: 'var(--surface)',
                     borderBottom: '1px solid #2a2a2a'
                   }}>
                     <td style={{
                       padding: '12px 16px',
                       fontWeight: 600,
-                      color: '#22d3ee',
+                      color: 'var(--accent)',
                       textAlign: 'left'
                     }}>Model</td>
                     <td style={{
                       padding: '12px 16px',
                       fontWeight: 600,
-                      color: '#22d3ee',
+                      color: 'var(--accent)',
                       textAlign: 'left'
                     }}>Input (per 1M)</td>
                     <td style={{
                       padding: '12px 16px',
                       fontWeight: 600,
-                      color: '#22d3ee',
+                      color: 'var(--accent)',
                       textAlign: 'left'
                     }}>Output (per 1M)</td>
                   </tr>
                   <tr style={{
-                    backgroundColor: '#111',
+                    backgroundColor: 'var(--card)',
                     borderBottom: '1px solid #2a2a2a'
                   }}>
                     <td style={{
@@ -661,7 +661,7 @@ export default function Qwen3Article() {
                     }}>$10.00</td>
                   </tr>
                   <tr style={{
-                    backgroundColor: '#111',
+                    backgroundColor: 'var(--card)',
                     borderBottom: '1px solid #2a2a2a'
                   }}>
                     <td style={{
@@ -689,8 +689,8 @@ export default function Qwen3Article() {
               fontWeight: 600, 
               marginTop: '48px', 
               marginBottom: '24px',
-              color: '#e5e5e5',
-              borderBottom: '1px solid #1a1a1a',
+              color: 'var(--fg)',
+              borderBottom: '1px solid var(--surface)',
               paddingBottom: '12px'
             }}>
               User Feedback: Real-World Experience
@@ -706,16 +706,16 @@ export default function Qwen3Article() {
             </p>
 
             <blockquote style={{
-              borderLeft: '3px solid #22d3ee',
+              borderLeft: '3px solid var(--accent)',
               paddingLeft: '20px',
               margin: '24px 0',
-              color: '#a3a3a3',
+              color: 'var(--muted)',
               fontStyle: 'italic'
             }}>
               <p style={{ margin: '0 0 12px 0', fontSize: '17px', lineHeight: 1.7 }}>
                 "通义千问3.0的速度真的快了很多，以前长文本要等很久，现在几乎是秒回。而且中文理解确实比GPT好，古诗词、成语都很准确。"
               </p>
-              <p style={{ margin: 0, fontSize: '15px', color: '#737373' }}>
+              <p style={{ margin: 0, fontSize: '15px', color: 'var(--muted-2)' }}>
                 "Tongyi Qianwen 3.0 is really much faster. Previously long texts took a long time to process, now it's almost instant. And Chinese understanding is definitely better than GPT—classical poetry and idioms are very accurate."
               </p>
               <p style={{ margin: '12px 0 0 0', fontSize: '14px', color: '#666' }}>
@@ -724,16 +724,16 @@ export default function Qwen3Article() {
             </blockquote>
 
             <blockquote style={{
-              borderLeft: '3px solid #22d3ee',
+              borderLeft: '3px solid var(--accent)',
               paddingLeft: '20px',
               margin: '24px 0',
-              color: '#a3a3a3',
+              color: 'var(--muted)',
               fontStyle: 'italic'
             }}>
               <p style={{ margin: '0 0 12px 0', fontSize: '17px', lineHeight: 1.7 }}>
                 "我们团队把API从GPT-4切到Qwen3，成本直接降了70%，效果居然差不多。推理模式切换这个功能很实用，简单问题响应快，复杂问题也能深度思考。"
               </p>
-              <p style={{ margin: 0, fontSize: '15px', color: '#737373' }}>
+              <p style={{ margin: 0, fontSize: '15px', color: 'var(--muted-2)' }}>
                 "Our team switched API from GPT-4 to Qwen3, costs dropped 70% directly, and the results are surprisingly similar. The reasoning mode switching feature is very practical—fast response for simple questions, deep thinking for complex ones."
               </p>
               <p style={{ margin: '12px 0 0 0', fontSize: '14px', color: '#666' }}>
@@ -742,16 +742,16 @@ export default function Qwen3Article() {
             </blockquote>
 
             <blockquote style={{
-              borderLeft: '3px solid #22d3ee',
+              borderLeft: '3px solid var(--accent)',
               paddingLeft: '20px',
               margin: '24px 0',
-              color: '#a3a3a3',
+              color: 'var(--muted)',
               fontStyle: 'italic'
             }}>
               <p style={{ margin: '0 0 12px 0', fontSize: '17px', lineHeight: 1.7 }}>
                 "Qwen3在代码生成上进步很大，虽然还不如Claude，但比4o强一些。关键是价格便宜，做RAG应用成本可控。"
               </p>
-              <p style={{ margin: 0, fontSize: '15px', color: '#737373' }}>
+              <p style={{ margin: 0, fontSize: '15px', color: 'var(--muted-2)' }}>
                 "Qwen3 has improved significantly in code generation. While still not as good as Claude, it's better than 4o. The key is the low price—RAG applications become cost-effective."
               </p>
               <p style={{ margin: '12px 0 0 0', fontSize: '14px', color: '#666' }}>
@@ -764,8 +764,8 @@ export default function Qwen3Article() {
               fontWeight: 600, 
               marginTop: '48px', 
               marginBottom: '24px',
-              color: '#e5e5e5',
-              borderBottom: '1px solid #1a1a1a',
+              color: 'var(--fg)',
+              borderBottom: '1px solid var(--surface)',
               paddingBottom: '12px'
             }}>
               Conclusion: Deployment Economics Matter
@@ -777,7 +777,7 @@ export default function Qwen3Article() {
               color: '#d4d4d4',
               margin: '16px 0'
             }}>
-              Qwen3 represents a pragmatic evolution in large language model design, prioritizing <strong style={{ color: '#e5e5e5' }}>deployment flexibility</strong> over raw benchmark performance. Its hybrid reasoning architecture addresses real-world production concerns around cost and latency while maintaining competitive capabilities.
+              Qwen3 represents a pragmatic evolution in large language model design, prioritizing <strong style={{ color: 'var(--fg)' }}>deployment flexibility</strong> over raw benchmark performance. Its hybrid reasoning architecture addresses real-world production concerns around cost and latency while maintaining competitive capabilities.
             </p>
 
             <p style={{ 
@@ -790,8 +790,8 @@ export default function Qwen3Article() {
             </p>
 
             <div style={{
-              backgroundColor: '#111',
-              borderLeft: '3px solid #22d3ee',
+              backgroundColor: 'var(--card)',
+              borderLeft: '3px solid var(--accent)',
               padding: '20px',
               marginTop: '32px',
               borderRadius: '0 8px 8px 0'
@@ -800,10 +800,10 @@ export default function Qwen3Article() {
                 margin: 0, 
                 fontWeight: 600, 
                 fontSize: '17px',
-                color: '#e5e5e5',
+                color: 'var(--fg)',
                 lineHeight: 1.6
               }}>
-                Bottom Line: Qwen3 doesn't win every benchmark, but it wins on <strong style={{ color: '#22d3ee' }}>practical deployment economics</strong>—an increasingly important factor as AI moves from experimentation to production at scale.
+                Bottom Line: Qwen3 doesn't win every benchmark, but it wins on <strong style={{ color: 'var(--accent)' }}>practical deployment economics</strong>—an increasingly important factor as AI moves from experimentation to production at scale.
               </p>
             </div>
           </div>
@@ -812,10 +812,10 @@ export default function Qwen3Article() {
 
       <footer style={{ 
         padding: '48px 24px', 
-        borderTop: '1px solid #1a1a1a',
+        borderTop: '1px solid var(--surface)',
         textAlign: 'center'
       }}>
-        <p style={{ color: '#737373', fontSize: '14px' }}>
+        <p style={{ color: 'var(--muted-2)', fontSize: '14px' }}>
           © 2026 AI in China. All rights reserved.
         </p>
       </footer>

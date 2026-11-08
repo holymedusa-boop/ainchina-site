@@ -1,6 +1,35 @@
 import { readFileSync, readdirSync } from 'fs'
 import { join } from 'path'
 import Link from 'next/link'
+import ReadingProgress from '../../components/ReadingProgress'
+
+function slugifyHeading(text) {
+  return text
+    .replace(/\*\*/g, '')
+    .toLowerCase()
+    .replace(/[^\w\s-]/g, '')
+    .trim()
+    .replace(/\s+/g, '-')
+}
+
+function extractToc(content) {
+  const lines = content.split('\n')
+  const toc = []
+  const used = new Set()
+  let inCode = false
+  for (const line of lines) {
+    if (line.startsWith('```')) { inCode = !inCode; continue }
+    if (inCode) continue
+    const m = line.match(/^##\s+(.+)$/)
+    if (m) {
+      let id = slugifyHeading(m[1])
+      if (used.has(id)) { let n = 2; while (used.has(`${id}-${n}`)) n++; id = `${id}-${n}` }
+      used.add(id)
+      toc.push({ id, text: m[1].replace(/\*\*/g, '').trim() })
+    }
+  }
+  return toc.slice(0, 12)
+}
 
 
 // SEO Metadata for each article
@@ -1714,13 +1743,13 @@ export default function BlogPost({ params }) {
     return (
       <div style={{
         minHeight: '100vh',
-        backgroundColor: '#0a0a0a',
-        color: '#e5e5e5',
+        backgroundColor: 'var(--bg)',
+        color: 'var(--fg)',
         padding: '100px',
         textAlign: 'center'
       }}>
         <h1>Article Not Found</h1>
-        <Link href="/blog/" style={{ color: '#22d3ee' }}>← Back to Blog</Link>
+        <Link href="/blog/" style={{ color: 'var(--accent)' }}>← Back to Blog</Link>
       </div>
     )
   }
@@ -1788,7 +1817,7 @@ export default function BlogPost({ params }) {
            href={affiliateMap[m.key]}
            target="_blank"
            rel="noopener noreferrer sponsored"
-           style={{ color: '#22d3ee', textDecoration: 'underline' }}>
+           style={{ color: 'var(--accent)', textDecoration: 'underline' }}>
           {m.text}
         </a>
       )
@@ -1839,6 +1868,14 @@ export default function BlogPost({ params }) {
     const { skipTitle, heroImage } = options
     const lines = content.split('\n')
     const elements = []
+    const usedIds = new Set()
+    let firstParagraph = true
+    const makeId = (text) => {
+      let id = slugifyHeading(text)
+      if (usedIds.has(id)) { let n = 2; while (usedIds.has(`${id}-${n}`)) n++; id = `${id}-${n}` }
+      usedIds.add(id)
+      return id
+    }
     let currentTable = null
     let currentCodeBlock = null
     let currentQuote = null
@@ -1857,7 +1894,7 @@ export default function BlogPost({ params }) {
         if (currentCodeBlock) {
           elements.push(
             <pre key={i} style={{
-              backgroundColor: '#1a1a1a',
+              backgroundColor: 'var(--surface)',
               padding: '24px',
               borderRadius: '12px',
               overflow: 'auto',
@@ -1869,7 +1906,7 @@ export default function BlogPost({ params }) {
                 fontFamily: 'ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace',
                 fontSize: '14px',
                 lineHeight: '1.6',
-                color: '#e5e5e5'
+                color: 'var(--fg)'
               }}
               >
                 {currentCodeBlock.join('\n')}
@@ -1900,16 +1937,9 @@ export default function BlogPost({ params }) {
         continue
       } else if (currentQuote) {
         elements.push(
-          <blockquote key={i} style={{
-            borderLeft: '4px solid #22d3ee',
-            paddingLeft: '24px',
-            margin: '24px 0',
-            fontStyle: 'italic',
-            color: '#a3a3a3'
-          }}
-          >
+          <blockquote key={i}>
             {currentQuote.map((q, idx) => (
-              <p key={idx} style={{ margin: '8px 0' }}>{parseInline(q)}</p>
+              <p key={idx}>{parseInline(q)}</p>
             ))}
           </blockquote>
         )
@@ -1951,11 +1981,11 @@ export default function BlogPost({ params }) {
                 <tr>
                   {currentTable.headers.map((h, idx) => (
                     <th key={idx} style={{
-                      borderBottom: '2px solid #22d3ee',
+                      borderBottom: '2px solid var(--accent)',
                       padding: '12px 16px',
                       textAlign: 'left',
                       fontWeight: '600',
-                      color: '#22d3ee'
+                      color: 'var(--accent)'
                     }}
                     >{parseInline(h)}</th>
                   ))}
@@ -1966,9 +1996,9 @@ export default function BlogPost({ params }) {
                   <tr key={ridx}>
                     {row.map((cell, cidx) => (
                       <td key={cidx} style={{
-                        borderBottom: '1px solid #1a1a1a',
+                        borderBottom: '1px solid var(--surface)',
                         padding: '12px 16px',
-                        color: '#e5e5e5'
+                        color: 'var(--fg)'
                       }}
                       >{parseInline(cell)}</td>
                     ))}
@@ -1998,33 +2028,33 @@ export default function BlogPost({ params }) {
           continue
         }
         elements.push(
-          <h1 key={i} style={{ fontSize: '36px', fontWeight: '700', margin: '48px 0 24px', color: '#f5f5f5' }}>
+          <h1 key={i} style={{ fontSize: '30px', fontWeight: '800', margin: '40px 0 20px' }}>
             {parseInline(line.substring(2))}
           </h1>
         )
       } else if (line.startsWith('## ')) {
         elements.push(
-          <h2 key={i} style={{ fontSize: '28px', fontWeight: '600', margin: '40px 0 20px', color: '#f5f5f5' }}>
+          <h2 key={i} id={makeId(line.substring(3))}>
             {parseInline(line.substring(3))}
           </h2>
         )
       } else if (line.startsWith('### ')) {
         elements.push(
-          <h3 key={i} style={{ fontSize: '22px', fontWeight: '600', margin: '32px 0 16px', color: '#f5f5f5' }}>
+          <h3 key={i} id={makeId(line.substring(4))}>
             {parseInline(line.substring(4))}
           </h3>
         )
       } else if (line.startsWith('#### ')) {
         elements.push(
-          <h4 key={i} style={{ fontSize: '18px', fontWeight: '600', margin: '24px 0 12px', color: '#f5f5f5' }}>
+          <h4 key={i}>
             {parseInline(line.substring(5))}
           </h4>
         )
       } else if (line.startsWith('---')) {
-        elements.push(<hr key={i} style={{ border: 'none', borderTop: '1px solid #1a1a1a', margin: '32px 0' }} />)
+        elements.push(<hr key={i} style={{ border: 'none', borderTop: '1px solid var(--surface)', margin: '32px 0' }} />)
       } else if (line.startsWith('*') && line.endsWith('*') && !line.includes(' ')) {
         // Horizontal rule or image caption
-        elements.push(<p key={i} style={{ fontStyle: 'italic', color: '#737373', textAlign: 'center', margin: '8px 0 24px' }}>{parseInline(line)}</p>)
+        elements.push(<p key={i} style={{ fontStyle: 'italic', color: 'var(--muted-2)', textAlign: 'center', margin: '8px 0 24px' }}>{parseInline(line)}</p>)
       } else if (line.startsWith('![')) {
         // Image
         const match = line.match(/!\[([^\]]*)\]\(([^)]+)\)/)
@@ -2036,12 +2066,14 @@ export default function BlogPost({ params }) {
             continue
           }
           elements.push(
-            <img key={i} src={match[2]} alt={match[1]} style={{ width: '100%', borderRadius: '12px', margin: '24px 0' }} />
+            <img key={i} src={match[2]} alt={match[1]} style={{ width: '100%', borderRadius: 'var(--r-img)', margin: '24px 0' }} />
           )
         }
       } else {
         // Regular paragraph
-        elements.push(<p key={i} style={{ fontSize: '16px', lineHeight: '1.8', margin: '16px 0', color: '#e5e5e5' }}>{parseInline(line)}</p>)
+        const cls = firstParagraph ? 'dropcap' : undefined
+        firstParagraph = false
+        elements.push(<p key={i} className={cls}>{parseInline(line)}</p>)
       }
 
       i++
@@ -2050,16 +2082,9 @@ export default function BlogPost({ params }) {
     // Flush remaining elements
     if (currentQuote) {
       elements.push(
-        <blockquote key={i} style={{
-          borderLeft: '4px solid #22d3ee',
-          paddingLeft: '24px',
-          margin: '24px 0',
-          fontStyle: 'italic',
-          color: '#a3a3a3'
-        }}
-        >
+        <blockquote key={i}>
           {currentQuote.map((q, idx) => (
-            <p key={idx} style={{ margin: '8px 0' }}>{parseInline(q)}</p>
+            <p key={idx}>{parseInline(q)}</p>
           ))}
         </blockquote>
       )
@@ -2116,17 +2141,19 @@ export default function BlogPost({ params }) {
     return finalParts.map((part, idx) => {
       if (part.type === 'link') {
         return (
-          <a key={idx} href={part.url} style={{ color: '#22d3ee', textDecoration: 'underline' }}>
+          <a key={idx} href={part.url} style={{ color: 'var(--accent)', textDecoration: 'underline' }}>
             {part.text}
           </a>
         )
       } else if (part.type === 'bold') {
-        return <strong key={idx} style={{ color: '#f5f5f5', fontWeight: '700' }}>{part.text}</strong>
+        return <strong key={idx} style={{ color: 'var(--fg)', fontWeight: '700' }}>{part.text}</strong>
       } else {
         return renderAffiliateText(part.content, idx)
       }
     })
   }
+
+  const toc = extractToc(post.content)
 
   return (
     <>
@@ -2136,87 +2163,106 @@ export default function BlogPost({ params }) {
       />
       <div style={{
         minHeight: '100vh',
-        backgroundColor: '#0a0a0a',
-        color: '#e5e5e5'
+        backgroundColor: 'var(--bg)',
+        color: 'var(--fg)'
       }}>
+        <ReadingProgress />
         {/* Navigation */}
-        <nav style={{
-          borderBottom: '1px solid #1a1a1a',
-          padding: '16px 24px'
+        <header style={{
+          position: 'sticky',
+          top: 0,
+          zIndex: 100,
+          background: 'rgba(14,14,14,.92)',
+          backdropFilter: 'blur(10px)',
+          borderBottom: '1px solid var(--line)'
         }}>
-          <div style={{
-            maxWidth: '1200px',
-            margin: '0 auto',
+          <div className="wrap" style={{
+            height: '60px',
             display: 'flex',
             alignItems: 'center',
-            gap: '24px'
-          }}
-          >
+            justifyContent: 'space-between'
+          }}>
             <Link href="/" style={{
-              color: '#f5f5f5',
+              fontSize: '24px',
+              fontWeight: 900,
+              letterSpacing: '-0.04em',
               textDecoration: 'none',
-              fontWeight: '700',
-              fontSize: '18px'
-            }}
-            >
-              AI in China
+              color: 'var(--fg)'
+            }}>
+              ain<span style={{ color: 'var(--accent)' }}>china</span>
             </Link>
-            <Link href="/blog/" style={{
-              color: '#a3a3a3',
-              textDecoration: 'none',
-              fontSize: '14px'
-            }}
-            >
-              Blog
-            </Link>
+            <nav style={{ display: 'flex', alignItems: 'center', gap: '28px' }}>
+              <Link href="/blog/" style={{ color: 'var(--muted)', textDecoration: 'none', fontSize: '14px', fontWeight: 600 }}>
+                Analysis
+              </Link>
+              <Link href="/about/" style={{ color: 'var(--muted)', textDecoration: 'none', fontSize: '14px', fontWeight: 600 }}>
+                About
+              </Link>
+              <Link href="/contact/" style={{ color: 'var(--muted)', textDecoration: 'none', fontSize: '14px', fontWeight: 600 }}>
+                Contact
+              </Link>
+            </nav>
           </div>
-        </nav>
+        </header>
 
         {/* Article */}
-        <article style={{ maxWidth: '800px', margin: '0 auto', padding: '48px 24px' }}>
-          {/* Header */}
-          <header style={{ marginBottom: '48px' }}>
-            <div style={{ display: 'flex', gap: '12px', marginBottom: '24px', flexWrap: 'wrap' }}>
-              <span style={{
-                backgroundColor: '#1a1a1a',
-                padding: '6px 12px',
-                borderRadius: '6px',
-                fontSize: '12px',
-                fontWeight: '600',
-                color: '#22d3ee',
-                textTransform: 'uppercase',
-                letterSpacing: '0.05em'
-              }}>
-                {post.category}
-              </span>
-              <span style={{
-                backgroundColor: '#1a1a1a',
-                padding: '6px 12px',
-                borderRadius: '6px',
-                fontSize: '12px',
-                color: '#737373'
-              }}>
-                {post.readTime}
-              </span>
-            </div>
+        <div className="wrap" style={{ paddingTop: '56px', paddingBottom: '48px' }}>
+          <div className="article-grid" style={{
+            display: 'grid',
+            gridTemplateColumns: '200px minmax(0, 700px)',
+            gap: '56px',
+            justifyContent: 'center'
+          }}>
+            {/* TOC */}
+            {toc.length > 1 && (
+              <aside className="toc-col">
+                <div style={{ position: 'sticky', top: '96px' }}>
+                  <div className="mono" style={{
+                    fontWeight: 700,
+                    letterSpacing: '.08em',
+                    textTransform: 'uppercase',
+                    color: 'var(--muted)'
+                  }}>
+                    Contents
+                  </div>
+                  <hr className="rule" style={{ margin: '10px 0 14px' }} />
+                  <nav>
+                    {toc.map(item => (
+                      <a key={item.id} href={`#${item.id}`} className="toc-link">
+                        {item.text}
+                      </a>
+                    ))}
+                  </nav>
+                </div>
+              </aside>
+            )}
 
-            <h1 style={{
-              fontSize: '36px',
-              fontWeight: '700',
-              lineHeight: '1.2',
-              margin: '0 0 24px',
-              color: '#f5f5f5'
-            }}
-            >
-              {post.title}
-            </h1>
+            <article style={{ minWidth: 0 }}>
+              {/* Header */}
+              <header style={{ marginBottom: '40px' }}>
+                <div style={{ display: 'flex', gap: '10px', marginBottom: '22px', flexWrap: 'wrap', alignItems: 'center' }}>
+                  <span className="kicker">{post.category}</span>
+                  <span className="mono" style={{ color: 'var(--muted-2)' }}>{post.readTime}</span>
+                </div>
 
-            <div style={{ display: 'flex', alignItems: 'center', gap: '16px', color: '#737373', fontSize: '14px' }}>
-              <span>{post.date}</span>
-              <span>·</span>
-              <span>AI in China</span>
-            </div>
-          </header>
+                <h1 style={{
+                  fontSize: 'clamp(32px, 5vw, 56px)',
+                  fontWeight: 900,
+                  lineHeight: 1.03,
+                  letterSpacing: '-0.045em',
+                  margin: '0 0 22px'
+                }}
+                >
+                  {post.title}
+                </h1>
+
+                <div className="mono" style={{ display: 'flex', gap: '14px', color: 'var(--muted)', fontSize: '12px' }}>
+                  <span>{post.date}</span>
+                  <span>·</span>
+                  <span>AI in China</span>
+                </div>
+                <hr className="rule" style={{ marginTop: '28px' }} />
+              </header>
 
           {/* Hero Image */}
           {post.heroImage && (
@@ -2226,25 +2272,25 @@ export default function BlogPost({ params }) {
               style={{
                 width: '100%',
                 height: 'auto',
-                borderRadius: '12px',
-                marginBottom: '48px'
+                borderRadius: 'var(--r-img)',
+                marginBottom: '40px'
               }}
             />
           )}
 
 
           {/* Content */}
-          <div>
+          <div className="article-body">
             {parseContent(post.content, { skipTitle: post.title, heroImage: post.heroImage })}
           </div>
 
           {/* Author Attribution - E-E-A-T Signal */}
           <div style={{
-            marginTop: '48px',
+            marginTop: '56px',
             padding: '24px',
-            backgroundColor: '#111',
-            border: '1px solid #1a1a1a',
-            borderRadius: '12px',
+            backgroundColor: 'var(--card)',
+            border: '1px solid var(--line)',
+            borderRadius: 'var(--r-card)',
             display: 'flex',
             alignItems: 'center',
             gap: '16px'
@@ -2254,13 +2300,13 @@ export default function BlogPost({ params }) {
               width: '48px',
               height: '48px',
               borderRadius: '50%',
-              backgroundColor: '#22d3ee',
+              backgroundColor: 'var(--accent)',
               display: 'flex',
               alignItems: 'center',
               justifyContent: 'center',
               fontSize: '20px',
-              fontWeight: 700,
-              color: '#0a0a0a',
+              fontWeight: 800,
+              color: '#fff',
               flexShrink: 0
             }}
             >
@@ -2269,25 +2315,27 @@ export default function BlogPost({ params }) {
             <div>
               <p style={{
                 margin: '0 0 4px',
-                fontWeight: '600',
-                color: '#f5f5f5',
+                fontWeight: '700',
+                color: 'var(--fg)',
                 fontSize: '15px'
               }}
               >
-                <Link href="/about/" style={{ color: '#22d3ee', textDecoration: 'none' }}>By Meeeeed</Link>
+                <Link href="/about/" style={{ color: 'var(--accent)', textDecoration: 'none' }}>By Meeeeed</Link>
               </p>
               <p style={{
                 margin: '0',
-                color: '#737373',
+                color: 'var(--muted-2)',
                 fontSize: '13px',
                 lineHeight: 1.5
               }}
               >
-                Editor at AI in China. Tracking Chinese AI companies, funding rounds, and the technologies reshaping global tech. <a href="/about/" style={{ color: '#a3a3a3', textDecoration: 'underline' }}>More about me</a>.
+                Editor at AI in China. Tracking Chinese AI companies, funding rounds, and the technologies reshaping global tech. <a href="/about/" style={{ color: 'var(--muted)', textDecoration: 'underline' }}>More about me</a>.
               </p>
             </div>
           </div>
-        </article>
+            </article>
+          </div>
+        </div>
 
         {/* Previous / Next Navigation */}
         {(prevPost || nextPost) && (
@@ -2301,7 +2349,7 @@ export default function BlogPost({ params }) {
               gap: '16px',
               flexWrap: 'wrap',
               justifyContent: 'space-between',
-              borderTop: '1px solid #1a1a1a',
+              borderTop: '1px solid var(--surface)',
               paddingTop: '32px',
               marginBottom: '32px',
             }}>
@@ -2311,14 +2359,14 @@ export default function BlogPost({ params }) {
                   style={{
                     flex: '1 1 300px',
                     padding: '20px',
-                    backgroundColor: '#111',
-                    border: '1px solid #1a1a1a',
+                    backgroundColor: 'var(--card)',
+                    border: '1px solid var(--surface)',
                     borderRadius: '12px',
                     textDecoration: 'none',
-                    color: '#e5e5e5',
+                    color: 'var(--fg)',
                   }}
                 >
-                  <p style={{ margin: '0 0 8px', color: '#737373', fontSize: '13px' }}>← Previous</p>
+                  <p style={{ margin: '0 0 8px', color: 'var(--muted-2)', fontSize: '13px' }}>← Previous</p>
                   <p style={{ margin: 0, fontWeight: '600', fontSize: '15px', lineHeight: 1.4 }}>{prevPost.title}</p>
                 </Link>
               ) : <div style={{ flex: '1 1 300px' }} />}
@@ -2328,15 +2376,15 @@ export default function BlogPost({ params }) {
                   style={{
                     flex: '1 1 300px',
                     padding: '20px',
-                    backgroundColor: '#111',
-                    border: '1px solid #1a1a1a',
+                    backgroundColor: 'var(--card)',
+                    border: '1px solid var(--surface)',
                     borderRadius: '12px',
                     textDecoration: 'none',
-                    color: '#e5e5e5',
+                    color: 'var(--fg)',
                     textAlign: 'right',
                   }}
                 >
-                  <p style={{ margin: '0 0 8px', color: '#737373', fontSize: '13px' }}>Next →</p>
+                  <p style={{ margin: '0 0 8px', color: 'var(--muted-2)', fontSize: '13px' }}>Next →</p>
                   <p style={{ margin: 0, fontWeight: '600', fontSize: '15px', lineHeight: 1.4 }}>{nextPost.title}</p>
                 </Link>
               ) : <div style={{ flex: '1 1 300px' }} />}
@@ -2346,7 +2394,7 @@ export default function BlogPost({ params }) {
 
         <footer style={{
           padding: '48px 24px',
-          borderTop: '1px solid #1a1a1a',
+          borderTop: '1px solid var(--surface)',
           textAlign: 'center'
         }}
         >
@@ -2360,26 +2408,26 @@ export default function BlogPost({ params }) {
             marginBottom: '24px'
           }}
           >
-            <Link href="/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>
+            <Link href="/" style={{ color: 'var(--muted)', textDecoration: 'none', fontSize: '14px' }}>
               Home
             </Link>
-            <Link href="/blog/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>
+            <Link href="/blog/" style={{ color: 'var(--muted)', textDecoration: 'none', fontSize: '14px' }}>
               Blog
             </Link>
-            <Link href="/about/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>
+            <Link href="/about/" style={{ color: 'var(--muted)', textDecoration: 'none', fontSize: '14px' }}>
               About
             </Link>
-            <Link href="/contact/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>
+            <Link href="/contact/" style={{ color: 'var(--muted)', textDecoration: 'none', fontSize: '14px' }}>
               Contact
             </Link>
-            <Link href="/privacy/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>
+            <Link href="/privacy/" style={{ color: 'var(--muted)', textDecoration: 'none', fontSize: '14px' }}>
               Privacy
             </Link>
-            <Link href="/terms/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>
+            <Link href="/terms/" style={{ color: 'var(--muted)', textDecoration: 'none', fontSize: '14px' }}>
               Terms
             </Link>
           </div>
-          <p style={{ color: '#737373', fontSize: '14px' }}>
+          <p style={{ color: 'var(--muted-2)', fontSize: '14px' }}>
             © 2026 AI in China. All rights reserved.
           </p>
         </footer>

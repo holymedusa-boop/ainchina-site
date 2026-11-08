@@ -57,49 +57,49 @@ const posts = allPosts.map(post => ({
 
 export default function BlogPage() {
   return (
-    <main className="min-h-screen bg-[#0a0a0a] text-[#e5e5e5]">
-      <div className="bg-[#111] border-b border-[#1a1a1a]">
-        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-          <div className="flex items-center gap-4">
-            <Link
-              href="/"
-              className="text-[#a3a3a3] hover:text-[#e5e5e5] transition-colors"
-            >
-              ← Back to Home
-            </Link>
+    <main className="min-h-screen bg-[var(--bg)] text-[var(--fg)]">
+      <div className="border-b" style={{ borderColor: 'var(--line)' }}>
+        <div className="wrap" style={{ paddingTop: '48px', paddingBottom: '32px' }}>
+          <div className="kicker" style={{ marginBottom: '16px' }}>
+            Analysis
           </div>
-          <h1 className="text-4xl font-bold mt-4 mb-2 bg-gradient-to-r from-cyan-400 to-violet-500 bg-clip-text text-transparent">
-            AI in China Blog
+          <h1 className="font-display" style={{
+            fontSize: 'clamp(36px, 5vw, 60px)',
+            fontWeight: 900,
+            lineHeight: 1.02,
+            letterSpacing: '-0.04em',
+            margin: '0 0 16px'
+          }}>
+            Latest Insights
           </h1>
-          <p className="text-lg text-[#737373]">
-            Deep insights into China's AI revolution — trends, companies, and market intelligence
+          <p className="lede" style={{ maxWidth: '620px' }}>
+            Deep, data-driven reporting on China's AI revolution — companies, capital, chips, and the policies reshaping the global technology order.
           </p>
           <BlogSearch posts={posts} />
         </div>
       </div>
 
       <footer style={{
-        padding: '40px 24px',
-        borderTop: '1px solid #1a1a1a',
+        padding: '48px 24px',
+        borderTop: '1px solid var(--line)',
         textAlign: 'center'
       }}>
         <div style={{
           maxWidth: '800px',
-          margin: '0 auto',
+          margin: '0 auto 24px',
           display: 'flex',
           justifyContent: 'center',
           gap: '24px',
-          flexWrap: 'wrap',
-          marginBottom: '24px'
+          flexWrap: 'wrap'
         }}>
-          <Link href="/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>Home</Link>
-          <Link href="/blog/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>Blog</Link>
-          <Link href="/about/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>About</Link>
-          <Link href="/contact/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>Contact</Link>
-          <Link href="/privacy/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>Privacy</Link>
-          <Link href="/terms/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>Terms</Link>
+          <Link href="/" style={{ color: 'var(--muted)', textDecoration: 'none', fontSize: '14px' }}>Home</Link>
+          <Link href="/blog/" style={{ color: 'var(--muted)', textDecoration: 'none', fontSize: '14px' }}>Blog</Link>
+          <Link href="/about/" style={{ color: 'var(--muted)', textDecoration: 'none', fontSize: '14px' }}>About</Link>
+          <Link href="/contact/" style={{ color: 'var(--muted)', textDecoration: 'none', fontSize: '14px' }}>Contact</Link>
+          <Link href="/privacy/" style={{ color: 'var(--muted)', textDecoration: 'none', fontSize: '14px' }}>Privacy</Link>
+          <Link href="/terms/" style={{ color: 'var(--muted)', textDecoration: 'none', fontSize: '14px' }}>Terms</Link>
         </div>
-        <p style={{ color: '#737373', fontSize: '14px' }}>© 2026 AI in China. All rights reserved.</p>
+        <p style={{ color: 'var(--muted-2)', fontSize: '14px' }}>© 2026 AI in China. All rights reserved.</p>
       </footer>
     </main>
   )

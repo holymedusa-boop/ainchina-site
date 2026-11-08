@@ -25,7 +25,7 @@ export default function SitemapPage() {
       <h1 style={{ 
         fontSize: '2.5rem', 
         marginBottom: '10px',
-        color: '#e5e5e5'
+        color: 'var(--fg)'
       }}>
         Sitemap
       </h1>
@@ -53,17 +53,17 @@ export default function SitemapPage() {
         </h2>
         <ul style={{ listStyle: 'none', padding: 0 }}>
           <li style={{ marginBottom: '10px' }}>
-            <Link href="/" style={{ color: '#e5e5e5', textDecoration: 'none' }}>
+            <Link href="/" style={{ color: 'var(--fg)', textDecoration: 'none' }}>
               Home
             </Link>
           </li>
           <li style={{ marginBottom: '10px' }}>
-            <Link href="/blog/" style={{ color: '#e5e5e5', textDecoration: 'none' }}>
+            <Link href="/blog/" style={{ color: 'var(--fg)', textDecoration: 'none' }}>
               Blog
             </Link>
           </li>
           <li style={{ marginBottom: '10px' }}>
-            <Link href="/about/" style={{ color: '#e5e5e5', textDecoration: 'none' }}>
+            <Link href="/about/" style={{ color: 'var(--fg)', textDecoration: 'none' }}>
               About
             </Link>
           </li>
@@ -90,7 +90,7 @@ export default function SitemapPage() {
                   <Link 
                     href={`/blog/${post.slug}/`}
                     style={{ 
-                      color: '#e5e5e5', 
+                      color: 'var(--fg)', 
                       textDecoration: 'none',
                       display: 'block'
                     }}

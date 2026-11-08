@@ -56,6 +56,12 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <head>
         <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link
+          href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,100..900&family=JetBrains+Mono:wght@400;500;700&family=Noto+Sans+SC:wght@400;500;700;900&display=swap"
+          rel="stylesheet"
+        />
         <script
           async
           src="https://www.googletagmanager.com/gtag/js?id=G-GK21PLH8V8"
@@ -72,11 +78,7 @@ export default function RootLayout({ children }) {
         />
         <script src="https://quge5.com/88/tag.min.js" data-zone="245313" async data-cfasync="false" />
       </head>
-      <body style={{ 
-        margin: 0, 
-        padding: 0,
-        fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif'
-      }}>
+      <body style={{ margin: 0, padding: 0 }}>
         {children}
         <CookieConsent />
       </body>

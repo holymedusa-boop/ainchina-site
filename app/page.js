@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import TopicGrid from './components/TopicGrid'
 
 // Auto-import posts from shared metadata
 const { allPosts } = require('../lib/posts-meta')
@@ -11,297 +12,349 @@ function formatDate(isoDate) {
   return `${monthNames[month - 1]} ${day}, ${year}`
 }
 
-// Fallback excerpts for posts missing them in posts-meta.js
 const fallbackExcerpts = {
   'china-ai-agent-era-140-trillion-tokens-2026': 'On June 1, 2026, three Chinese ministries jointly issued the most comprehensive national policy framework for AI agent governance to date. With 140 trillion daily tokens and DeepSeek\'s 75% price cut, the global AI landscape is being reshaped.',
   'deepseek-7b-mega-round-china-ai-capital-shift-2026': 'DeepSeek has raised $7.4B in what may be the largest private AI funding round in history. The secretive Chinese lab is going all-in on capital, building a 100,000-GPU cluster and expanding globally at unprecedented scale.',
   'china-humanoid-robot-tsunami-2026-50k-units-global-dominance': 'China\'s humanoid robot industry is experiencing explosive growth with 50,000 units produced and 700% year-over-year expansion. 2026 marks the year humanoid robots transition from laboratory curiosity to industrial reality.'
 }
 
-// Take the latest 6 posts (already sorted newest-first in posts-meta.js)
-const posts = allPosts.slice(0, 6).map(post => ({
+const posts = allPosts.slice(0, 9).map(post => ({
   ...post,
   excerpt: post.excerpt || fallbackExcerpts[post.slug] || '',
   date: formatDate(post.date)
 }))
 
-const stats = [
-  { value: '103+', label: 'Companies Tracked' },
-  { value: '$15.2B', label: 'Total Funding' },
-  { value: '500M+', label: 'Global Users' },
-  { value: '24/7', label: 'Market Updates' }
-]
+const [lead, ...rest] = posts
+const secondaries = rest.slice(0, 2)
+const railPosts = posts.slice(0, 8)
+const gridPosts = allPosts.slice(0, 60).map(post => ({
+  ...post,
+  excerpt: post.excerpt || fallbackExcerpts[post.slug] || '',
+  date: formatDate(post.date)
+}))
 
 export default function Home() {
   return (
-    <div style={{ minHeight: '100vh', backgroundColor: '#0a0a0a', color: '#e5e5e5' }}>
+    <div style={{ minHeight: '100vh', background: 'var(--bg)', color: 'var(--fg)' }}>
       {/* Header */}
-      <header style={{ 
-        borderBottom: '1px solid #1a1a1a',
+      <header style={{
         position: 'sticky',
         top: 0,
-        backgroundColor: 'rgba(10, 10, 10, 0.95)',
+        zIndex: 100,
+        background: 'rgba(14,14,14,.92)',
         backdropFilter: 'blur(10px)',
-        zIndex: 100
+        borderBottom: '1px solid var(--line)'
       }}>
-        <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '16px 24px' }}>
-          <nav style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-            <Link href="/" style={{ 
-              fontSize: '24px', 
-              fontWeight: 700,
-              background: 'linear-gradient(135deg, #22d3ee, #8b5cf6)',
-              WebkitBackgroundClip: 'text',
-              WebkitTextFillColor: 'transparent',
-              textDecoration: 'none'
+        <div className="wrap" style={{
+          height: '60px',
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'space-between'
+        }}>
+          <Link href="/" style={{
+            fontSize: '24px',
+            fontWeight: 900,
+            letterSpacing: '-0.04em',
+            textDecoration: 'none',
+            color: 'var(--fg)'
+          }}>
+            ain<span style={{ color: 'var(--accent)' }}>china</span>
+          </Link>
+
+          <nav style={{ display: 'flex', alignItems: 'center', gap: '28px' }}>
+            <Link href="/blog/" className="nav-link" style={{
+              color: 'var(--muted)',
+              textDecoration: 'none',
+              fontSize: '14px',
+              fontWeight: 600
             }}>
-              AI in China
+              Analysis
             </Link>
-            
-            <div style={{ display: 'flex', gap: '32px' }}>
-              <Link href="/blog/" style={{ 
-                color: '#a3a3a3', 
-                textDecoration: 'none',
-                fontSize: '15px'
-              }}>
-                Blog
-              </Link>
-              <Link href="/about/" style={{ 
-                color: '#a3a3a3', 
-                textDecoration: 'none',
-                fontSize: '15px'
-              }}>
-                About
-              </Link>
-            </div>
+            <Link href="/about/" style={{
+              color: 'var(--muted)',
+              textDecoration: 'none',
+              fontSize: '14px',
+              fontWeight: 600
+            }}>
+              About
+            </Link>
+            <Link href="/contact/" style={{
+              color: 'var(--muted)',
+              textDecoration: 'none',
+              fontSize: '14px',
+              fontWeight: 600
+            }}>
+              Contact
+            </Link>
+            <a href="#newsletter" className="btn-accent" style={{ fontSize: '13px', padding: '8px 18px' }}>
+              Subscribe
+            </a>
           </nav>
         </div>
       </header>
 
-      {/* Hero */}
-      <section style={{ padding: '100px 24px 80px', textAlign: 'center' }}>
-        <div style={{ maxWidth: '800px', margin: '0 auto' }}>
-          <div style={{
-            display: 'inline-flex',
-            alignItems: 'center',
-            gap: '8px',
-            padding: '8px 16px',
-            backgroundColor: 'rgba(34, 211, 238, 0.1)',
-            border: '1px solid rgba(34, 211, 238, 0.3)',
-            borderRadius: '9999px',
-            color: '#22d3ee',
-            fontSize: '14px',
-            marginBottom: '32px'
+      {/* Masthead */}
+      <section className="wrap" style={{ paddingTop: '72px', paddingBottom: '36px' }}>
+        <div style={{
+          display: 'grid',
+          gridTemplateColumns: '1fr 320px',
+          gap: '40px',
+          alignItems: 'end'
+        }}
+        className="masthead-grid"
+        >
+          <h1 style={{
+            fontSize: 'clamp(44px, 9vw, 132px)',
+            fontWeight: 900,
+            lineHeight: 0.9,
+            letterSpacing: '-0.055em',
+            margin: 0
           }}>
-            <span style={{ 
-              width: '8px', 
-              height: '8px', 
-              backgroundColor: '#22d3ee', 
-              borderRadius: '50%',
-              display: 'inline-block'
-            }}></span>
-            Tracking 103+ Chinese AI Companies
-          </div>
-          
-          <h1 style={{ 
-            fontSize: 'clamp(40px, 8vw, 64px)', 
-            fontWeight: 700, 
-            marginBottom: '24px',
-            lineHeight: 1.1
-          }}>
-            The Rise of{' '}
-            <span style={{
-              background: 'linear-gradient(135deg, #22d3ee, #3b82f6, #8b5cf6)',
-              WebkitBackgroundClip: 'text',
-              WebkitTextFillColor: 'transparent'
-            }}>
-              Chinese AI
-            </span>
+            The Rise of<br />Chinese AI
           </h1>
-          
-          <p style={{ 
-            fontSize: '20px', 
-            color: '#a3a3a3', 
-            marginBottom: '40px',
-            lineHeight: 1.6
+          <p style={{
+            fontSize: '16px',
+            color: 'var(--muted)',
+            lineHeight: 1.6,
+            margin: 0,
+            paddingBottom: '10px'
           }}>
-            Comprehensive analysis of Chinese AI companies, products, and market intelligence 
-            for global investors and builders. Technical deep dives, funding data, and competitive intelligence.
+            Independent analysis of Chinese AI companies, models, and market
+            intelligence — for global investors and builders. Deep dives on
+            DeepSeek, Alibaba, Huawei, ByteDance, and the stack reshaping
+            global technology.
           </p>
         </div>
+        <hr className="rule" style={{ marginTop: '32px' }} />
       </section>
 
-      {/* Stats */}
-      <section style={{ 
-        display: 'flex', 
-        justifyContent: 'center', 
-        gap: '64px',
-        flexWrap: 'wrap',
-        padding: '40px 24px',
-        borderTop: '1px solid #1a1a1a',
-        borderBottom: '1px solid #1a1a1a'
-      }}>
-        {stats.map((stat, i) => (
-          <div key={i} style={{ textAlign: 'center', minWidth: '140px' }}>
-            <div style={{ fontSize: '40px', fontWeight: 700, color: '#22d3ee' }}>
-              {stat.value}
-            </div>
-            <div style={{ fontSize: '14px', color: '#737373', marginTop: '4px' }}>
-              {stat.label}
-            </div>
-          </div>
-        ))}
-      </section>
+      {/* Front page */}
+      <section className="wrap" style={{ paddingBottom: '88px' }}>
+        <div className="front-grid" style={{
+          display: 'grid',
+          gridTemplateColumns: '1.55fr 1fr 300px',
+          gap: '31px'
+        }}>
+          {/* Lead story */}
+          <Link href={`/blog/${lead.slug}/`} style={{ textDecoration: 'none', color: 'inherit' }}>
+            <article>
+              <div style={{ position: 'relative', marginBottom: '18px' }}>
+                {lead.image && (
+                  <img
+                    src={lead.image}
+                    alt={lead.title}
+                    style={{ width: '100%', aspectRatio: '3/2', objectFit: 'cover', borderRadius: 'var(--r-img)' }}
+                  />
+                )}
+                <span style={{
+                  position: 'absolute',
+                  top: '14px',
+                  left: '14px',
+                  background: 'var(--accent)',
+                  color: 'var(--on-accent)',
+                  fontFamily: 'var(--font-mono)',
+                  fontSize: '11px',
+                  fontWeight: 700,
+                  letterSpacing: '.08em',
+                  padding: '6px 12px',
+                  borderRadius: 'var(--r-pill)'
+                }}>
+                  TODAY&apos;S LEAD
+                </span>
+              </div>
+              <div className="mono" style={{ color: 'var(--muted)', textTransform: 'uppercase', fontWeight: 700, marginBottom: '10px' }}>
+                {lead.category} · {lead.date}
+              </div>
+              <h2 className="hl" style={{
+                fontSize: 'clamp(26px, 3.2vw, 40px)',
+                fontWeight: 800,
+                lineHeight: 1.05,
+                letterSpacing: '-0.035em',
+                margin: '0 0 14px'
+              }}>
+                {lead.title}
+              </h2>
+              <p style={{ fontSize: '16px', color: 'var(--muted)', lineHeight: 1.6, margin: 0 }}>
+                {lead.excerpt}
+              </p>
+            </article>
+          </Link>
 
-      {/* Latest Posts */}
-      <section style={{ padding: '80px 24px' }}>
-        <div style={{ maxWidth: '1200px', margin: '0 auto' }}>
-          <div style={{ 
-            display: 'flex', 
-            justifyContent: 'space-between', 
-            alignItems: 'center',
-            marginBottom: '48px'
-          }}>
-            <h2 style={{ fontSize: '28px', fontWeight: 600 }}>Latest Deep Dives</h2>
-            
-            <Link 
-              href="/blog/" 
-              style={{ 
-                color: '#22d3ee', 
-                textDecoration: 'none',
-                fontSize: '14px'
-              }}
-            >
-              View all →
-            </Link>
-          </div>
-          
-          <div style={{ 
-            display: 'grid', 
-            gridTemplateColumns: 'repeat(auto-fill, minmax(360px, 1fr))',
-            gap: '28px'
-          }}>
-            {posts.map((post) => (
-              <article key={post.slug} style={{ 
-                backgroundColor: '#111', 
-                border: '1px solid #1a1a1a',
-                borderRadius: '12px',
-                overflow: 'hidden',
-                transition: 'all 0.2s',
-                cursor: 'pointer',
-                ':hover': {
-                  borderColor: '#22d3ee'
-                }
-              }}
-              >
-                {post.image && (
-                  <div style={{ width: '100%', height: '200px', overflow: 'hidden' }}>
+          {/* Secondary stories */}
+          <div style={{ display: 'flex', flexDirection: 'column', gap: '28px' }}>
+            {secondaries.map(post => (
+              <Link key={post.slug} href={`/blog/${post.slug}/`} style={{ textDecoration: 'none', color: 'inherit' }}>
+                <article>
+                  {post.image && (
                     <img
                       src={post.image}
                       alt={post.title}
-                      style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+                      style={{ width: '100%', aspectRatio: '16/10', objectFit: 'cover', borderRadius: 'var(--r-img)', marginBottom: '12px' }}
                       loading="lazy"
                     />
+                  )}
+                  <div className="mono" style={{ color: 'var(--muted)', textTransform: 'uppercase', fontWeight: 700, marginBottom: '8px' }}>
+                    {post.category} · {post.date}
                   </div>
-                )}
-                <div style={{ padding: '28px' }}>
-                  <div style={{ 
-                    fontSize: '11px', 
-                    fontWeight: 600, 
-                    color: '#22d3ee', 
-                    marginBottom: '12px',
-                    textTransform: 'uppercase',
-                    letterSpacing: '0.5px'
+                  <h3 className="hl" style={{
+                    fontSize: '20px',
+                    fontWeight: 800,
+                    lineHeight: 1.18,
+                    letterSpacing: '-0.02em',
+                    margin: 0
                   }}>
-                    {post.category}
-                  </div>
-                  
-                  <Link 
-                    href={`/blog/${post.slug}/`}
-                    style={{ textDecoration: 'none', color: 'inherit' }}
-                  >
-                    <h3 style={{ 
-                      fontSize: '20px', 
-                      fontWeight: 600, 
-                      marginBottom: '12px',
-                      lineHeight: 1.4
-                    }}>
-                      {post.title}
-                    </h3>
-                  </Link>
-                  
-                  <p style={{ fontSize: '15px', color: '#a3a3a3', lineHeight: 1.6, marginBottom: '16px' }}>
-                    {post.excerpt}
-                  </p>
-                  
-                  <div style={{ 
-                    display: 'flex', 
-                    justifyContent: 'space-between',
-                    fontSize: '13px',
-                    color: '#737373'
-                  }}>
-                    <span>{post.date}</span>
-                    <span>{post.readTime}</span>
-                  </div>
-                </div>
-              </article>
+                    {post.title}
+                  </h3>
+                </article>
+              </Link>
             ))}
           </div>
+
+          {/* Right rail */}
+          <aside>
+            <div style={{ display: 'flex', alignItems: 'baseline', justifyContent: 'space-between', marginBottom: '4px' }}>
+              <h3 className="mono" style={{
+                fontSize: '12px',
+                fontWeight: 700,
+                letterSpacing: '.08em',
+                textTransform: 'uppercase',
+                margin: 0
+              }}>
+                Latest Analysis
+              </h3>
+              <Link href="/blog/" className="mono" style={{ color: 'var(--muted)', textDecoration: 'none', fontSize: '11px' }}>
+                All →
+              </Link>
+            </div>
+            <hr className="rule" style={{ marginBottom: '20px' }} />
+            <ol style={{ listStyle: 'none', margin: 0, padding: 0, display: 'flex', flexDirection: 'column', gap: '18px' }}>
+              {railPosts.map((post, i) => (
+                <li key={post.slug} style={{ display: 'flex', gap: '14px', alignItems: 'flex-start' }}>
+                  <span className="rail-num">{i + 1}</span>
+                  <div>
+                    <div className="mono" style={{ color: 'var(--muted-2)', textTransform: 'uppercase', fontSize: '10px', fontWeight: 700, marginBottom: '3px' }}>
+                      {post.category}
+                    </div>
+                    <Link href={`/blog/${post.slug}/`} className="hl" style={{
+                      fontSize: '14.5px',
+                      fontWeight: 700,
+                      lineHeight: 1.3,
+                      textDecoration: 'none',
+                      color: 'var(--fg)'
+                    }}>
+                      {post.title}
+                    </Link>
+                  </div>
+                </li>
+              ))}
+            </ol>
+          </aside>
         </div>
       </section>
 
-      {/* Newsletter */}
-      <section style={{ padding: '60px 24px', borderTop: '1px solid #1a1a1a' }}>
-        <div style={{ maxWidth: '600px', margin: '0 auto', textAlign: 'center' }}>
-          <h3 style={{ fontSize: '24px', fontWeight: 600, marginBottom: '12px' }}>Stay Updated</h3>
-          <p style={{ fontSize: '16px', color: '#a3a3a3', marginBottom: '24px' }}>
-            Get weekly analysis on Chinese AI companies, funding rounds, and market trends.
+      {/* By topic */}
+      <section style={{ background: 'var(--surface)', padding: '88px 0' }}>
+        <div className="wrap">
+          <h2 style={{
+            fontSize: 'clamp(32px, 4.6vw, 56px)',
+            fontWeight: 900,
+            letterSpacing: '-0.045em',
+            lineHeight: 1,
+            margin: '0 0 12px'
+          }}>
+            By topic
+          </h2>
+          <p style={{ color: 'var(--muted)', fontSize: '16px', margin: '0 0 36px' }}>
+            Browse the archive across the beats we cover — from frontier models to
+            chip sovereignty to the policy shaping it all.
           </p>
-          
-          <div style={{ display: 'flex', gap: '12px', justifyContent: 'center' }}>
-            <a 
-              href="https://x.com/AInChina5" 
-              target="_blank"
-              rel="noopener noreferrer"
-              style={{
-                padding: '12px 24px',
-                backgroundColor: '#1a1a1a',
-                border: '1px solid #2a2a2a',
-                borderRadius: '8px',
-                color: '#e5e5e5',
-                textDecoration: 'none',
-                fontSize: '14px'
-              }}
-            >
-              Follow on X/Twitter
-            </a>
+          <TopicGrid posts={gridPosts} />
+        </div>
+      </section>
+
+      {/* Newsletter band */}
+      <section id="newsletter" className="band" style={{ padding: '88px 0' }}>
+        <div className="wrap" style={{
+          display: 'grid',
+          gridTemplateColumns: '1fr 1fr',
+          gap: '48px',
+          alignItems: 'center'
+        }}
+        className="band-grid"
+        >
+          <h2 style={{
+            fontSize: 'clamp(36px, 6vw, 72px)',
+            fontWeight: 900,
+            letterSpacing: '-0.045em',
+            lineHeight: .95,
+            margin: 0
+          }}>
+            The weekly<br />briefing
+          </h2>
+          <div>
+            <p style={{ fontSize: '17px', lineHeight: 1.6, margin: '0 0 24px', opacity: .95 }}>
+              One email a week — the funding rounds, model releases, and policy
+              moves that matter in Chinese AI. No noise.
+            </p>
+            <div style={{ display: 'flex', flexDirection: 'column', gap: '12px', maxWidth: '420px' }}>
+              <a
+                href="https://x.com/AInChina5"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="btn-invert"
+                style={{ textAlign: 'center' }}
+              >
+                Follow @AInChina5 on X →
+              </a>
+              <span className="mono" style={{ fontSize: '11px', opacity: .8 }}>
+                Analysis drops daily · Briefing summaries weekly
+              </span>
+            </div>
           </div>
         </div>
       </section>
 
       {/* Footer */}
-      <footer style={{ 
-        padding: '40px 24px', 
-        borderTop: '1px solid #1a1a1a',
-        textAlign: 'center'
-      }}>
-        <div style={{ 
-          maxWidth: '800px',
-          margin: '0 auto',
+      <footer style={{ padding: '48px 0', borderTop: '1px solid var(--line)' }}>
+        <div className="wrap" style={{
           display: 'flex',
-          justifyContent: 'center',
-          gap: '24px',
+          justifyContent: 'space-between',
+          alignItems: 'center',
           flexWrap: 'wrap',
-          marginBottom: '24px'
+          gap: '20px'
         }}>
-          <a href="/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>Home</a>
-          <a href="/blog/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>Blog</a>
-          <a href="/about/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>About</a>
-          <a href="/contact/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>Contact</a>
-          <a href="/privacy/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>Privacy</a>
-          <a href="/terms/" style={{ color: '#a3a3a3', textDecoration: 'none', fontSize: '14px' }}>Terms</a>
+          <span style={{ fontSize: '20px', fontWeight: 900, letterSpacing: '-0.04em' }}>
+            ain<span style={{ color: 'var(--accent)' }}>china</span>
+          </span>
+          <nav style={{ display: 'flex', gap: '22px', flexWrap: 'wrap' }}>
+            <Link href="/" style={{ color: 'var(--muted)', textDecoration: 'none', fontSize: '13px' }}>Home</Link>
+            <Link href="/blog/" style={{ color: 'var(--muted)', textDecoration: 'none', fontSize: '13px' }}>Analysis</Link>
+            <Link href="/about/" style={{ color: 'var(--muted)', textDecoration: 'none', fontSize: '13px' }}>About</Link>
+            <Link href="/contact/" style={{ color: 'var(--muted)', textDecoration: 'none', fontSize: '13px' }}>Contact</Link>
+            <Link href="/privacy/" style={{ color: 'var(--muted)', textDecoration: 'none', fontSize: '13px' }}>Privacy</Link>
+            <Link href="/terms/" style={{ color: 'var(--muted)', textDecoration: 'none', fontSize: '13px' }}>Terms</Link>
+          </nav>
+          <p className="mono" style={{ color: 'var(--muted-2)', fontSize: '12px', margin: 0 }}>
+            © 2026 · Independent research. Not investment advice.
+          </p>
         </div>
-        <p style={{ color: '#737373', fontSize: '14px' }}>© 2026 AI in China. All rights reserved.</p>
       </footer>
+
+      {/* Responsive tweaks (design-system media queries, kept inline-scoped) */}
+      <style>{`
+        @media (max-width: 1000px) {
+          .front-grid { grid-template-columns: 1fr 1fr !important; }
+          .front-grid aside { grid-column: 1 / -1; }
+        }
+        @media (max-width: 860px) {
+          .masthead-grid { grid-template-columns: 1fr !important; gap: 16px !important; }
+          .band-grid { grid-template-columns: 1fr !important; gap: 24px !important; }
+          header nav a:not(.btn-accent) { display: none; }
+        }
+        @media (max-width: 560px) {
+          .front-grid { grid-template-columns: 1fr !important; }
+        }
+      `}</style>
     </div>
   )
 }

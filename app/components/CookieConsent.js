@@ -77,7 +77,7 @@ export default function CookieConsent() {
         left: 0,
         right: 0,
         zIndex: 9999,
-        backgroundColor: '#111',
+        backgroundColor: 'var(--card)',
         borderTop: '1px solid #2a2a2a',
         padding: '20px 24px',
         fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif',
@@ -96,7 +96,7 @@ export default function CookieConsent() {
           <p
             style={{
               margin: '0 0 8px 0',
-              color: '#f5f5f5',
+              color: 'var(--fg)',
               fontSize: '15px',
               fontWeight: 600,
               lineHeight: 1.4,
@@ -107,20 +107,20 @@ export default function CookieConsent() {
           <p
             style={{
               margin: 0,
-              color: '#a3a3a3',
+              color: 'var(--muted)',
               fontSize: '14px',
               lineHeight: 1.6,
             }}
           >
             This site uses cookies and similar technologies to enhance your experience,
             analyze traffic, and serve personalized ads through{' '}
-            <strong style={{ color: '#e5e5e5' }}>Google AdSense</strong> and{' '}
-            <strong style={{ color: '#e5e5e5' }}>Google Analytics</strong>.
+            <strong style={{ color: 'var(--fg)' }}>Google AdSense</strong> and{' '}
+            <strong style={{ color: 'var(--fg)' }}>Google Analytics</strong>.
             Essential cookies are always active. You can choose whether to allow
             analytics and advertising cookies.{' '}
             <a
               href="/privacy/"
-              style={{ color: '#22d3ee', textDecoration: 'none' }}
+              style={{ color: 'var(--accent)', textDecoration: 'none' }}
             >
               Learn more in our Privacy Policy
             </a>
@@ -143,7 +143,7 @@ export default function CookieConsent() {
               backgroundColor: 'transparent',
               border: '1px solid #3a3a3a',
               borderRadius: '8px',
-              color: '#a3a3a3',
+              color: 'var(--muted)',
               fontSize: '14px',
               fontWeight: 500,
               cursor: 'pointer',
@@ -151,11 +151,11 @@ export default function CookieConsent() {
             }}
             onMouseEnter={(e) => {
               e.target.style.borderColor = '#555'
-              e.target.style.color = '#e5e5e5'
+              e.target.style.color = 'var(--fg)'
             }}
             onMouseLeave={(e) => {
               e.target.style.borderColor = '#3a3a3a'
-              e.target.style.color = '#a3a3a3'
+              e.target.style.color = 'var(--muted)'
             }}
           >
             Essential Only
@@ -164,10 +164,10 @@ export default function CookieConsent() {
             onClick={acceptAll}
             style={{
               padding: '10px 20px',
-              backgroundColor: '#22d3ee',
+              backgroundColor: 'var(--accent)',
               border: 'none',
               borderRadius: '8px',
-              color: '#0a0a0a',
+              color: 'var(--bg)',
               fontSize: '14px',
               fontWeight: 600,
               cursor: 'pointer',
@@ -177,7 +177,7 @@ export default function CookieConsent() {
               e.target.style.backgroundColor = '#06b6d4'
             }}
             onMouseLeave={(e) => {
-              e.target.style.backgroundColor = '#22d3ee'
+              e.target.style.backgroundColor = 'var(--accent)'
             }}
           >
             Accept All
