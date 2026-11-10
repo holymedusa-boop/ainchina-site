@@ -34,6 +34,11 @@ function extractToc(content) {
 
 // SEO Metadata for each article
 const postMetadata = {
+  'hbm-memory-war-china-ai-chip-bottleneck-2026': {
+    metaTitle: "The $4,000 Memory Problem: How HBM Became the Real Battlefield in the US-China AI War",
+    metaDescription: "Everyone watches the logic chips. But a single high-bandwidth memory stack now costs $4,000 on China's black market, Huawei is telling customers to find their own memory, and the entire AI race may hinge on who controls the DRAM — not the GPU. The evidence says the real wall is memory.",
+    keywords: '',
+  },
   'china-ai-regulation-full-lifecycle-ndrc-2026': {
     metaTitle: "China's AI Rulebook: Five Years of Regulation Culminate in Full-Lifecycle Safety Standards",
     metaDescription: "China's NDRC announced comprehensive AI safety standards covering every stage from data collection to deployment, affecting DeepSeek, Moonshot, Alibaba, and every frontier lab in between. Here's the complete timeline of how the world's most regulated AI ecosystem got here — and what comes next.",
