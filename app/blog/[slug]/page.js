@@ -34,6 +34,11 @@ function extractToc(content) {
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-humanoid-robots-white-collar-jobs-service-economy-2026': {
+    metaTitle: "The Anchor Is a Robot: How China's Humanoids Are Coming for White-Collar Work",
+    metaDescription: "On November 5, 2026, Xinhua News Agency unveiled the world's first bionic humanoid news anchors — robots with synthetic skin, designed by Zhang Yimou, that read the news on camera. It was a media spectacle. It was also a signal: China's humanoid robots are no longer just factory workers. They're coming for the service economy.",
+    keywords: '',
+  },
   'hbm-memory-war-china-ai-chip-bottleneck-2026': {
     metaTitle: "The $4,000 Memory Problem: How HBM Became the Real Battlefield in the US-China AI War",
     metaDescription: "Everyone watches the logic chips. But a single high-bandwidth memory stack now costs $4,000 on China's black market, Huawei is telling customers to find their own memory, and the entire AI race may hinge on who controls the DRAM — not the GPU. The evidence says the real wall is memory.",
