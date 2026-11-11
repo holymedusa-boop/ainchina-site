@@ -34,6 +34,11 @@ function extractToc(content) {
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-singles-day-ai-tokens-agent-shopping-2026': {
+    metaTitle: "321, Tokens Up: How China's Singles' Day Became the World's First AI Shopping Festival",
+    metaDescription: "Austin Li sold 100,000 AI memberships in 30 minutes at 0.01 yuan each. JD's assistant answered 80 million shoppers. Tmall's token sales jumped 700%. Inside the 2026 Double 11 festival — the moment AI stopped being a demo and became something you put in a cart.",
+    keywords: '',
+  },
   'china-humanoid-robots-white-collar-jobs-service-economy-2026': {
     metaTitle: "The Anchor Is a Robot: How China's Humanoids Are Coming for White-Collar Work",
     metaDescription: "On November 5, 2026, Xinhua News Agency unveiled the world's first bionic humanoid news anchors — robots with synthetic skin, designed by Zhang Yimou, that read the news on camera. It was a media spectacle. It was also a signal: China's humanoid robots are no longer just factory workers. They're coming for the service economy.",
