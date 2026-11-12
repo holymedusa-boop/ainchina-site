@@ -34,6 +34,11 @@ function extractToc(content) {
 
 // SEO Metadata for each article
 const postMetadata = {
+  'huawei-macaq-open-source-quantizer-2026': {
+    metaTitle: "From GPTQ to MACaQ: Huawei's Open-Source Quantizer Shrinks 122B Models in 64 Minutes",
+    metaDescription: "Huawei open-sourced MACaQ, its AI quantizer. It compresses a 122B model in 64 minutes on 32.5GB memory, beating MR-GPTQ and DuQuant++.",
+    keywords: 'Huawei MACaQ, AI quantizer open source, GGUF quantization, local LLM inference, W4A4 quantization, llama.cpp, model compression China, MACaQ-R',
+  },
   'china-nebula-constellation-space-computing-2026': {
     metaTitle: "China's Nebula Plan: AI Data Centers in Orbit",
     metaDescription: "Sixteen Chinese firms formed Zhongke Xingyun to build the Nebula space network — Beijing's bold bid to move AI data centers off the grid and into orbit.",
