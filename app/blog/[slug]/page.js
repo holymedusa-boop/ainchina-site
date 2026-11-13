@@ -34,6 +34,11 @@ function extractToc(content) {
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-models-blackwell-gpu-fingerprint-forensics-2026': {
+    metaTitle: "Blackwell Fingerprints Found in China's Frontier AI Models: Forensic Evidence Explained",
+    metaDescription: "Forensic analysis by Will DePue finds six Chinese AI models carry NVIDIA Blackwell GPU fingerprints in their weights. DeepSeek, Moonshot, MiniMax, Ant Group implicated. Method, evidence, and implications.",
+    keywords: 'China AI models Blackwell fingerprint, DeepSeek V4 Blackwell, Kimi K3 GB200, export control evasion, checkpoint forensics, Will DePue, NVIDIA export ban, AI chip smuggling',
+  },
   'huawei-macaq-open-source-quantizer-2026': {
     metaTitle: "From GPTQ to MACaQ: Huawei's Open-Source Quantizer Shrinks 122B Models in 64 Minutes",
     metaDescription: "Huawei open-sourced MACaQ, its AI quantizer. It compresses a 122B model in 64 minutes on 32.5GB memory, beating MR-GPTQ and DuQuant++.",
