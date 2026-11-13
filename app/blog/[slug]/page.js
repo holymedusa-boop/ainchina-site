@@ -34,6 +34,11 @@ function extractToc(content) {
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-blackwell-fingerprints-nvidia-scandal-2026': {
+    metaTitle: "Blackwell Fingerprints Prove Export Controls Are Failing",
+    metaDescription: "Forensic analysis found Blackwell GPU fingerprints in six Chinese AI models. The real story isn't the scandal—it's that export controls can't stop this.",
+    keywords: 'Nvidia Blackwell fingerprints, Chinese AI models export controls, DeepSeek V4 Blackwell, Jensen Huang resignation, chip export enforcement, Moonshot Kimi K3, checkpoint forensics, AI training hardware, China semiconductor policy, Unemployment Labs',
+  },
   'china-ai-models-blackwell-gpu-fingerprint-forensics-2026': {
     metaTitle: "Blackwell Fingerprints Found in China's Frontier AI Models: Forensic Evidence Explained",
     metaDescription: "Forensic analysis by Will DePue finds six Chinese AI models carry NVIDIA Blackwell GPU fingerprints in their weights. DeepSeek, Moonshot, MiniMax, Ant Group implicated. Method, evidence, and implications.",
