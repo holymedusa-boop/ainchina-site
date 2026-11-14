@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Generated: 2026-11-13T20:24:24.015Z -->
-  <!-- Total Posts: 302 -->
+  <!-- Generated: 2026-11-14T08:09:58.788Z -->
+  <!-- Total Posts: 304 -->
 
   <!-- Homepage -->
   <url>
     <loc>https://www.ainchina.com/</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -15,7 +15,7 @@
   <!-- Blog Index -->
   <url>
     <loc>https://www.ainchina.com/blog/</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -31,7 +31,7 @@
   <!-- HTML Sitemap -->
   <url>
     <loc>https://www.ainchina.com/sitemap/</loc>
-    <lastmod>2026-11-13</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
@@ -39,6 +39,18 @@
   <!-- AI -->
   <url>
     <loc>https://www.ainchina.com/blog/china-ai-blackwell-fingerprints-nvidia-scandal-2026/</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/china-us-ai-export-controls-mirror-regime-deadline-2026/</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/jensen-huang-resignation-nvidia-successor-china-ai-impact-2026/</loc>
     <lastmod>2026-11-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -112,13 +124,13 @@
   <url>
     <loc>https://www.ainchina.com/blog/china-mobile-100-billion-ai-compute-bet-2026/</loc>
     <lastmod>2026-11-07</lastmod>
-    <changefreq>daily</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.ainchina.com/blog/china-robot-tactile-gold-rush-component-shift-2026/</loc>
     <lastmod>2026-11-07</lastmod>
-    <changefreq>daily</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>

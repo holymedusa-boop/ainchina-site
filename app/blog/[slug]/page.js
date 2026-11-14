@@ -44,6 +44,11 @@ const postMetadata = {
     metaDescription: "China's AI export control comment period closes Nov 15. Comparing MOFCOM Announcement 48 with US chip rules reveals a mirror regime that will shape AI for years.",
     keywords: 'China AI export controls, MOFCOM Announcement 48, US chip export controls, AI technology export, model weights regulation, AI agent controls, tech bifurcation, DeepSeek federal ban, APEC summit AI, open source licensing',
   },
+  'jensen-huang-resignation-nvidia-successor-china-ai-impact-2026': {
+    metaTitle: "After Jensen Huang: Nvidia's Succession and China's AI",
+    metaDescription: "Nvidia's CEO resigned with no successor named. What Jensen Huang's exit means for Chinese AI labs' compute access, domestic chip substitution, and the bifurcation of global AI.",
+    keywords: 'Jensen Huang resignation, Nvidia successor, China AI chips, Blackwell export controls, Megaspeed Alice Huang, Huawei Ascend, Chinese AI labs, Colette Kress, Rene Haas, AI compute shortage',
+  },
   'china-ai-models-blackwell-gpu-fingerprint-forensics-2026': {
     metaTitle: "Blackwell Fingerprints Found in China's Frontier AI Models: Forensic Evidence Explained",
     metaDescription: "Forensic analysis by Will DePue finds six Chinese AI models carry NVIDIA Blackwell GPU fingerprints in their weights. DeepSeek, Moonshot, MiniMax, Ant Group implicated. Method, evidence, and implications.",
