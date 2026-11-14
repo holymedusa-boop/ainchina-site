@@ -39,6 +39,11 @@ const postMetadata = {
     metaDescription: "Forensic analysis found Blackwell GPU fingerprints in six Chinese AI models. The real story isn't the scandal—it's that export controls can't stop this.",
     keywords: 'Nvidia Blackwell fingerprints, Chinese AI models export controls, DeepSeek V4 Blackwell, Jensen Huang resignation, chip export enforcement, Moonshot Kimi K3, checkpoint forensics, AI training hardware, China semiconductor policy, Unemployment Labs',
   },
+  'china-us-ai-export-controls-mirror-regime-deadline-2026': {
+    metaTitle: "Two Walls: US-China AI Export Controls Mirror Regime",
+    metaDescription: "China's AI export control comment period closes Nov 15. Comparing MOFCOM Announcement 48 with US chip rules reveals a mirror regime that will shape AI for years.",
+    keywords: 'China AI export controls, MOFCOM Announcement 48, US chip export controls, AI technology export, model weights regulation, AI agent controls, tech bifurcation, DeepSeek federal ban, APEC summit AI, open source licensing',
+  },
   'china-ai-models-blackwell-gpu-fingerprint-forensics-2026': {
     metaTitle: "Blackwell Fingerprints Found in China's Frontier AI Models: Forensic Evidence Explained",
     metaDescription: "Forensic analysis by Will DePue finds six Chinese AI models carry NVIDIA Blackwell GPU fingerprints in their weights. DeepSeek, Moonshot, MiniMax, Ant Group implicated. Method, evidence, and implications.",
