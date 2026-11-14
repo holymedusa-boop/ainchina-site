@@ -34,6 +34,11 @@ function extractToc(content) {
 
 // SEO Metadata for each article
 const postMetadata = {
+  'alibaba-qwen4-max-preview-silent-launch-2026': {
+    metaTitle: "Qwen4-Max Preview: Alibaba's Silent Frontier Launch",
+    metaDescription: "Alibaba launched Qwen4-Max-Preview with no benchmarks, no parameters, no price. Inside the silent launch of China's most anticipated AI model.",
+    keywords: 'Qwen4-Max preview, Alibaba Qwen 4 launch 2026, qwen4-max-preview specs, Qwen 4 benchmarks, Alibaba Token Plan, Qwen4 release date, Qwen3.8-Flash-Next architecture, China AI model export controls, Qwen4-27B open weights, Qwen4 agent benchmark',
+  },
   'china-ai-blackwell-fingerprints-nvidia-scandal-2026': {
     metaTitle: "Blackwell Fingerprints Prove Export Controls Are Failing",
     metaDescription: "Forensic analysis found Blackwell GPU fingerprints in six Chinese AI models. The real story isn't the scandal—it's that export controls can't stop this.",
