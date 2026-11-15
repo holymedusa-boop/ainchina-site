@@ -34,6 +34,11 @@ function extractToc(content) {
 
 // SEO Metadata for each article
 const postMetadata = {
+  'tencent-hy4-770b-open-weight-computer-use-finance-2026': {
+    metaTitle: "Tencent Hy4: 770B Open-Weight Model That Operates Software",
+    metaDescription: "Tencent's Hy4 is a 770B open-weight model with vision and computer-use skills. It scored 3.04 in a blind finance test against DeepSeek, Kimi, and GLM — but the 'second place' claim needs scrutiny.",
+    keywords: 'Tencent Hy4, Hunyuan 770B, computer use AI model, open weight AI China, Hy4 finance benchmark, Hy4 vs DeepSeek, Hy4 WorkBuddy, Tencent AI agent, Hy4 pricing, Chinese open source AI 2026',
+  },
   'alibaba-qwen4-max-preview-silent-launch-2026': {
     metaTitle: "Qwen4-Max Preview: Alibaba's Silent Frontier Launch",
     metaDescription: "Alibaba launched Qwen4-Max-Preview with no benchmarks, no parameters, no price. Inside the silent launch of China's most anticipated AI model.",
