@@ -39,6 +39,11 @@ const postMetadata = {
     metaDescription: "Alibaba launched Qwen4-Max-Preview with no benchmarks, no parameters, no price. Inside the silent launch of China's most anticipated AI model.",
     keywords: 'Qwen4-Max preview, Alibaba Qwen 4 launch 2026, qwen4-max-preview specs, Qwen 4 benchmarks, Alibaba Token Plan, Qwen4 release date, Qwen3.8-Flash-Next architecture, China AI model export controls, Qwen4-27B open weights, Qwen4 agent benchmark',
   },
+  'zhang-yiming-bytedance-openai-2029-slow-lane-2026': {
+    metaTitle: "Zhang Yiming: ByteDance Won't Catch OpenAI Until 2029",
+    metaDescription: "ByteDance's founder told his AI team that catching OpenAI and Anthropic will take until 2029 at the earliest — and banned the shortcut powering Chinese AI.",
+    keywords: 'Zhang Yiming ByteDance AI, Seed 2.1 model, ByteDance OpenAI 2029, Doubao monthly active users, Wu Yonghui Seed team, ByteDance capex 700 billion, China AI long-termism, no distillation policy, ByteDance 10 trillion parameter model, China frontier AI gap',
+  },
   'china-ai-blackwell-fingerprints-nvidia-scandal-2026': {
     metaTitle: "Blackwell Fingerprints Prove Export Controls Are Failing",
     metaDescription: "Forensic analysis found Blackwell GPU fingerprints in six Chinese AI models. The real story isn't the scandal—it's that export controls can't stop this.",
