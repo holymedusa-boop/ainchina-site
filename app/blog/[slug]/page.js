@@ -34,6 +34,11 @@ function extractToc(content) {
 
 // SEO Metadata for each article
 const postMetadata = {
+  'deepseek-full-stack-api-commoditization-ai-infrastructure-2026': {
+    metaTitle: "DeepSeek Full-Stack API: The $0.05/Hour AI Disruption",
+    metaDescription: "DeepSeek opened its entire app stack as APIs on Nov 13: search, OCR, ASR, TTS. Speech recognition costs $0.058/hour — 1/16th of Google's price. Here's what it means.",
+    keywords: 'DeepSeek API, DeepSeek full suite API, DeepSeek ASR pricing, DeepSeek OCR API, DeepSeek voice API, Chinese AI API pricing, DeepSeek V4.1 Flash, AI commoditization, DeepSeek developer platform, AI application stack 2026',
+  },
   'tencent-hy4-770b-open-weight-computer-use-finance-2026': {
     metaTitle: "Tencent Hy4: 770B Open-Weight Model That Operates Software",
     metaDescription: "Tencent's Hy4 is a 770B open-weight model with vision and computer-use skills. It scored 3.04 in a blind finance test against DeepSeek, Kimi, and GLM — but the 'second place' claim needs scrutiny.",
