@@ -34,6 +34,11 @@ function extractToc(content) {
 
 // SEO Metadata for each article
 const postMetadata = {
+  'deepseek-compute-rationing-china-ai-famine-2026': {
+    metaTitle: "DeepSeek Compute Rationing: The End of Free Chinese AI",
+    metaDescription: "DeepSeek imposed daily chat limits and deleted idle conversations on Nov 16, citing insufficient compute. The canary in China's AI coal mine just stopped singing. Here's what it means.",
+    keywords: 'DeepSeek compute shortage, DeepSeek usage limits 2026, China AI compute scarcity, DeepSeek free tier restrictions, Chinese AI chip shortage, HBM shortage China, AI compute famine, DeepSeek daily limit, China AI infrastructure 2026',
+  },
   'deepseek-full-stack-api-commoditization-ai-infrastructure-2026': {
     metaTitle: "DeepSeek Full-Stack API: The $0.05/Hour AI Disruption",
     metaDescription: "DeepSeek opened its entire app stack as APIs on Nov 13: search, OCR, ASR, TTS. Speech recognition costs $0.058/hour — 1/16th of Google's price. Here's what it means.",
