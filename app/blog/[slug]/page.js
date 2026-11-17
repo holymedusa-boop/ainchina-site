@@ -34,6 +34,11 @@ function extractToc(content) {
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-diplomacy-apec-shenzhen-summit-2026': {
+    metaTitle: "China's AI Diplomacy at APEC 2026: The Shenzhen Gambit",
+    metaDescription: "China proposed AI cooperation with the US on Nov 15 ahead of the APEC Shenzhen summit. With WAICO ratified and 38 member states, Beijing is building a parallel AI order. Here's what it means.",
+    keywords: 'China AI cooperation proposal APEC 2026, WAICO ratification, Shenzhen APEC summit AI, US-China AI diplomacy, World AI Cooperation Organization, China AI governance Global South, APEC CEO Summit Shenzhen, China AI export controls, Xi Jinping AI symphony, Pax Silica WAICO rivalry',
+  },
   'deepseek-compute-rationing-china-ai-famine-2026': {
     metaTitle: "DeepSeek Compute Rationing: The End of Free Chinese AI",
     metaDescription: "DeepSeek imposed daily chat limits and deleted idle conversations on Nov 16, citing insufficient compute. The canary in China's AI coal mine just stopped singing. Here's what it means.",
