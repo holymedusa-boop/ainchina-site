@@ -34,6 +34,11 @@ function extractToc(content) {
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-humanoid-robot-fork-unitree-ubtech-divergent-futures-2026': {
+    metaTitle: "Unitree vs UBTECH: China's Humanoid Robot Fork in 2026",
+    metaDescription: "China shipped 78% of global humanoid robots in 2025. Unitree sells them for $5,900 online; UBTECH won't quote a price. Two incompatible visions are splitting China's robot future — here's what each reveals.",
+    keywords: 'Unitree vs UBTECH humanoid robots 2026, China humanoid robot industrialization, Walker S2 mass production, Unitree G1 R1 price, AgiBot Lingxi X2, China robot supply chain dominance, embodied AI commercialization, humanoid robot factory deployment, China humanoid robot market share 2026, XPENG IRON robot',
+  },
   'china-ai-diplomacy-apec-shenzhen-summit-2026': {
     metaTitle: "China's AI Diplomacy at APEC 2026: The Shenzhen Gambit",
     metaDescription: "China proposed AI cooperation with the US on Nov 15 ahead of the APEC Shenzhen summit. With WAICO ratified and 38 member states, Beijing is building a parallel AI order. Here's what it means.",
