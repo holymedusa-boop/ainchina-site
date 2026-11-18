@@ -34,6 +34,11 @@ function extractToc(content) {
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-physical-ai-pivot-beyond-chatbots-embodied-2026': {
+    metaTitle: "China's Physical AI Pivot: Why the Next AI Era Belongs to Robots",
+    metaDescription: "Lei Jun's factory robots work 8-hour shifts. Robin Li warns of an AI bubble. Unitree's Wang Xingxing says embodied AI is China's path to AGI. At APEC Shenzhen, China's tech elite declared the chatbot era over — and the physical AI era open.",
+    keywords: 'China physical AI, embodied AI China, Lei Jun APEC 2026, Xiaomi factory robots, Robin Li AI bubble, Unitree Wang Xingxing, China humanoid robot strategy, APEC Shenzhen AI, dark factory China, HEIS 2026 robot standards, China AI pivot, physical world AI',
+  },
   'china-humanoid-robot-fork-unitree-ubtech-divergent-futures-2026': {
     metaTitle: "Unitree vs UBTECH: China's Humanoid Robot Fork in 2026",
     metaDescription: "China shipped 78% of global humanoid robots in 2025. Unitree sells them for $5,900 online; UBTECH won't quote a price. Two incompatible visions are splitting China's robot future — here's what each reveals.",
