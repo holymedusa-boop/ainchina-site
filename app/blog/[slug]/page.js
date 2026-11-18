@@ -39,6 +39,11 @@ const postMetadata = {
     metaDescription: "China shipped 78% of global humanoid robots in 2025. Unitree sells them for $5,900 online; UBTECH won't quote a price. Two incompatible visions are splitting China's robot future — here's what each reveals.",
     keywords: 'Unitree vs UBTECH humanoid robots 2026, China humanoid robot industrialization, Walker S2 mass production, Unitree G1 R1 price, AgiBot Lingxi X2, China robot supply chain dominance, embodied AI commercialization, humanoid robot factory deployment, China humanoid robot market share 2026, XPENG IRON robot',
   },
+  'qwen4-max-five-day-sprint-china-cheapest-frontier-2026': {
+    metaTitle: "Qwen4-Max: Alibaba's Five-Day Sprint to the Cheapest Frontier AI",
+    metaDescription: "Alibaba launched Qwen4-Max on Nov 16: 2.4T parameters, 1M context, $1.50/$4.50 per million tokens — a tenth of Western frontier pricing. Vendor benchmarks claim parity with Claude. Independent scores disagree. Here's what the verification gap means.",
+    keywords: 'Qwen4-Max launch November 2026, Alibaba Qwen4 benchmarks, Qwen4-Max pricing vs Claude GPT, cheapest frontier AI model, China AI price war 2026, Qwen4-Max Artificial Analysis score, Alibaba Qwen4 API, 2.4 trillion parameter model, Qwen4-Max vs Qwen3.8-Max, Chinese AI model economics',
+  },
   'china-ai-diplomacy-apec-shenzhen-summit-2026': {
     metaTitle: "China's AI Diplomacy at APEC 2026: The Shenzhen Gambit",
     metaDescription: "China proposed AI cooperation with the US on Nov 15 ahead of the APEC Shenzhen summit. With WAICO ratified and 38 member states, Beijing is building a parallel AI order. Here's what it means.",
