@@ -39,6 +39,11 @@ const postMetadata = {
     metaDescription: "Lei Jun's factory robots work 8-hour shifts. Robin Li warns of an AI bubble. Unitree's Wang Xingxing says embodied AI is China's path to AGI. At APEC Shenzhen, China's tech elite declared the chatbot era over — and the physical AI era open.",
     keywords: 'China physical AI, embodied AI China, Lei Jun APEC 2026, Xiaomi factory robots, Robin Li AI bubble, Unitree Wang Xingxing, China humanoid robot strategy, APEC Shenzhen AI, dark factory China, HEIS 2026 robot standards, China AI pivot, physical world AI',
   },
+  'radixark-daisyrose-27b-qwen-rl-agent-post-training-2026': {
+    metaTitle: "DaisyRose-27B: RadixArk's RL Breakthrough on Qwen",
+    metaDescription: "RadixArk's DaisyRose-27B used 1,200 curated tasks and 144 H200 GPUs to lift Qwen3.8-27B from 5.6% to 12% on Terminal-Bench 4.1 — with a 57% training cost cut.",
+    keywords: 'DaisyRose-27B, RadixArk, Qwen3.8-27B RL training, Terminal-Bench 4.1, Miles reinforcement learning framework, agentic RL post-training, China AI open weights, long-horizon agent tasks, SGLang slime ecosystem, AI training cost efficiency',
+  },
   'china-humanoid-robot-fork-unitree-ubtech-divergent-futures-2026': {
     metaTitle: "Unitree vs UBTECH: China's Humanoid Robot Fork in 2026",
     metaDescription: "China shipped 78% of global humanoid robots in 2025. Unitree sells them for $5,900 online; UBTECH won't quote a price. Two incompatible visions are splitting China's robot future — here's what each reveals.",
