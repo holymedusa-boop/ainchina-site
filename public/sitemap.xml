@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Generated: 2026-11-16T20:29:34.330Z -->
-  <!-- Total Posts: 309 -->
+  <!-- Generated: 2026-11-20T02:07:20.202Z -->
+  <!-- Total Posts: 316 -->
 
   <!-- Homepage -->
   <url>
     <loc>https://www.ainchina.com/</loc>
-    <lastmod>2026-11-16</lastmod>
+    <lastmod>2026-11-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -15,7 +15,7 @@
   <!-- Blog Index -->
   <url>
     <loc>https://www.ainchina.com/blog/</loc>
-    <lastmod>2026-11-16</lastmod>
+    <lastmod>2026-11-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
@@ -31,12 +31,54 @@
   <!-- HTML Sitemap -->
   <url>
     <loc>https://www.ainchina.com/sitemap/</loc>
-    <lastmod>2026-11-16</lastmod>
+    <lastmod>2026-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
 
   <!-- AI -->
+  <url>
+    <loc>https://www.ainchina.com/blog/china-ai-700-million-users-xi-cooperation-paradox-2026/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/china-ai-post-nvidia-domestic-chip-frontier-2026/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/china-physical-ai-pivot-beyond-chatbots-embodied-2026/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/radixark-daisyrose-27b-qwen-rl-agent-post-training-2026/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/china-humanoid-robot-fork-unitree-ubtech-divergent-futures-2026/</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/qwen4-max-five-day-sprint-china-cheapest-frontier-2026/</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ainchina.com/blog/china-ai-diplomacy-apec-shenzhen-summit-2026/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   <url>
     <loc>https://www.ainchina.com/blog/deepseek-compute-rationing-china-ai-famine-2026/</loc>
     <lastmod>2026-11-17</lastmod>
@@ -88,49 +130,49 @@
   <url>
     <loc>https://www.ainchina.com/blog/china-ai-models-blackwell-gpu-fingerprint-forensics-2026/</loc>
     <lastmod>2026-11-13</lastmod>
-    <changefreq>daily</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.ainchina.com/blog/huawei-macaq-open-source-quantizer-2026/</loc>
     <lastmod>2026-11-13</lastmod>
-    <changefreq>daily</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.ainchina.com/blog/china-nebula-constellation-space-computing-2026/</loc>
     <lastmod>2026-11-12</lastmod>
-    <changefreq>daily</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.ainchina.com/blog/china-singles-day-ai-tokens-agent-shopping-2026/</loc>
     <lastmod>2026-11-12</lastmod>
-    <changefreq>daily</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.ainchina.com/blog/china-humanoid-robots-white-collar-jobs-service-economy-2026/</loc>
     <lastmod>2026-11-11</lastmod>
-    <changefreq>daily</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.ainchina.com/blog/hbm-memory-war-china-ai-chip-bottleneck-2026/</loc>
     <lastmod>2026-11-11</lastmod>
-    <changefreq>daily</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.ainchina.com/blog/china-ai-regulation-full-lifecycle-ndrc-2026/</loc>
     <lastmod>2026-11-10</lastmod>
-    <changefreq>daily</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.ainchina.com/blog/qwen3-coder-security-gap-chinese-ai-us-persona-study-2026/</loc>
     <lastmod>2026-11-10</lastmod>
-    <changefreq>daily</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
@@ -334,49 +376,49 @@
   <url>
     <loc>https://www.ainchina.com/blog/china-ai-chip-shortage-end-cheap-model-era-2026/</loc>
     <lastmod>2026-10-21</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.ainchina.com/blog/deepseek-deepinfer-open-source-us-ban-backfire-2026/</loc>
     <lastmod>2026-10-21</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.ainchina.com/blog/china-ai-flash-war-deepseek-minimax-2026/</loc>
     <lastmod>2026-10-20</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.ainchina.com/blog/china-fengqing-ai-weather-forecast-ecmwf-2026/</loc>
     <lastmod>2026-10-20</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.ainchina.com/blog/china-on-device-ai-moment-smartphone-agent-2026/</loc>
     <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.ainchina.com/blog/tencent-amap-rogue-agent-fleet-incident-2026/</loc>
     <lastmod>2026-10-19</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.ainchina.com/blog/china-ai-export-controls-sovereignty-perimeter-2026/</loc>
     <lastmod>2026-10-18</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.ainchina.com/blog/china-ai-outage-era-compute-reckoning-2026/</loc>
     <lastmod>2026-10-18</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>

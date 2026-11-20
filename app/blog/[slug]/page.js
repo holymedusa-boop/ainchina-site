@@ -39,6 +39,11 @@ const postMetadata = {
     metaDescription: "Xi Jinping calls for AI cooperation at the Shenzhen trilateral as China's AI market hits 700M users and Chinese models capture 46% of US enterprise tokens.",
     keywords: 'China AI 700 million users, Xi Jinping AI cooperation, Shenzhen trilateral summit, Qwen 158 million MAU, DeepSeek enterprise tokens, Chinese open source AI dominance, China AI market size 2026, AI under human control, China US AI competition, generative AI adoption China',
   },
+  'china-ai-post-nvidia-domestic-chip-frontier-2026': {
+    metaTitle: "China's Post-Nvidia AI Era Begins",
+    metaDescription: "Nvidia exits China as China Telecom trains 285B models on 8,192 Huawei Ascend chips and Meituan ships 1.6T open-weight agents — the post-Nvidia era is here.",
+    keywords: 'China AI domestic chips, Xing4 285B Ascend 910C, LongCat-2.5 1.6T Meituan, Nvidia H200 China exit, MindSpore HyperParallel, China Telecom AI model, post-Nvidia era, export controls backfire, Huawei AI training, domestic compute sovereignty',
+  },
   'china-physical-ai-pivot-beyond-chatbots-embodied-2026': {
     metaTitle: "China's Physical AI Pivot: Why the Next AI Era Belongs to Robots",
     metaDescription: "Lei Jun's factory robots work 8-hour shifts. Robin Li warns of an AI bubble. Unitree's Wang Xingxing says embodied AI is China's path to AGI. At APEC Shenzhen, China's tech elite declared the chatbot era over — and the physical AI era open.",
