@@ -34,6 +34,11 @@ function extractToc(content) {
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-ai-november-model-wars-twelve-days-2026': {
+    metaTitle: "China's November Model Wars Reshape Global AI",
+    metaDescription: "In 12 days, Chinese labs shipped Qwen4-Max, Kimi K3.1 Pro, DeepSeek updates and Tencent Hy4 — at 1/6th US prices. The global AI equation just changed.",
+    keywords: 'Qwen4-Max November 2026, Chinese AI model comparison, DeepSeek V4.1 Flash pricing, Kimi K3.1 Pro benchmarks, China AI price war, Alibaba Qwen4 vs GPT-6, open source Chinese AI models, Tencent Hy4 flash, AI cost per token 2026, China AI enterprise adoption',
+  },
   'china-ai-700-million-users-xi-cooperation-paradox-2026': {
     metaTitle: "China's 700M AI Users: Xi's Cooperation Paradox",
     metaDescription: "Xi Jinping calls for AI cooperation at the Shenzhen trilateral as China's AI market hits 700M users and Chinese models capture 46% of US enterprise tokens.",
