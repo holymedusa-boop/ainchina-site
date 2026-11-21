@@ -34,6 +34,11 @@ function extractToc(content) {
 
 // SEO Metadata for each article
 const postMetadata = {
+  'moonshot-ai-cayman-unwind-fifty-billion-hk-ipo-2026': {
+    metaTitle: "Moonshot AI's $50B Cayman Unwind for Hong Kong IPO",
+    metaDescription: "Moonshot AI is dismantling its Cayman Islands structure for a $50B Hong Kong IPO. What the unwind reveals about the end of Chinese tech's dollar-funding era.",
+    keywords: 'Moonshot AI IPO, Moonshot Cayman restructuring, Kimi K3 Hong Kong listing, Chinese AI IPO wave 2026, Moonshot AI $50 billion valuation, Zhipu MiniMax IPO comparison, China AI capital markets, HKEX AI listings, Sequoia China Moonshot, Chinese tech delisting',
+  },
   'china-ai-november-model-wars-twelve-days-2026': {
     metaTitle: "China's November Model Wars Reshape Global AI",
     metaDescription: "In 12 days, Chinese labs shipped Qwen4-Max, Kimi K3.1 Pro, DeepSeek updates and Tencent Hy4 — at 1/6th US prices. The global AI equation just changed.",
