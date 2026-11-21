@@ -39,6 +39,11 @@ const postMetadata = {
     metaDescription: "In 12 days, Chinese labs shipped Qwen4-Max, Kimi K3.1 Pro, DeepSeek updates and Tencent Hy4 — at 1/6th US prices. The global AI equation just changed.",
     keywords: 'Qwen4-Max November 2026, Chinese AI model comparison, DeepSeek V4.1 Flash pricing, Kimi K3.1 Pro benchmarks, China AI price war, Alibaba Qwen4 vs GPT-6, open source Chinese AI models, Tencent Hy4 flash, AI cost per token 2026, China AI enterprise adoption',
   },
+  'china-us-ai-two-track-paradox-shenzhen-guardrails-chip-war-2026': {
+    metaTitle: "US-China AI: The Two-Track Paradox Explained",
+    metaDescription: "Trump and Xi agreed on AI military guardrails in Shenzhen — 72 hours after the US closed China's remote compute loophole. Two games, one strategy.",
+    keywords: 'Trump Xi AI agreement Shenzhen, BIS remote access rule November 2026, China AI export controls, APEC summit AI cooperation, US China two track AI strategy, AI military guardrails, semiconductor export license, remote compute China ban, AI arms control, China chip self sufficiency',
+  },
   'china-ai-700-million-users-xi-cooperation-paradox-2026': {
     metaTitle: "China's 700M AI Users: Xi's Cooperation Paradox",
     metaDescription: "Xi Jinping calls for AI cooperation at the Shenzhen trilateral as China's AI market hits 700M users and Chinese models capture 46% of US enterprise tokens.",
