@@ -34,6 +34,11 @@ function extractToc(content) {
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-gordon-bell-exascale-femoco-computing-sovereignty-2026': {
+    metaTitle: "China Gordon Bell Prize 2026: Exascale FeMoco on LineShine | AI in China",
+    metaDescription: "A Chinese team won the 2026 Gordon Bell Prize by simulating FeMoco at exascale on LineShine — a fully domestic supercomputer born from US export controls. Here's what it means.",
+    keywords: '["China Gordon Bell Prize 2026", "LineShine supercomputer", "FeMoco exascale simulation", "exascale computing China", "quantum advantage gap", "LX2 processor", "CNIS supercomputer", "US export controls supercomputing", "China supercomputing sovereignty", "FeMoco nitrogenase"]',
+  },
   'china-telecom-xing4-ascend-285b-cuda-free-frontier-2026': {
     metaTitle: "China Telecom Xing4: 285B AI Model Trained Without NVIDIA | AI in China",
     metaDescription: "China Telecom's Xing4 is a 285B-parameter frontier AI model trained entirely on 8,192 Huawei Ascend 910C chips using MindSpore — no CUDA, no NVIDIA. Here's how the stacks compare.",
