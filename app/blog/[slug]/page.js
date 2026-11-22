@@ -34,6 +34,11 @@ function extractToc(content) {
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-telecom-xing4-ascend-285b-cuda-free-frontier-2026': {
+    metaTitle: "China Telecom Xing4: 285B AI Model Trained Without NVIDIA | AI in China",
+    metaDescription: "China Telecom's Xing4 is a 285B-parameter frontier AI model trained entirely on 8,192 Huawei Ascend 910C chips using MindSpore — no CUDA, no NVIDIA. Here's how the stacks compare.",
+    keywords: '["China Telecom Xing4", "285B model", "Huawei Ascend 910C", "MindSpore HyperParallel", "AI without NVIDIA", "domestic chip training", "TeleGym", "China AI frontier models", "Ascend vs H100"]',
+  },
   'moonshot-ai-cayman-unwind-fifty-billion-hk-ipo-2026': {
     metaTitle: "Moonshot AI's $50B Cayman Unwind for Hong Kong IPO",
     metaDescription: "Moonshot AI is dismantling its Cayman Islands structure for a $50B Hong Kong IPO. What the unwind reveals about the end of Chinese tech's dollar-funding era.",
