@@ -39,6 +39,11 @@ const postMetadata = {
     metaDescription: "Chinese AI stocks have shed $1.7 trillion since June. All three major tech indexes are negative for 2026, while US, Taiwan, and Korean peers remain in the green. What broke — and why won't it fix itself?",
     keywords: '',
   },
+  'jensen-huang-return-nvidia-comeback-china-ai-reckoning-2026': {
+    metaTitle: "The Comeback: How Jensen Huang's Return to Nvidia Reshapes the China AI Equation",
+    metaDescription: "Eleven days after resigning in disgrace, Jensen Huang is Nvidia's CEO again. The stock swung 30% down and then 30% up — but the real story is what his departure and return did to China's AI market.",
+    keywords: '',
+  },
   'china-gordon-bell-exascale-femoco-computing-sovereignty-2026': {
     metaTitle: "China Gordon Bell Prize 2026: Exascale FeMoco on LineShine | AI in China",
     metaDescription: "A Chinese team won the 2026 Gordon Bell Prize by simulating FeMoco at exascale on LineShine — a fully domestic supercomputer born from US export controls. Here's what it means.",
