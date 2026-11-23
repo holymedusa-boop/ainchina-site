@@ -39,6 +39,11 @@ const postMetadata = {
     metaDescription: "A Chinese team won the 2026 Gordon Bell Prize by simulating FeMoco at exascale on LineShine — a fully domestic supercomputer born from US export controls. Here's what it means.",
     keywords: '["China Gordon Bell Prize 2026", "LineShine supercomputer", "FeMoco exascale simulation", "exascale computing China", "quantum advantage gap", "LX2 processor", "CNIS supercomputer", "US export controls supercomputing", "China supercomputing sovereignty", "FeMoco nitrogenase"]',
   },
+  'us-bis-remote-access-rule-china-overseas-compute-blockade-2026': {
+    metaTitle: "US BIS Remote Access Rule 2026: China's Overseas Compute Blockade | AI in China",
+    metaDescription: "On November 16, 2026, the US BIS issued its most aggressive export control yet — blocking Chinese AI companies from renting GPU compute overseas. Here's the full timeline of the cat-and-mouse game, and what happens next.",
+    keywords: '["US BIS remote access rule 2026", "China overseas compute blockade", "NVIDIA export controls Southeast Asia", "Alibaba Cloud data centers Malaysia", "AI chip remote access restrictions", "Megaspeed NVIDIA investigation", "ByteDance Malaysia Blackwell", "China compute sovereignty", "remote access security act", "AI export controls timeline"]',
+  },
   'china-telecom-xing4-ascend-285b-cuda-free-frontier-2026': {
     metaTitle: "China Telecom Xing4: 285B AI Model Trained Without NVIDIA | AI in China",
     metaDescription: "China Telecom's Xing4 is a 285B-parameter frontier AI model trained entirely on 8,192 Huawei Ascend 910C chips using MindSpore — no CUDA, no NVIDIA. Here's how the stacks compare.",
