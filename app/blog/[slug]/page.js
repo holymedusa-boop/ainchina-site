@@ -44,6 +44,11 @@ const postMetadata = {
     metaDescription: "Eleven days after resigning in disgrace, Jensen Huang is Nvidia's CEO again. The stock swung 30% down and then 30% up — but the real story is what his departure and return did to China's AI market.",
     keywords: '',
   },
+  'nariq-10gb-qwen3-8-27b-agentic-quantization-2026': {
+    metaTitle: "NariQ 3-Bit Quantization: 10 GB Qwen3.8-27B Matches BF16 on Agentic Coding | AI in China",
+    metaDescription: "NariQ compressed Qwen3.8-27B into a 10 GB file that matches the full 55.6 GB model on long-horizon agentic benchmarks. Here's why this changes everything — especially for China.",
+    keywords: '["NariQ quantization Qwen3.8-27B", "3-bit quantization agentic coding", "10GB AI model BF16 quality", "Qwen3.8-27B compressed", "China AI efficiency innovation", "consumer GPU frontier model", "DeepSWE Terminal Bench quantization", "AI model compression 2026", "Alibaba open source model quantization", "agentic AI on consumer hardware"]',
+  },
   'china-gordon-bell-exascale-femoco-computing-sovereignty-2026': {
     metaTitle: "China Gordon Bell Prize 2026: Exascale FeMoco on LineShine | AI in China",
     metaDescription: "A Chinese team won the 2026 Gordon Bell Prize by simulating FeMoco at exascale on LineShine — a fully domestic supercomputer born from US export controls. Here's what it means.",
