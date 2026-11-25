@@ -34,6 +34,11 @@ function extractToc(content) {
 
 // SEO Metadata for each article
 const postMetadata = {
+  'apple-intelligence-qwen-china-december-rollout-2026': {
+    metaTitle: "Apple Intelligence × Qwen: The Deal That Ends China's AI Phone Gap",
+    metaDescription: "For two years, the world's most valuable company operated the world's largest smartphone market without a working AI strategy. Apple Intelligence launched in the United States in late 2024, rolled...",
+    keywords: '',
+  },
   'china-ai-stock-rout-1-7-trillion-bubble-burst-2026': {
     metaTitle: "China's $1.7 Trillion AI Rout: How the World's Hottest Tech Trade Became Its Biggest Loser",
     metaDescription: "Chinese AI stocks have shed $1.7 trillion since June. All three major tech indexes are negative for 2026, while US, Taiwan, and Korean peers remain in the green. What broke — and why won't it fix itself?",
