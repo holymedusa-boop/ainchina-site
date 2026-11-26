@@ -34,6 +34,11 @@ function extractToc(content) {
 
 // SEO Metadata for each article
 const postMetadata = {
+  'xpeng-turing-vla3-iron-humanoid-physical-ai-2026': {
+    metaTitle: "XPENG's 2,250-TOPS Brain: Inside the Turing Architecture Powering China's Most Ambitious Humanoid Robot",
+    metaDescription: "On November 25, in a converted aircraft hangar on the outskirts of Guangzhou, He Xiaopeng did something no Chinese automaker had done before. He walked onto a stage, held up three fingernail-sized...",
+    keywords: '',
+  },
   'apple-intelligence-qwen-china-december-rollout-2026': {
     metaTitle: "Apple Intelligence × Qwen: The Deal That Ends China's AI Phone Gap",
     metaDescription: "For two years, the world's most valuable company operated the world's largest smartphone market without a working AI strategy. Apple Intelligence launched in the United States in late 2024, rolled...",
