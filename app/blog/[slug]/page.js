@@ -34,6 +34,11 @@ function extractToc(content) {
 
 // SEO Metadata for each article
 const postMetadata = {
+  'china-78-international-ai-standards-samr-global-governance-2026': {
+    metaTitle: "China's 78 International AI Standards: How Beijing Is Quietly Rewriting the Rules of Global AI Governance",
+    metaDescription: "On the morning of November 24, in a conference room at the State Administration for Market Regulation in Beijing, four officials from three different government bodies sat before a packed press corps...",
+    keywords: '',
+  },
   'xpeng-turing-vla3-iron-humanoid-physical-ai-2026': {
     metaTitle: "XPENG's 2,250-TOPS Brain: Inside the Turing Architecture Powering China's Most Ambitious Humanoid Robot",
     metaDescription: "On November 25, in a converted aircraft hangar on the outskirts of Guangzhou, He Xiaopeng did something no Chinese automaker had done before. He walked onto a stage, held up three fingernail-sized...",
