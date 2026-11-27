@@ -94,6 +94,9 @@ In one task seeking the maximum number of edges among 124 points without cycles 
 
 The throughline connecting these initiatives is a bet that AI's highest-value application isn't replacing programmers or drafting emails — it's **amplifying the rate of scientific discovery**. And the Kimi for Science program is the distribution mechanism that scales this bet beyond a handful of corporate partnerships to the entire global research community.
 
+![Molecular structures in a research laboratory — the kind of scientific problem space Kimi for Science targets](https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=800&q=80)
+*Molecular structures in a research laboratory — the kind of scientific problem space Kimi for Science targets. Photo: Unsplash*
+
 ---
 
 ## The Skeptic's Case: Why This Might Not Work
@@ -130,6 +133,9 @@ Moonshot's Attention Residuals architecture, which the company describes as atte
 This matters for Kimi for Science because it directly determines how far $20,000 in credits can stretch. A research team using Kimi K3.1 Pro is benefiting from inference infrastructure that has been ruthlessly optimized for cost efficiency under the constraint of US export controls that limit access to the most advanced NVIDIA hardware. Moonshot has been forced to do more with less — and the result is a serving stack that may be among the most token-efficient in the industry.
 
 The company is also operating at significant scale in the consumer market. The Kimi app serves millions of users across free and paid tiers ($19–$199/month), and the Moonshot Open Platform processes API traffic from thousands of developers. The marginal cost of adding a few hundred research teams to this infrastructure is modest. The potential value — in terms of scientific publications citing Kimi, researchers building workflows around Kimi APIs, and universities incorporating Kimi into curricula — is enormous.
+
+![Mathematical formulas on a chalkboard — science demands a different class of AI reasoning than coding or chat](https://images.unsplash.com/photo-1509228468518-180dd4864904?w=800&q=80)
+*Mathematical formulas on a chalkboard — science demands a different class of AI reasoning than coding or chat. Photo: Unsplash*
 
 ---
 
