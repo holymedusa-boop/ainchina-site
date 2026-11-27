@@ -34,6 +34,11 @@ function extractToc(content) {
 
 // SEO Metadata for each article
 const postMetadata = {
+  'moonshot-kimi-for-science-20k-research-credits-2026': {
+    metaTitle: "Moonshot's $20,000 Bet on Science: Why Kimi's Free Compute Play Is the Smartest Move in Chinese AI Right Now",
+    metaDescription: "Here is a number that should make every AI strategist pause: $20,000. That is the maximum amount of free API credits Moonshot AI is offering to individual academic research teams through its newly...",
+    keywords: '',
+  },
   'china-78-international-ai-standards-samr-global-governance-2026': {
     metaTitle: "China's 78 International AI Standards: How Beijing Is Quietly Rewriting the Rules of Global AI Governance",
     metaDescription: "On the morning of November 24, in a conference room at the State Administration for Market Regulation in Beijing, four officials from three different government bodies sat before a packed press corps...",
