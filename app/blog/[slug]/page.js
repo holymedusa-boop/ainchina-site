@@ -34,6 +34,11 @@ function extractToc(content) {
 
 // SEO Metadata for each article
 const postMetadata = {
+  'cxmt-dram-breakthrough-china-memory-oligopoly-2026': {
+    metaTitle: "The Fourth Horseman: How CXMT Cracked the DRAM Oligopoly and Rewired the AI Memory Map",
+    metaDescription: "On the morning of October 13, 2026, traders in Seoul opened their terminals to a sight that has become rare in the modern semiconductor era: Samsung Electronics shares down 8%, SK Hynix down 9%, and...",
+    keywords: '',
+  },
   'moonshot-kimi-for-science-20k-research-credits-2026': {
     metaTitle: "Moonshot's $20,000 Bet on Science: Why Kimi's Free Compute Play Is the Smartest Move in Chinese AI Right Now",
     metaDescription: "Here is a number that should make every AI strategist pause: $20,000. That is the maximum amount of free API credits Moonshot AI is offering to individual academic research teams through its newly...",
